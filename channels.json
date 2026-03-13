@@ -1,0 +1,20 @@
+[
+  {
+    "id": "natebjones",
+    "name": "NateBJones",
+    "url": "https://www.youtube.com/@NateBJones",
+    "description": "AI tools, strategy, and industry news"
+  },
+  {
+    "id": "peterdiamandis",
+    "name": "Peter Diamandis",
+    "url": "https://www.youtube.com/@peterdiamandis",
+    "description": "Exponential technologies, abundance mindset, longevity"
+  },
+  {
+    "id": "alexwg",
+    "name": "Alex Wang",
+    "url": "https://www.youtube.com/@alexwg",
+    "description": "AI, Scale AI, data-centric AI, industry insights"
+  }
+]

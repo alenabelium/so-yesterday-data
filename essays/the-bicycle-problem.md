@@ -1,3 +1,10 @@
+---
+title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"
+date: "2026-03-13"
+description: "Why hesitating on AI adoption is riskier than leaning in — and the skills that actually matter."
+slug: "the-bicycle-problem"
+---
+
 # The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI
 
 There's a counterintuitive truth about riding a bicycle: going slower doesn't make you safer. It makes balancing harder. Speed is what creates stability. Momentum is what keeps you upright.
