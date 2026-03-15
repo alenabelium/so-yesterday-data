@@ -3,7 +3,7 @@ title: "Moonshots"
 video_id: Yh3CAD8elvg
 date: 2026-02-01
 url: https://www.youtube.com/watch?v=Yh3CAD8elvg
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - opinion
 transcript: ../transcripts/2026-02-01-moonshots.md

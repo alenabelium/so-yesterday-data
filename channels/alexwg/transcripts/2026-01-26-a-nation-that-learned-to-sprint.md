@@ -3,7 +3,7 @@ title: "A Nation That Learned To Sprint"
 video_id: fqymOJ-Ca5Y
 date: 2026-01-26
 url: https://www.youtube.com/watch?v=fqymOJ-Ca5Y
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "04:01"
 source: auto-generated
 ---

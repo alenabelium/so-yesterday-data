@@ -3,7 +3,7 @@ title: "The First Multi-Behavior Brain Upload"
 video_id: e21OUXPlnhk
 date: 2026-03-07
 url: https://www.youtube.com/watch?v=e21OUXPlnhk
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "04:18"
 source: auto-generated
 ---

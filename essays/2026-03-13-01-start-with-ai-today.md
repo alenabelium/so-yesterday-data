@@ -2,7 +2,7 @@
 title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"
 date: "2026-03-13"
 description: "A practical, no-jargon guide for professionals ready to start using AI in their daily work."
-slug: "start-with-ai-today"
+slug: "2026-03-13-01-start-with-ai-today"
 ---
 
 # Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today
@@ -164,4 +164,4 @@ The best time to start was six months ago. The second best time is right now.
 
 ---
 
-*This essay draws on insights from 70+ video transcripts across the NateBJones, Peter Diamandis, and Alex Wang YouTube channels archived in this project, supplemented with current web research on AI adoption resources and tools.*
+*This essay draws on insights from 70+ video transcripts across the NateBJones, Peter Diamandis, and Alex Wissner-Gross YouTube channels archived in this project, supplemented with current web research on AI adoption resources and tools.*

@@ -3,7 +3,7 @@ title: "Welcome to February 16, 2026"
 video_id: zD_k8kk0vSo
 date: 2026-02-16
 url: https://www.youtube.com/watch?v=zD_k8kk0vSo
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-tools
   - coding

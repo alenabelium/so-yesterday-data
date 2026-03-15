@@ -3,7 +3,7 @@ title: "Welcome to February 27, 2026"
 video_id: LP4eUjgTmBI
 date: 2026-02-27
 url: https://www.youtube.com/watch?v=LP4eUjgTmBI
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - llm-fundamentals
   - ai-agents

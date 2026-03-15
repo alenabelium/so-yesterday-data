@@ -3,7 +3,7 @@ title: "Welcome to February 19, 2026"
 video_id: 8lOtv8888g8
 date: 2026-02-19
 url: https://www.youtube.com/watch?v=8lOtv8888g8
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:30"
 source: auto-generated
 ---

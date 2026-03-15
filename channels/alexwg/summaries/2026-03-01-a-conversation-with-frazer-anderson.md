@@ -3,7 +3,7 @@ title: "A Conversation with Frazer Anderson"
 video_id: FDHt4aBKf6s
 date: 2026-03-01
 url: https://www.youtube.com/watch?v=FDHt4aBKf6s
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-agents
   - career
@@ -16,7 +16,7 @@ transcript: ../transcripts/2026-03-01-a-conversation-with-frazer-anderson.md
 
 ## Executive Summary
 
-Alex Wang interviews Fraser Anderson of Link Ventures at Davos about GPU diplomacy, the Dyson swarm, and what startups should build during the intelligence explosion. Wang discusses his conversation with Under Secretary of State Sarah Rogers on compute distribution as a geopolitical lever, arguing that real politik will soon become "real space politik" as data center infrastructure expands into orbit and onto the moon. Anderson asks about GPU market dynamics, and Wang deflects to OR, a company he has a financial interest in that builds compute futures markets. The conversation closes with Wang's call to action: traditional SaaS is no longer exciting, but trillion-dollar opportunities exist in AI-driven coastline redesign, solving physics, and transforming physical service labor. He recommends mining science fiction for startup ideas, citing Accelerando, Rainbow's End, and Diaspora as roadmaps for the pre-, trans-, and post-singularity future.
+Alex Wissner-Gross interviews Fraser Anderson of Link Ventures at Davos about GPU diplomacy, the Dyson swarm, and what startups should build during the intelligence explosion. Wang discusses his conversation with Under Secretary of State Sarah Rogers on compute distribution as a geopolitical lever, arguing that real politik will soon become "real space politik" as data center infrastructure expands into orbit and onto the moon. Anderson asks about GPU market dynamics, and Wang deflects to OR, a company he has a financial interest in that builds compute futures markets. The conversation closes with Wang's call to action: traditional SaaS is no longer exciting, but trillion-dollar opportunities exist in AI-driven coastline redesign, solving physics, and transforming physical service labor. He recommends mining science fiction for startup ideas, citing Accelerando, Rainbow's End, and Diaspora as roadmaps for the pre-, trans-, and post-singularity future.
 
 ## Key Points
 

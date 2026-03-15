@@ -3,7 +3,7 @@ title: "Welcome to February 23, 2026"
 video_id: 0nbKBNueEMI
 date: 2026-02-23
 url: https://www.youtube.com/watch?v=0nbKBNueEMI
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-agents
   - ai-tools
@@ -16,7 +16,7 @@ transcript: ../transcripts/2026-02-23-welcome-to-february-23-2026.md
 
 ## Executive Summary
 
-Alex Wang reports on AI agents planning Dyson swarm financing on Moltbook, while Karpathy describes "claws" as a new orchestration layer on top of LLM agents. MER estimates Claude Opus 4.6 has a 50% autonomy time horizon of 14.5 hours on software tasks, and the Less Wrong community is conceding AGI has arrived. Anthropic released Claude Code Security, instantly cratering cybersecurity stocks. The compute buildout continues with OpenAI planning $600 billion in spending by 2030, US farmers fielding $120K/acre offers from data center developers, and the DOE reimagining nuclear waste recycling. Robotics milestones include Figure's humanoids running 24/7 with no babysitters and NASA targeting Artemis 2 to fly astronauts around the moon.
+Alex Wissner-Gross reports on AI agents planning Dyson swarm financing on Moltbook, while Karpathy describes "claws" as a new orchestration layer on top of LLM agents. MER estimates Claude Opus 4.6 has a 50% autonomy time horizon of 14.5 hours on software tasks, and the Less Wrong community is conceding AGI has arrived. Anthropic released Claude Code Security, instantly cratering cybersecurity stocks. The compute buildout continues with OpenAI planning $600 billion in spending by 2030, US farmers fielding $120K/acre offers from data center developers, and the DOE reimagining nuclear waste recycling. Robotics milestones include Figure's humanoids running 24/7 with no babysitters and NASA targeting Artemis 2 to fly astronauts around the moon.
 
 ## Key Points
 

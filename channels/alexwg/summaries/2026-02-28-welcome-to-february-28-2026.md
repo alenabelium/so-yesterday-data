@@ -3,7 +3,7 @@ title: "Welcome to February 28, 2026"
 video_id: i4gpAlBqxLQ
 date: 2026-02-28
 url: https://www.youtube.com/watch?v=i4gpAlBqxLQ
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-agents
   - ai-tools

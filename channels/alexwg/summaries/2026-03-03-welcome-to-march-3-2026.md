@@ -3,7 +3,7 @@ title: "Welcome to March 3, 2026"
 video_id: i9Fdt67S7iQ
 date: 2026-03-03
 url: https://www.youtube.com/watch?v=i9Fdt67S7iQ
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - industry-news
   - ai-tools

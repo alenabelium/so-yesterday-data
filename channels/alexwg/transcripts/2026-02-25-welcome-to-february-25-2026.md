@@ -3,7 +3,7 @@ title: "Welcome to February 25, 2026"
 video_id: n2LB096r1Wo
 date: 2026-02-25
 url: https://www.youtube.com/watch?v=n2LB096r1Wo
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:46"
 source: auto-generated
 ---

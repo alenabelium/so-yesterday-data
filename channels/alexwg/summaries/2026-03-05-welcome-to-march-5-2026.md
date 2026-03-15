@@ -3,7 +3,7 @@ title: "Welcome to March 5, 2026"
 video_id: nCAkkvk1K7E
 date: 2026-03-05
 url: https://www.youtube.com/watch?v=nCAkkvk1K7E
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - llm-fundamentals
   - ai-tools

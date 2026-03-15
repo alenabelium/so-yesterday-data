@@ -3,7 +3,7 @@ title: "Welcome to February 18, 2026"
 video_id: Uxbw7owPRIM
 date: 2026-02-18
 url: https://www.youtube.com/watch?v=Uxbw7owPRIM
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-tools
   - productivity

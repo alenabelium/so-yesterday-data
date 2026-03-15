@@ -3,7 +3,7 @@ title: "A Conversation with Ben Horowitz"
 video_id: _J1-XMME4s0
 date: 2026-02-22
 url: https://www.youtube.com/watch?v=_J1-XMME4s0
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "09:24"
 source: auto-generated
 ---

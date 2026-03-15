@@ -3,7 +3,7 @@ title: "Welcome to February 23, 2026"
 video_id: 0nbKBNueEMI
 date: 2026-02-23
 url: https://www.youtube.com/watch?v=0nbKBNueEMI
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:26"
 source: auto-generated
 ---

@@ -3,7 +3,7 @@ title: "Welcome to February 11, 2026"
 video_id: 2KVJ1IbZUS8
 date: 2026-02-11
 url: https://www.youtube.com/watch?v=2KVJ1IbZUS8
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "04:37"
 source: auto-generated
 ---

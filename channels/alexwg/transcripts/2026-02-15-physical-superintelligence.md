@@ -3,7 +3,7 @@ title: "Physical Superintelligence"
 video_id: DY3cJ0mQ7yk
 date: 2026-02-15
 url: https://www.youtube.com/watch?v=DY3cJ0mQ7yk
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "03:36"
 source: auto-generated
 ---

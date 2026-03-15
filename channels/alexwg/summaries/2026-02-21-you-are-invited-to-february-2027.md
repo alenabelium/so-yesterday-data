@@ -3,7 +3,7 @@ title: "You Are Invited to February 2027"
 video_id: 5BabX6lwt2M
 date: 2026-02-21
 url: https://www.youtube.com/watch?v=5BabX6lwt2M
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-agents
   - ai-strategy
@@ -16,7 +16,7 @@ transcript: ../transcripts/2026-02-21-you-are-invited-to-february-2027.md
 
 ## Executive Summary
 
-Alex Wang presents a speculative pitch deck for February 2027, showcasing startup ideas his program backed a year earlier. The concepts range from weather control (steering hurricanes via differentiable weather models and cheap actuators, then selling good weather as a commodity) to autonomous business swarms where a single human operator runs thousands of AI micro-businesses. Other visions include a human routing layer of driverless Winnebagos that relocate people overnight based on calendar optimization, western public safety drone fleets that solved the trust problem through radical transparency, food printers that finally crossed the taste threshold, and workout exoskeletons that eliminate the learning curve for resistance training.
+Alex Wissner-Gross presents a speculative pitch deck for February 2027, showcasing startup ideas his program backed a year earlier. The concepts range from weather control (steering hurricanes via differentiable weather models and cheap actuators, then selling good weather as a commodity) to autonomous business swarms where a single human operator runs thousands of AI micro-businesses. Other visions include a human routing layer of driverless Winnebagos that relocate people overnight based on calendar optimization, western public safety drone fleets that solved the trust problem through radical transparency, food printers that finally crossed the taste threshold, and workout exoskeletons that eliminate the learning curve for resistance training.
 
 ## Key Points
 

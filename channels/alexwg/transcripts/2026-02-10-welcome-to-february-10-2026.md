@@ -3,7 +3,7 @@ title: "Welcome to February 10, 2026"
 video_id: fA_TQodyigE
 date: 2026-02-10
 url: https://www.youtube.com/watch?v=fA_TQodyigE
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "03:34"
 source: auto-generated
 ---

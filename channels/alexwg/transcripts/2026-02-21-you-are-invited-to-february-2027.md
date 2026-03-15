@@ -3,7 +3,7 @@ title: "You Are Invited to February 2027"
 video_id: 5BabX6lwt2M
 date: 2026-02-21
 url: https://www.youtube.com/watch?v=5BabX6lwt2M
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:19"
 source: auto-generated
 ---

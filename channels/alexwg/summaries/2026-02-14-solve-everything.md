@@ -3,7 +3,7 @@ title: "Solve Everything"
 video_id: C6BeZrl8bCU
 date: 2026-02-14
 url: https://www.youtube.com/watch?v=C6BeZrl8bCU
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-strategy
   - opinion
@@ -15,7 +15,7 @@ transcript: ../transcripts/2026-02-14-solve-everything.md
 
 ## Executive Summary
 
-Alex Wang announces the release of "Solve Everything: Achieving Abundance by 2035," a book-length blueprint co-authored with Peter Diamandis. The central thesis is that superintelligence is no longer a question of "if" but of where we point it, framing the intelligence revolution as a war on the final bottleneck: scarce expert attention. The authors introduce an industrial intelligence stack (a nine-layer framework for converting any real-world domain into a solvable system), a six-stage maturation curve from "muddle" to "solved," and 15 specific moonshots ranging from manufacturing organs on demand to demonstrating human mind uploading. They map a three-phase solution wavefront: pure information domains (math, code, physics) by 2027, physical world mastery (chemistry, biology) by 2031, and planetary-scale systems (energy, climate, food) by 2035. The piece warns of an 18-month regulatory window before path dependencies harden.
+Alex Wissner-Gross announces the release of "Solve Everything: Achieving Abundance by 2035," a book-length blueprint co-authored with Peter Diamandis. The central thesis is that superintelligence is no longer a question of "if" but of where we point it, framing the intelligence revolution as a war on the final bottleneck: scarce expert attention. The authors introduce an industrial intelligence stack (a nine-layer framework for converting any real-world domain into a solvable system), a six-stage maturation curve from "muddle" to "solved," and 15 specific moonshots ranging from manufacturing organs on demand to demonstrating human mind uploading. They map a three-phase solution wavefront: pure information domains (math, code, physics) by 2027, physical world mastery (chemistry, biology) by 2031, and planetary-scale systems (energy, climate, food) by 2035. The piece warns of an 18-month regulatory window before path dependencies harden.
 
 ## Key Points
 

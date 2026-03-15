@@ -3,7 +3,7 @@ title: "Welcome to March 6, 2026"
 video_id: BCzYZVTnk-8
 date: 2026-03-06
 url: https://www.youtube.com/watch?v=BCzYZVTnk-8
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:23"
 source: auto-generated
 ---

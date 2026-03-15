@@ -2,7 +2,7 @@
 title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"
 date: "2026-03-13"
 description: "Why hesitating on AI adoption is riskier than leaning in — and the skills that actually matter."
-slug: "the-bicycle-problem"
+slug: "2026-03-13-02-the-bicycle-problem"
 ---
 
 # The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI

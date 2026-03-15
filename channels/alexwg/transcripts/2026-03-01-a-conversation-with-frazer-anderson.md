@@ -3,7 +3,7 @@ title: "A Conversation with Frazer Anderson"
 video_id: FDHt4aBKf6s
 date: 2026-03-01
 url: https://www.youtube.com/watch?v=FDHt4aBKf6s
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "07:46"
 source: auto-generated
 ---

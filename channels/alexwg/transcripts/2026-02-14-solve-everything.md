@@ -3,7 +3,7 @@ title: "Solve Everything"
 video_id: C6BeZrl8bCU
 date: 2026-02-14
 url: https://www.youtube.com/watch?v=C6BeZrl8bCU
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:21"
 source: auto-generated
 ---

@@ -3,7 +3,7 @@ title: "Welcome to March 9, 2026"
 video_id: uo9dGwURPsA
 date: 2026-03-09
 url: https://www.youtube.com/watch?v=uo9dGwURPsA
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - llm-fundamentals
   - ai-agents

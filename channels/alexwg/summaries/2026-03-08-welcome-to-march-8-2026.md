@@ -3,7 +3,7 @@ title: "Welcome to March 8, 2026"
 video_id: 3Cx1jSNbvEM
 date: 2026-03-08
 url: https://www.youtube.com/watch?v=3Cx1jSNbvEM
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - llm-fundamentals
   - ai-agents

@@ -3,7 +3,7 @@ title: "Welcome to February 26, 2026"
 video_id: Qx3qNBR796c
 date: 2026-02-26
 url: https://www.youtube.com/watch?v=Qx3qNBR796c
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-tools
   - llm-fundamentals

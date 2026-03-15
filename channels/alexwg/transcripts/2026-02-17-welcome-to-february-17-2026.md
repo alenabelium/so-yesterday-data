@@ -3,7 +3,7 @@ title: "Welcome to February 17, 2026"
 video_id: 15dmbbWZBps
 date: 2026-02-17
 url: https://www.youtube.com/watch?v=15dmbbWZBps
-channel: Alex Wang
+channel: Alex Wissner-Gross
 duration: "05:15"
 source: auto-generated
 ---

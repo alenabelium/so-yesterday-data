@@ -3,7 +3,7 @@ title: "Welcome to February 24, 2026"
 video_id: ATiMhPtz_Z8
 date: 2026-02-24
 url: https://www.youtube.com/watch?v=ATiMhPtz_Z8
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - llm-fundamentals
   - coding

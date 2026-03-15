@@ -2,7 +2,7 @@
 title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"
 date: "2026-03-13"
 description: "A chronicle of the AI developments from January to March 2026 that changed everything."
-slug: "72-days-that-rewrote-the-rules"
+slug: "2026-03-13-03-72-days-that-rewrote-the-rules"
 ---
 
 # 72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026

@@ -3,7 +3,7 @@ title: "A Conversation with Ben Horowitz"
 video_id: _J1-XMME4s0
 date: 2026-02-22
 url: https://www.youtube.com/watch?v=_J1-XMME4s0
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - opinion
   - ai-agents
@@ -16,7 +16,7 @@ transcript: ../transcripts/2026-02-22-a-conversation-with-ben-horowitz.md
 
 ## Executive Summary
 
-Alex Wang interviews a16z co-founder Ben Horowitz on the intersection of AI, crypto, government classification, and the future of human work. Horowitz recounts a White House meeting where an official casually stated the government could classify AI progress the same way it classified nuclear physics in the 1940s, drawing a direct line between decades of stagnation in fundamental physics and possible overclassification. Horowitz pushes back on the idea that AI will create a permanent underclass, arguing that the entrepreneurial model -- including deploying armies of AI agents -- ensures unlimited opportunity for those with initiative. The conversation explores crypto as the AI-native economic layer since fiat banking has failed AI agents, and closes with the grand ambition of using AI to solve entire scientific disciplines like physics and chemistry.
+Alex Wissner-Gross interviews a16z co-founder Ben Horowitz on the intersection of AI, crypto, government classification, and the future of human work. Horowitz recounts a White House meeting where an official casually stated the government could classify AI progress the same way it classified nuclear physics in the 1940s, drawing a direct line between decades of stagnation in fundamental physics and possible overclassification. Horowitz pushes back on the idea that AI will create a permanent underclass, arguing that the entrepreneurial model -- including deploying armies of AI agents -- ensures unlimited opportunity for those with initiative. The conversation explores crypto as the AI-native economic layer since fiat banking has failed AI agents, and closes with the grand ambition of using AI to solve entire scientific disciplines like physics and chemistry.
 
 ## Key Points
 

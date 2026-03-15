@@ -3,7 +3,7 @@ title: "Welcome to February 19, 2026"
 video_id: 8lOtv8888g8
 date: 2026-02-19
 url: https://www.youtube.com/watch?v=8lOtv8888g8
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-tools
   - ai-agents
@@ -16,7 +16,7 @@ transcript: ../transcripts/2026-02-19-welcome-to-february-19-2026.md
 
 ## Executive Summary
 
-Alex Wang surveys a day in the intelligence explosion spanning autonomous AI agents, synthetic media, biological breakthroughs, and massive capital deployment. AI agents are now shipping apps and earning revenue with no human code, while Anthropic reports Claude Code sessions nearly doubling in length. The synthetic sensorium is going full-stack with breakthroughs in human rendering, speech-to-text, and music generation. Meanwhile, researchers derive LLM scaling laws from first principles, data center buildouts attract billions, and biology is being debugged at every layer from rare diseases to cultivated meat. The workforce is being live-patched as companies tie promotions to AI usage and a 12,000-firm EU survey finds AI lifts productivity 4%.
+Alex Wissner-Gross surveys a day in the intelligence explosion spanning autonomous AI agents, synthetic media, biological breakthroughs, and massive capital deployment. AI agents are now shipping apps and earning revenue with no human code, while Anthropic reports Claude Code sessions nearly doubling in length. The synthetic sensorium is going full-stack with breakthroughs in human rendering, speech-to-text, and music generation. Meanwhile, researchers derive LLM scaling laws from first principles, data center buildouts attract billions, and biology is being debugged at every layer from rare diseases to cultivated meat. The workforce is being live-patched as companies tie promotions to AI usage and a 12,000-firm EU survey finds AI lifts productivity 4%.
 
 ## Key Points
 

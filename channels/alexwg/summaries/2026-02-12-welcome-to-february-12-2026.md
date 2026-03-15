@@ -3,7 +3,7 @@ title: "Welcome to February 12, 2026"
 video_id: 1stYHXtlbRY
 date: 2026-02-12
 url: https://www.youtube.com/watch?v=1stYHXtlbRY
-channel: Alex Wang
+channel: Alex Wissner-Gross
 tags:
   - ai-agents
   - ai-tools
