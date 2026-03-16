@@ -19,6 +19,6 @@ With frontier models matching professionals 70% of the time on real-world tasks 
 
 ## Key Points
 
-- The most valuable AI skill is not generation but rejection: the ability to recognize when AI output is wrong, articulate why with precision, and encode that judgment into durable, reusable constraints that compound over time.
-- Three learnable dimensions compose the rejection skill: recognition (domain expertise that detects errors), articulation (explaining what is wrong in a way that produces usable constraints), and encoding (making constraints persist beyond the moment so the same rejection never needs to happen twice).
-- Organizations that systematically capture encoded rejections build a "constraint library" that functions as scalable institutional taste -- a competitive moat that compounds with use and cannot be replicated by competitors using the same AI models.
+- The most valuable AI skill is not generation but rejection: the ability to recognize when AI output is wrong, articulate why with precision, and encode that judgment into durable, reusable constraints that compound over time. [09:57](https://www.youtube.com/watch?v=-FhtPUkXKO4&t=597)
+- Three learnable dimensions compose the rejection skill: recognition (domain expertise that detects errors), articulation (explaining what is wrong in a way that produces usable constraints), and encoding (making constraints persist beyond the moment so the same rejection never needs to happen twice). [08:32](https://www.youtube.com/watch?v=-FhtPUkXKO4&t=512)
+- Organizations that systematically capture encoded rejections build a "constraint library" that functions as scalable institutional taste -- a competitive moat that compounds with use and cannot be replicated by competitors using the same AI models. [02:03](https://www.youtube.com/watch?v=-FhtPUkXKO4&t=123)

@@ -19,6 +19,6 @@ A Google/MIT study found that adding more agents to a system can produce actual 
 
 ## Key Points
 
-- The Google/MIT study showed multi-agent efficiency dropped by 2-6x in tool-heavy environments; flat agent teams become risk-averse, avoid hard problems, and spend most time waiting on coordination rather than doing work -- mirroring well-known human organizational dysfunctions.
-- The architecture that scales to hundreds of agents uses strict two-tier hierarchies, deliberately ignorant workers with minimum viable context, no shared state, episodic operation (plan for endings, not continuous runtime), and small tool sets of 3-5 core tools per worker.
-- Investment should go into orchestration systems that feed, monitor, and merge outputs of simple workers -- not into making individual agents smarter; 79% of multi-agent failures originate from spec and coordination issues, not technical bugs.
+- The Google/MIT study showed multi-agent efficiency dropped by 2-6x in tool-heavy environments; flat agent teams become risk-averse, avoid hard problems, and spend most time waiting on coordination rather than doing work -- mirroring well-known human organizational dysfunctions. [03:05](https://www.youtube.com/watch?v=2EXyj_fHU48&t=185)
+- The architecture that scales to hundreds of agents uses strict two-tier hierarchies, deliberately ignorant workers with minimum viable context, no shared state, episodic operation (plan for endings, not continuous runtime), and small tool sets of 3-5 core tools per worker. [11:24](https://www.youtube.com/watch?v=2EXyj_fHU48&t=684)
+- Investment should go into orchestration systems that feed, monitor, and merge outputs of simple workers -- not into making individual agents smarter; 79% of multi-agent failures originate from spec and coordination issues, not technical bugs. [21:46](https://www.youtube.com/watch?v=2EXyj_fHU48&t=1306)

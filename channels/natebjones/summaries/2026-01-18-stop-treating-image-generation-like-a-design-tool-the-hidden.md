@@ -19,6 +19,6 @@ The conversation around AI image generation has been captured by creative use ca
 
 ## Key Points
 
-- Visual AI removes the invisible constraint that has limited enterprise AI adoption to text-centric processes; workflows that previously broke at visual touch points (customer support screenshots, compliance document verification, training materials) can now run continuously.
-- The highest leverage for image generation is not in creative departments but in functions artificially constrained by inability to work with visual information -- customer operations, product management, and training/enablement.
-- Organizations should treat visual AI as infrastructure embedded across systems (catalogs, support platforms, documentation pipelines) rather than as a point solution for designers, and the window for first-mover advantage is narrow before these capabilities become table stakes.
+- Visual AI removes the invisible constraint that has limited enterprise AI adoption to text-centric processes; workflows that previously broke at visual touch points (customer support screenshots, compliance document verification, training materials) can now run continuously. [02:01](https://www.youtube.com/watch?v=Nt7vzMiE0mY&t=121)
+- The highest leverage for image generation is not in creative departments but in functions artificially constrained by inability to work with visual information -- customer operations, product management, and training/enablement. [16:37](https://www.youtube.com/watch?v=Nt7vzMiE0mY&t=997)
+- Organizations should treat visual AI as infrastructure embedded across systems (catalogs, support platforms, documentation pipelines) rather than as a point solution for designers, and the window for first-mover advantage is narrow before these capabilities become table stakes. [24:01](https://www.youtube.com/watch?v=Nt7vzMiE0mY&t=1441)

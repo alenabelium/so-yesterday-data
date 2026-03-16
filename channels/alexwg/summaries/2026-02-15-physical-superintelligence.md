@@ -19,6 +19,6 @@ Alex Wissner-Gross announces the founding of Physical Superintelligence (PSI), a
 
 ## Key Points
 
-- PSI applies the "shaped charge model" from the Solve Everything framework: focus the full force of superintelligence through a single hard positive-sum target (physics), and the spillover industrializes the entire domain -- because physics is the foundation that every downstream science depends on.
-- The company is structured as a public benefit corporation because the breakthroughs ahead may change both what we understand reality to be and what we can build with that understanding, demanding governance oriented toward broad public benefit from day one.
-- With a team of nearly 20 physicists, engineers, and AI researchers expanding in Boston and San Francisco, PSI is selectively partnering with organizations whose hardest problems demand fundamentally new approaches to physics, both fundamental and applied.
+- PSI applies the "shaped charge model" from the Solve Everything framework: focus the full force of superintelligence through a single hard positive-sum target (physics), and the spillover industrializes the entire domain -- because physics is the foundation that every downstream science depends on. [01:25](https://www.youtube.com/watch?v=DY3cJ0mQ7yk&t=85)
+- The company is structured as a public benefit corporation because the breakthroughs ahead may change both what we understand reality to be and what we can build with that understanding, demanding governance oriented toward broad public benefit from day one. [02:15](https://www.youtube.com/watch?v=DY3cJ0mQ7yk&t=135)
+- With a team of nearly 20 physicists, engineers, and AI researchers expanding in Boston and San Francisco, PSI is selectively partnering with organizations whose hardest problems demand fundamentally new approaches to physics, both fundamental and applied. [02:15](https://www.youtube.com/watch?v=DY3cJ0mQ7yk&t=135)

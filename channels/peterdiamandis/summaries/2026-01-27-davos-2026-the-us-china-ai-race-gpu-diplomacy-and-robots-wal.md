@@ -20,6 +20,6 @@ Diamandis and his co-hosts recap the major AI conversations from Davos 2026, whe
 
 ## Key Points
 
-- Davos 2026 was entirely dominated by AI discussions, a stark shift from previous years focused on politics and economics; the consensus among attendees was that AGI capabilities are imminent, with some leaders suggesting a slightly slower pace would help get safety right.
-- The US-China AI race is more nuanced than commonly understood: the US leads in model quality and chip design, but China is spinning up power generation and manufacturing faster, and GPU export controls have become a central tool of diplomatic leverage with complex geopolitical implications.
-- Humanoid robots walking the streets at Davos represented a visceral demonstration of how quickly AI is moving from digital to physical domains, reinforcing the panel's thesis that trillions in data center capex will literally march out the door in robotic form.
+- Davos 2026 was entirely dominated by AI discussions, a stark shift from previous years focused on politics and economics; the consensus among attendees was that AGI capabilities are imminent, with some leaders suggesting a slightly slower pace would help get safety right. [00:00](https://www.youtube.com/watch?v=hGRiklWYMas&t=0)
+- The US-China AI race is more nuanced than commonly understood: the US leads in model quality and chip design, but China is spinning up power generation and manufacturing faster, and GPU export controls have become a central tool of diplomatic leverage with complex geopolitical implications. [24:26](https://www.youtube.com/watch?v=hGRiklWYMas&t=1466)
+- Humanoid robots walking the streets at Davos represented a visceral demonstration of how quickly AI is moving from digital to physical domains, reinforcing the panel's thesis that trillions in data center capex will literally march out the door in robotic form. [04:12](https://www.youtube.com/watch?v=hGRiklWYMas&t=252)

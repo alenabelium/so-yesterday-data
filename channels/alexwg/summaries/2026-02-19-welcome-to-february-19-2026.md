@@ -20,6 +20,6 @@ Alex Wissner-Gross surveys a day in the intelligence explosion spanning autonomo
 
 ## Key Points
 
-- AI agents are becoming autonomous economic actors: Austin Alred's agent shipped apps and earned thousands without human code, and GPT 5.3 Codex scores 72.2% on smart contract exploitation, enabling machines to audit the money other machines earn.
-- The physical and biological layers are advancing in parallel: 11 Labs hit 2.3% speech-to-text error rate, Microsoft encoded 4.8 TB in glass with 10,000-year lifetimes, and deep rare disease diagnosis reached 95.4% expert agreement across nearly 3,000 cases.
-- Capital is flooding the AI buildout at unprecedented scale: OpenAI is closing a $100 billion round at $830 billion valuation, open AI anchors a 1 GW data center in India, and companies from toilet-maker Toto to Efficient Computer are pivoting to AI silicon.
+- AI agents are becoming autonomous economic actors: Austin Alred's agent shipped apps and earned thousands without human code, and GPT 5.3 Codex scores 72.2% on smart contract exploitation, enabling machines to audit the money other machines earn. [00:00](https://www.youtube.com/watch?v=8lOtv8888g8&t=0)
+- The physical and biological layers are advancing in parallel: 11 Labs hit 2.3% speech-to-text error rate, Microsoft encoded 4.8 TB in glass with 10,000-year lifetimes, and deep rare disease diagnosis reached 95.4% expert agreement across nearly 3,000 cases. [01:35](https://www.youtube.com/watch?v=8lOtv8888g8&t=95)
+- Capital is flooding the AI buildout at unprecedented scale: OpenAI is closing a $100 billion round at $830 billion valuation, open AI anchors a 1 GW data center in India, and companies from toilet-maker Toto to Efficient Computer are pivoting to AI silicon. [01:35](https://www.youtube.com/watch?v=8lOtv8888g8&t=95)

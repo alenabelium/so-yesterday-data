@@ -20,6 +20,6 @@ Peter Diamandis and his Moonshots co-hosts discuss the 2026 timeline for AGI, AI
 
 ## Key Points
 
-- The definition of AGI remains contested with 14+ definitions, but the panel argues the debate is less important than recognizing that recursive self-improvement is already happening in production, making the practical impact of current AI systems more relevant than any definitional milestone.
-- Robotaxi fleet economics could reshape the auto industry, with analysis suggesting only 24 million autonomous vehicles could handle all urban miles in the US versus 400 million cars currently owned, implying massive overcapacity destruction in traditional automotive manufacturing.
-- The biggest near-term risk is the social transition: AI-driven growth requires removing humans from economic loops, creating a period where radical abundance coexists with job displacement and social unrest until new social contracts and systems emerge.
+- The definition of AGI remains contested with 14+ definitions, but the panel argues the debate is less important than recognizing that recursive self-improvement is already happening in production, making the practical impact of current AI systems more relevant than any definitional milestone. [37:31](https://www.youtube.com/watch?v=2WTFuSeYJ6o&t=2251)
+- Robotaxi fleet economics could reshape the auto industry, with analysis suggesting only 24 million autonomous vehicles could handle all urban miles in the US versus 400 million cars currently owned, implying massive overcapacity destruction in traditional automotive manufacturing. [77:20](https://www.youtube.com/watch?v=2WTFuSeYJ6o&t=4640)
+- The biggest near-term risk is the social transition: AI-driven growth requires removing humans from economic loops, creating a period where radical abundance coexists with job displacement and social unrest until new social contracts and systems emerge. [54:25](https://www.youtube.com/watch?v=2WTFuSeYJ6o&t=3265)

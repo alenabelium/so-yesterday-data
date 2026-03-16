@@ -20,6 +20,6 @@ This daily briefing covers a wide sweep of AI and tech developments. OpenAI is t
 
 ## Key Points
 
-- The AI coding loop is tightening: Cursor's Composer 1.5 uses 20x more RL scaling in a sub-1TB model, and Musk envisions models that bypass source code entirely to generate binaries and pixels directly.
-- Physical infrastructure is being mortgaged for the AI buildout -- Alphabet is lining up banks for a 100-year bond to fund data centers, while the US government simultaneously demands chip production repatriation and environmental safeguards.
-- AI is intensifying rather than reducing work, with a study showing tools push employees to work faster and longer, even as prediction markets like Kalshi outperform human experts by perfectly calling every Fed rate decision since 2022.
+- The AI coding loop is tightening: Cursor's Composer 1.5 uses 20x more RL scaling in a sub-1TB model, and Musk envisions models that bypass source code entirely to generate binaries and pixels directly. [00:00](https://www.youtube.com/watch?v=fA_TQodyigE&t=0)
+- Physical infrastructure is being mortgaged for the AI buildout -- Alphabet is lining up banks for a 100-year bond to fund data centers, while the US government simultaneously demands chip production repatriation and environmental safeguards. [00:00](https://www.youtube.com/watch?v=fA_TQodyigE&t=0)
+- AI is intensifying rather than reducing work, with a study showing tools push employees to work faster and longer, even as prediction markets like Kalshi outperform human experts by perfectly calling every Fed rate decision since 2022. [02:58](https://www.youtube.com/watch?v=fA_TQodyigE&t=178)

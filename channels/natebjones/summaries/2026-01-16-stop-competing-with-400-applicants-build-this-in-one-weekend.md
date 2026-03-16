@@ -19,6 +19,6 @@ The traditional job application system is broken, with success rates around 0.4%
 
 ## Key Points
 
-- Human attention is the scarcest resource in hiring; an interactive AI interface shifts managers from filtering mode (finding reasons to say no) to investigation mode (discovering what a candidate can do), earning minutes of engagement instead of seconds.
-- A bi-directional fit assessment tool that honestly tells employers when you are not a match signals confidence, saves everyone time, and fundamentally repositions the candidate-employer relationship.
-- Building such a site requires real substance but not deep technical skill -- tools like Lovable make it accessible in a few hours, and the format amplifies genuine expertise that gets compressed into inadequate bullet points on a traditional resume.
+- Human attention is the scarcest resource in hiring; an interactive AI interface shifts managers from filtering mode (finding reasons to say no) to investigation mode (discovering what a candidate can do), earning minutes of engagement instead of seconds. [06:40](https://www.youtube.com/watch?v=0teZqotpqT8&t=400)
+- A bi-directional fit assessment tool that honestly tells employers when you are not a match signals confidence, saves everyone time, and fundamentally repositions the candidate-employer relationship. [20:15](https://www.youtube.com/watch?v=0teZqotpqT8&t=1215)
+- Building such a site requires real substance but not deep technical skill -- tools like Lovable make it accessible in a few hours, and the format amplifies genuine expertise that gets compressed into inadequate bullet points on a traditional resume. [01:03](https://www.youtube.com/watch?v=0teZqotpqT8&t=63)

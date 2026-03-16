@@ -19,6 +19,6 @@ This weekly AI news roundup covers five stories. xAI closed a $20B Series E at $
 
 ## Key Points
 
-- Three labs (OpenAI, Anthropic, xAI) plus Google now have clear multi-year funding runway for the scaling race; investor willingness to fund through active safety investigations signals a very long-term perspective on AI value.
-- Amodei and Hassabis disagree on AGI timelines, but Hassabis's view that automating most of a job increases the value of remaining human capabilities appears to match current employment data better than predictions of wholesale displacement.
-- Apple's billion-dollar Gemini deal shifts the default AI OS on both iOS and Android to Google, pressuring OpenAI and Sam Altman to find alternative distribution through a potential third device.
+- Three labs (OpenAI, Anthropic, xAI) plus Google now have clear multi-year funding runway for the scaling race; investor willingness to fund through active safety investigations signals a very long-term perspective on AI value. [01:18](https://www.youtube.com/watch?v=2sY7Pcm2j2g&t=78)
+- Amodei and Hassabis disagree on AGI timelines, but Hassabis's view that automating most of a job increases the value of remaining human capabilities appears to match current employment data better than predictions of wholesale displacement. [02:40](https://www.youtube.com/watch?v=2sY7Pcm2j2g&t=160)
+- Apple's billion-dollar Gemini deal shifts the default AI OS on both iOS and Android to Google, pressuring OpenAI and Sam Altman to find alternative distribution through a potential third device. [05:06](https://www.youtube.com/watch?v=2sY7Pcm2j2g&t=306)

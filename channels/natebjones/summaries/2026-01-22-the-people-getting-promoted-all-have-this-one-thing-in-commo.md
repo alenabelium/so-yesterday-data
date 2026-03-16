@@ -19,6 +19,6 @@ With entry-level tech hiring collapsed by over 50% and AI cannibalizing the rout
 
 ## Key Points
 
-- AI is a forcing function that amplifies the gap between high-agency and low-agency people: career trajectories that once diverged over decades now separate in months, as high-agency individuals use AI to accomplish 10-100x more than passive peers.
-- The share of solo-founder startups has risen from 22% in 2015 to 38% in 2024, with examples like Base44 going from side project to $80M acquisition in six months -- illustrating how high agency plus AI fluency can replace entire teams.
-- The practical starting point is identifying a goal you perceive as outside your control, asking what a person with extremely high internal locus of control would do, and then doing that thing today using AI to map the path and accelerate through skill gaps.
+- AI is a forcing function that amplifies the gap between high-agency and low-agency people: career trajectories that once diverged over decades now separate in months, as high-agency individuals use AI to accomplish 10-100x more than passive peers. [06:19](https://www.youtube.com/watch?v=HZ9iL_lFYgQ&t=379)
+- The share of solo-founder startups has risen from 22% in 2015 to 38% in 2024, with examples like Base44 going from side project to $80M acquisition in six months -- illustrating how high agency plus AI fluency can replace entire teams. [16:16](https://www.youtube.com/watch?v=HZ9iL_lFYgQ&t=976)
+- The practical starting point is identifying a goal you perceive as outside your control, asking what a person with extremely high internal locus of control would do, and then doing that thing today using AI to map the path and accelerate through skill gaps. [19:48](https://www.youtube.com/watch?v=HZ9iL_lFYgQ&t=1188)

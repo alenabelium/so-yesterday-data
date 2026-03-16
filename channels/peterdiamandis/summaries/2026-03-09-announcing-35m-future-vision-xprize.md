@@ -18,6 +18,6 @@ Peter Diamandis announces the Future Vision XPRIZE, a $3.5 million+ competition 
 
 ## Key Points
 
-- The Future Vision XPRIZE offers $3 million in prize money plus millions in film financing, making it one of the world's largest competitions aimed at addressing humanity's need for hopeful visions of the future.
-- The premise is that science fiction has historically driven real innovation -- the mobile phone, iPad, video calls, and voice assistants all originated as Star Trek props before becoming multi-trillion dollar industries.
-- Participants must submit a trailer or short film of 3 minutes or less showing their vision of an abundant future, with winning visions potentially becoming blueprints for humanity's next technological and social achievements.
+- The Future Vision XPRIZE offers $3 million in prize money plus millions in film financing, making it one of the world's largest competitions aimed at addressing humanity's need for hopeful visions of the future. [00:00](https://www.youtube.com/watch?v=b47oqZEeRGU&t=0)
+- The premise is that science fiction has historically driven real innovation -- the mobile phone, iPad, video calls, and voice assistants all originated as Star Trek props before becoming multi-trillion dollar industries. [00:00](https://www.youtube.com/watch?v=b47oqZEeRGU&t=0)
+- Participants must submit a trailer or short film of 3 minutes or less showing their vision of an abundant future, with winning visions potentially becoming blueprints for humanity's next technological and social achievements. [00:47](https://www.youtube.com/watch?v=b47oqZEeRGU&t=47)

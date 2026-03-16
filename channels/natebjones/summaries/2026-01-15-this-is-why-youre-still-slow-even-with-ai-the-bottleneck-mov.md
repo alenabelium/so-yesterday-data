@@ -19,6 +19,6 @@ AI has made execution capacity abundant, but most organizations and individuals 
 
 ## Key Points
 
-- The bottleneck in knowledge work has shifted from execution capacity to clarity, ambition, distribution, and relationships -- yet most work habits still protect execution time that is no longer scarce.
-- Eight specific habits (permission loops, polish-as-procrastination, meetings-as-default, structured waiting, over-planning, decks over demos, consensus before action, and hoarding unfinished work) are now actively costly and should be replaced with building, shipping, and iterating.
-- Leaders must cast wider visions so teams can act autonomously, and individuals should default to building prototypes and showing results rather than seeking alignment through meetings and approval chains.
+- The bottleneck in knowledge work has shifted from execution capacity to clarity, ambition, distribution, and relationships -- yet most work habits still protect execution time that is no longer scarce. [04:53](https://www.youtube.com/watch?v=hpDC29JdgjI&t=293)
+- Eight specific habits (permission loops, polish-as-procrastination, meetings-as-default, structured waiting, over-planning, decks over demos, consensus before action, and hoarding unfinished work) are now actively costly and should be replaced with building, shipping, and iterating. [08:34](https://www.youtube.com/watch?v=hpDC29JdgjI&t=514)
+- Leaders must cast wider visions so teams can act autonomously, and individuals should default to building prototypes and showing results rather than seeking alignment through meetings and approval chains. [11:40](https://www.youtube.com/watch?v=hpDC29JdgjI&t=700)

@@ -19,6 +19,6 @@ Amazon's layoff of 30,000 corporate employees is not primarily a culture problem
 
 ## Key Points
 
-- Amazon's free cash flow went negative ($-4.8B quarterly) at the exact moment capex hit $125 billion, with 75% going to AI infrastructure; the 30,000 layoffs save roughly $6 billion annually, a critical sum when cash flow is negative
-- The AI infrastructure arms race is the largest capital deployment in technology history, with Goldman Sachs projecting $1.15 trillion in hyperscaler spending from 2025-2027; companies that fall behind risk being locked out of the most lucrative technology market ever created
-- Workers are not being replaced by AI doing their jobs but by the capital demands of AI infrastructure itself -- companies must shrink human workforces simply to afford the GPUs needed to compete
+- Amazon's free cash flow went negative ($-4.8B quarterly) at the exact moment capex hit $125 billion, with 75% going to AI infrastructure; the 30,000 layoffs save roughly $6 billion annually, a critical sum when cash flow is negative [03:37](https://www.youtube.com/watch?v=7sk3qmIQZnI&t=217)
+- The AI infrastructure arms race is the largest capital deployment in technology history, with Goldman Sachs projecting $1.15 trillion in hyperscaler spending from 2025-2027; companies that fall behind risk being locked out of the most lucrative technology market ever created [12:00](https://www.youtube.com/watch?v=7sk3qmIQZnI&t=720)
+- Workers are not being replaced by AI doing their jobs but by the capital demands of AI infrastructure itself -- companies must shrink human workforces simply to afford the GPUs needed to compete [13:40](https://www.youtube.com/watch?v=7sk3qmIQZnI&t=820)

@@ -19,6 +19,6 @@ Anthropic's Claude integration with Excel and PowerPoint represents a paradigm s
 
 ## Key Points
 
-- Goldman Sachs has deployed Claude in production for accounting and compliance, AIG reports 5x faster document reviews with accuracy improving from 75% to 90%, and Norway's sovereign wealth fund saved an estimated 213,000 hours -- proving this is not a demo but a production tool.
-- The combination of Excel and PowerPoint under one intelligence eliminates the "translation layer" where knowledge workers spend most production hours converting analysis into different formats for different audiences, collapsing the data-to-decision pipeline.
-- As AI makes artifact production nearly free, the scarce and valuable skill becomes judgment -- knowing which questions to ask, which analysis matters, and which output serves a real purpose -- while the execution premium that defined knowledge work for 30+ years evaporates.
+- Goldman Sachs has deployed Claude in production for accounting and compliance, AIG reports 5x faster document reviews with accuracy improving from 75% to 90%, and Norway's sovereign wealth fund saved an estimated 213,000 hours -- proving this is not a demo but a production tool. [07:13](https://www.youtube.com/watch?v=U1oHRqUkI1E&t=433)
+- The combination of Excel and PowerPoint under one intelligence eliminates the "translation layer" where knowledge workers spend most production hours converting analysis into different formats for different audiences, collapsing the data-to-decision pipeline. [13:46](https://www.youtube.com/watch?v=U1oHRqUkI1E&t=826)
+- As AI makes artifact production nearly free, the scarce and valuable skill becomes judgment -- knowing which questions to ask, which analysis matters, and which output serves a real purpose -- while the execution premium that defined knowledge work for 30+ years evaporates. [26:26](https://www.youtube.com/watch?v=U1oHRqUkI1E&t=1586)

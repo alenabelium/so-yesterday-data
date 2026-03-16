@@ -20,6 +20,6 @@ In this WTF Just Happened in Tech episode, Diamandis and co-hosts cover three ma
 
 ## Key Points
 
-- Claude Opus 4.5 represents a paradigm shift in AI coding capability, with developers describing it as unbelievable; the implication is that SaaS companies face existential threat as individuals can now build custom tools via AI coding agents rather than paying for generic subscription software.
-- Google powering Siri with Gemini changes the competitive landscape fundamentally, moving from a search-box paradigm to an action-oriented agent paradigm where AI executes tasks directly rather than returning links, potentially rendering traditional websites irrelevant.
-- AI is enabling radical vertical integration across industries, collapsing traditional multi-layer supply chains; exponential organizations that can pivot constantly will thrive, while rigid companies with siloed structures will struggle to compete in the new landscape.
+- Claude Opus 4.5 represents a paradigm shift in AI coding capability, with developers describing it as unbelievable; the implication is that SaaS companies face existential threat as individuals can now build custom tools via AI coding agents rather than paying for generic subscription software. [36:19](https://www.youtube.com/watch?v=DTgrzlQtOd0&t=2179)
+- Google powering Siri with Gemini changes the competitive landscape fundamentally, moving from a search-box paradigm to an action-oriented agent paradigm where AI executes tasks directly rather than returning links, potentially rendering traditional websites irrelevant. [46:53](https://www.youtube.com/watch?v=DTgrzlQtOd0&t=2813)
+- AI is enabling radical vertical integration across industries, collapsing traditional multi-layer supply chains; exponential organizations that can pivot constantly will thrive, while rigid companies with siloed structures will struggle to compete in the new landscape. [42:21](https://www.youtube.com/watch?v=DTgrzlQtOd0&t=2541)

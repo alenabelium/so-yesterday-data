@@ -19,6 +19,6 @@ AI is collapsing career paths along two dimensions: horizontally, as distinct ro
 
 ## Key Points
 
-- Gartner predicts close to half of enterprise applications will integrate task-specific AI agents by end of 2026 (up from under 5% in 2025); the differentiation across all knowledge work roles is converging on whether you can apply your domain skills in an "AI agent-shaped way"
-- Career leverage is compressing into the present moment: the SWE-bench coding benchmark went from 4% AI solve rate in 2023 to roughly 90-95% in 2025, and the doubling time is shrinking; early adopters are building compound learning advantages that late adopters cannot close
-- "Software-shaped intent" is becoming a universal skill: understanding how agents read and write data, where their tools and memory live, and how to direct them toward outcomes -- this used to be an engineering-only skill but is now required across every function
+- Gartner predicts close to half of enterprise applications will integrate task-specific AI agents by end of 2026 (up from under 5% in 2025); the differentiation across all knowledge work roles is converging on whether you can apply your domain skills in an "AI agent-shaped way" [02:21](https://www.youtube.com/watch?v=q6p-_W6_VoM&t=141)
+- Career leverage is compressing into the present moment: the SWE-bench coding benchmark went from 4% AI solve rate in 2023 to roughly 90-95% in 2025, and the doubling time is shrinking; early adopters are building compound learning advantages that late adopters cannot close [06:12](https://www.youtube.com/watch?v=q6p-_W6_VoM&t=372)
+- "Software-shaped intent" is becoming a universal skill: understanding how agents read and write data, where their tools and memory live, and how to direct them toward outcomes -- this used to be an engineering-only skill but is now required across every function [04:03](https://www.youtube.com/watch?v=q6p-_W6_VoM&t=243)

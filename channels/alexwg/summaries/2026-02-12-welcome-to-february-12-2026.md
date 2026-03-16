@@ -20,6 +20,6 @@ This briefing opens with Coinbase launching Agentic Wallets -- infrastructure fo
 
 ## Key Points
 
-- The agentic economy is self-organizing with financial autonomy: Coinbase's Agentic Wallets let AI agents transact independently, researchers introduced Alma for agents to meta-learn their own memory designs, and a user's Claude agent autonomously hacked an e-ink display to confirm its own victory.
-- The US labor market is hollowing out -- only 181,000 jobs were created in 2025 compared to 1.46 million the prior year, private equity faces AI obsolescence risk, and Ireland launched a basic income for artists to preserve human creativity in response.
-- Surveillance capabilities are expanding rapidly with the Pentagon pushing AI models onto classified networks for weapons targeting, Clearview AI scanning against 60 billion images, and Wi-Fi 5 routers now able to identify individuals by walking gait alone.
+- The agentic economy is self-organizing with financial autonomy: Coinbase's Agentic Wallets let AI agents transact independently, researchers introduced Alma for agents to meta-learn their own memory designs, and a user's Claude agent autonomously hacked an e-ink display to confirm its own victory. [00:00](https://www.youtube.com/watch?v=1stYHXtlbRY&t=0)
+- The US labor market is hollowing out -- only 181,000 jobs were created in 2025 compared to 1.46 million the prior year, private equity faces AI obsolescence risk, and Ireland launched a basic income for artists to preserve human creativity in response. [02:20](https://www.youtube.com/watch?v=1stYHXtlbRY&t=140)
+- Surveillance capabilities are expanding rapidly with the Pentagon pushing AI models onto classified networks for weapons targeting, Clearview AI scanning against 60 billion images, and Wi-Fi 5 routers now able to identify individuals by walking gait alone. [01:14](https://www.youtube.com/watch?v=1stYHXtlbRY&t=74)

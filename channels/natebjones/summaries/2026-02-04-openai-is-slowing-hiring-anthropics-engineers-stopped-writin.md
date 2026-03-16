@@ -19,6 +19,6 @@ A phase transition occurred in December 2025 when converging model releases (Gem
 
 ## Key Points
 
-- Anthropic's Dario Amodei revealed that his own engineers no longer write code from scratch but supervise models, creating an AI self-acceleration loop where AI builds the next generation of AI; OpenAI is slowing hiring because existing engineers with AI tools have dramatically expanded span
-- The shift from prompting to specification is the key skill change: power users assign tasks with declarative specs rather than asking questions, accept imperfections and iterate through retry loops, and invest time in defining what they want rather than implementing it
-- Ralph (a bash script running Claude Code in a loop) went viral, then was absorbed into Anthropic's native task system within weeks -- illustrating how patterns can emerge, spread, and become obsolete at unprecedented speed as platforms integrate community innovations
+- Anthropic's Dario Amodei revealed that his own engineers no longer write code from scratch but supervise models, creating an AI self-acceleration loop where AI builds the next generation of AI; OpenAI is slowing hiring because existing engineers with AI tools have dramatically expanded span [08:51](https://www.youtube.com/watch?v=dZxyeYBxPBA&t=531)
+- The shift from prompting to specification is the key skill change: power users assign tasks with declarative specs rather than asking questions, accept imperfections and iterate through retry loops, and invest time in defining what they want rather than implementing it [13:54](https://www.youtube.com/watch?v=dZxyeYBxPBA&t=834)
+- Ralph (a bash script running Claude Code in a loop) went viral, then was absorbed into Anthropic's native task system within weeks -- illustrating how patterns can emerge, spread, and become obsolete at unprecedented speed as platforms integrate community innovations [07:06](https://www.youtube.com/watch?v=dZxyeYBxPBA&t=426)

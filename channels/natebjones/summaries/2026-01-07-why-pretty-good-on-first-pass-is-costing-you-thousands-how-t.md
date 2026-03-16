@@ -19,6 +19,6 @@ Nate examines the Ralph Wiggum plugin for Claude Code, a deceptively simple hack
 
 ## Key Points
 
-- The real bottleneck in agent performance is shifting from model capability to harness design; if you can buy iteration, you can buy correctness, but only when correctness is anchored to something verifiable
-- Ralph Wiggum works by confronting models' tendency to declare "done" prematurely, using explicit anti-lying instructions and continuous re-injection of the original prompt until verifiable completion criteria are met
-- The pattern scales beyond code to any knowledge work (presentations, competitive reviews, quarterly reports) as long as you can define what "done" looks like clearly enough for automated evaluation
+- The real bottleneck in agent performance is shifting from model capability to harness design; if you can buy iteration, you can buy correctness, but only when correctness is anchored to something verifiable [04:22](https://www.youtube.com/watch?v=iG_CCjdyeX0&t=262)
+- Ralph Wiggum works by confronting models' tendency to declare "done" prematurely, using explicit anti-lying instructions and continuous re-injection of the original prompt until verifiable completion criteria are met [04:22](https://www.youtube.com/watch?v=iG_CCjdyeX0&t=262)
+- The pattern scales beyond code to any knowledge work (presentations, competitive reviews, quarterly reports) as long as you can define what "done" looks like clearly enough for automated evaluation [08:49](https://www.youtube.com/watch?v=iG_CCjdyeX0&t=529)

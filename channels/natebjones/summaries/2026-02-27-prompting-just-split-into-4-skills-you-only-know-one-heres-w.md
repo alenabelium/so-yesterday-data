@@ -19,6 +19,6 @@ With autonomous agents now running for hours or days without human check-ins, th
 
 ## Key Points
 
-- Prompting has diverged into four cumulative disciplines (prompt craft, context engineering, intent engineering, specification engineering), each operating at a different altitude and time horizon; skipping a layer creates failures that compound at scale.
-- The five learnable primitives of specification engineering are self-contained problem statements, acceptance criteria, constraint architecture, task decomposition, and evaluation design -- and they transfer directly to clearer human communication and leadership.
-- Small businesses and solo operators have the greatest advantage right now because they can quickly make their entire knowledge base agent-readable, while large organizations face enormous cultural and organizational inertia in adopting these new disciplines.
+- Prompting has diverged into four cumulative disciplines (prompt craft, context engineering, intent engineering, specification engineering), each operating at a different altitude and time horizon; skipping a layer creates failures that compound at scale. [08:58](https://www.youtube.com/watch?v=BpibZSMGtdY&t=538)
+- The five learnable primitives of specification engineering are self-contained problem statements, acceptance criteria, constraint architecture, task decomposition, and evaluation design -- and they transfer directly to clearer human communication and leadership. [05:01](https://www.youtube.com/watch?v=BpibZSMGtdY&t=301)
+- Small businesses and solo operators have the greatest advantage right now because they can quickly make their entire knowledge base agent-readable, while large organizations face enormous cultural and organizational inertia in adopting these new disciplines. [13:05](https://www.youtube.com/watch?v=BpibZSMGtdY&t=785)

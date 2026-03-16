@@ -17,6 +17,6 @@ This is a music video or song rather than a spoken-word commentary. The lyrics, 
 
 ## Key Points
 
-- The song centers on themes of audacious ambition -- "moonshots fire away" -- and the willingness to risk everything for progress, with imagery of blueprints, fortunes built by steady hands, and futures that gamble and dare.
-- Recurring motifs of darkness, shadows, and overpaying skies suggest an awareness of cost and consequence that accompanies bold ventures.
-- The piece is a creative departure from the channel's typical news-briefing format, using music to convey the emotional register of the singularity era rather than reporting on it directly.
+- The song centers on themes of audacious ambition -- "moonshots fire away" -- and the willingness to risk everything for progress, with imagery of blueprints, fortunes built by steady hands, and futures that gamble and dare. [01:12](https://www.youtube.com/watch?v=Yh3CAD8elvg&t=72)
+- Recurring motifs of darkness, shadows, and overpaying skies suggest an awareness of cost and consequence that accompanies bold ventures. [01:35](https://www.youtube.com/watch?v=Yh3CAD8elvg&t=95)
+- The piece is a creative departure from the channel's typical news-briefing format, using music to convey the emotional register of the singularity era rather than reporting on it directly. [00:09](https://www.youtube.com/watch?v=Yh3CAD8elvg&t=9)

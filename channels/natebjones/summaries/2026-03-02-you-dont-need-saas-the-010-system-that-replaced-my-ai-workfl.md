@@ -19,6 +19,6 @@ The video presents "Open Brain," a database-backed, agent-readable personal know
 
 ## Key Points
 
-- Platform-native AI memories are siloed walled gardens that create vendor lock-in; a personal Postgres database with vector embeddings and an MCP server gives every AI tool you use access to the same persistent, searchable brain at negligible cost.
-- The system compounds over time: every captured thought makes semantic search smarter and connections more likely to surface, creating a durable advantage that grows with use -- and it is portable across any current or future AI tool that speaks MCP.
-- Building agent-readable infrastructure (not just human-readable notes) is the key architectural shift, as autonomous agents are going mainstream and need secure access to personal context to be genuinely useful.
+- Platform-native AI memories are siloed walled gardens that create vendor lock-in; a personal Postgres database with vector embeddings and an MCP server gives every AI tool you use access to the same persistent, searchable brain at negligible cost. [14:02](https://www.youtube.com/watch?v=2JiMmye2ezg&t=842)
+- The system compounds over time: every captured thought makes semantic search smarter and connections more likely to surface, creating a durable advantage that grows with use -- and it is portable across any current or future AI tool that speaks MCP. [20:39](https://www.youtube.com/watch?v=2JiMmye2ezg&t=1239)
+- Building agent-readable infrastructure (not just human-readable notes) is the key architectural shift, as autonomous agents are going mainstream and need secure access to personal context to be genuinely useful. [06:04](https://www.youtube.com/watch?v=2JiMmye2ezg&t=364)

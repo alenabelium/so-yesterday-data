@@ -19,6 +19,6 @@ Nate provides a detailed, step-by-step guide for building an AI-powered second b
 
 ## Key Points
 
-- Traditional second-brain systems fail because they require cognitive work (organizing, tagging, deciding where things go) at exactly the wrong moment; the AI loop removes this by handling classification, routing, and surfacing automatically
-- The system uses eight building blocks: a frictionless capture point (Slack), an AI classifier/router, a consistent schema, Notion as the filing cabinet, an audit trail for trust, a confidence-based bouncer, proactive daily/weekly digests, and a one-step correction mechanism
-- Twelve engineering principles govern the design, including: reduce the human's job to one reliable behavior, separate memory from compute from interface, treat prompts like APIs not creative writing, build trust mechanisms not just capabilities, and optimize for maintainability over cleverness
+- Traditional second-brain systems fail because they require cognitive work (organizing, tagging, deciding where things go) at exactly the wrong moment; the AI loop removes this by handling classification, routing, and surfacing automatically [10:16](https://www.youtube.com/watch?v=0TpON5T-Sw4&t=616)
+- The system uses eight building blocks: a frictionless capture point (Slack), an AI classifier/router, a consistent schema, Notion as the filing cabinet, an audit trail for trust, a confidence-based bouncer, proactive daily/weekly digests, and a one-step correction mechanism [15:37](https://www.youtube.com/watch?v=0TpON5T-Sw4&t=937)
+- Twelve engineering principles govern the design, including: reduce the human's job to one reliable behavior, separate memory from compute from interface, treat prompts like APIs not creative writing, build trust mechanisms not just capabilities, and optimize for maintainability over cleverness [17:05](https://www.youtube.com/watch?v=0TpON5T-Sw4&t=1025)

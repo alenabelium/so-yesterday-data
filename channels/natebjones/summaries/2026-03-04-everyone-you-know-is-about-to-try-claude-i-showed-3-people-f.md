@@ -19,6 +19,6 @@ With Claude surging to number one in the app store after Anthropic's Pentagon st
 
 ## Key Points
 
-- Claude's constitutional AI training makes it more likely to flag problems, question framing, and push back on flawed plans compared to ChatGPT's RLHF-trained tendency toward agreement -- a difference that compounds over frequent use and produces better-stress-tested work.
-- Claude responds best when given rich situational context rather than bare commands, and its project system rewards detailed operating instructions with measurably higher task compliance (94% exact compliance vs. 87% for ChatGPT in independent testing).
-- Claude Co-work is a genuine desktop agent that opens, reads, edits, and organizes files autonomously on your computer -- a capability category ChatGPT does not currently offer -- but users should be honest about Claude's gaps in image generation, math, web search, and the app ecosystem.
+- Claude's constitutional AI training makes it more likely to flag problems, question framing, and push back on flawed plans compared to ChatGPT's RLHF-trained tendency toward agreement -- a difference that compounds over frequent use and produces better-stress-tested work. [01:49](https://www.youtube.com/watch?v=O7SSQfiPDXA&t=109)
+- Claude responds best when given rich situational context rather than bare commands, and its project system rewards detailed operating instructions with measurably higher task compliance (94% exact compliance vs. 87% for ChatGPT in independent testing). [14:07](https://www.youtube.com/watch?v=O7SSQfiPDXA&t=847)
+- Claude Co-work is a genuine desktop agent that opens, reads, edits, and organizes files autonomously on your computer -- a capability category ChatGPT does not currently offer -- but users should be honest about Claude's gaps in image generation, math, web search, and the app ecosystem. [14:07](https://www.youtube.com/watch?v=O7SSQfiPDXA&t=847)

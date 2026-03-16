@@ -19,6 +19,6 @@ Nate presents 10 predictions for AI breakthroughs in 2026, arguing that compound
 
 ## Key Points
 
-- Long-running agents operating for days or weeks will make humans the bottleneck, shifting the core skill to defining work clearly, keeping it unblocked, and reviewing output with good taste
-- Work AI and personal AI will diverge sharply: enterprise AI will be governed with identity layers, audit logs, and permissions, while personal AI will optimize for engagement and convenience
-- The power law of adoption will persist, with top companies rebuilding around agents and shipping at radically different tempos, creating existential risk for slow-moving incumbents who can be ambushed by AI-native competitors
+- Long-running agents operating for days or weeks will make humans the bottleneck, shifting the core skill to defining work clearly, keeping it unblocked, and reviewing output with good taste [03:53](https://www.youtube.com/watch?v=pOb0pjXpn6Q&t=233)
+- Work AI and personal AI will diverge sharply: enterprise AI will be governed with identity layers, audit logs, and permissions, while personal AI will optimize for engagement and convenience [07:11](https://www.youtube.com/watch?v=pOb0pjXpn6Q&t=431)
+- The power law of adoption will persist, with top companies rebuilding around agents and shipping at radically different tempos, creating existential risk for slow-moving incumbents who can be ambushed by AI-native competitors [10:40](https://www.youtube.com/watch?v=pOb0pjXpn6Q&t=640)

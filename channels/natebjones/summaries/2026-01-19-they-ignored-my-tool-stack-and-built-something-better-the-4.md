@@ -19,6 +19,6 @@ After posting a video on building a second brain, Nate watched dozens of communi
 
 ## Key Points
 
-- Architecture is portable, tools are not: community members built the same second brain system in completely different tool stacks because the underlying patterns (capture, sort, store, retrieve) remained stable across all implementations.
-- When AI agents build a system, they can also maintain it -- keeping conversation context and build artifacts means the agent can return months later with zero context-switching cost, unlike humans who lose familiarity over time.
-- The new building model combines community as a shared pattern library (surfacing common obstacles and solutions) with AI as implementation muscle (adapting patterns to individual context), collapsing the gap between understanding what someone else built and replicating it yourself.
+- Architecture is portable, tools are not: community members built the same second brain system in completely different tool stacks because the underlying patterns (capture, sort, store, retrieve) remained stable across all implementations. [01:03](https://www.youtube.com/watch?v=_gPODg6br5w&t=63)
+- When AI agents build a system, they can also maintain it -- keeping conversation context and build artifacts means the agent can return months later with zero context-switching cost, unlike humans who lose familiarity over time. [08:08](https://www.youtube.com/watch?v=_gPODg6br5w&t=488)
+- The new building model combines community as a shared pattern library (surfacing common obstacles and solutions) with AI as implementation muscle (adapting patterns to individual context), collapsing the gap between understanding what someone else built and replicating it yourself. [23:26](https://www.youtube.com/watch?v=_gPODg6br5w&t=1406)

@@ -19,6 +19,6 @@ The bottleneck for AI-powered builders has shifted from capability (learning too
 
 ## Key Points
 
-- The bottleneck has moved from tool capability to cognitive architecture: top builders in 2026 share the same tools as everyone else but distinguish themselves through systems thinking, the ability to shift abstraction levels fluidly, and disciplined reflection alongside rapid execution.
-- Two types of architecture matter -- enforceable conventions (rules agents can follow) and quality-without-a-name (taste, coherence, vision) -- and while the first can be delegated to AI, the second remains irreducibly human work.
-- Experience cannot be compressed at the speed of code generation; builders who thrive maintain an experiential loop through customer contact and iterative learning, ensuring their product vision stays grounded even as AI dramatically accelerates implementation.
+- The bottleneck has moved from tool capability to cognitive architecture: top builders in 2026 share the same tools as everyone else but distinguish themselves through systems thinking, the ability to shift abstraction levels fluidly, and disciplined reflection alongside rapid execution. [01:02](https://www.youtube.com/watch?v=5Di6o6zuMLc&t=62)
+- Two types of architecture matter -- enforceable conventions (rules agents can follow) and quality-without-a-name (taste, coherence, vision) -- and while the first can be delegated to AI, the second remains irreducibly human work. [14:43](https://www.youtube.com/watch?v=5Di6o6zuMLc&t=883)
+- Experience cannot be compressed at the speed of code generation; builders who thrive maintain an experiential loop through customer contact and iterative learning, ensuring their product vision stays grounded even as AI dramatically accelerates implementation. [14:43](https://www.youtube.com/watch?v=5Di6o6zuMLc&t=883)

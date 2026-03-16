@@ -19,6 +19,6 @@ The Davos "abundance for all" narrative around AI misses the point: while AI cre
 
 ## Key Points
 
-- AI's bottlenecks are migrating downstream: physical infrastructure operates on multi-year timelines while software sprints ahead, creating a structural gap where whoever navigates permitting, energy sourcing, and construction fastest captures disproportionate value
-- The $4.5 trillion integration gap identified by Cognizant represents value locked behind the challenge of connecting general AI capability to specific organizational context -- tacit knowledge, embedded practices, and relationships that are not promptable
-- For individuals, the new career bottlenecks are taste and judgment (knowing which of 100 AI-generated options is right), problem-finding over problem-solving, institutional context that takes slow accumulation, and the ability to metabolize change without freezing
+- AI's bottlenecks are migrating downstream: physical infrastructure operates on multi-year timelines while software sprints ahead, creating a structural gap where whoever navigates permitting, energy sourcing, and construction fastest captures disproportionate value [04:35](https://www.youtube.com/watch?v=pxuXV3Q6tGY&t=275)
+- The $4.5 trillion integration gap identified by Cognizant represents value locked behind the challenge of connecting general AI capability to specific organizational context -- tacit knowledge, embedded practices, and relationships that are not promptable [11:02](https://www.youtube.com/watch?v=pxuXV3Q6tGY&t=662)
+- For individuals, the new career bottlenecks are taste and judgment (knowing which of 100 AI-generated options is right), problem-finding over problem-solving, institutional context that takes slow accumulation, and the ability to metabolize change without freezing [17:06](https://www.youtube.com/watch?v=pxuXV3Q6tGY&t=1026)

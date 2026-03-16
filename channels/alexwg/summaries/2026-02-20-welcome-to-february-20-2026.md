@@ -20,6 +20,6 @@ This episode opens with the White House directing the release of government file
 
 ## Key Points
 
-- The White House is reportedly preparing a speech on alien life ahead of the State of the Union, with the publisher of Skeptic Magazine conceding a long-standing bet to Avi Loeb, marking a shift in mainstream acceptance of UAP disclosure.
-- AI is fundamentally restructuring the global economy: businesses replace Upwork freelancers at $1 human labor for 3 cents in AI spending, Amazon has dethroned Walmart as the largest company by revenue via data center growth, and Anthropic may surpass OpenAI's revenue by mid-2026.
-- The energy and infrastructure demands of AI are spawning massive buildouts including SoftBank's 9.2 GW gas plant consortium and off-grid natural gas shadow power grids, while BAFTA introduced "human achievement" as a guiding principle to distinguish carbon-based creativity.
+- The White House is reportedly preparing a speech on alien life ahead of the State of the Union, with the publisher of Skeptic Magazine conceding a long-standing bet to Avi Loeb, marking a shift in mainstream acceptance of UAP disclosure. [00:00](https://www.youtube.com/watch?v=caVHw3OZdaA&t=0)
+- AI is fundamentally restructuring the global economy: businesses replace Upwork freelancers at $1 human labor for 3 cents in AI spending, Amazon has dethroned Walmart as the largest company by revenue via data center growth, and Anthropic may surpass OpenAI's revenue by mid-2026. [02:53](https://www.youtube.com/watch?v=caVHw3OZdaA&t=173)
+- The energy and infrastructure demands of AI are spawning massive buildouts including SoftBank's 9.2 GW gas plant consortium and off-grid natural gas shadow power grids, while BAFTA introduced "human achievement" as a guiding principle to distinguish carbon-based creativity. [01:34](https://www.youtube.com/watch?v=caVHw3OZdaA&t=94)

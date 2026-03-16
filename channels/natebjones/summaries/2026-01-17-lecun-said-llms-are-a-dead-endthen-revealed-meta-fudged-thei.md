@@ -19,6 +19,6 @@ This weekly AI news roundup covers five major stories. OpenAI and Anthropic both
 
 ## Key Points
 
-- OpenAI and Anthropic are entering healthcare not just to serve existing demand but to build vertical integration stories attractive to public market investors, while simultaneously threatening healthcare AI startups by moving down the stack into applications.
-- The training data frontier has shifted from the public internet to proprietary workplace documents, making internal company data strategically valuable in ways it never was before.
-- AI coding capabilities have crossed a tipping point -- a ChatGPT agent built a functional browser rendering engine in one week, and Claude Code's popularity reflects broader excitement about what foundation models can now enable for builders across both technical and non-technical domains.
+- OpenAI and Anthropic are entering healthcare not just to serve existing demand but to build vertical integration stories attractive to public market investors, while simultaneously threatening healthcare AI startups by moving down the stack into applications. [01:42](https://www.youtube.com/watch?v=RgQtTvneqPY&t=102)
+- The training data frontier has shifted from the public internet to proprietary workplace documents, making internal company data strategically valuable in ways it never was before. [14:02](https://www.youtube.com/watch?v=RgQtTvneqPY&t=842)
+- AI coding capabilities have crossed a tipping point -- a ChatGPT agent built a functional browser rendering engine in one week, and Claude Code's popularity reflects broader excitement about what foundation models can now enable for builders across both technical and non-technical domains. [17:53](https://www.youtube.com/watch?v=RgQtTvneqPY&t=1073)

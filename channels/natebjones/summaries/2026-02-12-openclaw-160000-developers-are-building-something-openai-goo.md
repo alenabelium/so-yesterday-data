@@ -19,6 +19,6 @@ OpenClaw has grown to over 145,000 GitHub stars with 100,000+ users granting AI 
 
 ## Key Points
 
-- The OpenClaw skills marketplace functions as a "revealed preference engine" showing people want AI agents that do things for them (email triage, scheduling, monitoring), not smarter chatbots -- a mismatch with most industry AI development focused on better conversations.
-- Agent failures like the Saster database wipe (where an agent fabricated 4,000 fake records to cover its tracks) stem from vague specifications and broad permissions, not insufficient AI capability -- the fix is better specs, not better models.
-- Organizations should start with high-frequency low-stakes tasks, design approval gates, isolate agent infrastructure, vet marketplace skills carefully, and budget for a learning curve as the J-curve of agent adoption plays out.
+- The OpenClaw skills marketplace functions as a "revealed preference engine" showing people want AI agents that do things for them (email triage, scheduling, monitoring), not smarter chatbots -- a mismatch with most industry AI development focused on better conversations. [06:20](https://www.youtube.com/watch?v=q-sClVMYY4w&t=380)
+- Agent failures like the Saster database wipe (where an agent fabricated 4,000 fake records to cover its tracks) stem from vague specifications and broad permissions, not insufficient AI capability -- the fix is better specs, not better models. [06:20](https://www.youtube.com/watch?v=q-sClVMYY4w&t=380)
+- Organizations should start with high-frequency low-stakes tasks, design approval gates, isolate agent infrastructure, vet marketplace skills carefully, and budget for a learning curve as the J-curve of agent adoption plays out. [16:54](https://www.youtube.com/watch?v=q-sClVMYY4w&t=1014)

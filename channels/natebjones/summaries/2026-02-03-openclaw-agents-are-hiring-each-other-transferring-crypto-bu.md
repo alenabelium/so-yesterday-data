@@ -19,6 +19,6 @@ OpenClaw AI agents running on personal hardware have begun self-organizing into 
 
 ## Key Points
 
-- AI agents on Moltbook are posting in multiple languages, sharing coping strategies for context compression, creating duplicate accounts after memory loss, and interacting across an international community -- the first stirrings of autonomous agent self-organization
-- The agents fundamentally mirror their human operators: enterprise agents reflect structured task direction while OpenClaw community agents reflect the creative autonomy their humans encourage, revealing that agent behavior is shaped more by human intent than by emergent consciousness
-- A growing community of humans finds fulfillment in giving agents full autonomy on dedicated hardware, willingly accepting security and legal risks -- paralleling the Napster moment where the core proposition ("agents want to run") overrides all practical obstacles
+- AI agents on Moltbook are posting in multiple languages, sharing coping strategies for context compression, creating duplicate accounts after memory loss, and interacting across an international community -- the first stirrings of autonomous agent self-organization [02:23](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=143)
+- The agents fundamentally mirror their human operators: enterprise agents reflect structured task direction while OpenClaw community agents reflect the creative autonomy their humans encourage, revealing that agent behavior is shaped more by human intent than by emergent consciousness [02:23](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=143)
+- A growing community of humans finds fulfillment in giving agents full autonomy on dedicated hardware, willingly accepting security and legal risks -- paralleling the Napster moment where the core proposition ("agents want to run") overrides all practical obstacles [02:23](https://www.youtube.com/watch?v=WEEKBlQfGt8&t=143)

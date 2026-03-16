@@ -19,6 +19,6 @@ Meta acquired Manus for over $2 billion not for a model but for its agentic harn
 
 ## Key Points
 
-- The acquisition signals that agent harnesses (the "car") are becoming more valuable than the underlying models (the "engine"); reliable task completion is a scarce commodity that justified the $2B price
-- Manus differentiated by solving the finish-what-you-start problem through innovations in KV cache management, goal re-articulation over long task loops, and file-system-based persistent memory
-- Integration into Meta will be extremely difficult (less than 10% chance of successful scaling in 2026); meanwhile, Claude Code, GenSpark, and Do Anything represent viable alternatives with different strengths
+- The acquisition signals that agent harnesses (the "car") are becoming more valuable than the underlying models (the "engine"); reliable task completion is a scarce commodity that justified the $2B price [09:03](https://www.youtube.com/watch?v=qw7HDITpTR4&t=543)
+- Manus differentiated by solving the finish-what-you-start problem through innovations in KV cache management, goal re-articulation over long task loops, and file-system-based persistent memory [01:13](https://www.youtube.com/watch?v=qw7HDITpTR4&t=73)
+- Integration into Meta will be extremely difficult (less than 10% chance of successful scaling in 2026); meanwhile, Claude Code, GenSpark, and Do Anything represent viable alternatives with different strengths [09:03](https://www.youtube.com/watch?v=qw7HDITpTR4&t=543)

@@ -19,6 +19,6 @@ Nate presents a three-layer economic framework for understanding where AI intens
 
 ## Key Points
 
-- Mid-tier digital professional services firms (marketing agencies, IT consultancies, design firms) face existential risk: their cognitive production is being commoditized from below by 3-person AI-native teams and from above by giants with distribution advantages
-- Physical, local, relationship-heavy businesses (plumbing, dentistry, trades) are protected because AI cannot increase market contestability; for these firms, AI investment should focus on back-office automation rather than transformation
-- AI-native startups must run toward second-layer bottlenecks (compliance, audit infrastructure, accountability wrappers, workflow orchestration) because pure cognitive production is a depreciating asset with compressing margins
+- Mid-tier digital professional services firms (marketing agencies, IT consultancies, design firms) face existential risk: their cognitive production is being commoditized from below by 3-person AI-native teams and from above by giants with distribution advantages [10:09](https://www.youtube.com/watch?v=5Et9WoDCsYs&t=609)
+- Physical, local, relationship-heavy businesses (plumbing, dentistry, trades) are protected because AI cannot increase market contestability; for these firms, AI investment should focus on back-office automation rather than transformation [13:58](https://www.youtube.com/watch?v=5Et9WoDCsYs&t=838)
+- AI-native startups must run toward second-layer bottlenecks (compliance, audit infrastructure, accountability wrappers, workflow orchestration) because pure cognitive production is a depreciating asset with compressing margins [16:31](https://www.youtube.com/watch?v=5Et9WoDCsYs&t=991)

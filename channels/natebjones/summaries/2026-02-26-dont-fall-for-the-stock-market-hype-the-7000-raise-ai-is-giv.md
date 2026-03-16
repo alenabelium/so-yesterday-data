@@ -19,6 +19,6 @@ A viral speculative fiction piece about AI-driven economic collapse crashed the 
 
 ## Key Points
 
-- The gap between rapidly advancing AI capabilities and the much slower rate of societal adoption creates asymmetric economic returns for early, aggressive adopters -- and social inertia means this advantage persists longer than most models predict.
-- Both doomer and boomer narratives assume AI capabilities translate almost instantly into economic impact; in reality, regulatory, organizational, cultural, and trust inertia dramatically slow the conversion from "AI can do this" to "the economy has reorganized around AI."
-- The most valuable career move is to become the person who can bridge technical AI understanding, real workflow knowledge, and business implementation -- mapping the capability-dissipation gap in your own domain and systematically closing it.
+- The gap between rapidly advancing AI capabilities and the much slower rate of societal adoption creates asymmetric economic returns for early, aggressive adopters -- and social inertia means this advantage persists longer than most models predict. [22:00](https://www.youtube.com/watch?v=q6pbQ5li5Cg&t=1320)
+- Both doomer and boomer narratives assume AI capabilities translate almost instantly into economic impact; in reality, regulatory, organizational, cultural, and trust inertia dramatically slow the conversion from "AI can do this" to "the economy has reorganized around AI." [12:04](https://www.youtube.com/watch?v=q6pbQ5li5Cg&t=724)
+- The most valuable career move is to become the person who can bridge technical AI understanding, real workflow knowledge, and business implementation -- mapping the capability-dissipation gap in your own domain and systematically closing it. [28:31](https://www.youtube.com/watch?v=q6pbQ5li5Cg&t=1711)

@@ -20,6 +20,6 @@ This WTF episode features Ben Horowitz of Andreessen Horowitz alongside the regu
 
 ## Key Points
 
-- Recursive self-improvement is already happening at all frontier labs, with models being used to develop their successor models; the panel argues the distinction between human-in-the-loop and human-out-of-the-loop RSI is becoming a "George Jetson button" where humans just press approve repeatedly.
-- The xAI executive exodus likely stems from a natural reorg after the SpaceX merger rather than ITAR concerns, but the panel warns that restricting immigrant talent in AI -- particularly Chinese nationals -- threatens America's AI dominance and urges green cards be stapled to PhD diplomas.
-- Eric Schmidt publicly stated AI cannot be paused due to competitive incentives across countries and companies; Alex argues AI can be paused but should not be, given 150,000 people dying daily on Earth and AI being the best chance to stop it.
+- Recursive self-improvement is already happening at all frontier labs, with models being used to develop their successor models; the panel argues the distinction between human-in-the-loop and human-out-of-the-loop RSI is becoming a "George Jetson button" where humans just press approve repeatedly. [34:27](https://www.youtube.com/watch?v=C1GLT9_tag0&t=2067)
+- The xAI executive exodus likely stems from a natural reorg after the SpaceX merger rather than ITAR concerns, but the panel warns that restricting immigrant talent in AI -- particularly Chinese nationals -- threatens America's AI dominance and urges green cards be stapled to PhD diplomas. [29:50](https://www.youtube.com/watch?v=C1GLT9_tag0&t=1790)
+- Eric Schmidt publicly stated AI cannot be paused due to competitive incentives across countries and companies; Alex argues AI can be paused but should not be, given 150,000 people dying daily on Earth and AI being the best chance to stop it. [43:32](https://www.youtube.com/watch?v=C1GLT9_tag0&t=2612)

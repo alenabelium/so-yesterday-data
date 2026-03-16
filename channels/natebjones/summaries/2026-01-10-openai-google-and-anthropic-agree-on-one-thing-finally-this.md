@@ -19,6 +19,6 @@ Nate delivers a rapid-fire recap of the 10 most important AI stories from early 
 
 ## Key Points
 
-- MCP (Model Context Protocol) is being donated to the Linux Foundation's Agentic AI foundation alongside other projects, creating the precondition for a real middleware market where tool use becomes commodity infrastructure
-- OpenAI publicly acknowledged that prompt injection is unlikely to ever be fully solved, pushing the entire agent industry toward a permanent seat-belt mindset of constrained execution, approval gates, and comprehensive logging
-- Cursor's acquisition of Graphite signals that AI coding tools are evolving from editors into full delivery systems that own review, merge, CI pipelines, and organizational trust of AI-generated code
+- MCP (Model Context Protocol) is being donated to the Linux Foundation's Agentic AI foundation alongside other projects, creating the precondition for a real middleware market where tool use becomes commodity infrastructure [05:32](https://www.youtube.com/watch?v=TTMOSR-nKjg&t=332)
+- OpenAI publicly acknowledged that prompt injection is unlikely to ever be fully solved, pushing the entire agent industry toward a permanent seat-belt mindset of constrained execution, approval gates, and comprehensive logging [09:23](https://www.youtube.com/watch?v=TTMOSR-nKjg&t=563)
+- Cursor's acquisition of Graphite signals that AI coding tools are evolving from editors into full delivery systems that own review, merge, CI pipelines, and organizational trust of AI-generated code [10:47](https://www.youtube.com/watch?v=TTMOSR-nKjg&t=647)

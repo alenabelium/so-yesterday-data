@@ -19,6 +19,6 @@ The biggest failure mode in AI agents is not hallucination but intent misalignme
 
 ## Key Points
 
-- Intent is not in the text the way context is: user priorities, tradeoffs, and definitions of "done" are typically implicit, and LLMs fill gaps with plausible but wrong assumptions
-- Builders should separate interpretation from execution in agent architectures, forcing the system to surface its understanding before taking irreversible actions
-- Externalizing intent as a standalone document (goals, failure conditions, tradeoffs) creates a versionable interface that decouples intent management from prompt engineering
+- Intent is not in the text the way context is: user priorities, tradeoffs, and definitions of "done" are typically implicit, and LLMs fill gaps with plausible but wrong assumptions [02:37](https://www.youtube.com/watch?v=T74uZgfu6mU&t=157)
+- Builders should separate interpretation from execution in agent architectures, forcing the system to surface its understanding before taking irreversible actions [14:06](https://www.youtube.com/watch?v=T74uZgfu6mU&t=846)
+- Externalizing intent as a standalone document (goals, failure conditions, tradeoffs) creates a versionable interface that decouples intent management from prompt engineering [09:22](https://www.youtube.com/watch?v=T74uZgfu6mU&t=562)

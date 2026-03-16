@@ -19,6 +19,6 @@ With Nature declaring AGI has arrived and 86% of students globally using AI, the
 
 ## Key Points
 
-- The quality of AI output is determined by human specification quality, so children (and adults) must build genuine domain understanding through effortful practice before they can effectively direct and evaluate AI tools.
-- Seven principles for AI-era education include: foundation before leverage, specification as the new literacy, be a director not a passenger, sequence the autonomy, teach kids to catch the machine, build don't browse, and attempt before augmenting.
-- AI detection in student work is mathematically impossible and should be abandoned; instead, schools should fundamentally rethink what they measure, focusing on metacognition -- the ability to move strategically between personal knowledge and AI-assisted work.
+- The quality of AI output is determined by human specification quality, so children (and adults) must build genuine domain understanding through effortful practice before they can effectively direct and evaluate AI tools. [15:49](https://www.youtube.com/watch?v=2ghhiPLg-jg&t=949)
+- Seven principles for AI-era education include: foundation before leverage, specification as the new literacy, be a director not a passenger, sequence the autonomy, teach kids to catch the machine, build don't browse, and attempt before augmenting. [21:37](https://www.youtube.com/watch?v=2ghhiPLg-jg&t=1297)
+- AI detection in student work is mathematically impossible and should be abandoned; instead, schools should fundamentally rethink what they measure, focusing on metacognition -- the ability to move strategically between personal knowledge and AI-assisted work. [10:00](https://www.youtube.com/watch?v=2ghhiPLg-jg&t=600)

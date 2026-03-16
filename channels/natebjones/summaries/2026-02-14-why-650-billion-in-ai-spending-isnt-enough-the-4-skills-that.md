@@ -19,6 +19,6 @@ Google announced $175-185 billion in 2026 AI infrastructure capex, roughly doubl
 
 ## Key Points
 
-- The shift from training-phase spending to inference-phase spending changes the math entirely: agents reviewing contracts, writing code, and managing workflows generate continuous token consumption that dwarfs chatbot usage, and nobody had properly modeled this demand.
-- Every prior infrastructure inversion (railroads, fiber, cloud) followed the same pattern of massive overbuilding, panic, then discovery of transformative applications -- but this cycle is compressed to roughly 18 months because agent demand signals arrive immediately.
-- Four human skills survive the AI infrastructure shift: taste (distinguishing competent from extraordinary output), exquisite domain judgment, phenomenal ramp speed (learning at the pace of change), and relentless honesty about where personal value is migrating.
+- The shift from training-phase spending to inference-phase spending changes the math entirely: agents reviewing contracts, writing code, and managing workflows generate continuous token consumption that dwarfs chatbot usage, and nobody had properly modeled this demand. [03:01](https://www.youtube.com/watch?v=NCgdpbEvNVA&t=181)
+- Every prior infrastructure inversion (railroads, fiber, cloud) followed the same pattern of massive overbuilding, panic, then discovery of transformative applications -- but this cycle is compressed to roughly 18 months because agent demand signals arrive immediately. [08:21](https://www.youtube.com/watch?v=NCgdpbEvNVA&t=501)
+- Four human skills survive the AI infrastructure shift: taste (distinguishing competent from extraordinary output), exquisite domain judgment, phenomenal ramp speed (learning at the pace of change), and relentless honesty about where personal value is migrating. [20:26](https://www.youtube.com/watch?v=NCgdpbEvNVA&t=1226)

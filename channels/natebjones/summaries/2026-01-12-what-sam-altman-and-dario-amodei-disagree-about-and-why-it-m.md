@@ -19,6 +19,6 @@ Nate traces the divergence between OpenAI and Anthropic to the fundamentally dif
 
 ## Key Points
 
-- The two companies represent fundamentally different theories of safety: Altman treats deployment as a learning mechanism (YC-style iterate-with-users), while Amodei treats safety as a precondition with governance structures that can enforce slowdowns
-- OpenAI operates as intelligence-as-horizontal-interface, shipping across video, health, search, and coding like an internal Y Combinator incubating many bets; Anthropic operates as intelligence-as-vertical-specialty, stripping away distractions to maximize reasoning density and code reliability
-- Comparing Claude and ChatGPT is increasingly like comparing a hospital to a television studio; the market is big enough for both, and users should choose based on whether they need abundant generation or precise judgment amplification
+- The two companies represent fundamentally different theories of safety: Altman treats deployment as a learning mechanism (YC-style iterate-with-users), while Amodei treats safety as a precondition with governance structures that can enforce slowdowns [05:16](https://www.youtube.com/watch?v=M9TJizOxNFk&t=316)
+- OpenAI operates as intelligence-as-horizontal-interface, shipping across video, health, search, and coding like an internal Y Combinator incubating many bets; Anthropic operates as intelligence-as-vertical-specialty, stripping away distractions to maximize reasoning density and code reliability [14:33](https://www.youtube.com/watch?v=M9TJizOxNFk&t=873)
+- Comparing Claude and ChatGPT is increasingly like comparing a hospital to a television studio; the market is big enough for both, and users should choose based on whether they need abundant generation or precise judgment amplification [01:06](https://www.youtube.com/watch?v=M9TJizOxNFk&t=66)

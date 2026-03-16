@@ -19,6 +19,6 @@ Nate proposes using AI as a personal board of directors for career development, 
 
 ## Key Points
 
-- We are unreliable narrators of our own careers due to deep cognitive biases; AI provides a uniquely low-ego environment for honest self-assessment since people are less tempted to impress an AI than a human coach
-- The quarterly report prompt interviews you about commitments vs. reality, decisions made, what you optimized for, and what you avoided, producing a document designed to invite scrutiny rather than applause
-- LLMs can instantiate multiple board member personas in a single conversation, providing diverse critical perspectives on your career that would be impractical to assemble with human advisors
+- We are unreliable narrators of our own careers due to deep cognitive biases; AI provides a uniquely low-ego environment for honest self-assessment since people are less tempted to impress an AI than a human coach [02:48](https://www.youtube.com/watch?v=BaC5FEN2e4Y&t=168)
+- The quarterly report prompt interviews you about commitments vs. reality, decisions made, what you optimized for, and what you avoided, producing a document designed to invite scrutiny rather than applause [08:06](https://www.youtube.com/watch?v=BaC5FEN2e4Y&t=486)
+- LLMs can instantiate multiple board member personas in a single conversation, providing diverse critical perspectives on your career that would be impractical to assemble with human advisors [09:59](https://www.youtube.com/watch?v=BaC5FEN2e4Y&t=599)

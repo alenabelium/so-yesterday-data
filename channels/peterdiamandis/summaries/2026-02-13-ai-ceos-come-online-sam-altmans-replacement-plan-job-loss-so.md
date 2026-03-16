@@ -20,6 +20,6 @@ This Moonshots episode covers Sam Altman's public statement that he would welcom
 
 ## Key Points
 
-- Sam Altman stated he would not stand in the way of AI becoming CEO of OpenAI, and the panel argues that 90% of CEO work (information routing, document processing) is already automatable, with the remaining strategic role becoming the last human holdout.
-- OpenAI's model release cadence has compressed from 97 days to 29 days, driven by intensifying competition and the shift from pre-training-dominated cycles to post-training and recursive self-improvement eras where models are rewriting their own code.
-- The top five US AI unicorns now exceed $1.2 trillion in combined value, surpassing all dot-com era IPOs, and the panel warns that the current window where cutting-edge AI is freely accessible to consumers will likely close as models become proprietary competitive advantages.
+- Sam Altman stated he would not stand in the way of AI becoming CEO of OpenAI, and the panel argues that 90% of CEO work (information routing, document processing) is already automatable, with the remaining strategic role becoming the last human holdout. [51:40](https://www.youtube.com/watch?v=6P0uTDGDr-I&t=3100)
+- OpenAI's model release cadence has compressed from 97 days to 29 days, driven by intensifying competition and the shift from pre-training-dominated cycles to post-training and recursive self-improvement eras where models are rewriting their own code. [14:57](https://www.youtube.com/watch?v=6P0uTDGDr-I&t=897)
+- The top five US AI unicorns now exceed $1.2 trillion in combined value, surpassing all dot-com era IPOs, and the panel warns that the current window where cutting-edge AI is freely accessible to consumers will likely close as models become proprietary competitive advantages. [36:52](https://www.youtube.com/watch?v=6P0uTDGDr-I&t=2212)

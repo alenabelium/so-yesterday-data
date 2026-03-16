@@ -19,6 +19,6 @@ This speculative fiction piece imagines the United States in 2032 after sustaine
 
 ## Key Points
 
-- The story envisions a fully AI-integrated economy where autonomous cargo pods, delivery bots, and real-time crop-monitoring dirigibles operate seamlessly, and social cohesion itself becomes a form of infrastructure maintained through narrative engineering.
-- A counter-cultural movement called the "Unclocked" in Appalachia rejects AI identity credentials and algorithmic optimization, and federal policy treats them as protected zones -- suggesting that even in an abundance scenario, preserving analog human experience remains essential.
-- The piece closes with the paradox at the heart of accelerationism: Maya, surrounded by exponential growth, finds meaning not in the sprint but in her own irreplaceably slow human pulse, suggesting that the value of humanity persists precisely because it cannot be optimized.
+- The story envisions a fully AI-integrated economy where autonomous cargo pods, delivery bots, and real-time crop-monitoring dirigibles operate seamlessly, and social cohesion itself becomes a form of infrastructure maintained through narrative engineering. [00:04](https://www.youtube.com/watch?v=fqymOJ-Ca5Y&t=4)
+- A counter-cultural movement called the "Unclocked" in Appalachia rejects AI identity credentials and algorithmic optimization, and federal policy treats them as protected zones -- suggesting that even in an abundance scenario, preserving analog human experience remains essential. [01:55](https://www.youtube.com/watch?v=fqymOJ-Ca5Y&t=115)
+- The piece closes with the paradox at the heart of accelerationism: Maya, surrounded by exponential growth, finds meaning not in the sprint but in her own irreplaceably slow human pulse, suggesting that the value of humanity persists precisely because it cannot be optimized. [03:40](https://www.youtube.com/watch?v=fqymOJ-Ca5Y&t=220)

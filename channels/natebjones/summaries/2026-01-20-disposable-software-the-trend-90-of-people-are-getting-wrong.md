@@ -19,6 +19,6 @@ Disposable software is real -- the cost of generating code has collapsed toward 
 
 ## Key Points
 
-- Disposable software is two different things: throwaway personal tools (genuinely valuable democratization) and disposable enterprise features (viable only for developer-audience products where users tolerate constant change).
-- Attention, not software cost, is the real constraint -- vibe-coding internal tools diverts highly paid builders from core business opportunities, and AI-generated code still accumulates technical debt, security vulnerabilities, and maintenance burden.
-- The winning enterprise AI strategy is proactive reliability: earn trust through consistent uptime and quality first, then extend into autonomous agents that surface value and take action without being asked, rather than shipping disposable features at Cursor-like velocity.
+- Disposable software is two different things: throwaway personal tools (genuinely valuable democratization) and disposable enterprise features (viable only for developer-audience products where users tolerate constant change). [04:27](https://www.youtube.com/watch?v=ra7nYJe86GI&t=267)
+- Attention, not software cost, is the real constraint -- vibe-coding internal tools diverts highly paid builders from core business opportunities, and AI-generated code still accumulates technical debt, security vulnerabilities, and maintenance burden. [10:13](https://www.youtube.com/watch?v=ra7nYJe86GI&t=613)
+- The winning enterprise AI strategy is proactive reliability: earn trust through consistent uptime and quality first, then extend into autonomous agents that surface value and take action without being asked, rather than shipping disposable features at Cursor-like velocity. [13:53](https://www.youtube.com/watch?v=ra7nYJe86GI&t=833)

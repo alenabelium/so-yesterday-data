@@ -19,6 +19,6 @@ Claude Code and OpenAI's Codex represent two fundamentally different philosophie
 
 ## Key Points
 
-- Senior engineers report dramatically higher productivity with Codex because they have the domain expertise to write precise specs that autonomous agents can execute faithfully over extended periods; junior developers and non-technical workers benefit more from Claude Code's iterative dialogue that helps develop clarity through the building process.
-- GPT 5.2 outperforms even the specialized Codex model on long-horizon autonomous tasks, suggesting that raw reasoning capability and sustained focus matter more than narrow coding training for extended autonomous work.
-- The meta-question for competitive advantage in 2026 is how quickly organizations can develop high-quality intent specification skills across their workforce -- the ability to define what "done" and "correct" look like for both technical and non-technical work.
+- Senior engineers report dramatically higher productivity with Codex because they have the domain expertise to write precise specs that autonomous agents can execute faithfully over extended periods; junior developers and non-technical workers benefit more from Claude Code's iterative dialogue that helps develop clarity through the building process. [14:03](https://www.youtube.com/watch?v=hDpjMJw3flk&t=843)
+- GPT 5.2 outperforms even the specialized Codex model on long-horizon autonomous tasks, suggesting that raw reasoning capability and sustained focus matter more than narrow coding training for extended autonomous work. [06:43](https://www.youtube.com/watch?v=hDpjMJw3flk&t=403)
+- The meta-question for competitive advantage in 2026 is how quickly organizations can develop high-quality intent specification skills across their workforce -- the ability to define what "done" and "correct" look like for both technical and non-technical work. [17:20](https://www.youtube.com/watch?v=hDpjMJw3flk&t=1040)

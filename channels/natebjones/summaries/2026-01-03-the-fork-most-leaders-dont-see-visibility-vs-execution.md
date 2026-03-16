@@ -19,6 +19,6 @@ Nate argues that AI is creating a dangerous fork for leaders: the temptation to 
 
 ## Key Points
 
-- AI makes fake legibility dangerously cheap: AI-generated dashboards, risk scores, and productivity metrics can look authoritative without reflecting real outcomes, giving leadership overconfidence in the wrong map
-- A 5-person AI-augmented tiger team can now produce what 20-30 people produced in traditional structures, making small empowered teams the real production units of a company
-- Leaders should use AI as a cheap historian that reconstructs meaning after the work, not as a bureaucrat that dictates it from above; measure teams by outcomes and impact, not adherence to AI-generated plans
+- AI makes fake legibility dangerously cheap: AI-generated dashboards, risk scores, and productivity metrics can look authoritative without reflecting real outcomes, giving leadership overconfidence in the wrong map [03:34](https://www.youtube.com/watch?v=s1eqzfXCgXI&t=214)
+- A 5-person AI-augmented tiger team can now produce what 20-30 people produced in traditional structures, making small empowered teams the real production units of a company [03:34](https://www.youtube.com/watch?v=s1eqzfXCgXI&t=214)
+- Leaders should use AI as a cheap historian that reconstructs meaning after the work, not as a bureaucrat that dictates it from above; measure teams by outcomes and impact, not adherence to AI-generated plans [09:25](https://www.youtube.com/watch?v=s1eqzfXCgXI&t=565)

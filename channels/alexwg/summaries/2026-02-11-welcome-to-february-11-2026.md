@@ -20,6 +20,6 @@ This briefing reports that a hyperbolic regression of AI research papers now pre
 
 ## Key Points
 
-- The recursive self-improvement loop is accelerating: XAI's co-founder warns it goes live within 12 months, multi-model orchestration is setting new benchmarks, and Unsloth AI's Triton kernels deliver 12x faster training with 35% less VRAM.
-- Autonomous science is crossing critical thresholds -- Isomorphic Labs' ISODE doubles AlphaFold 3's protein prediction accuracy, and a Chinese multi-agent robot system coordinated 19 LLM agents to optimize perovskite synthesis in 3.5 hours instead of months.
-- The decoupling of labor and value is now quantifiable: Nvidia is 20x more valuable than 1985 IBM with one-tenth the employees, the US population is expected to decline for the first time this year, and the next-generation infrastructure spans from nuclear micro-reactors to SpaceX's Earth-centered Dyson swarm design.
+- The recursive self-improvement loop is accelerating: XAI's co-founder warns it goes live within 12 months, multi-model orchestration is setting new benchmarks, and Unsloth AI's Triton kernels deliver 12x faster training with 35% less VRAM. [00:00](https://www.youtube.com/watch?v=2KVJ1IbZUS8&t=0)
+- Autonomous science is crossing critical thresholds -- Isomorphic Labs' ISODE doubles AlphaFold 3's protein prediction accuracy, and a Chinese multi-agent robot system coordinated 19 LLM agents to optimize perovskite synthesis in 3.5 hours instead of months. [01:10](https://www.youtube.com/watch?v=2KVJ1IbZUS8&t=70)
+- The decoupling of labor and value is now quantifiable: Nvidia is 20x more valuable than 1985 IBM with one-tenth the employees, the US population is expected to decline for the first time this year, and the next-generation infrastructure spans from nuclear micro-reactors to SpaceX's Earth-centered Dyson swarm design. [03:05](https://www.youtube.com/watch?v=2KVJ1IbZUS8&t=185)

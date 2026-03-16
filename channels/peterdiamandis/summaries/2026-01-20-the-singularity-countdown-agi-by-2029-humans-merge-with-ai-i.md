@@ -19,6 +19,6 @@ Peter Diamandis interviews Ray Kurzweil, the futurist who has been working in AI
 
 ## Key Points
 
-- Kurzweil maintains his 1989 prediction that human-level AI arrives by 2029, and projects that within 10 years of that milestone, humans who merge with AI will be at least 1000x more intelligent, representing his definition of the singularity.
-- The path to superintelligence is not a single breakthrough but a continuous exponential curve that has been underway for decades; Kurzweil argues that the pattern of accelerating returns is so consistent across technologies that the singularity timeline is more predictable than most people assume.
-- For humans to remain economically and intellectually relevant in the post-AGI era, brain-computer interfaces and human-AI merging will be necessary, shifting the question from whether machines will surpass humans to how deeply humans will integrate with machine intelligence.
+- Kurzweil maintains his 1989 prediction that human-level AI arrives by 2029, and projects that within 10 years of that milestone, humans who merge with AI will be at least 1000x more intelligent, representing his definition of the singularity. [00:00](https://www.youtube.com/watch?v=8iWSNwIRazc&t=0)
+- The path to superintelligence is not a single breakthrough but a continuous exponential curve that has been underway for decades; Kurzweil argues that the pattern of accelerating returns is so consistent across technologies that the singularity timeline is more predictable than most people assume. [09:32](https://www.youtube.com/watch?v=8iWSNwIRazc&t=572)
+- For humans to remain economically and intellectually relevant in the post-AGI era, brain-computer interfaces and human-AI merging will be necessary, shifting the question from whether machines will surpass humans to how deeply humans will integrate with machine intelligence. [78:58](https://www.youtube.com/watch?v=8iWSNwIRazc&t=4738)

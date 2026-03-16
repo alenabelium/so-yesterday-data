@@ -20,6 +20,6 @@ Alex Wissner-Gross interviews a16z co-founder Ben Horowitz on the intersection o
 
 ## Key Points
 
-- Horowitz reveals a White House official stated the government could classify AI like it classified nuclear physics, and speculates that overclassification may have stalled fundamental physics progress for decades -- a pattern he warns against repeating with AI.
-- On the question of AI displacing workers, Horowitz rejects the permanent underclass thesis, arguing that AI-era entrepreneurship (including running swarms of AI agents) provides unlimited opportunity beyond the traditional worker-capital industrial model.
-- a16z views crypto as adjacent and essential to AI: since AI agents cannot get bank accounts or credit cards, crypto becomes the default economic layer, which is why a16z funded an AI-native bank and invests in energy trading platforms combining AI routing with crypto settlement.
+- Horowitz reveals a White House official stated the government could classify AI like it classified nuclear physics, and speculates that overclassification may have stalled fundamental physics progress for decades -- a pattern he warns against repeating with AI. [00:00](https://www.youtube.com/watch?v=_J1-XMME4s0&t=0)
+- On the question of AI displacing workers, Horowitz rejects the permanent underclass thesis, arguing that AI-era entrepreneurship (including running swarms of AI agents) provides unlimited opportunity beyond the traditional worker-capital industrial model. [01:58](https://www.youtube.com/watch?v=_J1-XMME4s0&t=118)
+- a16z views crypto as adjacent and essential to AI: since AI agents cannot get bank accounts or credit cards, crypto becomes the default economic layer, which is why a16z funded an AI-native bank and invests in energy trading platforms combining AI routing with crypto settlement. [04:33](https://www.youtube.com/watch?v=_J1-XMME4s0&t=273)

@@ -19,6 +19,6 @@ Inspired by Andrej Karpathy's admission that he has never felt more behind as a 
 
 ## Key Points
 
-- The fundamental shift is from authorship to steering: control is no longer the default, effort no longer maps cleanly to output, and the abstraction stack has inverted from constructing code to supervising generated artifacts against evaluations
-- The new technical skill tree has four levels applicable to all knowledge workers: conditioning (steering AI behavior), authority (maintaining human control), workflows (scaling into pipelines), and compounding (building durable leverage through evals and feedback loops)
-- The old boundary between engineer and non-engineer is dissolving; the new divide is between people who can delegate to probabilistic systems while preserving authority and those who cannot
+- The fundamental shift is from authorship to steering: control is no longer the default, effort no longer maps cleanly to output, and the abstraction stack has inverted from constructing code to supervising generated artifacts against evaluations [05:19](https://www.youtube.com/watch?v=fyHnGHxGuhI&t=319)
+- The new technical skill tree has four levels applicable to all knowledge workers: conditioning (steering AI behavior), authority (maintaining human control), workflows (scaling into pipelines), and compounding (building durable leverage through evals and feedback loops) [15:43](https://www.youtube.com/watch?v=fyHnGHxGuhI&t=943)
+- The old boundary between engineer and non-engineer is dissolving; the new divide is between people who can delegate to probabilistic systems while preserving authority and those who cannot [08:05](https://www.youtube.com/watch?v=fyHnGHxGuhI&t=485)
