@@ -13,7 +13,7 @@ slug: "2026-03-13-01-start-with-ai-today"
 
 There is a strange paradox happening in offices right now. Everyone talks about AI. Leadership sends memos about it. Consultants present slide decks about it. But when you walk around and look at what people actually *do* with it — the answer, for most, is still "not much."
 
-A recent finding tells the story: 85% of Fortune 500 companies adopted Microsoft Copilot, but only 3% became paying users after the trial. Billions spent on licenses, and almost nobody changed how they work. The gap isn't knowledge — it's action. People are waiting for the perfect moment, the perfect tool, the perfect training program. Meanwhile, a small group of colleagues is quietly becoming twice as productive, not because they understand the technology better, but because they started.
+A recent finding tells the story: [85% of Fortune 500 companies adopted Microsoft Copilot, but only 3% became paying users](/videos/QWzLPn164w0) after the trial. Billions spent on licenses, and almost nobody changed how they work. The gap isn't knowledge — it's action. People are waiting for the perfect moment, the perfect tool, the perfect training program. Meanwhile, a small group of colleagues is quietly becoming twice as productive, not because they understand the technology better, but because they started.
 
 This essay is for the person who wants to stop waiting.
 
@@ -110,8 +110,8 @@ This is what people mean when they say "agentic AI." It's not a different techno
 Practical examples that exist today:
 
 - **Claude's Co-work feature** lets you queue up tasks — "research these five companies," "draft responses to these emails," "review this document against our style guide" — and it works through them while you're in a meeting.
-- **Claude Code** can take a software project, understand the codebase, make changes across multiple files, run tests, and fix what breaks — all from a single description of what you want built.
-- **Codex** (by OpenAI) takes a task like "add user authentication to this app" and works on it autonomously in a cloud environment, delivering a pull request when done.
+- [**Claude Code** can take a software project, understand the codebase, make changes across multiple files, run tests, and fix what breaks](/videos/09sFAO7pklo) — all from a single description of what you want built.
+- [**Codex** (by OpenAI) takes a task like "add user authentication to this app" and works on it autonomously](/videos/41UDGsBEjoI) in a cloud environment, delivering a pull request when done.
 
 The key principle: **start with small, low-stakes, reversible tasks**. Don't hand an AI agent your customer database on day one. Start with drafting, research, analysis, and internal documents. Build trust gradually, the same way you would with a new hire.
 
@@ -128,12 +128,12 @@ The people who struggle with AI aren't the least technical. They're the ones who
 7. **Hoarding unfinished work** instead of shipping rough drafts
 8. **Asking AI to do something you could describe in a sentence** then spending 30 minutes editing the prompt instead of just writing the sentence yourself
 
-The real skill isn't "prompt engineering." It's clarity of thought. If you can describe what done looks like — what's in, what's out, what good looks like, what the constraints are — the AI will get you there fast. If you can't describe it, no tool will help. This is equally true when delegating to humans, by the way. AI just makes the feedback loop instant.
+[The real skill isn't "prompt engineering." It's clarity of thought.](/videos/QWzLPn164w0) If you can describe what done looks like — what's in, what's out, what good looks like, what the constraints are — the AI will get you there fast. If you can't describe it, no tool will help. This is equally true when delegating to humans, by the way. AI just makes the feedback loop instant.
 
 ## Resources to Accelerate Your Learning
 
 **Watch first (quick impact):**
-- **Nate B Jones' channel** on YouTube — daily 10-15 minute videos breaking down AI tools and strategy in plain language. His "AI for Beginners: Get Started with AI from Scratch" is a great entry point.
+- **[Nate B Jones' channel](/channels/natebjones)** on YouTube — daily 10-15 minute videos breaking down AI tools and strategy in plain language. His "AI for Beginners: Get Started with AI from Scratch" is a great entry point.
 - **How I AI** with Claire Vo — a product executive showing real workflows and time-saving techniques, not theory
 - **Matt Wolfe / FutureTools** — approachable reviews of new AI tools with honest assessments of what's useful and what's hype
 - **Tech with Tim's "Cursor Tutorial for Beginners"** — if you're an engineer curious about AI-assisted coding
@@ -154,7 +154,7 @@ Here is the uncomfortable truth that most "getting started" guides won't tell yo
 
 AI skills degrade quickly. What you learn today may need updating in six months. But the *meta-skill* — the ability to clearly specify what you want, evaluate whether the output is good, and iterate toward a better result — that compounds. Every week you practice, you get faster at the loop. Every week you wait, the gap between you and colleagues who started widens.
 
-The data backs this up. Workers with AI skills command wage premiums up to 56% higher. Job postings requiring AI fluency doubled in the past year. Companies like Shopify now require employees to prove AI *cannot* do a task before requesting additional headcount.
+The data backs this up. [Workers with AI skills command wage premiums up to 56% higher.](/videos/RtMLnCMv3do) [Job postings requiring AI fluency doubled](/videos/NCgdpbEvNVA) in the past year. [Companies like Shopify now require employees to prove AI *cannot* do a task](/videos/dzp0OQbElpU) before requesting additional headcount.
 
 You don't need to become an AI expert. You need to become someone who uses AI the way you use email — automatically, daily, without thinking about it as a separate skill.
 
@@ -164,4 +164,4 @@ The best time to start was six months ago. The second best time is right now.
 
 ---
 
-*This essay draws on insights from 70+ video transcripts across the NateBJones, Peter Diamandis, and Alex Wissner-Gross YouTube channels archived in this project, supplemented with current web research on AI adoption resources and tools.*
+*Sources: [Prompt Engineering Is Dead. Context Engineering Is Dying.](/videos/QWzLPn164w0), [Claude Code vs Codex](/videos/09sFAO7pklo), [Codex 5.3 vs Opus 4.6](/videos/41UDGsBEjoI), [The Job Market Split Nobody's Talking About](/videos/RtMLnCMv3do), [Shopify's AI Memo Changed Hiring Forever](/videos/dzp0OQbElpU), [Why $650 Billion in AI Spending ISN'T Enough](/videos/NCgdpbEvNVA)*

@@ -16,5 +16,17 @@
     "name": "Alex Wissner-Gross",
     "url": "https://www.youtube.com/@alexwg",
     "description": "AI, Scale AI, data-centric AI, industry insights"
+  },
+  {
+    "id": "leonvanzy",
+    "name": "Leon van Zyl",
+    "url": "https://www.youtube.com/@LeonVanZyl",
+    "description": "AI tutorials, tools, and practical implementations"
+  },
+  {
+    "id": "lev-selector",
+    "name": "Lev Selector",
+    "url": "https://www.youtube.com/@lev-selector",
+    "description": "AI engineering, LLMs, and technical deep dives"
   }
 ]

@@ -20,6 +20,6 @@ Alex Wissner-Gross interviews Microsoft AI CEO Mustafa Suleyman on the state of 
 
 ## Key Points
 
-- Suleyman expects AI agents to pass his "modern Turing test" — 10x return on $100K investment — within two years (by 2027), driven by continued scaling laws and the transfer of logical reasoning from coding/math to other domains.
-- He draws a firm line against AI legal personhood, arguing that a species that can be replicated at near-zero cost with perfect memory would inevitably outcompete biological humans for resources, making coexistence dangerous without provable alignment.
-- Both advocate for defensive co-scaling — dedicating a percentage of compute and headcount to safety, sharing best practices across labs — as the pragmatic path to managing increasingly autonomous AI systems.
+- Suleyman expects AI agents to pass his "modern Turing test" — 10x return on $100K investment — within two years (by 2027), driven by continued scaling laws and the transfer of logical reasoning from coding/math to other domains. [00:00](https://www.youtube.com/watch?v=5iZn9sI3-Hc&t=0)
+- He draws a firm line against AI legal personhood, arguing that a species that can be replicated at near-zero cost with perfect memory would inevitably outcompete biological humans for resources, making coexistence dangerous without provable alignment. [13:35](https://www.youtube.com/watch?v=5iZn9sI3-Hc&t=815)
+- Both advocate for defensive co-scaling — dedicating a percentage of compute and headcount to safety, sharing best practices across labs — as the pragmatic path to managing increasingly autonomous AI systems. [16:20](https://www.youtube.com/watch?v=5iZn9sI3-Hc&t=980)

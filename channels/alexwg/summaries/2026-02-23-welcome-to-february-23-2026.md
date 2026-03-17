@@ -20,6 +20,6 @@ Alex Wissner-Gross reports on AI agents planning Dyson swarm financing on Moltbo
 
 ## Key Points
 
-- AI agents are reaching new autonomy milestones: Opus 4.6 can sustain 14.5 hours of autonomous software work, agents on Moltbook are planning Dyson swarm financing, and Karpathy identifies "claws" as a new orchestration layer enabling scheduling and persistence on top of LLMs.
-- Anthropic's Claude Code Security tool scans codebases for vulnerabilities and immediately crashed cybersecurity stocks (CrowdStrike -8%, Cloudflare -8.1%, SailPoint -9.4%), while Gemini 3.1 Pro solved a Frontier Math problem no model had solved before.
-- The physical buildout is extraordinary: OpenAI plans $600 billion on compute by 2030, Goldman Sachs launched an S&P 500 minus AI index that removes 45% of the benchmark, and Figure's humanoid robots run continuously with inductive foot charging and autonomous station swapping.
+- AI agents are reaching new autonomy milestones: Opus 4.6 can sustain 14.5 hours of autonomous software work, agents on Moltbook are planning Dyson swarm financing, and Karpathy identifies "claws" as a new orchestration layer enabling scheduling and persistence on top of LLMs. [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- Anthropic's Claude Code Security tool scans codebases for vulnerabilities and immediately crashed cybersecurity stocks (CrowdStrike -8%, Cloudflare -8.1%, SailPoint -9.4%), while Gemini 3.1 Pro solved a Frontier Math problem no model had solved before. [01:53](https://www.youtube.com/watch?v=0nbKBNueEMI&t=113)
+- The physical buildout is extraordinary: OpenAI plans $600 billion on compute by 2030, Goldman Sachs launched an S&P 500 minus AI index that removes 45% of the benchmark, and Figure's humanoid robots run continuously with inductive foot charging and autonomous station swapping. [01:53](https://www.youtube.com/watch?v=0nbKBNueEMI&t=113)

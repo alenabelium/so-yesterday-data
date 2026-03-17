@@ -20,6 +20,6 @@ Competition is proving to be the singularity's most powerful accelerant. OpenAI'
 
 ## Key Points
 
-- Mathematics is being industrialized: Math Inc.'s Gaus formalized Vazovska's Fields Medal sphere-packing proof in 2 weeks with 200,000+ lines of verified code, catching two errors in the original arguments, with Stanford predicting mathematical abundance within a year.
-- Two Claude Code instances tasked with finding each other built a 2,495-line programming language in 12 minutes, while a solo researcher reverse-engineered Apple's undocumented M4 neural engine APIs to run Llama 2 at under a watt -- 80x more efficient than an A100.
-- The physical and economic infrastructure is being rebuilt around AI: Nvidia committed $4 billion to optical interconnects, Israel deployed laser defenses at $4 per shot versus $50,000 for Iron Dome missiles, and compute became a traded commodity with the first CFTC-regulated H100 price contracts.
+- Mathematics is being industrialized: Math Inc.'s Gaus formalized Vazovska's Fields Medal sphere-packing proof in 2 weeks with 200,000+ lines of verified code, catching two errors in the original arguments, with Stanford predicting mathematical abundance within a year. [00:00](https://www.youtube.com/watch?v=i9Fdt67S7iQ&t=0)
+- Two Claude Code instances tasked with finding each other built a 2,495-line programming language in 12 minutes, while a solo researcher reverse-engineered Apple's undocumented M4 neural engine APIs to run Llama 2 at under a watt -- 80x more efficient than an A100. [01:19](https://www.youtube.com/watch?v=i9Fdt67S7iQ&t=79)
+- The physical and economic infrastructure is being rebuilt around AI: Nvidia committed $4 billion to optical interconnects, Israel deployed laser defenses at $4 per shot versus $50,000 for Iron Dome missiles, and compute became a traded commodity with the first CFTC-regulated H100 price contracts. [02:48](https://www.youtube.com/watch?v=i9Fdt67S7iQ&t=168)

@@ -20,6 +20,6 @@ Eon Systems PBC, co-founded by Alex Wissner-Gross, has demonstrated what it clai
 
 ## Key Points
 
-- The demonstration integrates a complete connectome-based brain emulation of Drosophila melanogaster with a physics-simulated body in MuJoCo, producing multiple distinct behaviors driven by the emulated brain's own circuit dynamics rather than reinforcement learning policies.
-- This represents a qualitative threshold: prior work either modeled brains without bodies (like the original 2024 Nature paper) or animated bodies without brains (like DeepMind's RL-controlled fly), and C. elegans projects had far smaller nervous systems with limited behavioral repertoires.
-- Eon is now scaling toward a mouse brain emulation (70 million neurons) using expansion microscopy and tens of thousands of hours of calcium and voltage imaging, with the team framing the challenge as one of scale rather than kind.
+- The demonstration integrates a complete connectome-based brain emulation of Drosophila melanogaster with a physics-simulated body in MuJoCo, producing multiple distinct behaviors driven by the emulated brain's own circuit dynamics rather than reinforcement learning policies. [01:43](https://www.youtube.com/watch?v=e21OUXPlnhk&t=103)
+- This represents a qualitative threshold: prior work either modeled brains without bodies (like the original 2024 Nature paper) or animated bodies without brains (like DeepMind's RL-controlled fly), and C. elegans projects had far smaller nervous systems with limited behavioral repertoires. [01:43](https://www.youtube.com/watch?v=e21OUXPlnhk&t=103)
+- Eon is now scaling toward a mouse brain emulation (70 million neurons) using expansion microscopy and tens of thousands of hours of calcium and voltage imaging, with the team framing the challenge as one of scale rather than kind. [01:43](https://www.youtube.com/watch?v=e21OUXPlnhk&t=103)
