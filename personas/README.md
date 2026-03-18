@@ -11,13 +11,13 @@ Seven archetypes that capture where people stand in the AI transformation. These
 
 | # | Persona | One-Line Description |
 |---|---------|---------------------|
-| 1 | [The Observer](/personas/01-the-observer) | Watching from the sidelines, waiting for clarity or permission |
-| 2 | [The Practitioner](/personas/02-the-practitioner) | Using AI daily, building the habit loop, refining judgment |
-| 3 | [The Builder](/personas/03-the-builder) | Shipping software with AI -- from vibe coding to production |
-| 4 | [The Orchestrator](/personas/04-the-orchestrator) | Managing fleets of agents, writing specs not code |
-| 5 | [The Displaced Expert](/personas/05-the-displaced-expert) | Deep domain knowledge, struggling with identity shift |
-| 6 | [The Domain Translator](/personas/06-the-domain-translator) | Bridging AI capabilities with industry-specific reality |
-| 7 | [The Solo Operator](/personas/07-the-solo-operator) | One person, AI-amplified, building at company scale |
+| 1 | [The Observer](/personas/01-observer) | Watching from the sidelines, waiting for clarity or permission |
+| 2 | [The Practitioner](/personas/02-practitioner) | Using AI daily, building the habit loop, refining judgment |
+| 3 | [The Builder](/personas/03-builder) | Shipping software with AI -- from vibe coding to production |
+| 4 | [The Orchestrator](/personas/04-orchestrator) | Managing fleets of agents, writing specs not code |
+| 5 | [The Displaced Expert](/personas/05-displaced-expert) | Deep domain knowledge, struggling with identity shift |
+| 6 | [The Domain Translator](/personas/06-domain-translator) | Bridging AI capabilities with industry-specific reality |
+| 7 | [The Solo Operator](/personas/07-solo-operator) | One person, AI-amplified, building at company scale |
 
 ## How These Were Derived
 
