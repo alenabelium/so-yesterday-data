@@ -60,6 +60,34 @@ Your expertise is not a liability. It's the foundation for the most valuable AI 
 - [The Job Market Split Nobody's Talking About](/videos/RtMLnCMv3do) -- the bifurcation is real
 - [Why Your Best Employees Quit Using AI After 3 Weeks](/videos/EZ4EjJ0iDDQ) -- the permission gap explained
 
+## Level Up
+
+### Mindset Shift
+
+From "AI threatens my expertise" to "my expertise is the AI's missing piece." Your domain knowledge isn't being replaced — it's becoming the verification layer, constraint library, and quality standard that makes AI output actually usable in your field.
+
+### Skill Milestones
+
+**→ Domain Translator:**
+- Use AI on your strongest domain task and verify the output using your expert judgment
+- Build a constraint library: document 10+ reasons you've rejected AI output in your domain
+- Achieve faster output (not just different output) on one core workflow using AI
+- Explain to a non-expert what AI gets wrong in your domain and why
+- Accept the "wobble" — 2-3 weeks of worse output before momentum builds
+
+**→ Orchestrator:**
+- Delegate implementation to AI agents while retaining strategic oversight
+- Write specifications precise enough that an agent produces domain-correct output
+- Shift satisfaction from "I did this" to "I designed the system that did this"
+
+### Essential Reading
+
+- [The Displaced Expert](/knowledge/the-displaced-expert) — understanding your position
+- [Identity Threat](/knowledge/identity-threat) — naming the psychological barrier
+- [Rejection Competency](/knowledge/rejection-competency) — your expertise as quality filter
+- [Domain Translation](/knowledge/domain-translation) — the bridge you're building
+- [The Bicycle Problem](/essays/2026-03-13-02-the-bicycle-problem) — speed creates stability
+
 ## Next Persona
 
 When you channel your domain expertise through AI systems to produce at 10x pace → **[The Domain Translator](/personas/06-the-domain-translator)**

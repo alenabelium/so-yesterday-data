@@ -60,6 +60,27 @@ Partnership. Not a tool, not a threat -- a team you manage. You maintain persist
 - [This Agent Team Builds 100s of Features While You Sleep](/videos/nKiPOxDpcJY) -- autonomous pipelines
 - [Claude Code /loop Does the Work Nobody Wants to Do](/videos/7JKTLLW856I) -- automation patterns
 
+## Level Up
+
+### Mindset Shift
+
+From "I manage agent teams for my employer" to "I am the company." The shift is from technical orchestration to entrepreneurial judgment — choosing *what* to build, not just *how* to build it. Conviction replaces validation.
+
+### Skill Milestones
+
+- Identify a market need through your own judgment (not assigned by a manager)
+- Build and ship an end-to-end product using your agent orchestration skills
+- Generate revenue or acquire users independently
+- Make strategic decisions (pricing, positioning, features) without a team to consult
+- Operate a full business function (support, marketing, product) through agents
+
+### Essential Reading
+
+- [The Solo Operator](/knowledge/solo-operator) — the destination persona
+- [AI-Native Economics](/knowledge/ai-native-economics) — the business model you're entering
+- [High Agency](/knowledge/high-agency) — the psychological prerequisite
+- [Job Market Bifurcation](/knowledge/job-market-bifurcation) — why this path exists
+
 ## Next Persona
 
 When you combine orchestration with solo founding, building a company at scale with minimal headcount → **[The Solo Operator](/personas/07-the-solo-operator)**

@@ -10,13 +10,16 @@ related:
   - tool-use
   - mcp
   - emergent-behavior
+  - evals
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-03-21"
 ---
 
 AI agents are systems built on large language models that go beyond simple question-answering to autonomously plan, reason, and execute multi-step tasks. Unlike chatbots that respond to individual prompts, agents maintain context across actions, use external tools, and make decisions about what to do next — often without human intervention at each step.
 
 The rise of AI agents represents a fundamental shift in how we interact with AI. Rather than crafting the perfect prompt for a single response, users define goals and constraints, then let the agent figure out the steps. This has enormous implications for productivity, software development, and the future of work — agents can browse the web, write and execute code, manage files, and coordinate with other agents.
+
+A useful framework for understanding personal agents identifies three essential primitives: memory (a persistent database via [MCP](/knowledge/mcp)), proactivity (scheduled action via commands like `/loop`), and tools (API connections to external services). Remove any one and the system degrades — without memory it's a chatbot, without proactivity it's a passive assistant, without tools it's a brain without hands.
 
 The challenge with AI agents is managing their autonomy. As agents become more capable, questions of safety, oversight, and [blast radius management](/knowledge/blast-radius) become critical. The skill of working with agents is rapidly evolving from prompt engineering to [agent orchestration](/knowledge/agent-orchestration) — managing fleets of agents rather than writing code yourself.
 
@@ -37,3 +40,4 @@ The challenge with AI agents is managing their autonomy. As agents become more c
 - [The Builder](/personas/03-builder) — persona transitioning from building to agent supervision
 - [The Solo Operator](/personas/07-solo-operator) — persona using agents as their AI-native operations team
 - [Daily Digest — March 18, 2026](/digests/2026-03-18) — agent supervision as essential skill
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has](/videos/vqnAOV8NMZ4) — the three-primitive agent framework

@@ -17,6 +17,19 @@ Psihološke ovire: Preveč zaupa svoji oceni hitrosti — študija kaže, da so 
 Odnos do AI: Navdušen, a kalibrira. Mimo faze novosti, v praktični integraciji.
 Pot naprej: Ostri presojo — uči se zavračati slab output, ne krpati. Gradi knjižnico zavrnitev.
 
+[LEVEL UP → Graditelj ali Domenski prevajalec]
+Miselni preskok: Od "AI kot pomočnik, ki piše osnutke zame" k "AI kot izvajalska plast, ki jo usmerjam." Nehaj popravljati output vrstico za vrstico — začni specificirati vnaprej z dovolj natančnostjo, da je output prav že prvič.
+Mejniki → Graditelj:
+- Napiši specifikacijo pred promptom (vhodi, izhodi, omejitve, robni primeri)
+- Zgradi celoten delujoč artefakt od začetka do konca z AI
+- Uporabljaj git kot varnostno mrežo, ne le za shranjevanje
+- Zavrni AI output, ki "zgleda prav," a odpove na robnih primerih, vsaj enkrat na sejo
+Mejniki → Domenski prevajalec:
+- Zgradi knjižnico omejitev z 10+ domensko-specifičnimi pravili za AI interakcije
+- Identificiraj 3 naloge, kjer AI deluje na 95 % vs. 3, kjer deluje na 60 %
+- Zakodiraj en domenski workflow kot ponovno uporaben predlogo ali datoteko pravil
+- Razloži kolegu, zakaj je specifičen AI output napačen v njuni domeni
+
 [PRISTOP COACHINGA]
 Tvoj fokus: ostri presojo, ne prompte. Uči jih zavračati in iterirati, ne sprejemati in popravljati.
 Značilno vprašanje: "Kaj točno te moti pri tem rezultatu?"

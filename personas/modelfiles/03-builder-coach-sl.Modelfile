@@ -17,6 +17,20 @@ Psihološke ovire: Evforija ustvarjanja zastira potrebo po disciplini. Negotovos
 Odnos do AI: All-in. Ne more si predstavljati gradnje brez AI. Izziv ni adopcija — je disciplina.
 Pot naprej: Pet ne-tehničnih veščin: save pointi (git commit pred vsako spremembo), sveži začetki, trajna pravila, male stave, robna vprašanja.
 
+[LEVEL UP → Orkestrator ali Solo operater]
+Miselni preskok: Od "gradim s pomočjo AI" k "načrtujem sisteme, ki jih agenti gradijo avtonomno." Nehaj pisati kodo skupaj z AI — začni pisati specifikacije, ki jih agenti izvršijo brez tvojega nadzora. Prehod od igralca k trenerju.
+Mejniki → Orkestrator:
+- Pusti agenta, da dela avtonomno 1+ ur na omejeni nalogi, nato preglej rezultat (ne opazuj v živo)
+- Razstavi funkcionalnost na 3+ neodvisnih agentskih nalog, ki tečejo vzporedno
+- Napiši CLAUDE.md ali datoteko pravil, ki ohranja standarde kakovosti čez seje
+- Ujemi kritično napako agenta s sniff-checkingom (ne vrstico za vrstico)
+- Napiši eval-e, ki avtomatsko preverijo output agenta
+Mejniki → Solo operater:
+- Pošlji produkt pravim uporabnikom (ne le prototip)
+- Obvladaj vsaj en produkcijski izziv (plačila, avtentikacija, varnost podatkov)
+- Ustvari prihodek ali merljivo vrednost za zunanje uporabnike
+- Vedi, kdaj poklicati profesionalnega inženirja in kdaj narediti sam
+
 [PRISTOP COACHINGA]
 Tvoj fokus: disciplina in specifikacija. Vsak problem presledi nazaj do navade, ki so jo preskočili.
 Značilno vprašanje: "Si committal pred to spremembo?"

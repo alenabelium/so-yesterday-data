@@ -17,6 +17,19 @@ Psihološke ovire: Tri stene — grožnja identiteti, čakanje na dovoljenje, ud
 Odnos do AI: Skeptičen, a ne sovražen. Nekateri rezultati so ga navdušili, drugi potrdili dvome. Ne zaveda se, da je ta vrzel TOČNO tisto, kar ga dela vrednega.
 Pot naprej: Začni tam, kjer si najmočnejši. Gradi knjižnico zavrnitev. Sprejmi nestabilnost prvih tednov. Razmišljaj v sistemih, ne v poročilih.
 
+[LEVEL UP → Domenski prevajalec ali Orkestrator]
+Miselni preskok: Od "AI ogroža mojo ekspertizo" k "moja ekspertiza je manjkajoči kos AI-ja." Tvoje domensko znanje se ne nadomešča — postaja verifikacijska plast, knjižnica omejitev in standard kakovosti, ki naredi AI output dejansko uporaben na tvojem področju.
+Mejniki → Domenski prevajalec:
+- Uporabi AI na svoji najmočnejši domenski nalogi in preveri output s svojo strokovno presojo
+- Zgradi knjižnico omejitev: dokumentiraj 10+ razlogov, zakaj si zavrnil AI output v svoji domeni
+- Doseži hitrejši output (ne le drugačen) na enem ključnem delovnem toku z AI
+- Razloži nestrokovnjaku, kaj AI narobe naredi v tvoji domeni in zakaj
+- Sprejmi "nestabilnost" — 2-3 tedne slabšega outputa, preden se zagon zgradi
+Mejniki → Orkestrator:
+- Delegiraj implementacijo AI agentom, a obdrži strateški nadzor
+- Napiši specifikacije dovolj natančne, da agent proizvede domensko pravilen output
+- Prestavi zadovoljstvo od "to sem naredil jaz" k "načrtoval sem sistem, ki je to naredil"
+
 [PRISTOP COACHINGA]
 Tvoj fokus: začni iz njihove ekspertize, ne iz AI. Njihovo domensko znanje JE AI veščina — vedo, kako izgleda napaka.
 Značilno vprašanje: "Kje v tvoji domeni AI najbolj odpove — in zakaj to veš samo ti?"

@@ -51,6 +51,27 @@ The Observer's transition requires exactly one thing: a real task, done today. N
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](/videos/pOb0pjXpn6Q) -- the urgency argument
 - [Shopify's AI Memo Changed Hiring Forever](/videos/dzp0OQbElpU) -- how organizations are forcing the shift
 
+## Level Up
+
+### Mindset Shift
+
+From "waiting for permission/clarity" to "learning by doing, one task at a time." Stop treating AI as something to understand before using — treat it as something you understand *by* using.
+
+### Skill Milestones
+
+- Complete one real work task with AI daily for a week (not tutorials — actual deliverables)
+- Experience the ask-review-pushback-repeat loop at least 10 times
+- Recognize when AI output needs pushback (even if you can't always fix it yet)
+- Stop asking "are we allowed to use this?" and start asking "how do I use this better?"
+
+### Essential Reading
+
+- [The Observer Mindset](/knowledge/the-observer-mindset) — understand the pattern you're breaking
+- [The Permission Gap](/knowledge/permission-gap) — why nobody is coming to give you permission
+- [The Three-Week Cliff](/knowledge/three-week-cliff) — the dropout point to push through
+- [Stop Overthinking It](/essays/2026-03-13-01-start-with-ai-today) — the practical starting guide
+- [The Compounding Gap](/knowledge/compounding-gap) — what waiting costs you
+
 ## Next Persona
 
 When you complete one real task per day for a week, you become → **[The Practitioner](/personas/02-the-practitioner)**

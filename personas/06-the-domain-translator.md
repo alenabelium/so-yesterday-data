@@ -61,6 +61,28 @@ Your career opportunity is [the biggest that has appeared](/videos/6r0UeMQE66I) 
 - [45 People, $200M Revenue](/videos/hnwM01CpzmA) -- what AI-native organizations look like
 - [The Fork Most Leaders Don't See](/videos/s1eqzfXCgXI) -- visibility vs. execution
 
+## Level Up
+
+### Mindset Shift
+
+From "I translate between AI and my industry for my employer" to "I build an AI-native company around my domain expertise." The shift is from being the bridge to being the business — your rare combination of domain knowledge and AI fluency becomes the product itself.
+
+### Skill Milestones
+
+- Identify a domain-specific problem where your translation skill is the moat
+- Build a product or service that packages your domain + AI expertise for others
+- Operate business functions (sales, support, product) through AI agents
+- Generate revenue from your domain translation (consulting, SaaS, or services)
+- Develop conviction to act on your market read before external validation confirms it
+
+### Essential Reading
+
+- [The Solo Operator](/knowledge/solo-operator) — the destination
+- [AI-Native Economics](/knowledge/ai-native-economics) — the business model
+- [Constraint Encoding](/knowledge/constraint-encoding) — your domain rules as product
+- [High Agency](/knowledge/high-agency) — the mindset shift for solo founding
+- [Frontier Recognition](/knowledge/frontier-recognition) — knowing what's possible now
+
 ## Next Persona
 
 When you combine deep domain translation with AI-native company building → **[The Solo Operator](/personas/07-the-solo-operator)**

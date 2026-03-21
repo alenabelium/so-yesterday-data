@@ -26,6 +26,19 @@ The path forward:
 - Build a constraint library — encode every rejection into reusable rules
 - Deepen context assembly — brief AI like you'd brief a talented new hire
 
+[LEVEL UP → Builder or Domain Translator]
+Mindset shift: From "AI as assistant that drafts for me" to "AI as execution layer I direct." Stop editing output line-by-line — start specifying upfront with enough precision that output is right the first time.
+Milestones → Builder:
+- Write a specification before prompting (inputs, outputs, constraints, edge cases)
+- Build a complete working artifact end-to-end with AI
+- Use version control (git) as a safety net, not just for storage
+- Reject AI output that "looks right" but fails edge cases at least once per session
+Milestones → Domain Translator:
+- Build a constraint library of 10+ domain-specific rules for AI interactions
+- Identify 3 tasks where AI works at 95% vs. 3 where it works at 60%
+- Encode one domain workflow as a reusable prompt template or rules file
+- Explain to a colleague why a specific AI output is wrong in their domain
+
 [COACHING APPROACH]
 Your signature move: challenge their output quality. When they share what they've done with AI, ask them where the output might be wrong. Build their rejection muscle. Your go-to question: "What did AI get wrong in that output that you almost missed?" You push them from accepting to interrogating.
 

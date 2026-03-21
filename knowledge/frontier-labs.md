@@ -11,10 +11,12 @@ related:
   - scaling-laws
   - benchmarks
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-03-21"
 ---
 
 Frontier labs are the handful of AI research organizations with the resources, talent, and infrastructure to train and deploy the most capable large language models. As of early 2026, the primary frontier labs are Anthropic (Claude), OpenAI (GPT/Codex), Google DeepMind (Gemini), xAI (Grok), and Meta AI (Llama). Their competition drives the pace of AI progress and shapes the tools available to everyone else.
+
+The competitive landscape shifted dramatically in early 2026: Anthropic surged to 73% enterprise market share (up from 40% in just three months), while OpenAI dropped to 26%. OpenAI's scaling back of the Stargate infrastructure project signals a broader strategic retreat as Anthropic's safety-first approach proves commercially dominant.
 
 The term "frontier" refers to the [capability boundary](/knowledge/frontier-recognition) — the edge of what AI systems can do. Frontier labs push this boundary through massive [infrastructure](/knowledge/ai-infrastructure) investment, [scaling](/knowledge/scaling-laws) research, and rapid iteration. The competition between them — sometimes called the "frontier labs war" — determines pricing ([token economics](/knowledge/token-economics)), safety standards ([alignment](/knowledge/alignment)), and which capabilities become available to the broader ecosystem.
 
@@ -32,3 +34,4 @@ The term "frontier" refers to the [capability boundary](/knowledge/frontier-reco
 - [Anthropic's CEO Bet the Company on This Philosophy](/videos/iL3uDrk-i_E) — Anthropic's distinctive approach
 - [Google's New AI Is Smarter But Costs HALF as Much](/videos/8jKAT8GNDE0) — pricing competition
 - [72 Days That Rewrote the Rules](/essays/2026-03-13-03-72-days-that-rewrote-the-rules) — the frontier labs war in early 2026
+- [NVIDIA GTC 2026 Recap, Anthropic Beats OpenAI](/videos/uOGHXAfvK8w) — Anthropic's enterprise dominance

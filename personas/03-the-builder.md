@@ -63,6 +63,35 @@ The Builder's evolution requires five [non-technical management skills](/videos/
 - [Claude Code Skills - The Only Tutorial You Need](/videos/vIUJ4Hd7be0) -- persistent skills framework
 - [Stop Using Claude Code on One Branch](/videos/6nFRJftouI0) -- git worktrees for safety
 
+## Level Up
+
+### Mindset Shift
+
+From "I build with AI help" to "I design systems that agents build autonomously." Stop writing code alongside AI — start writing specs that agents execute without you watching. The transition is from player to coach.
+
+### Skill Milestones
+
+**→ Orchestrator:**
+- Run an agent autonomously for 1+ hours on a bounded task and review the output (not watch it live)
+- Decompose a feature into 3+ independent agent tasks that can run in parallel
+- Write a CLAUDE.md or rules file that persists your quality standards across sessions
+- Catch a critical agent error through sniff-checking (not line-by-line review)
+- Write evals that verify agent output automatically
+
+**→ Solo Operator:**
+- Ship a product to real users (not just a prototype)
+- Handle at least one professional-grade concern (payments, auth, data security)
+- Make revenue or deliver measurable value to external users
+- Know when to bring in a professional engineer vs. doing it yourself
+
+### Essential Reading
+
+- [Agent Orchestration](/knowledge/agent-orchestration) — the skill you're building toward
+- [Task Decomposition](/knowledge/task-decomposition) — breaking work into agent-sized pieces
+- [Blast Radius Management](/knowledge/blast-radius) — the discipline that makes autonomy safe
+- [Evals](/knowledge/evals) — writing guardrails that scale
+- [The Last Hands on the Keyboard](/essays/2026-03-17-01-the-last-hands-on-keyboard) — the identity shift ahead
+
 ## Next Persona
 
 When your agents run for hours autonomously and your job becomes decomposition, review, and system design → **[The Orchestrator](/personas/04-the-orchestrator)**

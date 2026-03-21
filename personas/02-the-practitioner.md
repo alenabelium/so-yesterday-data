@@ -55,6 +55,34 @@ The Practitioner's next level depends on which direction their work takes:
 - [Why Pretty Good on First Pass Is Costing You Thousands](/videos/iG_CCjdyeX0) -- the 70%-to-95% gap
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong](/videos/RnjgLlQTMf0) -- calibration drift
 
+## Level Up
+
+### Mindset Shift
+
+From "AI as assistant that drafts for me" to "AI as execution layer I direct." Stop editing AI output line-by-line and start specifying what you want upfront with enough precision that the output is right the first time.
+
+### Skill Milestones
+
+**→ Builder:**
+- Write a specification before prompting (inputs, outputs, constraints, edge cases)
+- Build a complete working artifact (app, automation, tool) end-to-end with AI
+- Use version control (git) as a safety net, not just for storage
+- Reject AI output that "looks right" but fails edge cases at least once per session
+
+**→ Domain Translator:**
+- Build a constraint library of 10+ domain-specific rules for AI interactions
+- Identify 3 tasks in your domain where AI works at 95% vs. 3 where it works at 60%
+- Encode one domain workflow as a reusable prompt template or rules file
+- Explain to a colleague why a specific AI output is wrong in your domain (and what "right" looks like)
+
+### Essential Reading
+
+- [Specification Quality](/knowledge/specification-quality) — the core upgrade skill
+- [The 70% Problem](/knowledge/the-70-percent-problem) — mastering the last 30%
+- [Rejection Competency](/knowledge/rejection-competency) — building your quality filter
+- [Context Engineering](/knowledge/context-engineering) — from dumping text to curating context
+- [Prompt Engineering](/knowledge/prompt-engineering) — foundational, but about to be transcended
+
 ## Next Persona
 
 When you start building complete systems rather than using AI as a copilot → **[The Builder](/personas/03-the-builder)**
