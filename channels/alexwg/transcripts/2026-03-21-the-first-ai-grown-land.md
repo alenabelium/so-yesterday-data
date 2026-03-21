@@ -1,0 +1,19 @@
+---
+title: "The First AI-Grown Land"
+video_id: aO9REOhyI0U
+date: 2026-03-21
+url: https://www.youtube.com/watch?v=aO9REOhyI0U
+channel: Alex Wissner-Gross
+duration: "04:05"
+source: auto-generated
+---
+
+# The First AI-Grown Land
+
+**[00:00:00]** the first AI grown land. The singularity has been collapsing the cost of intelligence, energy, code, and even protein folding toward zero. But the cost of land has seemed permanently immune to technological deflation until now. Mark Twain reportedly once advised, "Buy land. They're not making it anymore." In fact, humans have been making land since antiquity. The Dutch pdered. Boston filled its back bay. Dubai dredged the Palm Jira into existence. But Twain was right in practice because every method to date has been so expensive that land remained effectively scarce no matter how much you made. Only about 600,000 acres of artificial land have been built by brute force since 2000, roughly the size of Luxembourg. The world spends tens of billions of dollars a year on these methods and that is all we have to show for it. And the ocean still takes it back. But today, the same technological force that ate the cost of compute, bandwidth, and gene sequencing has finally reached land.
+
+**[00:01:10]** Coastal Assembly PBC, a company I helped form with backing from 021T Capital, recently completed a field study at the new JW Marriott Maldives Kaufu Atoll Island Resort. AI optimized underwater structures grew more than 90 ft of new beach in 6 months, not by pumping sand or pouring concrete, but by programming the ocean to deposit it. In a separate study at the Taj Exotica Resort Maldes, the same approach grew an entirely new island, adding over 800 cubic meters of land. Watch the ocean build land on command. For centuries, coastal engineering has fought the ocean with static barriers. Coastal assembly, built on nine years of research by CEO Skyler Tibbitz at MIT's self assembly lab, inverts the approach entirely. The team designs precisely engineered porous structures that dissipate destructive storm energy while letting calm weather currents carry sediment freely inward. Sand accumulates but does not leave. The ocean itself becomes the construction crew and the structures tell it where to build. Above the structures sits an intelligence layer that sees coastlines from space, decides where to grow land, and deploys without human intervention. Coastal's intelligence platform reads satellite imagery, decomposes years of shoreline history into predictive models, and determines exactly where to place structures to redirect sediment.
+
+**[00:02:39]** Coordinated swarms of autonomous surface vessels will execute deployment at scale. And every new site feeds ground truth data back into the models. The more land Coastal grows, the better it gets at growing land. Demand is already building from resorts, private island owners, sovereign nations, and coastal developers. Prime coastal land can be worth $10 million per acre or more. Trillions of dollars in coastal property worldwide are currently priced on the assumption that land supply is fixed. As super intelligence makes landfall, that assumption is now a liability. Island nations facing existential sea level rise become land producers instead of land losers. As Peter Diamandis and I argued in solve everything, the intelligence revolution turns every scarce domain it touches into an abundant one. Intelligence itself went first. Energy is next. But land, physical, tangible, loadbearing land, has been the bullcase for scarcity surviving the singularity until now.
+
+**[00:03:45]** The singularity is now growing new earth. Those interested in working with coastal assembly can learn more at coastal assembly.ai or reach Skyler Tibbitz at skyler@coastal assembly.ai. Disclosure. I have a financial interest in coastal assembly.
