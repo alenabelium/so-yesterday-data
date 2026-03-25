@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="leftBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0b0b12"/>
+      <stop offset="100%" stop-color="#08080d"/>
+    </linearGradient>
+    <linearGradient id="corner" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" rx="12" fill="url(#bgGrad)"/>
+
+  <!-- Corner decoration -->
+  <polygon points="800,0 800,270.0 480.0,0" fill="url(#corner)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="450" rx="2" fill="url(#leftBar)"/>
+
+  <!-- Label -->
+  <text x="60" y="56" font-family="monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#22d3ee">ESSAY</text>
+
+  <!-- Date -->
+  <text x="60" y="90" font-family="monospace" font-size="12" fill="#64748b">2026-03-25</text>
+
+  <!-- Title -->
+  <text x="60" y="155" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#e2e8f0">Pike's Rules for the Agentic Age:</text>
+  <text x="60" y="198" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#e2e8f0">Why 1989 Programming Wisdom</text>
+  <text x="60" y="241" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#e2e8f0">Is Your Best AI Strategy</text>
+
+  <!-- Description -->
+  <text x="60" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8">Rob Pike's five rules of programming turn out to be the missing</text>
+  <text x="60" y="317" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8">playbook for building reliable AI agent systems.</text>
+
+  <!-- Bottom decorative line -->
+  <line x1="60" y1="410" x2="350" y2="410" stroke="#1e293b" stroke-width="1"/>
+  <circle cx="60" cy="410" r="3" fill="#38bdf8" opacity="0.6"/>
+</svg>
