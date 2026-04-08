@@ -28,5 +28,11 @@
     "name": "Lev Selector",
     "url": "https://www.youtube.com/@lev-selector",
     "description": "AI engineering, LLMs, and technical deep dives"
+  },
+  {
+    "id": "manual",
+    "name": "Community Sources",
+    "url": "",
+    "description": "Manually added videos and web pages"
   }
 ]
