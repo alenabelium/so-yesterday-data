@@ -12,6 +12,7 @@ related:
   - frontier-labs
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Artificial General Intelligence (AGI) refers to AI systems that can match or exceed human-level performance across the full range of cognitive tasks — not just narrow specialties like chess or code generation, but reasoning, creativity, planning, and learning in any domain. Whether current systems are approaching AGI, and what it would mean if they did, is one of the most contested questions in the field.

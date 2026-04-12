@@ -12,6 +12,7 @@ related:
   - inference
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The context window is the maximum amount of text — measured in [tokens](/knowledge/token-economics) — that a language model can receive as input and generate as output in a single interaction. It determines how much information the model can "see" at once: a larger context window means the model can process longer documents, maintain longer conversations, and work with more complex codebases.

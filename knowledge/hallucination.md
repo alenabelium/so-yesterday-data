@@ -12,6 +12,7 @@ related:
   - alignment
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Hallucination is the phenomenon where language models generate text that sounds confident and plausible but is factually wrong, internally inconsistent, or entirely fabricated. Models don't "know" they're hallucinating — they produce the most statistically likely next token regardless of truth. This is not a bug that will be fixed; it's a structural property of how LLMs work.

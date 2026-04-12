@@ -13,6 +13,7 @@ related:
   - agi
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Scaling laws are the empirical observation that language model performance improves in predictable, measurable ways as you increase three inputs: compute (processing power), data (training examples), and parameters (model size). First rigorously documented by researchers at OpenAI in 2020, scaling laws have become the strategic foundation for [frontier labs](/knowledge/frontier-labs) — the reason they invest billions in [infrastructure](/knowledge/ai-infrastructure) and compete for GPU supply.

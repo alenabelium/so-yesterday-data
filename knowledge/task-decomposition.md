@@ -10,6 +10,7 @@ related:
   - specification-quality
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Task decomposition is the practice of breaking complex goals into smaller, well-defined subtasks that can be independently executed and verified. It is one of the most important skills for working effectively with [AI agents](/knowledge/ai-agents), because agents perform dramatically better on focused, well-scoped tasks than on vague, open-ended ones.

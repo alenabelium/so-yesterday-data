@@ -13,6 +13,7 @@ related:
   - hallucination
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Retrieval Augmented Generation (RAG) is a technique where an AI system retrieves relevant documents or data from an external knowledge base before generating a response. Instead of relying solely on what the model learned during training, RAG gives the model access to current, specific, and verifiable information at the moment it needs it.

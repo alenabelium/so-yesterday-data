@@ -12,6 +12,7 @@ related:
   - hallucination
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Sniff-checking is the skill of quickly evaluating whether AI-generated output is correct without re-doing the work yourself. As [AI agents](/knowledge/ai-agents) generate code, analysis, and content faster than humans can review it line-by-line, the ability to rapidly assess quality — catching structural errors, logical inconsistencies, and domain violations at a glance — becomes the most valuable competency in [agent orchestration](/knowledge/agent-orchestration).

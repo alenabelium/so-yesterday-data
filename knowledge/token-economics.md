@@ -11,6 +11,7 @@ related:
   - context-window
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Token economics is the study of how AI costs, pricing, and business models are shaped by the fundamental unit of LLM computation: the token. Every interaction with an LLM is measured in tokens (roughly ¾ of a word), and the cost per token determines what's economically feasible — from simple chatbot queries to complex agent workflows that consume millions of tokens per task.

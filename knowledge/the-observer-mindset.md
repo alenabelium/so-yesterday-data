@@ -12,6 +12,7 @@ related:
   - high-agency
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The observer mindset is the pattern of watching AI developments from the sidelines — staying informed but not actively adopting or experimenting with AI tools. Observers are typically waiting for clarity: waiting for tools to mature, for best practices to emerge, for their organization to provide guidance, or for their own comfort level to increase.

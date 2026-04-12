@@ -11,6 +11,7 @@ related:
   - compounding-gap
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The permission gap is the phenomenon where professionals delay AI adoption not because of technical barriers but because they're waiting for permission — from their organization, their manager, their peers, or themselves. It manifests as "Are we allowed to use this?" anxiety, and it's one of the three psychological walls (alongside [identity threat](/knowledge/identity-threat) and the comfort of familiar struggle) that prevent AI adoption.

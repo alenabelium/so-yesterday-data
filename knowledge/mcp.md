@@ -10,6 +10,7 @@ related:
   - ai-agents
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The Model Context Protocol (MCP) is an open standard developed by Anthropic that provides a universal way for AI models to connect with external tools, data sources, and services. Think of it as a USB-C port for AI — a single, standardized interface that replaces the need for custom integrations between every model and every tool.

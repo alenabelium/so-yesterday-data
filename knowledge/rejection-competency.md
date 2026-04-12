@@ -13,6 +13,7 @@ related:
   - hallucination
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Rejection competency is the skill of knowing when to say "no" to AI output. As AI-generated content becomes increasingly fluent and superficially convincing, the ability to distinguish between output that is genuinely correct and output that merely looks right becomes a critical professional skill.

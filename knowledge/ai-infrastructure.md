@@ -13,6 +13,7 @@ related:
   - frontier-labs
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 AI infrastructure encompasses the physical and cloud computing systems that power AI model training, inference, and deployment — data centers, GPUs, networking, power grids, and the cloud platforms built on top of them. As AI models scale and agent workloads multiply, infrastructure has become a strategic bottleneck and a massive investment category.

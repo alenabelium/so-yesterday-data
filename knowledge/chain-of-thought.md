@@ -11,6 +11,7 @@ related:
   - inference
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Chain-of-thought (CoT) prompting is a technique that encourages language models to generate intermediate reasoning steps before arriving at a final answer. First described by Wei et al. (2022), it has become one of the most impactful techniques for improving LLM performance on complex tasks.

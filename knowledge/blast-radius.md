@@ -11,6 +11,7 @@ related:
   - alignment
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Blast radius management is the practice of limiting the potential damage when an AI agent makes an error or takes an unintended action. As [AI agents](/knowledge/ai-agents) gain more autonomy — writing code, executing commands, modifying production systems — the consequences of mistakes grow proportionally. Managing blast radius means designing systems and workflows that contain failures.

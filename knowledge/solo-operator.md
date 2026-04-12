@@ -12,6 +12,7 @@ related:
   - high-agency
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The solo operator is the emerging archetype of an individual who uses AI tools — particularly [AI agents](/knowledge/ai-agents) and [agent orchestration](/knowledge/agent-orchestration) — to build and operate at the scale of what previously required a small team or even a small company. Solo operators leverage AI for coding, design, marketing, analysis, customer support, and operations, compressing the minimum viable team to one person. The [Solo Operator](/personas/07-solo-operator) persona distinguishes between taste (evaluating what's good) and conviction (willingness to act before confirmation). Most people have taste; very few have conviction. The solo operator needs both — plus the judgment density (accumulated pattern recognition) that no competitor can replicate.

@@ -12,6 +12,7 @@ related:
   - frontier-labs
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Open source AI is the movement to develop and distribute AI models, training code, datasets, and tooling under open licenses. It ranges from open-weight models (like Meta's Llama family) where the trained model is freely available, to fully open-source projects where training code, data, and methodology are all shared.

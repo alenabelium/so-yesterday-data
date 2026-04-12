@@ -10,6 +10,7 @@ related:
   - ai-coding-levels
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Vibe coding is a development approach where programmers describe what they want in natural language and let AI generate the code. Coined in early 2026, the term captures a spectrum — from casual prototyping where you barely look at the generated code, to disciplined specification-driven development where the "vibe" is a carefully crafted spec.

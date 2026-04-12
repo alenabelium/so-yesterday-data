@@ -12,6 +12,7 @@ related:
   - rag
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Context engineering goes beyond prompt engineering by focusing on the entire information environment presented to a language model — not just the prompt itself, but the system message, retrieved documents, conversation history, and tool definitions.

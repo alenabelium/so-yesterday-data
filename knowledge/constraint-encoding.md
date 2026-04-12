@@ -11,6 +11,7 @@ related:
   - agent-orchestration
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Constraint encoding is the practice of converting tacit knowledge — the unwritten rules, domain conventions, quality standards, and organizational norms that experts "just know" — into explicit, machine-readable instructions that [AI agents](/knowledge/ai-agents) can follow. It is the bridge between human expertise and reliable AI execution.

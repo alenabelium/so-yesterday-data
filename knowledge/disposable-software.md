@@ -10,6 +10,7 @@ related:
   - ai-coding-levels
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Disposable software is the concept of building applications quickly with AI tools for a specific, often temporary purpose — with the explicit intention that the software will be thrown away rather than maintained long-term. This inverts the traditional software engineering mindset where every piece of code is built to last.

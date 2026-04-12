@@ -12,6 +12,7 @@ related:
   - scaling-laws
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Inference is the process of feeding input to a trained AI model and getting output back. Every time you send a message to Claude, ask GPT to write code, or have an agent execute a task, you're running inference. While training a model happens once (at enormous cost), inference happens billions of times and is the primary ongoing cost of AI operations.

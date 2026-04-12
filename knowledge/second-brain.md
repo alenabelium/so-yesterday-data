@@ -11,6 +11,7 @@ related:
   - rag
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Building a second brain is the practice of creating a personal knowledge management system — a curated, organized collection of notes, insights, and references — augmented by AI for retrieval, synthesis, and connection-making. In the AI era, the second brain concept has evolved from simple note-taking to AI-powered knowledge systems that can answer questions, surface relevant context, and even take action on stored knowledge.

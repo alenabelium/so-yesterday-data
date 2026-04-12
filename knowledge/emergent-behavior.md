@@ -13,6 +13,7 @@ related:
   - alignment
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Emergent behavior refers to capabilities that appear in AI systems as they scale — behaviors that weren't explicitly programmed, weren't predicted from smaller models, and sometimes surprise even the researchers who built the system. Chain-of-thought reasoning, code generation, and multilingual translation all emerged as models grew larger, rather than being deliberately trained.

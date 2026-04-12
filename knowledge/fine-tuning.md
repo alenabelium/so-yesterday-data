@@ -12,6 +12,7 @@ related:
   - scaling-laws
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Fine-tuning is the process of taking a pre-trained language model and training it further on a smaller, specialized dataset to improve its performance on specific tasks or domains. Rather than training a model from scratch (which costs millions), fine-tuning adapts an existing model's capabilities at a fraction of the cost and time.

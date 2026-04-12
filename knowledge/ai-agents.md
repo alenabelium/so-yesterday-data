@@ -13,6 +13,7 @@ related:
   - evals
 created: "2026-03-19"
 updated: "2026-03-21"
+confidence: high
 ---
 
 AI agents are systems built on large language models that go beyond simple question-answering to autonomously plan, reason, and execute multi-step tasks. Unlike chatbots that respond to individual prompts, agents maintain context across actions, use external tools, and make decisions about what to do next — often without human intervention at each step.

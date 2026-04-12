@@ -12,6 +12,7 @@ related:
   - hallucination
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The 70% problem is the observation that AI tools consistently get to roughly 70% quality on most tasks very quickly — a first draft, a working prototype, a plausible analysis — but closing the gap from 70% to 95% (production-quality, reliable, nuanced) requires genuine human skill. Most people either accept the 70% output (creating a flood of mediocre work) or don't know how to bridge the gap efficiently.

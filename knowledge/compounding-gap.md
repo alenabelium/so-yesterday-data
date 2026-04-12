@@ -12,6 +12,7 @@ related:
   - high-agency
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The compounding gap describes the exponentially widening difference in capability between people who actively adopt AI tools and those who delay. Unlike previous technology shifts where latecomers could catch up relatively quickly, AI adoption compounds: early adopters don't just get a head start, they build skills, workflows, and intuitions that make each subsequent AI advance easier to absorb.

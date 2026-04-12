@@ -11,6 +11,7 @@ related:
   - ai-native-economics
 created: "2026-03-19"
 updated: "2026-03-21"
+confidence: high
 ---
 
 Job market bifurcation describes the emerging split in the labor market where AI-augmented workers command premium compensation while traditional roles face downward pressure. Unlike previous technology shifts that primarily affected blue-collar work, AI bifurcation cuts through white-collar professions — analysts, developers, writers, designers — creating winners and losers within the same job titles.

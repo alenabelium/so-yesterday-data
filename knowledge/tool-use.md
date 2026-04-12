@@ -10,6 +10,7 @@ related:
   - mcp
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Tool use is the mechanism by which large language models extend beyond text generation to interact with the real world. By calling external tools — APIs, code interpreters, file systems, web browsers, databases — LLMs transform from knowledge repositories into action-taking systems.

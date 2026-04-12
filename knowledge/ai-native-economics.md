@@ -11,6 +11,7 @@ related:
   - token-economics
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 AI-native economics describes the fundamentally different financial model of companies built around AI from the ground up. These companies achieve revenue-per-employee ratios 5-7x above even elite traditional tech companies: Cursor at $5M per employee, Lovable at $13M, and teams of 45 people generating $200M in revenue. This isn't incremental improvement — it's a structural shift in how companies create and capture value.

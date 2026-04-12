@@ -11,6 +11,7 @@ related:
   - permission-gap
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Identity threat is the psychological phenomenon where professionals feel their sense of self — built over years of developing expertise — is undermined by AI's ability to perform tasks they've spent careers mastering. It goes beyond job security fears to touch on fundamental questions of purpose, value, and self-worth.

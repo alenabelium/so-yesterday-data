@@ -13,6 +13,7 @@ related:
   - agi
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 AI alignment is the problem of ensuring that AI systems do what humans actually want — not just what they're literally told, and not what they might pursue if their optimization targets diverge from human intentions. As AI systems become more autonomous ([AI agents](/knowledge/ai-agents)) and more capable ([scaling laws](/knowledge/scaling-laws)), alignment becomes less of an academic concern and more of an engineering requirement.

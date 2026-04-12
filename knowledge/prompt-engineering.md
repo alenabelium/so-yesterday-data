@@ -11,6 +11,7 @@ related:
   - context-window
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Prompt engineering is the practice of designing inputs to large language models to elicit more accurate, useful, and relevant outputs. As LLMs have become central to AI workflows, prompt engineering has emerged as a critical skill for both developers and end users. However, as models become more capable, the emphasis is shifting. The progression from prompt engineering through [context engineering](/knowledge/context-engineering) to [intent engineering](/knowledge/intent-engineering) reflects a move up the abstraction ladder — from crafting specific inputs to structuring information environments to expressing high-level goals. The [Practitioner](/personas/02-practitioner) persona develops prompting skill as their entry point, but the most effective practitioners quickly discover that clarity of thought matters more than prompt tricks.

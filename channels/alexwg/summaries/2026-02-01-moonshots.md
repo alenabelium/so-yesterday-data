@@ -7,6 +7,7 @@ channel: Alex Wissner-Gross
 tags:
   - opinion
 transcript: ../transcripts/2026-02-01-moonshots.md
+relevant: false
 ---
 
 # Moonshots

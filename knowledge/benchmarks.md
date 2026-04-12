@@ -12,6 +12,7 @@ related:
   - evals
 created: "2026-03-19"
 updated: "2026-03-21"
+confidence: high
 ---
 
 Benchmarks are standardized tests used to measure and compare AI model capabilities. They range from narrow skill tests (math problems, code generation, factual recall) to broad capability evaluations (ARC-AGI for general reasoning, GPQA for graduate-level science, SWE-bench for real-world software engineering). When [frontier labs](/knowledge/frontier-labs) release new models, benchmark results are the primary language used to communicate what improved.

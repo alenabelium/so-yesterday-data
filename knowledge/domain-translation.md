@@ -11,6 +11,7 @@ related:
   - constraint-encoding
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Domain translation is the skill of converting deep expertise in a specific field into instructions, specifications, and workflows that AI systems can execute. As AI becomes more capable at execution, the bottleneck shifts to people who understand both the domain problem and how to express it in terms AI can act on.

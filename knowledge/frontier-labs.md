@@ -12,6 +12,7 @@ related:
   - benchmarks
 created: "2026-03-19"
 updated: "2026-03-21"
+confidence: high
 ---
 
 Frontier labs are the handful of AI research organizations with the resources, talent, and infrastructure to train and deploy the most capable large language models. As of early 2026, the primary frontier labs are Anthropic (Claude), OpenAI (GPT/Codex), Google DeepMind (Gemini), xAI (Grok), and Meta AI (Llama). Their competition drives the pace of AI progress and shapes the tools available to everyone else.

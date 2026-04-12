@@ -10,6 +10,7 @@ related:
   - domain-translation
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Intent engineering is the emerging discipline of expressing what you want to achieve — your goals, constraints, and success criteria — in a way that AI systems can reliably interpret and execute. It sits above [prompt engineering](/knowledge/prompt-engineering) and [context engineering](/knowledge/context-engineering) in the abstraction hierarchy: instead of crafting specific prompts, you define outcomes and let AI figure out the steps.

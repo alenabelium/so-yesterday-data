@@ -12,6 +12,7 @@ related:
   - the-70-percent-problem
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The displaced expert is the archetype of a professional with deep, hard-won expertise in a specific domain who finds that AI can now perform tasks that previously required their specialized knowledge. This isn't about job loss per se — it's about the psychological and strategic challenge of redefining one's professional value when the expertise that defined you becomes widely accessible through AI.

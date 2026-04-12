@@ -13,6 +13,7 @@ related:
   - agent-orchestration
 created: "2026-03-21"
 updated: "2026-03-21"
+confidence: high
 ---
 
 Evals are domain-specific evaluations and guardrails written for deployed AI agents. Unlike [benchmarks](/knowledge/benchmarks), which measure what a model *can* do in standardized conditions, evals verify what an agent *should* do within a specific organizational context. They encode institutional knowledge — the unwritten rules, edge cases, and domain constraints that experienced humans carry — into automated checks that run before, during, and after agent actions.

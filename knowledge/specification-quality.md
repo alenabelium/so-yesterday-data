@@ -12,6 +12,7 @@ related:
   - the-70-percent-problem
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Specification quality is the practice of crafting precise, complete, and unambiguous instructions for AI systems. As AI tools take on more execution — writing code, generating content, managing workflows — the bottleneck shifts from doing the work to defining what needs to be done. A vague spec produces vague results; a precise spec produces reliable output.

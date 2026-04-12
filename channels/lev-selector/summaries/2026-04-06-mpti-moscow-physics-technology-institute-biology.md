@@ -7,6 +7,7 @@ channel: Lev Selector
 tags:
   - career
 transcript: ../transcripts/2026-04-06-mpti-moscow-physics-technology-institute-biology.md
+relevant: false
 ---
 
 # MPTI - Moscow Physics Technology Institute - Biology

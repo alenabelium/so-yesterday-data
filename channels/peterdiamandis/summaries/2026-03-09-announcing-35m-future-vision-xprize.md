@@ -8,6 +8,7 @@ tags:
   - industry-news
   - opinion
 transcript: ../transcripts/2026-03-09-announcing-35m-future-vision-xprize.md
+relevant: false
 ---
 
 # Announcing: $3.5M+ Future Vision XPRIZE

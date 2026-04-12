@@ -13,6 +13,7 @@ related:
   - constraint-encoding
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Agent orchestration is the practice of coordinating multiple [AI agents](/knowledge/ai-agents) working simultaneously on different aspects of a complex task. Rather than interacting with a single AI assistant, orchestrators manage fleets of agents — assigning tasks, reviewing outputs, handling dependencies, and maintaining quality across parallel workstreams.

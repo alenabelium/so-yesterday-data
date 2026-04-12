@@ -12,6 +12,7 @@ related:
   - compounding-gap
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 High agency is the mindset of treating every obstacle as a "skill issue" that can be closed rather than an immovable wall. In the AI context, it's the behavioral trait that most strongly predicts whether someone successfully adopts AI tools and crosses the [three-week cliff](/knowledge/three-week-cliff). High-agency individuals experiment, fail, adjust, and keep going. Low-agency individuals wait for permission, training, or the perfect tool before starting.

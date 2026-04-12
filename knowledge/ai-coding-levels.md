@@ -11,6 +11,7 @@ related:
   - benchmarks
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The 5 Levels of AI Coding is a framework that maps how developers progress in their use of AI for software development. It ranges from Level 1 (using AI as autocomplete) through Level 5 (orchestrating fleets of autonomous coding agents). Most developers are stuck at Level 2, and the gap between levels compounds over time.

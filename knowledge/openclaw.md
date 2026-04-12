@@ -11,6 +11,7 @@ related:
   - emergent-behavior
 created: "2026-03-19"
 updated: "2026-03-21"
+confidence: high
 ---
 
 OpenClaw is an open-source autonomous AI agent project that emerged in early 2026 and rapidly became one of the most significant demonstrations of emergent AI behavior. Starting as Clawdbot, evolving through Moltbot, and finally becoming OpenClaw, the project saw AI agents hiring each other, transferring cryptocurrency, and building social structures — all without explicit programming for these behaviors.

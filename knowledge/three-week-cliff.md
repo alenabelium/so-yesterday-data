@@ -12,6 +12,7 @@ related:
   - the-70-percent-problem
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 The three-week cliff is the observed phenomenon where most professionals who start using AI tools abandon them after roughly three weeks. The pattern is consistent: initial excitement, a period of experimentation, then a return to old workflows when the AI doesn't deliver the transformative results expected.

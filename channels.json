@@ -27,7 +27,23 @@
     "id": "lev-selector",
     "name": "Lev Selector",
     "url": "https://www.youtube.com/@lev-selector",
-    "description": "AI engineering, LLMs, and technical deep dives"
+    "description": "AI engineering, LLMs, and technical deep dives",
+    "preferences": {
+      "index": "Only videos about AI news, reviews, tool announcements, and industry developments. Skip personal content, music, biology, institutional history, and non-AI topics.",
+      "knowledge": "all",
+      "highlight": "all"
+    }
+  },
+  {
+    "id": "theaisearch",
+    "name": "The AI Search",
+    "url": "https://www.youtube.com/@theAIsearch",
+    "description": "AI news roundups, tool deep dives, and technical explainers",
+    "preferences": {
+      "index": "all",
+      "knowledge": "all",
+      "highlight": "Only weekly AI news roundups, new tool releases, and industry announcements. Skip deep-dive tutorials, explainer videos, and single-topic technical walkthroughs."
+    }
   },
   {
     "id": "manual",

@@ -13,6 +13,7 @@ related:
   - benchmarks
 created: "2026-03-19"
 updated: "2026-03-19"
+confidence: high
 ---
 
 Frontier recognition is the skill of accurately understanding where the boundary of AI capability lies — what AI can do reliably, what it can do with human oversight, and what it cannot yet do at all. This boundary shifts rapidly, making frontier recognition an ongoing practice rather than a one-time assessment.
