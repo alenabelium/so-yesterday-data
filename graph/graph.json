@@ -3,10 +3,10 @@
     {
       "id": "agent-orchestration",
       "label": "Agent Orchestration",
-      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 163 sources",
+      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 170 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
-      "size": 42,
+      "size": 44,
       "confidence": "high",
       "tags": [
         "ai-agents",
@@ -17,10 +17,10 @@
     {
       "id": "agi",
       "label": "Artificial General Intelligence (AGI)",
-      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 146 sources",
+      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 150 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 39,
+      "size": 40,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -31,10 +31,10 @@
     {
       "id": "ai-agents",
       "label": "AI Agents",
-      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 170 sources",
+      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 178 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
-      "size": 44,
+      "size": 45,
       "confidence": "high",
       "tags": [
         "ai-agents",
@@ -45,7 +45,7 @@
     {
       "id": "ai-coding-levels",
       "label": "The 5 Levels of AI Coding",
-      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 121 sources",
+      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 124 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 34,
@@ -59,10 +59,10 @@
     {
       "id": "ai-infrastructure",
       "label": "AI Infrastructure",
-      "title": "AI Infrastructure\nThe physical and cloud computing infrastructure powering AI development and deployment.\nReferenced by 154 sources",
+      "title": "AI Infrastructure\nThe physical and cloud computing infrastructure powering AI development and deployment.\nReferenced by 163 sources",
       "group": "Industry",
       "color": "#6366f1",
-      "size": 40,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "industry-news",
@@ -73,10 +73,10 @@
     {
       "id": "ai-native-economics",
       "label": "AI-Native Economics",
-      "title": "AI-Native Economics\nThe new economic model where AI-native companies achieve 5-7x revenue per employee vs. traditional benchmarks.\nReferenced by 154 sources",
+      "title": "AI-Native Economics\nThe new economic model where AI-native companies achieve 5-7x revenue per employee vs. traditional benchmarks.\nReferenced by 163 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 40,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -87,10 +87,10 @@
     {
       "id": "alignment",
       "label": "AI Alignment",
-      "title": "AI Alignment\nThe challenge of ensuring AI systems act according to human values, intentions, and safety requirements.\nReferenced by 103 sources",
+      "title": "AI Alignment\nThe challenge of ensuring AI systems act according to human values, intentions, and safety requirements.\nReferenced by 108 sources",
       "group": "Ethics & Safety",
       "color": "#f97316",
-      "size": 30,
+      "size": 31,
       "confidence": "high",
       "tags": [
         "ethics-safety",
@@ -101,10 +101,10 @@
     {
       "id": "benchmarks",
       "label": "Benchmarks",
-      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 141 sources",
+      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 149 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 38,
+      "size": 39,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -115,10 +115,10 @@
     {
       "id": "blast-radius",
       "label": "Blast Radius Management",
-      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 113 sources",
+      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 120 sources",
       "group": "Development",
       "color": "#10b981",
-      "size": 32,
+      "size": 34,
       "confidence": "high",
       "tags": [
         "coding",
@@ -129,7 +129,7 @@
     {
       "id": "chain-of-thought",
       "label": "Chain of Thought",
-      "title": "Chain of Thought\nA reasoning technique where LLMs break problems into intermediate steps before answering.\nReferenced by 86 sources",
+      "title": "Chain of Thought\nA reasoning technique where LLMs break problems into intermediate steps before answering.\nReferenced by 89 sources",
       "group": "Prompting",
       "color": "#a78bfa",
       "size": 27,
@@ -143,10 +143,10 @@
     {
       "id": "compounding-gap",
       "label": "The Compounding Gap",
-      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 136 sources",
+      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -157,7 +157,7 @@
     {
       "id": "constraint-encoding",
       "label": "Constraint Encoding",
-      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 186 sources",
+      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 196 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -171,10 +171,10 @@
     {
       "id": "context-engineering",
       "label": "Context Engineering",
-      "title": "Context Engineering\nThe art of structuring information provided to LLMs for optimal performance.\nReferenced by 87 sources",
+      "title": "Context Engineering\nThe art of structuring information provided to LLMs for optimal performance.\nReferenced by 90 sources",
       "group": "Prompting",
       "color": "#a78bfa",
-      "size": 27,
+      "size": 28,
       "confidence": "high",
       "tags": [
         "prompting",
@@ -185,10 +185,10 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 151 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 158 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 40,
+      "size": 41,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -199,7 +199,7 @@
     {
       "id": "disposable-software",
       "label": "Disposable Software",
-      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 125 sources",
+      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 129 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 35,
@@ -213,10 +213,10 @@
     {
       "id": "domain-translation",
       "label": "Domain Translation",
-      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 136 sources",
+      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -227,10 +227,10 @@
     {
       "id": "emergent-behavior",
       "label": "Emergent Behavior",
-      "title": "Emergent Behavior\nUnexpected capabilities that appear in AI systems at scale, not explicitly programmed or predicted.\nReferenced by 99 sources",
+      "title": "Emergent Behavior\nUnexpected capabilities that appear in AI systems at scale, not explicitly programmed or predicted.\nReferenced by 104 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 29,
+      "size": 30,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -241,7 +241,7 @@
     {
       "id": "evals",
       "label": "Evals",
-      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 187 sources",
+      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 197 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -255,10 +255,10 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 150 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 157 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 40,
+      "size": 41,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -269,10 +269,10 @@
     {
       "id": "frontier-labs",
       "label": "Frontier Labs",
-      "title": "Frontier Labs\nThe leading AI research organizations \u2014 Anthropic, OpenAI, Google DeepMind, xAI, Meta AI \u2014 racing to build the most capable models.\nReferenced by 136 sources",
+      "title": "Frontier Labs\nThe leading AI research organizations \u2014 Anthropic, OpenAI, Google DeepMind, xAI, Meta AI \u2014 racing to build the most capable models.\nReferenced by 144 sources",
       "group": "Industry",
       "color": "#6366f1",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "industry-news",
@@ -283,10 +283,10 @@
     {
       "id": "frontier-recognition",
       "label": "Frontier Recognition",
-      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 160 sources",
+      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 169 sources",
       "group": "Productivity",
       "color": "#22d3ee",
-      "size": 42,
+      "size": 43,
       "confidence": "high",
       "tags": [
         "productivity",
@@ -297,10 +297,10 @@
     {
       "id": "hallucination",
       "label": "Hallucination",
-      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 99 sources",
+      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 105 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 29,
+      "size": 31,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -311,10 +311,10 @@
     {
       "id": "high-agency",
       "label": "High Agency",
-      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 136 sources",
+      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "career",
@@ -325,7 +325,7 @@
     {
       "id": "identity-threat",
       "label": "Identity Threat",
-      "title": "Identity Threat\nThe psychological challenge when AI capabilities threaten professional identity built on expertise.\nReferenced by 82 sources",
+      "title": "Identity Threat\nThe psychological challenge when AI capabilities threaten professional identity built on expertise.\nReferenced by 83 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 26,
@@ -339,10 +339,10 @@
     {
       "id": "inference",
       "label": "Inference",
-      "title": "Inference\nThe process of running a trained AI model to generate outputs from inputs \u2014 the computational step that costs money.\nReferenced by 167 sources",
+      "title": "Inference\nThe process of running a trained AI model to generate outputs from inputs \u2014 the computational step that costs money.\nReferenced by 175 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 43,
+      "size": 45,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -353,10 +353,10 @@
     {
       "id": "intent-engineering",
       "label": "Intent Engineering",
-      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 133 sources",
+      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 140 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 36,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -367,10 +367,10 @@
     {
       "id": "job-market-bifurcation",
       "label": "Job Market Bifurcation",
-      "title": "Job Market Bifurcation\nThe splitting of the job market into AI-augmented high-value roles and declining traditional roles.\nReferenced by 123 sources",
+      "title": "Job Market Bifurcation\nThe splitting of the job market into AI-augmented high-value roles and declining traditional roles.\nReferenced by 130 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 34,
+      "size": 36,
       "confidence": "high",
       "tags": [
         "career",
@@ -381,10 +381,10 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 174 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 182 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
-      "size": 44,
+      "size": 45,
       "confidence": "high",
       "tags": [
         "ai-agents",
@@ -395,10 +395,10 @@
     {
       "id": "open-source-ai",
       "label": "Open Source AI",
-      "title": "Open Source AI\nThe movement to make AI models, tools, and research freely available and community-driven.\nReferenced by 107 sources",
+      "title": "Open Source AI\nThe movement to make AI models, tools, and research freely available and community-driven.\nReferenced by 114 sources",
       "group": "Industry",
       "color": "#6366f1",
-      "size": 31,
+      "size": 32,
       "confidence": "high",
       "tags": [
         "industry-news",
@@ -409,10 +409,10 @@
     {
       "id": "openclaw",
       "label": "OpenClaw",
-      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 169 sources",
+      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 179 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
-      "size": 43,
+      "size": 45,
       "confidence": "high",
       "tags": [
         "ai-agents",
@@ -423,10 +423,10 @@
     {
       "id": "permission-gap",
       "label": "The Permission Gap",
-      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 136 sources",
+      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -437,10 +437,10 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 122 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 128 sources",
       "group": "Prompting",
       "color": "#a78bfa",
-      "size": 34,
+      "size": 35,
       "confidence": "high",
       "tags": [
         "prompting",
@@ -451,10 +451,10 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 174 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 182 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 44,
+      "size": 45,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -465,10 +465,10 @@
     {
       "id": "rejection-competency",
       "label": "Rejection Competency",
-      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 160 sources",
+      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 169 sources",
       "group": "Productivity",
       "color": "#22d3ee",
-      "size": 42,
+      "size": 43,
       "confidence": "high",
       "tags": [
         "productivity",
@@ -479,10 +479,10 @@
     {
       "id": "scaling-laws",
       "label": "Scaling Laws",
-      "title": "Scaling Laws\nThe empirical finding that AI model performance improves predictably with more compute, data, and parameters.\nReferenced by 164 sources",
+      "title": "Scaling Laws\nThe empirical finding that AI model performance improves predictably with more compute, data, and parameters.\nReferenced by 172 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 42,
+      "size": 44,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -493,10 +493,10 @@
     {
       "id": "second-brain",
       "label": "Building a Second Brain",
-      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 147 sources",
+      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 154 sources",
       "group": "Productivity",
       "color": "#22d3ee",
-      "size": 39,
+      "size": 40,
       "confidence": "high",
       "tags": [
         "productivity",
@@ -507,10 +507,10 @@
     {
       "id": "sniff-checking",
       "label": "Sniff-Checking",
-      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 134 sources",
+      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 139 sources",
       "group": "Productivity",
       "color": "#22d3ee",
-      "size": 36,
+      "size": 37,
       "confidence": "high",
       "tags": [
         "productivity",
@@ -521,10 +521,10 @@
     {
       "id": "solo-operator",
       "label": "The Solo Operator",
-      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 161 sources",
+      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 170 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 42,
+      "size": 44,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -535,10 +535,10 @@
     {
       "id": "specification-quality",
       "label": "Specification Quality",
-      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 134 sources",
+      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 139 sources",
       "group": "Development",
       "color": "#10b981",
-      "size": 36,
+      "size": 37,
       "confidence": "high",
       "tags": [
         "coding",
@@ -549,10 +549,10 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 155 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 162 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-agents",
@@ -563,10 +563,10 @@
     {
       "id": "the-70-percent-problem",
       "label": "The 70% Problem",
-      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 160 sources",
+      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 169 sources",
       "group": "Productivity",
       "color": "#22d3ee",
-      "size": 42,
+      "size": 43,
       "confidence": "high",
       "tags": [
         "productivity",
@@ -577,7 +577,7 @@
     {
       "id": "the-displaced-expert",
       "label": "The Displaced Expert",
-      "title": "The Displaced Expert\nProfessionals with deep domain expertise whose skills are being commoditized by AI capabilities.\nReferenced by 82 sources",
+      "title": "The Displaced Expert\nProfessionals with deep domain expertise whose skills are being commoditized by AI capabilities.\nReferenced by 83 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 26,
@@ -591,10 +591,10 @@
     {
       "id": "the-observer-mindset",
       "label": "The Observer Mindset",
-      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 136 sources",
+      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "career",
@@ -605,10 +605,10 @@
     {
       "id": "three-layers-of-work",
       "label": "Three Layers of Work",
-      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 136 sources",
+      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -619,10 +619,10 @@
     {
       "id": "three-week-cliff",
       "label": "The Three-Week Cliff",
-      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 136 sources",
+      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 143 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -633,10 +633,10 @@
     {
       "id": "token-economics",
       "label": "Token Economics",
-      "title": "Token Economics\nThe economics of AI model usage measured in tokens \u2014 pricing, cost optimization, and business models.\nReferenced by 164 sources",
+      "title": "Token Economics\nThe economics of AI model usage measured in tokens \u2014 pricing, cost optimization, and business models.\nReferenced by 172 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 42,
+      "size": 44,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -647,7 +647,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 175 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 183 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -661,10 +661,10 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 135 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 141 sources",
       "group": "Development",
       "color": "#10b981",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "coding",
