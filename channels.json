@@ -46,6 +46,12 @@
     }
   },
   {
+    "id": "daveshap",
+    "name": "David Shapiro",
+    "url": "https://www.youtube.com/@DaveShap",
+    "description": "Post-labor economics, AI philosophy, AGI implications, future of work and careers"
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
