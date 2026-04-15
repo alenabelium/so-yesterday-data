@@ -1,12 +1,12 @@
 ---
 title: "Knowledge Base Index"
 generated: "2026-04-15"
-total_concepts: 48
+total_concepts: 51
 ---
 
 # Knowledge Base Index
 
-Master catalog of 48 concepts. One-line summaries for LLM navigation.
+Master catalog of 51 concepts. One-line summaries for LLM navigation.
 
 ## LLM Fundamentals
 
@@ -22,6 +22,7 @@ Master catalog of 48 concepts. One-line summaries for LLM navigation.
 - **[Frontier Labs](/knowledge/frontier-labs)** [high] — The leading AI research organizations — Anthropic, OpenAI, Google DeepMind, xAI, Meta AI — racing to build the most capable models.
 - **[Hallucination](/knowledge/hallucination)** [high] — When AI models generate plausible-sounding but factually incorrect or fabricated information.
 - **[Inference](/knowledge/inference)** [high] — The process of running a trained AI model to generate outputs from inputs — the computational step that costs money.
+- **[OpenAI](/knowledge/openai)** [medium] — The leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.
 - **[Retrieval Augmented Generation (RAG)](/knowledge/rag)** [high] — A technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.
 - **[Scaling Laws](/knowledge/scaling-laws)** [high] — The empirical finding that AI model performance improves predictably with more compute, data, and parameters.
 - **[Token Economics](/knowledge/token-economics)** [high] — The economics of AI model usage measured in tokens — pricing, cost optimization, and business models.
@@ -29,6 +30,7 @@ Master catalog of 48 concepts. One-line summaries for LLM navigation.
 ## AI Agents & Tools
 
 - **[Agent Orchestration](/knowledge/agent-orchestration)** [high] — Managing multiple AI agents working in parallel to accomplish complex software and business tasks.
+- **[Agentic Workflows](/knowledge/agentic-workflows)** [medium] — Systems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.
 - **[Constraint Encoding](/knowledge/constraint-encoding)** [high] — Converting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.
 - **[Evals](/knowledge/evals)** [high] — Domain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.
 - **[Model Context Protocol](/knowledge/mcp)** [high] — An open standard for connecting AI models to external tools, data sources, and services.
@@ -49,6 +51,7 @@ Master catalog of 48 concepts. One-line summaries for LLM navigation.
 
 - **[AI Infrastructure](/knowledge/ai-infrastructure)** [high] — The physical and cloud computing infrastructure powering AI development and deployment.
 - **[AI-Native Economics](/knowledge/ai-native-economics)** [high] — The new economic model where AI-native companies achieve 5-7x revenue per employee vs. traditional benchmarks.
+- **[Anthropic](/knowledge/anthropic)** [medium] — AI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.
 - **[Domain Translation](/knowledge/domain-translation)** [high] — Bridging the gap between domain expertise and AI capabilities to create effective solutions.
 - **[Frontier Recognition](/knowledge/frontier-recognition)** [high] — The ability to identify what AI can and cannot do today, and adjust strategy accordingly.
 - **[High Agency](/knowledge/high-agency)** [high] — A mindset treating every obstacle as a skill gap to close rather than an immovable barrier — the behavioral predictor of AI adoption success.
@@ -82,4 +85,4 @@ Master catalog of 48 concepts. One-line summaries for LLM navigation.
 
 ## All Slugs (quick lookup)
 
-`agent-orchestration`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-native-economics`, `alignment`, `benchmarks`, `blast-radius`, `chain-of-thought`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `open-source-ai`, `openclaw`, `permission-gap`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `specification-quality`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token-economics`, `tool-use`, `vibe-coding`
+`agent-orchestration`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-native-economics`, `alignment`, `anthropic`, `benchmarks`, `blast-radius`, `chain-of-thought`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `specification-quality`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token-economics`, `tool-use`, `vibe-coding`

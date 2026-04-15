@@ -3,7 +3,7 @@
     {
       "id": "agent-orchestration",
       "label": "Agent Orchestration",
-      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 191 sources",
+      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 192 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -13,6 +13,21 @@
         "coding"
       ],
       "url": "/knowledge/agent-orchestration"
+    },
+    {
+      "id": "agentic-workflows",
+      "label": "Agentic Workflows",
+      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 248 sources",
+      "group": "AI Agents & Tools",
+      "color": "#3b82f6",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-agents",
+        "ai-strategy",
+        "productivity"
+      ],
+      "url": "/knowledge/agentic-workflows"
     },
     {
       "id": "agi",
@@ -31,7 +46,7 @@
     {
       "id": "ai-agents",
       "label": "AI Agents",
-      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 204 sources",
+      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 205 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -45,10 +60,10 @@
     {
       "id": "ai-coding-levels",
       "label": "The 5 Levels of AI Coding",
-      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 139 sources",
+      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 140 sources",
       "group": "Development",
       "color": "#10b981",
-      "size": 37,
+      "size": 38,
       "confidence": "high",
       "tags": [
         "coding",
@@ -99,6 +114,21 @@
       "url": "/knowledge/alignment"
     },
     {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 263 sources",
+      "group": "Strategy & Career",
+      "color": "#f59e0b",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-strategy",
+        "ai-tools",
+        "ethics-safety"
+      ],
+      "url": "/knowledge/anthropic"
+    },
+    {
       "id": "benchmarks",
       "label": "Benchmarks",
       "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 184 sources",
@@ -143,10 +173,10 @@
     {
       "id": "compounding-gap",
       "label": "The Compounding Gap",
-      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 159 sources",
+      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -157,7 +187,7 @@
     {
       "id": "constraint-encoding",
       "label": "Constraint Encoding",
-      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 223 sources",
+      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 224 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -185,7 +215,7 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 196 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 197 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -213,10 +243,10 @@
     {
       "id": "domain-translation",
       "label": "Domain Translation",
-      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 159 sources",
+      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -241,7 +271,7 @@
     {
       "id": "evals",
       "label": "Evals",
-      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 224 sources",
+      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 225 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -255,7 +285,7 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 195 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 196 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -311,10 +341,10 @@
     {
       "id": "high-agency",
       "label": "High Agency",
-      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 159 sources",
+      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "career",
@@ -325,7 +355,7 @@
     {
       "id": "identity-threat",
       "label": "Identity Threat",
-      "title": "Identity Threat\nThe psychological challenge when AI capabilities threaten professional identity built on expertise.\nReferenced by 87 sources",
+      "title": "Identity Threat\nThe psychological challenge when AI capabilities threaten professional identity built on expertise.\nReferenced by 88 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 27,
@@ -367,10 +397,10 @@
     {
       "id": "job-market-bifurcation",
       "label": "Job Market Bifurcation",
-      "title": "Job Market Bifurcation\nThe splitting of the job market into AI-augmented high-value roles and declining traditional roles.\nReferenced by 159 sources",
+      "title": "Job Market Bifurcation\nThe splitting of the job market into AI-augmented high-value roles and declining traditional roles.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "career",
@@ -381,7 +411,7 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 221 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 222 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -407,9 +437,24 @@
       "url": "/knowledge/open-source-ai"
     },
     {
+      "id": "openai",
+      "label": "OpenAI",
+      "title": "OpenAI\nThe leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.\nReferenced by 230 sources",
+      "group": "Strategy & Career",
+      "color": "#f59e0b",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-strategy",
+        "industry-news",
+        "llm-fundamentals"
+      ],
+      "url": "/knowledge/openai"
+    },
+    {
       "id": "openclaw",
       "label": "OpenClaw",
-      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 213 sources",
+      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 214 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -423,10 +468,10 @@
     {
       "id": "permission-gap",
       "label": "The Permission Gap",
-      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 159 sources",
+      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -437,10 +482,10 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 164 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 165 sources",
       "group": "Prompting",
       "color": "#a78bfa",
-      "size": 42,
+      "size": 43,
       "confidence": "high",
       "tags": [
         "prompting",
@@ -451,7 +496,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 222 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 223 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -493,7 +538,7 @@
     {
       "id": "second-brain",
       "label": "Building a Second Brain",
-      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 192 sources",
+      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 193 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -549,7 +594,7 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 188 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 189 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -577,7 +622,7 @@
     {
       "id": "the-displaced-expert",
       "label": "The Displaced Expert",
-      "title": "The Displaced Expert\nProfessionals with deep domain expertise whose skills are being commoditized by AI capabilities.\nReferenced by 87 sources",
+      "title": "The Displaced Expert\nProfessionals with deep domain expertise whose skills are being commoditized by AI capabilities.\nReferenced by 88 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 27,
@@ -591,10 +636,10 @@
     {
       "id": "the-observer-mindset",
       "label": "The Observer Mindset",
-      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 159 sources",
+      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "career",
@@ -605,10 +650,10 @@
     {
       "id": "three-layers-of-work",
       "label": "Three Layers of Work",
-      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 159 sources",
+      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -619,10 +664,10 @@
     {
       "id": "three-week-cliff",
       "label": "The Three-Week Cliff",
-      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 159 sources",
+      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 160 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
-      "size": 41,
+      "size": 42,
       "confidence": "high",
       "tags": [
         "ai-strategy",
@@ -647,7 +692,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 222 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 223 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -661,7 +706,7 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 178 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 179 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -709,6 +754,54 @@
     {
       "from": "agent-orchestration",
       "to": "constraint-encoding",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "agent-orchestration",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "tool-use",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "task-decomposition",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "intent-engineering",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-workflows",
+      "to": "emergent-behavior",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -893,6 +986,46 @@
     {
       "from": "alignment",
       "to": "emergent-behavior",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "alignment",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "frontier-labs",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "context-window",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "chain-of-thought",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "hallucination",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1349,6 +1482,54 @@
     {
       "from": "open-source-ai",
       "to": "frontier-labs",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "frontier-labs",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "anthropic",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "scaling-laws",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "fine-tuning",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "context-window",
       "color": {
         "color": "#334155",
         "opacity": 0.6
