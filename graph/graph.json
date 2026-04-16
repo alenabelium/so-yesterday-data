@@ -3,7 +3,7 @@
     {
       "id": "agent-orchestration",
       "label": "Agent Orchestration",
-      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 197 sources",
+      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 198 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -17,7 +17,7 @@
     {
       "id": "agentic-ai",
       "label": "Agentic AI",
-      "title": "Agentic AI\nAI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.\nReferenced by 275 sources",
+      "title": "Agentic AI\nAI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.\nReferenced by 276 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -32,7 +32,7 @@
     {
       "id": "agentic-workflows",
       "label": "Agentic Workflows",
-      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 281 sources",
+      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 282 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -47,7 +47,7 @@
     {
       "id": "agentic",
       "label": "Agentic",
-      "title": "Agentic\nThe paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.\nReferenced by 278 sources",
+      "title": "Agentic\nThe paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.\nReferenced by 279 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -62,7 +62,7 @@
     {
       "id": "agi",
       "label": "Artificial General Intelligence (AGI)",
-      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 207 sources",
+      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 208 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -76,7 +76,7 @@
     {
       "id": "ai-agents",
       "label": "AI Agents",
-      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 219 sources",
+      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 220 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -90,7 +90,7 @@
     {
       "id": "ai-coding-levels",
       "label": "The 5 Levels of AI Coding",
-      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 147 sources",
+      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 148 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 39,
@@ -160,7 +160,7 @@
     {
       "id": "ai-safety-research",
       "label": "AI Safety Research",
-      "title": "AI Safety Research\nThe field of research focused on ensuring AI systems remain safe, controllable, and aligned with human values.\nReferenced by 140 sources",
+      "title": "AI Safety Research\nThe field of research focused on ensuring AI systems remain safe, controllable, and aligned with human values.\nReferenced by 141 sources",
       "group": "Ethics & Safety",
       "color": "#f97316",
       "size": 38,
@@ -188,10 +188,10 @@
     {
       "id": "alignment",
       "label": "AI Alignment",
-      "title": "AI Alignment\nThe challenge of ensuring AI systems act according to human values, intentions, and safety requirements.\nReferenced by 144 sources",
+      "title": "AI Alignment\nThe challenge of ensuring AI systems act according to human values, intentions, and safety requirements.\nReferenced by 145 sources",
       "group": "Ethics & Safety",
       "color": "#f97316",
-      "size": 38,
+      "size": 39,
       "confidence": "high",
       "tags": [
         "ethics-safety",
@@ -217,7 +217,7 @@
     {
       "id": "autonomous-agents",
       "label": "Autonomous Agents",
-      "title": "Autonomous Agents\nFully autonomous AI systems that operate without human intervention for extended periods.\nReferenced by 254 sources",
+      "title": "Autonomous Agents\nFully autonomous AI systems that operate without human intervention for extended periods.\nReferenced by 255 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -231,7 +231,7 @@
     {
       "id": "benchmarks",
       "label": "Benchmarks",
-      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 197 sources",
+      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 198 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -245,7 +245,7 @@
     {
       "id": "blast-radius",
       "label": "Blast Radius Management",
-      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 151 sources",
+      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 152 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 40,
@@ -259,10 +259,10 @@
     {
       "id": "chain-of-thought",
       "label": "Chain of Thought",
-      "title": "Chain of Thought\nA reasoning technique where LLMs break problems into intermediate steps before answering.\nReferenced by 109 sources",
+      "title": "Chain of Thought\nA reasoning technique where LLMs break problems into intermediate steps before answering.\nReferenced by 110 sources",
       "group": "Prompting",
       "color": "#a78bfa",
-      "size": 31,
+      "size": 32,
       "confidence": "high",
       "tags": [
         "prompting",
@@ -287,7 +287,7 @@
     {
       "id": "constraint-encoding",
       "label": "Constraint Encoding",
-      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 252 sources",
+      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 253 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -301,7 +301,7 @@
     {
       "id": "context-engineering",
       "label": "Context Engineering",
-      "title": "Context Engineering\nThe art of structuring information provided to LLMs for optimal performance.\nReferenced by 110 sources",
+      "title": "Context Engineering\nThe art of structuring information provided to LLMs for optimal performance.\nReferenced by 111 sources",
       "group": "Prompting",
       "color": "#a78bfa",
       "size": 32,
@@ -315,7 +315,7 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 213 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 214 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -329,7 +329,7 @@
     {
       "id": "disposable-software",
       "label": "Disposable Software",
-      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 179 sources",
+      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 180 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -357,7 +357,7 @@
     {
       "id": "emergent-behavior",
       "label": "Emergent Behavior",
-      "title": "Emergent Behavior\nUnexpected capabilities that appear in AI systems at scale, not explicitly programmed or predicted.\nReferenced by 140 sources",
+      "title": "Emergent Behavior\nUnexpected capabilities that appear in AI systems at scale, not explicitly programmed or predicted.\nReferenced by 141 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 38,
@@ -371,7 +371,7 @@
     {
       "id": "evals",
       "label": "Evals",
-      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 253 sources",
+      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 254 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -385,7 +385,7 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 211 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 212 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -399,7 +399,7 @@
     {
       "id": "frontier-labs",
       "label": "Frontier Labs",
-      "title": "Frontier Labs\nThe leading AI research organizations \u2014 Anthropic, OpenAI, Google DeepMind, xAI, Meta AI \u2014 racing to build the most capable models.\nReferenced by 190 sources",
+      "title": "Frontier Labs\nThe leading AI research organizations \u2014 Anthropic, OpenAI, Google DeepMind, xAI, Meta AI \u2014 racing to build the most capable models.\nReferenced by 191 sources",
       "group": "Industry",
       "color": "#6366f1",
       "size": 45,
@@ -427,10 +427,10 @@
     {
       "id": "hallucination",
       "label": "Hallucination",
-      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 144 sources",
+      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 145 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 38,
+      "size": 39,
       "confidence": "high",
       "tags": [
         "llm-fundamentals",
@@ -469,7 +469,7 @@
     {
       "id": "inference",
       "label": "Inference",
-      "title": "Inference\nThe process of running a trained AI model to generate outputs from inputs \u2014 the computational step that costs money.\nReferenced by 228 sources",
+      "title": "Inference\nThe process of running a trained AI model to generate outputs from inputs \u2014 the computational step that costs money.\nReferenced by 229 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -483,7 +483,7 @@
     {
       "id": "intent-engineering",
       "label": "Intent Engineering",
-      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 184 sources",
+      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 185 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -511,7 +511,7 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 234 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 235 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -525,7 +525,7 @@
     {
       "id": "model-distillation",
       "label": "Model Distillation",
-      "title": "Model Distillation\nCompressing a large AI model's knowledge into a smaller, faster model for efficient deployment.\nReferenced by 225 sources",
+      "title": "Model Distillation\nCompressing a large AI model's knowledge into a smaller, faster model for efficient deployment.\nReferenced by 226 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -539,7 +539,7 @@
     {
       "id": "multi-agent-systems",
       "label": "Multi-Agent Systems",
-      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 197 sources",
+      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 198 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -553,7 +553,7 @@
     {
       "id": "multimodal-ai",
       "label": "Multimodal AI",
-      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 211 sources",
+      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 212 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -581,7 +581,7 @@
     {
       "id": "openai",
       "label": "OpenAI",
-      "title": "OpenAI\nThe leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.\nReferenced by 266 sources",
+      "title": "OpenAI\nThe leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.\nReferenced by 267 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -596,7 +596,7 @@
     {
       "id": "openclaw",
       "label": "OpenClaw",
-      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 227 sources",
+      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 228 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -638,10 +638,10 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 169 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 170 sources",
       "group": "Prompting",
       "color": "#a78bfa",
-      "size": 43,
+      "size": 44,
       "confidence": "high",
       "tags": [
         "prompting",
@@ -652,7 +652,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 244 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 245 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -680,7 +680,7 @@
     {
       "id": "scaling-laws",
       "label": "Scaling Laws",
-      "title": "Scaling Laws\nThe empirical finding that AI model performance improves predictably with more compute, data, and parameters.\nReferenced by 225 sources",
+      "title": "Scaling Laws\nThe empirical finding that AI model performance improves predictably with more compute, data, and parameters.\nReferenced by 226 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -708,7 +708,7 @@
     {
       "id": "sniff-checking",
       "label": "Sniff-Checking",
-      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 166 sources",
+      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 167 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 43,
@@ -750,7 +750,7 @@
     {
       "id": "specification-quality",
       "label": "Specification Quality",
-      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 166 sources",
+      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 167 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 43,
@@ -764,7 +764,7 @@
     {
       "id": "synthetic-data",
       "label": "Synthetic Data",
-      "title": "Synthetic Data\nMachine-generated training data used to improve AI models, overcoming data scarcity and privacy constraints.\nReferenced by 225 sources",
+      "title": "Synthetic Data\nMachine-generated training data used to improve AI models, overcoming data scarcity and privacy constraints.\nReferenced by 226 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -778,7 +778,7 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 201 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 202 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -862,7 +862,7 @@
     {
       "id": "token-economics",
       "label": "Token Economics",
-      "title": "Token Economics\nThe economics of AI model usage measured in tokens \u2014 pricing, cost optimization, and business models.\nReferenced by 225 sources",
+      "title": "Token Economics\nThe economics of AI model usage measured in tokens \u2014 pricing, cost optimization, and business models.\nReferenced by 226 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -876,7 +876,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 235 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 236 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -890,7 +890,7 @@
     {
       "id": "training",
       "label": "AI Model Training",
-      "title": "AI Model Training\nThe process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.\nReferenced by 231 sources",
+      "title": "AI Model Training\nThe process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.\nReferenced by 232 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -904,10 +904,10 @@
     {
       "id": "transformer-architecture",
       "label": "Transformer Architecture",
-      "title": "Transformer Architecture\nThe neural network architecture behind all modern LLMs, based on the self-attention mechanism.\nReferenced by 99 sources",
+      "title": "Transformer Architecture\nThe neural network architecture behind all modern LLMs, based on the self-attention mechanism.\nReferenced by 100 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
-      "size": 29,
+      "size": 30,
       "confidence": "high",
       "tags": [
         "llm-fundamentals"
@@ -917,7 +917,7 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 184 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 185 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
