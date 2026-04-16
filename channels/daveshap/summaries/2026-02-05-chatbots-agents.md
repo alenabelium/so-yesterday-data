@@ -6,9 +6,11 @@ url: https://www.youtube.com/watch?v=5zQCkLpQ1V8
 channel: David Shapiro
 tags:
   - ai-agents
-  - llm-fundamentals
+  - ai-strategy
   - ethics-safety
+  - llm-fundamentals
 transcript: ../transcripts/2026-02-05-chatbots-agents.md
+relevant: true
 ---
 
 # Chatbots ≠ Agents

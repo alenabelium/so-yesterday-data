@@ -104,7 +104,7 @@
     {
       "id": "ai-infrastructure",
       "label": "AI Infrastructure",
-      "title": "AI Infrastructure\nThe physical and cloud computing infrastructure powering AI development and deployment.\nReferenced by 227 sources",
+      "title": "AI Infrastructure\nThe physical and cloud computing infrastructure powering AI development and deployment.\nReferenced by 228 sources",
       "group": "Industry",
       "color": "#6366f1",
       "size": 45,
@@ -132,7 +132,7 @@
     {
       "id": "ai-native-economics",
       "label": "AI-Native Economics",
-      "title": "AI-Native Economics\nThe new economic model where AI-native companies achieve 5-7x revenue per employee vs. traditional benchmarks.\nReferenced by 227 sources",
+      "title": "AI-Native Economics\nThe new economic model where AI-native companies achieve 5-7x revenue per employee vs. traditional benchmarks.\nReferenced by 228 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -273,7 +273,7 @@
     {
       "id": "compounding-gap",
       "label": "The Compounding Gap",
-      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 188 sources",
+      "title": "The Compounding Gap\nThe exponentially widening gap between those who adopt AI tools early and those who delay.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -327,6 +327,21 @@
       "url": "/knowledge/context-window"
     },
     {
+      "id": "dark-code",
+      "label": "Dark Code",
+      "title": "Dark Code\nProduction code that no human has ever fully understood \u2014 AI-generated, automatically tested, and deployed without a comprehension step.\nReferenced by 262 sources",
+      "group": "Development",
+      "color": "#10b981",
+      "size": 45,
+      "confidence": "high",
+      "tags": [
+        "coding",
+        "ai-strategy",
+        "ethics-safety"
+      ],
+      "url": "/knowledge/dark-code"
+    },
+    {
       "id": "disposable-software",
       "label": "Disposable Software",
       "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 179 sources",
@@ -343,7 +358,7 @@
     {
       "id": "domain-translation",
       "label": "Domain Translation",
-      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 188 sources",
+      "title": "Domain Translation\nBridging the gap between domain expertise and AI capabilities to create effective solutions.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -413,7 +428,7 @@
     {
       "id": "frontier-recognition",
       "label": "Frontier Recognition",
-      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 227 sources",
+      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 228 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -441,7 +456,7 @@
     {
       "id": "high-agency",
       "label": "High Agency",
-      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 188 sources",
+      "title": "High Agency\nA mindset treating every obstacle as a skill gap to close rather than an immovable barrier \u2014 the behavioral predictor of AI adoption success.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 45,
@@ -483,7 +498,7 @@
     {
       "id": "intent-engineering",
       "label": "Intent Engineering",
-      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 184 sources",
+      "title": "Intent Engineering\nExpressing high-level goals and intent in ways AI systems can reliably interpret and execute.\nReferenced by 185 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -610,7 +625,7 @@
     {
       "id": "permission-gap",
       "label": "The Permission Gap",
-      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 188 sources",
+      "title": "The Permission Gap\nThe organizational and psychological barrier where professionals wait for external validation before adopting AI.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -624,7 +639,7 @@
     {
       "id": "post-labor-economics",
       "label": "Post-Labor Economics",
-      "title": "Post-Labor Economics\nThe economic framework for a world where AI and robotics decouple economic output from human labor.\nReferenced by 188 sources",
+      "title": "Post-Labor Economics\nThe economic framework for a world where AI and robotics decouple economic output from human labor.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -666,7 +681,7 @@
     {
       "id": "rejection-competency",
       "label": "Rejection Competency",
-      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 227 sources",
+      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 228 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -722,7 +737,7 @@
     {
       "id": "solo-operator",
       "label": "The Solo Operator",
-      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 228 sources",
+      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 229 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -792,7 +807,7 @@
     {
       "id": "the-70-percent-problem",
       "label": "The 70% Problem",
-      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 227 sources",
+      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 228 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -820,7 +835,7 @@
     {
       "id": "the-observer-mindset",
       "label": "The Observer Mindset",
-      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 188 sources",
+      "title": "The Observer Mindset\nThe pattern of watching AI developments from the sidelines, waiting for clarity before committing.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#ef4444",
       "size": 45,
@@ -834,7 +849,7 @@
     {
       "id": "three-layers-of-work",
       "label": "Three Layers of Work",
-      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 188 sources",
+      "title": "Three Layers of Work\nA framework dividing work into execution, judgment, and strategy layers to predict AI's impact on jobs.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -848,7 +863,7 @@
     {
       "id": "three-week-cliff",
       "label": "The Three-Week Cliff",
-      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 188 sources",
+      "title": "The Three-Week Cliff\nThe phenomenon where most professionals abandon AI tools after approximately three weeks of use.\nReferenced by 189 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -1661,6 +1676,70 @@
     {
       "from": "context-window",
       "to": "inference",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "vibe-coding",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "ai-coding-levels",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "disposable-software",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "specification-quality",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "the-70-percent-problem",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "sniff-checking",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "rejection-competency",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "dark-code",
+      "to": "blast-radius",
       "color": {
         "color": "#334155",
         "opacity": 0.6
