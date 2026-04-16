@@ -15,9 +15,24 @@
       "url": "/knowledge/agent-orchestration"
     },
     {
+      "id": "agentic-ai",
+      "label": "Agentic AI",
+      "title": "Agentic AI\nAI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.\nReferenced by 275 sources",
+      "group": "AI Agents & Tools",
+      "color": "#3b82f6",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-agents",
+        "ai-strategy",
+        "llm-fundamentals"
+      ],
+      "url": "/knowledge/agentic-ai"
+    },
+    {
       "id": "agentic-workflows",
       "label": "Agentic Workflows",
-      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 280 sources",
+      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 281 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -28,6 +43,21 @@
         "productivity"
       ],
       "url": "/knowledge/agentic-workflows"
+    },
+    {
+      "id": "agentic",
+      "label": "Agentic",
+      "title": "Agentic\nThe paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.\nReferenced by 278 sources",
+      "group": "AI Agents & Tools",
+      "color": "#3b82f6",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-agents",
+        "ai-strategy",
+        "llm-fundamentals"
+      ],
+      "url": "/knowledge/agentic"
     },
     {
       "id": "agi",
@@ -88,7 +118,7 @@
     {
       "id": "ai-music-generation",
       "label": "AI Music Generation",
-      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 229 sources",
+      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 230 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -144,7 +174,7 @@
     {
       "id": "ai-video-generation",
       "label": "AI Video Generation",
-      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 229 sources",
+      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 230 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -172,7 +202,7 @@
     {
       "id": "anthropic",
       "label": "Anthropic",
-      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 301 sources",
+      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 302 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -285,7 +315,7 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 212 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 213 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -355,7 +385,7 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 210 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 211 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -383,7 +413,7 @@
     {
       "id": "frontier-recognition",
       "label": "Frontier Recognition",
-      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 226 sources",
+      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 227 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -481,7 +511,7 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 233 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 234 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -523,7 +553,7 @@
     {
       "id": "multimodal-ai",
       "label": "Multimodal AI",
-      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 210 sources",
+      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 211 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -608,7 +638,7 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 168 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 169 sources",
       "group": "Prompting",
       "color": "#a78bfa",
       "size": 43,
@@ -622,7 +652,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 243 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 244 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -636,7 +666,7 @@
     {
       "id": "rejection-competency",
       "label": "Rejection Competency",
-      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 226 sources",
+      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 227 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -664,7 +694,7 @@
     {
       "id": "second-brain",
       "label": "Building a Second Brain",
-      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 196 sources",
+      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 197 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -678,7 +708,7 @@
     {
       "id": "sniff-checking",
       "label": "Sniff-Checking",
-      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 165 sources",
+      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 166 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 43,
@@ -692,7 +722,7 @@
     {
       "id": "solo-operator",
       "label": "The Solo Operator",
-      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 227 sources",
+      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 228 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -720,7 +750,7 @@
     {
       "id": "specification-quality",
       "label": "Specification Quality",
-      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 165 sources",
+      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 166 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 43,
@@ -748,7 +778,7 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 200 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 201 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -762,7 +792,7 @@
     {
       "id": "the-70-percent-problem",
       "label": "The 70% Problem",
-      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 226 sources",
+      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 227 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -846,7 +876,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 234 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 235 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -856,6 +886,20 @@
         "ai-tools"
       ],
       "url": "/knowledge/tool-use"
+    },
+    {
+      "id": "training",
+      "label": "AI Model Training",
+      "title": "AI Model Training\nThe process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.\nReferenced by 231 sources",
+      "group": "LLM Fundamentals",
+      "color": "#8b5cf6",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "llm-fundamentals",
+        "ai-strategy"
+      ],
+      "url": "/knowledge/training"
     },
     {
       "id": "transformer-architecture",
@@ -873,7 +917,7 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 183 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 184 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -927,6 +971,54 @@
       }
     },
     {
+      "from": "agentic-ai",
+      "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-ai",
+      "to": "agentic-workflows",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-ai",
+      "to": "multi-agent-systems",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-ai",
+      "to": "tool-use",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-ai",
+      "to": "task-decomposition",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic-ai",
+      "to": "autonomous-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
       "from": "agentic-workflows",
       "to": "ai-agents",
       "color": {
@@ -969,6 +1061,46 @@
     {
       "from": "agentic-workflows",
       "to": "emergent-behavior",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "agentic-workflows",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "tool-use",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "task-decomposition",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "multi-agent-systems",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2289,6 +2421,46 @@
     {
       "from": "three-week-cliff",
       "to": "the-70-percent-problem",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "training",
+      "to": "fine-tuning",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "training",
+      "to": "transformer-architecture",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "training",
+      "to": "synthetic-data",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "training",
+      "to": "scaling-laws",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "training",
+      "to": "inference",
       "color": {
         "color": "#334155",
         "opacity": 0.6
