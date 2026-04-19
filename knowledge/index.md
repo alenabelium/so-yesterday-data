@@ -1,12 +1,12 @@
 ---
 title: "Knowledge Base Index"
-generated: "2026-04-16"
-total_concepts: 67
+generated: "2026-04-19"
+total_concepts: 68
 ---
 
 # Knowledge Base Index
 
-Master catalog of 67 concepts. One-line summaries for LLM navigation.
+Master catalog of 68 concepts. One-line summaries for LLM navigation.
 
 ## LLM Fundamentals
 
@@ -40,6 +40,7 @@ Master catalog of 67 concepts. One-line summaries for LLM navigation.
 - **[Agent Orchestration](/knowledge/agent-orchestration)** [high] — Managing multiple AI agents working in parallel to accomplish complex software and business tasks.
 - **[Agentic Workflows](/knowledge/agentic-workflows)** [medium] — Systems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.
 - **[Autonomous Agents](/knowledge/autonomous-agents)** [high] — Fully autonomous AI systems that operate without human intervention for extended periods.
+- **[Claude Code](/knowledge/claude-code)** [medium] — Anthropic's CLI tool enabling AI agents to autonomously edit files, run commands, and manage local development workflows.
 - **[Constraint Encoding](/knowledge/constraint-encoding)** [high] — Converting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.
 - **[Evals](/knowledge/evals)** [high] — Domain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.
 - **[Model Context Protocol](/knowledge/mcp)** [high] — An open standard for connecting AI models to external tools, data sources, and services.
@@ -101,4 +102,4 @@ Master catalog of 67 concepts. One-line summaries for LLM navigation.
 
 ## All Slugs (quick lookup)
 
-`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`
+`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `claude-code`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`
