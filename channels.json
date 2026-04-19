@@ -52,6 +52,17 @@
     "description": "Post-labor economics, AI philosophy, AGI implications, future of work and careers"
   },
   {
+    "id": "lennyspodcast",
+    "name": "Lenny's Podcast",
+    "url": "https://www.youtube.com/@LennysPodcast",
+    "description": "Product management, startups, career growth, and AI's impact on product teams",
+    "preferences": {
+      "index": "Only episodes about AI, AI tools, AI agents, AI strategy, AI's impact on product management, engineering, careers, or organizations. Skip episodes purely about growth tactics, marketing funnels, hiring process, company culture, or general startup advice with no AI connection.",
+      "knowledge": "all",
+      "highlight": "all"
+    }
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
