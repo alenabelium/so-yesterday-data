@@ -3,6 +3,7 @@ title: "Dark Code and the Three Pillars: A Framework for Code Nobody Reads"
 date: "2026-04-16"
 description: "Dark code — production software no human has ever fully understood — is inevitable. The solution is not to read all the code. It's to make code the least important artifact, held in place by specifications and tests that any two can reconstruct the third."
 slug: "2026-04-16-01-dark-code-and-the-three-pillars"
+video: "vaAkQXgTT-c"
 ---
 
 # Dark Code and the Three Pillars: A Framework for Code Nobody Reads

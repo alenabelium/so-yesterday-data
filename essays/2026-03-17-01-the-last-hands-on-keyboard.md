@@ -3,6 +3,7 @@ title: "The Last Hands on the Keyboard: How Software Development Became Agent Or
 date: "2026-03-17"
 description: "Why the developer's job is shifting from writing code to managing fleets of AI agents — and what the new work actually looks like."
 slug: "2026-03-17-01-the-last-hands-on-keyboard"
+video: "VGqL00KMI2Y"
 ---
 
 # The Last Hands on the Keyboard: How Software Development Became Agent Orchestration

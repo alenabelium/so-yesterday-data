@@ -3,6 +3,7 @@ title: "Pike's Rules for the Agentic Age: Why 1989 Programming Wisdom Is Your Be
 date: "2026-03-25"
 description: "Rob Pike's five rules of programming — written in 1989 — turn out to be the missing playbook for building reliable AI agent systems. A practical framework for applying timeless engineering principles to the agentic era."
 slug: "2026-03-25-01-pikes-rules-for-the-agentic-age"
+video: "9XdTBnu3vFI"
 ---
 
 # Pike's Rules for the Agentic Age: Why 1989 Programming Wisdom Is Your Best AI Strategy

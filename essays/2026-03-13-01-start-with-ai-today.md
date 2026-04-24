@@ -3,6 +3,7 @@ title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Star
 date: "2026-03-13"
 description: "A practical, no-jargon guide for professionals ready to start using AI in their daily work."
 slug: "2026-03-13-01-start-with-ai-today"
+video: "Lczx9ZRhsQI"
 ---
 
 # Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today

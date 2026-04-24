@@ -3,6 +3,7 @@ title: "The Intelligence Economy: How AI Is Rewriting the Business Model Playboo
 date: "2026-03-21"
 description: "From platforms to agents — why the biggest business model shift since Uber and Airbnb is already here, and what companies must do to survive it."
 slug: "2026-03-21-01-the-intelligence-economy"
+video: "WpGEEozWNw4"
 ---
 
 # The Intelligence Economy: How AI Is Rewriting the Business Model Playbook
