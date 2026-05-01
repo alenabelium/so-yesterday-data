@@ -664,5 +664,65 @@
     "upload_date": "20260420",
     "title": "25% of All Layoffs Last Month Were Blamed on AI. You're Next.",
     "duration": 1290
+  },
+  {
+    "id": "tJB_8mfRgCo",
+    "upload_date": "20260421",
+    "title": "Anthropic Shipped Opus 4.7. Three Things Broke.",
+    "duration": 3105
+  },
+  {
+    "id": "dxq7WtWxi44",
+    "upload_date": "20260422",
+    "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
+    "duration": 2469
+  },
+  {
+    "id": "2d9ZmA-4QzU",
+    "upload_date": "20260423",
+    "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
+    "duration": 1260
+  },
+  {
+    "id": "KlPxWaY91rE",
+    "upload_date": "20260424",
+    "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
+    "duration": 1422
+  },
+  {
+    "id": "brBPsPPyuQM",
+    "upload_date": "20260425",
+    "title": "ChatGPT Images Just Replaced Three People on Your Team.",
+    "duration": 1546
+  },
+  {
+    "id": "RaAFquzj5B8",
+    "upload_date": "20260426",
+    "title": "The Real Reason Apple's New CEO Is A Hardware Guy",
+    "duration": 1256
+  },
+  {
+    "id": "QrvVkm-8Jx4",
+    "upload_date": "20260427",
+    "title": "I Gave ChatGPT Workspace Agents My Worst Workflow. It Won.",
+    "duration": 1394
+  },
+  {
+    "id": "9aIYhjeYxzM",
+    "upload_date": "20260428",
+    "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
+    "duration": 1954
+  },
+  {
+    "id": "dQK_pTXrGDk",
+    "upload_date": "20260429",
+    "title": "The Agent Race Stopped Being About Models. It's About Data.",
+    "duration": 1388
+  },
+  {
+    "id": "JvCtGjrn_N0",
+    "upload_date": "20260430",
+    "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
+    "duration": 1488
   }
 ]
