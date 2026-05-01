@@ -18,10 +18,10 @@ Full essay: https://so-yesterday.ai/essays/2026-04-19-01-build-or-be-replaced
 
 Timestamps:
 0:00 — The split: 30,000 shed, 8,000 rehired
-2:00 — The PM Triage framework
-4:00 — The Shadow Superpower
-6:30 — The Moment of Joy
-9:00 — The new job description
+1:16 — The PM Triage framework
+2:15 — The Shadow Superpower
+4:22 — The Moment of Joy
+5:07 — The new job description
 
 ---
 

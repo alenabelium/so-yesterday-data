@@ -12,12 +12,11 @@ This video is the no-nonsense push you need to start.
 
 TIMESTAMPS:
 0:00 - Introduction
-0:00 - The 85% adoption, 3% retention problem
-0:00 - Your first day: one tool, one real task
-0:00 - The ask-review-pushback-repeat loop
-0:00 - Tools that matter right now
-0:00 - The mindset shift: clarity over prompt tricks
-0:00 - Why going slow is the real risk
+0:04 - The 85% adoption, 3% retention problem
+0:53 - Your first day: one tool, one real task
+1:39 - The ask-review-pushback-repeat loop
+2:18 - The mindset shift: clarity over prompt tricks
+3:40 - Why going slow is the real risk
 
 Based on the essay "Stop Overthinking It" from so-yesterday.ai:
 https://so-yesterday.ai/essays/2026-03-13-01-start-with-ai-today

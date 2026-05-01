@@ -12,13 +12,13 @@ This isn't about which tools to learn. It's about the psychological rewiring tha
 
 TIMESTAMPS:
 0:00 - Introduction: the bicycle metaphor
-0:00 - The mindset that no longer works
-0:00 - Wall 1: The Identity Threat
-0:00 - Wall 2: The Permission Gap
-0:00 - Wall 3: The Comfort of Familiar Struggle
-0:00 - The six skills that actually matter
-0:00 - The compounding gap
-0:00 - The way through
+0:33 - The mindset that no longer works
+0:46 - Wall 1: The Identity Threat
+1:17 - Wall 2: The Permission Gap
+1:38 - Wall 3: The Comfort of Familiar Struggle
+1:56 - The six skills that actually matter
+3:32 - The compounding gap
+4:13 - The way through
 
 Based on the essay "The Bicycle Problem" from so-yesterday.ai:
 https://so-yesterday.ai/essays/2026-03-13-02-the-bicycle-problem

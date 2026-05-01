@@ -12,13 +12,13 @@ Production code that no human has ever understood is already running your favori
 
 ⏱️ Timestamps:
 00:00 — Introduction: The Amazon Disaster
-XX:XX — What Is Dark Code?
-XX:XX — The Inversion: Code Is No Longer the Source of Truth
-XX:XX — The Three Pillars: Spec + Tests + Code
-XX:XX — Any Two Reconstruct the Third
-XX:XX — Five Assurance Levels
-XX:XX — The Trust Problem: Circular Validation
-XX:XX — The Three Questions Every Team Should Ask
+00:41 — What Is Dark Code?
+01:41 — The Inversion: Code Is No Longer the Source of Truth
+02:54 — The Three Pillars: Spec + Tests + Code
+03:05 — Any Two Reconstruct the Third
+03:48 — The Trust Problem: Circular Validation
+04:26 — Five Assurance Levels
+05:11 — The Three Questions Every Team Should Ask
 
 ---
 

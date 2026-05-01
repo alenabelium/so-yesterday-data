@@ -12,13 +12,13 @@ What happened in Q1 2026 wasn't incremental. It was a phase transition. Here's t
 
 TIMESTAMPS:
 0:00 - Introduction
-0:00 - January: the infrastructure bets get real
-0:00 - The workforce data: entry-level hiring collapse
-0:00 - February: OpenClaw and the agent explosion
-0:00 - Claude Opus 4.6 and the capability jump
-0:00 - The $285 billion SaaS sell-off
-0:00 - March: the strategic chessboard
-0:00 - What this all means: three phase transitions
+0:15 - January: the infrastructure bets get real
+1:05 - The workforce data: entry-level hiring collapse
+1:48 - February: OpenClaw and the agent explosion
+2:21 - Claude Opus 4.6 and the capability jump
+3:30 - The $285 billion SaaS sell-off
+4:24 - March: the strategic chessboard
+4:28 - What this all means: three phase transitions
 
 Based on the essay "72 Days That Rewrote the Rules" from so-yesterday.ai:
 https://so-yesterday.ai/essays/2026-03-13-03-72-days-that-rewrote-the-rules

@@ -12,13 +12,13 @@ In 1989, Rob Pike wrote five rules of programming at Bell Labs. In 2026, they're
 
 ⏱️ Timestamps:
 00:00 — Introduction: 1989 Meets 2026
-XX:XX — Rob Pike's Five Rules
-XX:XX — 2025: The Year of Manufactured Complexity
-XX:XX — Rule 5 Applied: Context Compression
-XX:XX — Rule 2 Applied: Measure Before You Optimize
-XX:XX — Rule 4 Applied: Simple Is Less Buggy
-XX:XX — The Five-Phase Framework
-XX:XX — Cheat Sheet and Key Takeaways
+00:43 — 2025: The Year of Manufactured Complexity
+01:50 — Rob Pike's Five Rules
+02:09 — Rule 5 Applied: Context Compression
+02:44 — Rule 2 Applied: Measure Before You Optimize
+03:26 — Rule 4 Applied: Simple Is Less Buggy
+04:54 — The Five-Phase Framework
+05:48 — Cheat Sheet and Key Takeaways
 
 ---
 

@@ -12,12 +12,12 @@ The code is the exhaust. The work is somewhere else entirely.
 
 TIMESTAMPS:
 0:00 - Introduction: the kitchen renovation moment
-0:00 - From bricklayer to general contractor
-0:00 - The three layers of developer value
-0:00 - The orchestra conductor model
-0:00 - What the new workday looks like
-0:00 - The five orchestration skills
-0:00 - The mindset shift: identity and satisfaction
+1:02 - From bricklayer to general contractor
+1:10 - The three layers of developer value
+2:37 - The orchestra conductor model
+3:36 - What the new workday looks like
+4:53 - The five orchestration skills
+6:15 - The mindset shift: identity and satisfaction
 
 Based on the essay "The Last Hands on the Keyboard" from so-yesterday.ai:
 https://so-yesterday.ai/essays/2026-03-17-01-the-last-hands-on-keyboard

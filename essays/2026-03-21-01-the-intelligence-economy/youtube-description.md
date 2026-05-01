@@ -12,13 +12,13 @@ Why the biggest business model shift since Uber is already here — and what com
 
 ⏱️ Timestamps:
 00:00 — Introduction: From Platforms to Intelligence
-XX:XX — The $285 Billion Wake-Up Call
-XX:XX — Service-as-Software: The SaaS Inversion
-XX:XX — The Five-Person, $200M Company
-XX:XX — Agent-Mediated Commerce
-XX:XX — The Four Stages of Transformation
-XX:XX — What Companies Should Do Now
-XX:XX — The New Scarcity: Why Taste Is the Moat
+00:46 — The $285 Billion Wake-Up Call
+01:52 — Service-as-Software: The SaaS Inversion
+02:14 — The Five-Person, $200M Company
+02:56 — Agent-Mediated Commerce
+03:43 — The Four Stages of Transformation
+04:13 — What Companies Should Do Now
+04:27 — The New Scarcity: Why Taste Is the Moat
 
 ---
 
