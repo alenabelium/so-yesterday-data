@@ -1,12 +1,12 @@
 ---
 title: "Knowledge Base Index"
-generated: "2026-04-20"
-total_concepts: 68
+generated: "2026-05-01"
+total_concepts: 71
 ---
 
 # Knowledge Base Index
 
-Master catalog of 68 concepts. One-line summaries for LLM navigation.
+Master catalog of 71 concepts. One-line summaries for LLM navigation.
 
 ## LLM Fundamentals
 
@@ -17,8 +17,10 @@ Master catalog of 68 concepts. One-line summaries for LLM navigation.
 - **[Agentic](/knowledge/agentic)** [medium] — The paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.
 - **[Agentic AI](/knowledge/agentic-ai)** [medium] — AI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.
 - **[Artificial General Intelligence (AGI)](/knowledge/agi)** [high] — A theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.
+- **[Autonomous Agent](/knowledge/autonomous-agent)** [medium] — AI systems capable of perceiving, reasoning, and acting independently to achieve complex goals without continuous human input.
 - **[Benchmarks](/knowledge/benchmarks)** [high] — Standardized tests and evaluation frameworks used to compare AI model capabilities and track progress.
 - **[Chain of Thought](/knowledge/chain-of-thought)** [high] — A reasoning technique where LLMs break problems into intermediate steps before answering.
+- **[ChatGPT](/knowledge/chatgpt)** [medium] — OpenAI's flagship conversational AI that catalyzed the global generative AI revolution and redefined human-computer interaction.
 - **[Context Engineering](/knowledge/context-engineering)** [high] — The art of structuring information provided to LLMs for optimal performance.
 - **[Context Window](/knowledge/context-window)** [high] — The maximum amount of text (measured in tokens) that a language model can process in a single interaction.
 - **[Emergent Behavior](/knowledge/emergent-behavior)** [high] — Unexpected capabilities that appear in AI systems at scale, not explicitly programmed or predicted.
@@ -32,6 +34,7 @@ Master catalog of 68 concepts. One-line summaries for LLM navigation.
 - **[Retrieval Augmented Generation (RAG)](/knowledge/rag)** [high] — A technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.
 - **[Scaling Laws](/knowledge/scaling-laws)** [high] — The empirical finding that AI model performance improves predictably with more compute, data, and parameters.
 - **[Synthetic Data](/knowledge/synthetic-data)** [high] — Machine-generated training data used to improve AI models, overcoming data scarcity and privacy constraints.
+- **[Token](/knowledge/token)** [medium] — The fundamental unit of text processed by LLMs, determining context limits and inference costs.
 - **[Token Economics](/knowledge/token-economics)** [high] — The economics of AI model usage measured in tokens — pricing, cost optimization, and business models.
 - **[Transformer Architecture](/knowledge/transformer-architecture)** [high] — The neural network architecture behind all modern LLMs, based on the self-attention mechanism.
 
@@ -102,4 +105,4 @@ Master catalog of 68 concepts. One-line summaries for LLM navigation.
 
 ## All Slugs (quick lookup)
 
-`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `claude-code`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`
+`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agent`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `chatgpt`, `claude-code`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`

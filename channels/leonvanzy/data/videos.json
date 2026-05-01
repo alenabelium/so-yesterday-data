@@ -204,9 +204,15 @@
     "duration": 824
   },
   {
+    "id": "bzYheNpYl8Y",
+    "upload_date": "20260421",
+    "title": "Claude Code Routines Just Changed Everything",
+    "duration": 829
+  },
+  {
     "id": "5LCjeni0Z-U",
     "upload_date": "20260421",
-    "title": "I Let AI Agents Code While I Slept (Claude Code Routines)",
+    "title": "Consensus AI + Claude Code = No More Hallucinations",
     "duration": 829
   },
   {
@@ -218,13 +224,13 @@
   {
     "id": "jmtpYUOr7_U",
     "upload_date": "20260428",
-    "title": "Hermes Agent - An AI That Actually Learns From You",
-    "duration": 1199
+    "duration": 1199,
+    "title": "Hermes Agent Just Killed OpenClaw (Full Tutorial)"
   },
   {
     "id": "fyRRafCurzE",
     "upload_date": "20260429",
-    "title": "This MCP Server Gave Claude 200 Million Research Papers",
-    "duration": 792
+    "duration": 792,
+    "title": "This MCP Server Gave Claude 200 Million Research Papers"
   }
 ]
