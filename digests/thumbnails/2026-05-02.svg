@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="topBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0b0b12"/>
+      <stop offset="100%" stop-color="#08080d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" rx="12" fill="url(#bgGrad)"/>
+
+  <!-- Top gradient bar -->
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#topBar)"/>
+
+  <!-- Decorative dots -->
+  <circle cx="680" cy="40" r="2" fill="#22d3ee" opacity="0.15"/><circle cx="700" cy="40" r="2" fill="#22d3ee" opacity="0.13"/><circle cx="720" cy="40" r="2" fill="#22d3ee" opacity="0.10999999999999999"/><circle cx="740" cy="40" r="2" fill="#22d3ee" opacity="0.09"/><circle cx="760" cy="40" r="2" fill="#22d3ee" opacity="0.06999999999999999"/><circle cx="680" cy="60" r="2" fill="#22d3ee" opacity="0.12"/><circle cx="700" cy="60" r="2" fill="#22d3ee" opacity="0.09999999999999999"/><circle cx="720" cy="60" r="2" fill="#22d3ee" opacity="0.07999999999999999"/><circle cx="740" cy="60" r="2" fill="#22d3ee" opacity="0.06"/><circle cx="760" cy="60" r="2" fill="#22d3ee" opacity="0.04"/><circle cx="680" cy="80" r="2" fill="#22d3ee" opacity="0.09"/><circle cx="700" cy="80" r="2" fill="#22d3ee" opacity="0.06999999999999999"/><circle cx="720" cy="80" r="2" fill="#22d3ee" opacity="0.049999999999999996"/><circle cx="740" cy="80" r="2" fill="#22d3ee" opacity="0.04"/><circle cx="760" cy="80" r="2" fill="#22d3ee" opacity="0.04"/>
+
+  <!-- Label -->
+  <text x="48" y="56" font-family="monospace" font-size="14" font-weight="600" letter-spacing="2" fill="#22d3ee" text-transform="uppercase">DAILY DIGEST</text>
+
+  <!-- Date -->
+  <text x="48" y="100" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="800" fill="#e2e8f0">May 2, 2026</text>
+
+  <!-- Subtitle -->
+  <text x="48" y="134" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#64748b">5 key developments from today&#x27;s AI landscape</text>
+
+  <!-- Separator -->
+  <line x1="48" y1="164" x2="300" y2="164" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Heading items -->
+  <g>
+    <circle cx="60" cy="210" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
+    <text x="60" y="215" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">1</text>
+    <text x="86" y="215" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">DeepSeek V4 Achieves Frontier Performance with Radical…</text>
+    <circle cx="60" cy="256" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
+    <text x="60" y="261" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">2</text>
+    <text x="86" y="261" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">AI Infrastructure Shifts from Model Quality to Data an…</text>
+    <circle cx="60" cy="302" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
+    <text x="60" y="307" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">3</text>
+    <text x="86" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Google and Amazon Commit $73B to Anthropic Amid Comput…</text>
+    <circle cx="60" cy="348" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
+    <text x="60" y="353" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">4</text>
+    <text x="86" y="353" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Humanoid Robot Production Scales 24x as AI Optimizes H…</text>
+    <circle cx="60" cy="394" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
+    <text x="60" y="399" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">5</text>
+    <text x="86" y="399" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">New Frameworks Required to Mitigate Emergent AI Behavi…</text>
+  </g>
+</svg>
