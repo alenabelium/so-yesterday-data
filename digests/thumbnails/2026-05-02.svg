@@ -24,7 +24,7 @@
   <text x="48" y="56" font-family="monospace" font-size="14" font-weight="600" letter-spacing="2" fill="#22d3ee" text-transform="uppercase">DAILY DIGEST</text>
 
   <!-- Date -->
-  <text x="48" y="100" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="800" fill="#e2e8f0">May 3, 2026</text>
+  <text x="48" y="100" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="800" fill="#e2e8f0">May 2, 2026</text>
 
   <!-- Subtitle -->
   <text x="48" y="134" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#64748b">5 key developments from today&#x27;s AI landscape</text>
@@ -36,18 +36,18 @@
   <g>
     <circle cx="60" cy="210" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
     <text x="60" y="215" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">1</text>
-    <text x="86" y="215" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">DeepSeek V4 Breaks Trillion-Parameter Efficiency Barri…</text>
+    <text x="86" y="215" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">DeepSeek V4 Achieves Frontier Performance with Radical…</text>
     <circle cx="60" cy="256" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
     <text x="60" y="261" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">2</text>
-    <text x="86" y="261" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Google and Amazon Secure Anthropic with $73B in Comput…</text>
+    <text x="86" y="261" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">AI Infrastructure Shifts from Model Quality to Data an…</text>
     <circle cx="60" cy="302" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
     <text x="60" y="307" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">3</text>
-    <text x="86" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Humanoid Robot Production Scales 24x in 120 Days</text>
+    <text x="86" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Google and Amazon Commit $73B to Anthropic Amid Comput…</text>
     <circle cx="60" cy="348" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
     <text x="60" y="353" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">4</text>
-    <text x="86" y="353" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Mayo Clinic AI Detects Pancreatic Cancer 475 Days Early</text>
+    <text x="86" y="353" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Humanoid Robot Production Scales 24x as AI Optimizes H…</text>
     <circle cx="60" cy="394" r="14" fill="#12121c" stroke="#38bdf8" stroke-width="1.5" opacity="0.8"/>
     <text x="60" y="399" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#38bdf8">5</text>
-    <text x="86" y="399" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">New Framework for Data-Driven AI Tool Selection in Ent…</text>
+    <text x="86" y="399" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">New Frameworks Required to Mitigate Emergent AI Behavi…</text>
   </g>
 </svg>

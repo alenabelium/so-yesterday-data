@@ -19,10 +19,10 @@ highlight: true
 
 ## Executive Summary
 
-This weekly update highlights the rapid advancement of Chinese AI models like DeepSeek V4 Pro, which are challenging US dominance through open-source availability and cost efficiency on domestic hardware. The video emphasizes the critical need for reliable 'harnesses' and validation layers when deploying autonomous agents, as current tools suffer from hallucinations and safety risks. Finally, it addresses the shifting job market, advising professionals to leverage AI for high-leverage consulting while avoiding predatory job boards and focusing on authentic human skills.
+This weekly update highlights the dominance of cost-effective Chinese open-source models like DeepSeek V4 Pro, which are challenging US proprietary standards through government subsidies and hardware optimization. The video emphasizes the critical need for robust AI agent harnesses and validation layers to mitigate reliability issues seen in tools like Open Claw. Finally, it offers strategic career advice, warning against predatory job boards and advocating for AI-driven leverage to scale consulting businesses while maintaining authentic human value.
 
 ## Key Points
 
-- Adopt open-source Chinese models like DeepSeek V4 Pro for cost-effective coding tasks, as they offer massive context windows and superior pricing compared to proprietary US alternatives [00:01:13](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=73).
-- Implement rigorous validation layers such as schema checks, rule-based filters, and 'LLM-as-a-judge' systems to ensure AI output reliability before deploying agents in production [00:19:33](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1173).
-- Pivot career strategies toward high-leverage AI integration and authentic personal branding, while avoiding unreliable job platforms like Dice that often serve as data scraping fronts [00:24:22](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1462). [MM:SS](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=SECONDS)
+- Adopt cost-efficient Chinese open-source models like DeepSeek V4 Pro for business use cases where frontier performance is unnecessary, leveraging their lower costs and optimized hardware compatibility [00:01:19](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=79).
+- Implement multi-layered validation protocols, including schema checks and LLM-as-a-judge systems integrated into CI/CD pipelines, to ensure AI output reliability before deployment [00:19:36](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1176).
+- Avoid predatory job boards like Dice and Monster, instead prioritizing direct networking and company career pages to secure legitimate opportunities in the evolving AI job market [00:24:04](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1444). [MM:SS](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=SECONDS)
