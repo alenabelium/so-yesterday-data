@@ -1,506 +1,254 @@
 [
   {
-    "id": "pOb0pjXpn6Q",
-    "upload_date": "20260101",
-    "title": "The Compounding Gap That Makes 2026 the Last Chance to Catch Up",
-    "duration": 1009
+    "id": "85Q9htV2CBE",
+    "upload_date": "20260507",
+    "title": "Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.",
+    "duration": 1562
   },
   {
-    "id": "T74uZgfu6mU",
-    "upload_date": "20260102",
-    "title": "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)",
-    "duration": 1125
+    "id": "b1fxYGPbHeo",
+    "upload_date": "20260506",
+    "title": "The Work Primitive: What Every AI Product Leader Gets Wrong",
+    "duration": 1397
   },
   {
-    "id": "s1eqzfXCgXI",
-    "upload_date": "20260103",
-    "title": "The Fork Most Leaders Don’t See: Visibility vs. Execution",
-    "duration": 805
+    "id": "Z0HizICooiw",
+    "upload_date": "20260505",
+    "title": "Consumer AI Has a Problem Nobody's Naming.",
+    "duration": 1975
   },
   {
-    "id": "fyHnGHxGuhI",
-    "upload_date": "20260104",
-    "title": "Why Andrej Karpathy Feels \"Behind\" (And What It Means for Your Career)",
-    "duration": 1509
+    "id": "rYqt6mMlv7o",
+    "upload_date": "20260504",
+    "title": "I Audited My Last 2 Weeks. 60% Wasn't Really My Job.",
+    "duration": 2056
   },
   {
-    "id": "BaC5FEN2e4Y",
-    "upload_date": "20260105",
-    "title": "Most People Want Validation, Not Perspective (Why This Matters Now)",
-    "duration": 830
+    "id": "XGvDbeoSN3E",
+    "upload_date": "20260503",
+    "title": "Stripe Just Killed The Funnel. Here's What Replaces It.",
+    "duration": 1879
   },
   {
-    "id": "qw7HDITpTR4",
-    "upload_date": "20260106",
-    "title": "The Manus Acquisition Explained: Why Meta Paid $2B for a \"Wrapper\"",
-    "duration": 681
+    "id": "FDkvRl1RlT0",
+    "upload_date": "20260502",
+    "title": "I Found 5 Things Agents Need From Your Tools. Most Don't Have Them.",
+    "duration": 1748
   },
   {
-    "id": "iG_CCjdyeX0",
-    "upload_date": "20260107",
-    "title": "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY",
-    "duration": 820
+    "id": "iUSdS-6uwr4",
+    "upload_date": "20260501",
+    "title": "Apple killed the 512GB Mac Studio. The fix isn't what you think.",
+    "duration": 1956
   },
   {
-    "id": "5Kp-Gj5qXL0",
-    "upload_date": "20260108",
-    "title": "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong",
-    "duration": 1117
+    "id": "JvCtGjrn_N0",
+    "upload_date": "20260430",
+    "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
+    "duration": 1488
   },
   {
-    "id": "0TpON5T-Sw4",
-    "upload_date": "20260109",
-    "title": "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)",
-    "duration": 1806
+    "id": "dQK_pTXrGDk",
+    "upload_date": "20260429",
+    "duration": 1388,
+    "title": "Salesforce Killed The Browser. Every Agent Runs Your CRM Now."
   },
   {
-    "id": "TTMOSR-nKjg",
-    "upload_date": "20260110",
-    "title": "OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories",
-    "duration": 762
+    "id": "9aIYhjeYxzM",
+    "upload_date": "20260428",
+    "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
+    "duration": 1954
   },
   {
-    "id": "5Et9WoDCsYs",
-    "upload_date": "20260111",
-    "title": "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace",
-    "duration": 1378
+    "id": "QrvVkm-8Jx4",
+    "upload_date": "20260427",
+    "duration": 1394,
+    "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch."
   },
   {
-    "id": "M9TJizOxNFk",
-    "upload_date": "20260112",
-    "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
-    "duration": 1390
+    "id": "RaAFquzj5B8",
+    "upload_date": "20260426",
+    "duration": 1256,
+    "title": "Apple Just Positioned Itself for the Next Trillion Dollars"
   },
   {
-    "id": "dzp0OQbElpU",
-    "upload_date": "20260113",
-    "title": "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It",
-    "duration": 1536
+    "id": "brBPsPPyuQM",
+    "upload_date": "20260425",
+    "title": "ChatGPT Images Just Replaced Three People on Your Team.",
+    "duration": 1546
   },
   {
-    "id": "h7dbkDcb3hA",
-    "upload_date": "20260114",
-    "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
-    "duration": 1939
+    "id": "KlPxWaY91rE",
+    "upload_date": "20260424",
+    "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
+    "duration": 1422
   },
   {
-    "id": "hpDC29JdgjI",
-    "upload_date": "20260115",
-    "title": "THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)",
-    "duration": 1823
+    "id": "2d9ZmA-4QzU",
+    "upload_date": "20260423",
+    "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
+    "duration": 1260
   },
   {
-    "id": "0teZqotpqT8",
-    "upload_date": "20260116",
-    "title": "Stop Competing With 400 Applicants. Build This in One Weekend (Yes, there's a  no code option too!)",
-    "duration": 1557
+    "id": "dxq7WtWxi44",
+    "upload_date": "20260422",
+    "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
+    "duration": 2469
   },
   {
-    "id": "RgQtTvneqPY",
-    "upload_date": "20260117",
-    "title": "LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why.",
-    "duration": 1383
+    "id": "tJB_8mfRgCo",
+    "upload_date": "20260421",
+    "title": "The Agent Race Stopped Being About Models. It's About Data.",
+    "duration": 3105
   },
   {
-    "id": "Nt7vzMiE0mY",
-    "upload_date": "20260118",
-    "title": "Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI",
-    "duration": 1759
-  },
-  {
-    "id": "_gPODg6br5w",
-    "upload_date": "20260119",
-    "title": "They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work",
-    "duration": 1566
-  },
-  {
-    "id": "ra7nYJe86GI",
-    "upload_date": "20260120",
-    "title": "Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider",
-    "duration": 1521
-  },
-  {
-    "id": "hDpjMJw3flk",
-    "upload_date": "20260121",
-    "title": "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)",
-    "duration": 1133
-  },
-  {
-    "id": "HZ9iL_lFYgQ",
-    "upload_date": "20260122",
-    "title": "The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)",
-    "duration": 1327
-  },
-  {
-    "id": "5Di6o6zuMLc",
-    "upload_date": "20260123",
-    "title": "The Builders Who Figure This Out First Will Be Impossible to Catch. Why You Need an Identity Shift.",
-    "duration": 1216
-  },
-  {
-    "id": "2sY7Pcm2j2g",
-    "upload_date": "20260124",
-    "title": "Apple Took Years to Catch Up. Kilo Code Took 6 Weeks--and It's Coming for Lovable, Cursor, Replit",
-    "duration": 624
-  },
-  {
-    "id": "EZ4EjJ0iDDQ",
-    "upload_date": "20260125",
-    "title": "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)",
-    "duration": 1292
-  },
-  {
-    "id": "2EXyj_fHU48",
-    "upload_date": "20260126",
-    "title": "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work",
-    "duration": 1434
-  },
-  {
-    "id": "f-v0fJgBqhk",
-    "upload_date": "20260127",
-    "title": "I Built an 11-Tab Financial Model in 10 Minutes. The $20/Month Tool That's About Change How We Work.",
-    "duration": 1268
-  },
-  {
-    "id": "NoRePxSrhpw",
-    "upload_date": "20260128",
-    "title": "The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)",
-    "duration": 1475
-  },
-  {
-    "id": "AoA9h3TjxE0",
-    "upload_date": "20260129",
-    "title": "Why Every Cold Application You Send Is a Waste of Time (And What Actually Works)",
-    "duration": 958
-  },
-  {
-    "id": "7sk3qmIQZnI",
-    "upload_date": "20260130",
-    "title": "the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth.",
-    "duration": 1117
-  },
-  {
-    "id": "kuGg0b2IrHQ",
-    "upload_date": "20260131",
-    "title": "Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars. This Week Broke Something.",
-    "duration": 890
-  },
-  {
-    "id": "pxuXV3Q6tGY",
-    "upload_date": "20260201",
-    "title": "Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It's Not What You Think)",
-    "duration": 1404
-  },
-  {
-    "id": "p9acrso71KU",
-    "upload_date": "20260202",
-    "title": "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)",
-    "duration": 1322
-  },
-  {
-    "id": "WEEKBlQfGt8",
-    "upload_date": "20260203",
-    "title": "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real.",
-    "duration": 549
-  },
-  {
-    "id": "dZxyeYBxPBA",
-    "upload_date": "20260204",
-    "title": "OpenAI Is Slowing Hiring. Anthropic's Engineers Stopped Writing Code. Here's Why You Should Care.",
-    "duration": 1436
-  },
-  {
-    "id": "KX0GurmgAoo",
-    "upload_date": "20260205",
-    "title": "90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)",
-    "duration": 1146
-  },
-  {
-    "id": "iL3uDrk-i_E",
-    "upload_date": "20260206",
-    "title": "Anthropic's CEO Bet the Company on This Philosophy. The Data Says He Was Right.",
-    "duration": 1149
-  },
-  {
-    "id": "sLz4mAyykeE",
-    "upload_date": "20260207",
-    "title": "90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part.",
-    "duration": 1150
-  },
-  {
-    "id": "pSgy2P2q790",
-    "upload_date": "20260208",
-    "title": "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here",
-    "duration": 1575
-  },
-  {
-    "id": "q6p-_W6_VoM",
-    "upload_date": "20260209",
-    "title": "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will.",
-    "duration": 842
-  },
-  {
-    "id": "DGWtSzqCpog",
-    "upload_date": "20260210",
-    "title": "The $285 Billion Crash Wall Street Won't Explain Honestly. Here's What Everyone Missed.",
-    "duration": 1404
-  },
-  {
-    "id": "JKk77rzOL34",
-    "upload_date": "20260211",
-    "title": "Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)",
-    "duration": 1839
-  },
-  {
-    "id": "q-sClVMYY4w",
-    "upload_date": "20260212",
-    "title": "OpenClaw: 160,000 Developers Are Building Something OpenAI & Google Can't Stop. Where Do You Stand?",
-    "duration": 1513
-  },
-  {
-    "id": "U1oHRqUkI1E",
-    "upload_date": "20260213",
-    "title": "I Just Did a Full Day of Analyst Work in 10 Minutes. The $120K Job Description Just Changed Forever.",
-    "duration": 1760
-  },
-  {
-    "id": "NCgdpbEvNVA",
-    "upload_date": "20260214",
-    "title": "Why $650 Billion in AI Spending ISN'T Enough. The 4 Skills that Survive and What This Means for You.",
-    "duration": 1373
-  },
-  {
-    "id": "RtMLnCMv3do",
-    "upload_date": "20260215",
-    "title": "The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.",
-    "duration": 2066
-  },
-  {
-    "id": "41UDGsBEjoI",
-    "upload_date": "20260216",
-    "title": "Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)",
-    "duration": 1702
-  },
-  {
-    "id": "5IzPLjqkFaE",
-    "upload_date": "20260217",
-    "title": "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.",
-    "duration": 1611
-  },
-  {
-    "id": "bDcgHzCBgmQ",
-    "upload_date": "20260218",
-    "title": "The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)",
-    "duration": 2535
-  },
-  {
-    "id": "6r0UeMQE66I",
-    "upload_date": "20260219",
-    "title": "Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.",
-    "duration": 1803
-  },
-  {
-    "id": "-bQcWs1Z9a0",
-    "upload_date": "20260220",
-    "title": "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.",
-    "duration": 1813
-  },
-  {
-    "id": "O-0poNv2jD4",
-    "upload_date": "20260221",
-    "title": "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.",
-    "duration": 1754
-  },
-  {
-    "id": "OMb5oTlC_q0",
-    "upload_date": "20260222",
-    "title": "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)",
-    "duration": 2160
-  },
-  {
-    "id": "8jKAT8GNDE0",
-    "upload_date": "20260223",
-    "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
-    "duration": 2197
-  },
-  {
-    "id": "QWzLPn164w0",
-    "upload_date": "20260224",
-    "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
-    "duration": 1781
-  },
-  {
-    "id": "0v9ixCWNhPo",
-    "upload_date": "20260225",
-    "title": "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)",
-    "duration": 2140
-  },
-  {
-    "id": "q6pbQ5li5Cg",
-    "upload_date": "20260226",
-    "title": "Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)",
-    "duration": 1952
-  },
-  {
-    "id": "BpibZSMGtdY",
-    "upload_date": "20260227",
-    "title": "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.",
-    "duration": 2472
-  },
-  {
-    "id": "2ghhiPLg-jg",
-    "upload_date": "20260228",
-    "title": "My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.",
-    "duration": 1781
-  },
-  {
-    "id": "RnjgLlQTMf0",
-    "upload_date": "20260301",
-    "title": "Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)",
-    "duration": 1724
-  },
-  {
-    "id": "2JiMmye2ezg",
-    "upload_date": "20260302",
-    "title": "You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)",
-    "duration": 1816
-  },
-  {
-    "id": "pTtueIqrg0Q",
-    "upload_date": "20260303",
-    "title": "Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.",
-    "duration": 1580
-  },
-  {
-    "id": "O7SSQfiPDXA",
-    "upload_date": "20260304",
-    "title": "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)",
-    "duration": 1256
-  },
-  {
-    "id": "JYcidOS9ozU",
-    "upload_date": "20260305",
-    "title": "OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)",
-    "duration": 1774
-  },
-  {
-    "id": "09sFAO7pklo",
-    "upload_date": "20260306",
-    "title": "Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About",
-    "duration": 1795
-  },
-  {
-    "id": "-_vL1KXd2rc",
-    "upload_date": "20260307",
-    "title": "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)",
-    "duration": 2258
-  },
-  {
-    "id": "hnwM01CpzmA",
-    "upload_date": "20260308",
-    "title": "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.",
-    "duration": 1545
-  },
-  {
-    "id": "iY7BDpZWJbE",
-    "upload_date": "20260309",
-    "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
-    "duration": 1945
-  },
-  {
-    "id": "-FhtPUkXKO4",
-    "upload_date": "20260310",
-    "title": "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it.",
-    "duration": 1255
-  },
-  {
-    "id": "LO0Ws-l6brg",
-    "upload_date": "20260311",
-    "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
-    "duration": 1635
-  },
-  {
-    "id": "lbfoNxoHl2o",
-    "upload_date": "20260312",
-    "title": "4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.",
-    "duration": 1352
-  },
-  {
-    "id": "japT66frdhM",
-    "upload_date": "20260313",
-    "title": "One Simple System Gave All My AI Tools a Memory. Here's How.",
-    "duration": 1615
-  },
-  {
-    "id": "u-giatW9mYU",
-    "upload_date": "20260314",
-    "title": "AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.",
-    "duration": 1193
-  },
-  {
-    "id": "zCW-k5fFRgQ",
-    "upload_date": "20260315",
-    "title": "She quit, picked up AI, and shipped in 30 days what her team planned for Q3.",
-    "duration": 2259
-  },
-  {
-    "id": "8lwnJZy4cO0",
-    "upload_date": "20260316",
-    "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
+    "id": "-dJ9WrTG6zQ",
+    "upload_date": "20260420",
+    "title": "25% of All Layoffs Last Month Were Blamed on AI. You're Next.",
     "duration": 1290
   },
   {
-    "id": "QT7W_uHjqWE",
-    "upload_date": "20260317",
-    "title": "Anthropic Didn't Build a New Browser. They Did Something Smarter.",
-    "duration": 1334
+    "id": "fm6mYqFAM5c",
+    "upload_date": "20260419",
+    "title": "Block Laid Off Half Its Company for AI. AI Can't Do the Job.",
+    "duration": 1221
   },
   {
-    "id": "4HeS_C02yAE",
-    "upload_date": "20260318",
-    "title": "ChatGPT Health Identified Respiratory Failure. Then It Said Wait.",
-    "duration": 1413
+    "id": "xnG8h3UnNFI",
+    "upload_date": "20260418",
+    "title": "Your Model Isn't The Problem. You Just Can't Measure \"Better\" Yet.",
+    "duration": 1645
   },
   {
-    "id": "3FbqaD1MCUA",
-    "upload_date": "20260319",
-    "title": "Perplexity Computer Is Incredible. It Won't Matter. Here's Why.",
-    "duration": 1805
+    "id": "4KAF72BTyCE",
+    "upload_date": "20260417",
+    "title": "Your AI Knows You Better Than Your Boss Does. It's Not Coming With You.",
+    "duration": 1785
   },
   {
-    "id": "vqnAOV8NMZ4",
-    "upload_date": "20260320",
-    "title": "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.",
-    "duration": 2010
+    "id": "XlfumXPPrLY",
+    "upload_date": "20260416",
+    "title": "Google's Chief Scientist Says Infinitely Fast AI Won't Help You.",
+    "duration": 1198
   },
   {
-    "id": "awV2kJzh8zk",
-    "upload_date": "20260321",
-    "title": "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.",
-    "duration": 1767
+    "id": "2PWJu6uAaoU",
+    "upload_date": "20260415",
+    "title": "You Can't Describe Your Own Job. That's Why Your Agent Fails.",
+    "duration": 2259
   },
   {
-    "id": "BE4RclIGDmY",
-    "upload_date": "20260322",
-    "title": "McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.",
-    "duration": 1667
+    "id": "0vdlwOK_Qdk",
+    "upload_date": "20260414",
+    "title": "Sora Was Burning $15 Million a Day. That's Not Even the Scary Part.",
+    "duration": 1250
   },
   {
-    "id": "b7IS4C9QALc",
-    "upload_date": "20260323",
-    "title": "I Found 3 Questions That Expose What Every AI Agent Is Really Betting On.",
-    "duration": 1512
+    "id": "E1idsrv79tI",
+    "upload_date": "20260413",
+    "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
+    "duration": 1121
   },
   {
-    "id": "7AO4w4Y_L24",
-    "upload_date": "20260324",
-    "title": "Your Engineers Can Build What Accenture Charges You Millions For.",
-    "duration": 1587
+    "id": "zhXgkQ3nYeE",
+    "upload_date": "20260412",
+    "title": "44% of Companies Cut Their Managers. Here's What They Actually Lost.",
+    "duration": 1972
   },
   {
-    "id": "YpPcDHc3e9U",
-    "upload_date": "20260325",
-    "title": "There Are 4 Kinds of AI Agents and You're Probably Confused About All of Them.",
+    "id": "erV_8yrGMA8",
+    "upload_date": "20260411",
+    "title": "This New Method Just Killed RAM Limitations",
+    "duration": 1342
+  },
+  {
+    "id": "ib2m9HVX7as",
+    "upload_date": "20260410",
+    "title": "Why Your Product Gets Worse Every Time the Model Gets Better.",
+    "duration": 1571
+  },
+  {
+    "id": "9N7qXkmntlU",
+    "upload_date": "20260409",
+    "title": "Three IPOs. $48 Billion in Forced Buying. Your Retirement Account.",
+    "duration": 1370
+  },
+  {
+    "id": "ro5jpbi5uYc",
+    "upload_date": "20260408",
+    "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
+    "duration": 1474
+  },
+  {
+    "id": "BiqG3it0gY0",
+    "upload_date": "20260407",
+    "title": "92% Of AI Users Are On The Wrong Side Of This Trade. (Why This Should Worry You.)",
+    "duration": 1770
+  },
+  {
+    "id": "7HP1jFJ9W1c",
+    "upload_date": "20260406",
+    "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)",
+    "duration": 1373
+  },
+  {
+    "id": "kVPVmz0qJvY",
+    "upload_date": "20260405",
+    "title": "Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.",
+    "duration": 1274
+  },
+  {
+    "id": "D-Ww1wLIp60",
+    "upload_date": "20260404",
+    "title": "Code Has Tests. Your Strategy Memo Doesn't. That's Why AI Agents Stall.",
+    "duration": 1350
+  },
+  {
+    "id": "FtCdYhspm7w",
+    "upload_date": "20260403",
+    "title": "You're Building 20% of an Agent. Anthropic Just Showed You the Other 80%.",
+    "duration": 1613
+  },
+  {
+    "id": "5ztI_dbj6ek",
+    "upload_date": "20260402",
+    "title": "5 Token Habits That Cost You 10x On Every Claude Session.",
+    "duration": 1595
+  },
+  {
+    "id": "hV5_XSEBZNg",
+    "upload_date": "20260401",
+    "title": "Claude Mythos Changes Everything. Your AI Stack Isn't Ready.",
+    "duration": 1881
+  },
+  {
+    "id": "BhXNtvZvziY",
+    "upload_date": "20260331",
+    "title": "Apple Gave Google Its Users. Google Gave Apple Its Brain. One of Them Loses.",
+    "duration": 1332
+  },
+  {
+    "id": "0cVuMHaYEHE",
+    "upload_date": "20260330",
+    "title": "AI Skills Break the Moment an Agent Runs Them. Here's How I Fixed Mine.",
+    "duration": 1580
+  },
+  {
+    "id": "sTkqCREdMXo",
+    "upload_date": "20260329",
+    "title": "48 Days. That's How Long Before the Helium Runs Out for AI Chips.",
+    "duration": 1341
+  },
+  {
+    "id": "3e7gmNPr5Vo",
+    "upload_date": "20260328",
+    "title": "I Ran Amazon's Overnight AI System. Anthropic Just Gave Everyone One.",
+    "duration": 1749
+  },
+  {
+    "id": "CDClFY-R0dI",
+    "upload_date": "20260327",
+    "title": "Google Just Shipped a Free Design Tool That Replaces a $2,000 Freelancer. Nobody Noticed.",
     "duration": 1775
   },
   {
@@ -516,255 +264,507 @@
     "duration": 1539
   },
   {
-    "id": "CDClFY-R0dI",
-    "upload_date": "20260327",
-    "title": "Google Just Shipped a Free Design Tool That Replaces a $2,000 Freelancer. Nobody Noticed.",
+    "id": "YpPcDHc3e9U",
+    "upload_date": "20260325",
+    "title": "There Are 4 Kinds of AI Agents and You're Probably Confused About All of Them.",
     "duration": 1775
   },
   {
-    "id": "3e7gmNPr5Vo",
-    "upload_date": "20260328",
-    "title": "I Ran Amazon's Overnight AI System. Anthropic Just Gave Everyone One.",
-    "duration": 1749
+    "id": "7AO4w4Y_L24",
+    "upload_date": "20260324",
+    "title": "Your Engineers Can Build What Accenture Charges You Millions For.",
+    "duration": 1587
   },
   {
-    "id": "sTkqCREdMXo",
-    "upload_date": "20260329",
-    "title": "48 Days. That's How Long Before the Helium Runs Out for AI Chips.",
-    "duration": 1341
+    "id": "b7IS4C9QALc",
+    "upload_date": "20260323",
+    "title": "I Found 3 Questions That Expose What Every AI Agent Is Really Betting On.",
+    "duration": 1512
   },
   {
-    "id": "0cVuMHaYEHE",
-    "upload_date": "20260330",
-    "title": "AI Skills Break the Moment an Agent Runs Them. Here's How I Fixed Mine.",
-    "duration": 1580
+    "id": "BE4RclIGDmY",
+    "upload_date": "20260322",
+    "title": "McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.",
+    "duration": 1667
   },
   {
-    "id": "BhXNtvZvziY",
-    "upload_date": "20260331",
-    "title": "Apple Gave Google Its Users. Google Gave Apple Its Brain. One of Them Loses.",
-    "duration": 1332
+    "id": "awV2kJzh8zk",
+    "upload_date": "20260321",
+    "title": "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.",
+    "duration": 1767
   },
   {
-    "id": "hV5_XSEBZNg",
-    "upload_date": "20260401",
-    "title": "Claude Mythos Changes Everything. Your AI Stack Isn't Ready.",
-    "duration": 1881
+    "id": "vqnAOV8NMZ4",
+    "upload_date": "20260320",
+    "title": "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.",
+    "duration": 2010
   },
   {
-    "id": "5ztI_dbj6ek",
-    "upload_date": "20260402",
-    "title": "5 Token Habits That Cost You 10x On Every Claude Session.",
-    "duration": 1595
+    "id": "3FbqaD1MCUA",
+    "upload_date": "20260319",
+    "title": "Perplexity Computer Is Incredible. It Won't Matter. Here's Why.",
+    "duration": 1805
   },
   {
-    "id": "FtCdYhspm7w",
-    "upload_date": "20260403",
-    "title": "You're Building 20% of an Agent. Anthropic Just Showed You the Other 80%.",
-    "duration": 1613
+    "id": "4HeS_C02yAE",
+    "upload_date": "20260318",
+    "title": "ChatGPT Health Identified Respiratory Failure. Then It Said Wait.",
+    "duration": 1413
   },
   {
-    "id": "D-Ww1wLIp60",
-    "upload_date": "20260404",
-    "title": "Code Has Tests. Your Strategy Memo Doesn't. That's Why AI Agents Stall.",
-    "duration": 1350
+    "id": "QT7W_uHjqWE",
+    "upload_date": "20260317",
+    "title": "Anthropic Didn't Build a New Browser. They Did Something Smarter.",
+    "duration": 1334
   },
   {
-    "id": "kVPVmz0qJvY",
-    "upload_date": "20260405",
-    "title": "Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.",
-    "duration": 1274
-  },
-  {
-    "id": "7HP1jFJ9W1c",
-    "upload_date": "20260406",
-    "title": "You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)",
-    "duration": 1373
-  },
-  {
-    "id": "BiqG3it0gY0",
-    "upload_date": "20260407",
-    "title": "92% Of AI Users Are On The Wrong Side Of This Trade. (Why This Should Worry You.)",
-    "duration": 1770
-  },
-  {
-    "id": "ro5jpbi5uYc",
-    "upload_date": "20260408",
-    "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
-    "duration": 1474
-  },
-  {
-    "id": "9N7qXkmntlU",
-    "upload_date": "20260409",
-    "title": "Three IPOs. $48 Billion in Forced Buying. Your Retirement Account.",
-    "duration": 1370
-  },
-  {
-    "id": "ib2m9HVX7as",
-    "upload_date": "20260410",
-    "title": "Why Your Product Gets Worse Every Time the Model Gets Better.",
-    "duration": 1571
-  },
-  {
-    "id": "erV_8yrGMA8",
-    "upload_date": "20260411",
-    "title": "This New Method Just Killed RAM Limitations",
-    "duration": 1342
-  },
-  {
-    "id": "zhXgkQ3nYeE",
-    "upload_date": "20260412",
-    "title": "44% of Companies Cut Their Managers. Here's What They Actually Lost.",
-    "duration": 1972
-  },
-  {
-    "id": "E1idsrv79tI",
-    "upload_date": "20260413",
-    "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
-    "duration": 1121
-  },
-  {
-    "id": "0vdlwOK_Qdk",
-    "upload_date": "20260414",
-    "title": "Sora Was Burning $15 Million a Day. That's Not Even the Scary Part.",
-    "duration": 1250
-  },
-  {
-    "id": "2PWJu6uAaoU",
-    "upload_date": "20260415",
-    "title": "You Can't Describe Your Own Job. That's Why Your Agent Fails.",
-    "duration": 2259
-  },
-  {
-    "id": "XlfumXPPrLY",
-    "upload_date": "20260416",
-    "title": "Google's Chief Scientist Says Infinitely Fast AI Won't Help You.",
-    "duration": 1198
-  },
-  {
-    "id": "4KAF72BTyCE",
-    "upload_date": "20260417",
-    "title": "Your AI Knows You Better Than Your Boss Does. It's Not Coming With You.",
-    "duration": 1785
-  },
-  {
-    "id": "xnG8h3UnNFI",
-    "upload_date": "20260418",
-    "title": "Your Model Isn't The Problem. You Just Can't Measure \"Better\" Yet.",
-    "duration": 1645
-  },
-  {
-    "id": "fm6mYqFAM5c",
-    "upload_date": "20260419",
-    "title": "Block Laid Off Half Its Company for AI. AI Can't Do the Job.",
-    "duration": 1221
-  },
-  {
-    "id": "-dJ9WrTG6zQ",
-    "upload_date": "20260420",
-    "title": "25% of All Layoffs Last Month Were Blamed on AI. You're Next.",
+    "id": "8lwnJZy4cO0",
+    "upload_date": "20260316",
+    "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
     "duration": 1290
   },
   {
-    "id": "tJB_8mfRgCo",
-    "upload_date": "20260421",
-    "title": "The Agent Race Stopped Being About Models. It's About Data.",
-    "duration": 3105
+    "id": "zCW-k5fFRgQ",
+    "upload_date": "20260315",
+    "title": "She quit, picked up AI, and shipped in 30 days what her team planned for Q3.",
+    "duration": 2259
   },
   {
-    "id": "dxq7WtWxi44",
-    "upload_date": "20260422",
-    "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
-    "duration": 2469
+    "id": "u-giatW9mYU",
+    "upload_date": "20260314",
+    "title": "AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.",
+    "duration": 1193
   },
   {
-    "id": "2d9ZmA-4QzU",
-    "upload_date": "20260423",
-    "title": "Your Apps Don't Need an API Anymore. Codex Just Proved It.",
-    "duration": 1260
+    "id": "japT66frdhM",
+    "upload_date": "20260313",
+    "title": "One Simple System Gave All My AI Tools a Memory. Here's How.",
+    "duration": 1615
   },
   {
-    "id": "KlPxWaY91rE",
-    "upload_date": "20260424",
-    "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
-    "duration": 1422
+    "id": "lbfoNxoHl2o",
+    "upload_date": "20260312",
+    "title": "4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.",
+    "duration": 1352
   },
   {
-    "id": "brBPsPPyuQM",
-    "upload_date": "20260425",
-    "title": "ChatGPT Images Just Replaced Three People on Your Team.",
-    "duration": 1546
+    "id": "LO0Ws-l6brg",
+    "upload_date": "20260311",
+    "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
+    "duration": 1635
   },
   {
-    "id": "RaAFquzj5B8",
-    "upload_date": "20260426",
-    "duration": 1256,
-    "title": "Apple Just Positioned Itself for the Next Trillion Dollars"
+    "id": "-FhtPUkXKO4",
+    "upload_date": "20260310",
+    "title": "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it.",
+    "duration": 1255
   },
   {
-    "id": "QrvVkm-8Jx4",
-    "upload_date": "20260427",
-    "duration": 1394,
-    "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch."
+    "id": "iY7BDpZWJbE",
+    "upload_date": "20260309",
+    "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
+    "duration": 1945
   },
   {
-    "id": "9aIYhjeYxzM",
-    "upload_date": "20260428",
-    "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
-    "duration": 1954
+    "id": "hnwM01CpzmA",
+    "upload_date": "20260308",
+    "title": "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.",
+    "duration": 1545
   },
   {
-    "id": "dQK_pTXrGDk",
-    "upload_date": "20260429",
-    "duration": 1388,
-    "title": "Salesforce Killed The Browser. Every Agent Runs Your CRM Now."
+    "id": "-_vL1KXd2rc",
+    "upload_date": "20260307",
+    "title": "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)",
+    "duration": 2258
   },
   {
-    "id": "JvCtGjrn_N0",
-    "upload_date": "20260430",
-    "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
-    "duration": 1488
+    "id": "09sFAO7pklo",
+    "upload_date": "20260306",
+    "title": "Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About",
+    "duration": 1795
   },
   {
-    "id": "iUSdS-6uwr4",
-    "upload_date": "20260501",
-    "title": "Apple killed the 512GB Mac Studio. The fix isn't what you think.",
-    "duration": 1956
+    "id": "JYcidOS9ozU",
+    "upload_date": "20260305",
+    "title": "OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)",
+    "duration": 1774
   },
   {
-    "id": "FDkvRl1RlT0",
-    "upload_date": "20260502",
-    "title": "I Found 5 Things Agents Need From Your Tools. Most Don't Have Them.",
-    "duration": 1748
+    "id": "O7SSQfiPDXA",
+    "upload_date": "20260304",
+    "title": "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)",
+    "duration": 1256
   },
   {
-    "id": "XGvDbeoSN3E",
-    "upload_date": "20260503",
-    "title": "Stripe Just Killed The Funnel. Here's What Replaces It.",
-    "duration": 1879
+    "id": "pTtueIqrg0Q",
+    "upload_date": "20260303",
+    "title": "Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.",
+    "duration": 1580
   },
   {
-    "id": "rYqt6mMlv7o",
-    "upload_date": "20260504",
-    "title": "I Audited My Last 2 Weeks. 60% Wasn't Really My Job.",
-    "duration": 2056
+    "id": "2JiMmye2ezg",
+    "upload_date": "20260302",
+    "title": "You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)",
+    "duration": 1816
   },
   {
-    "id": "Z0HizICooiw",
-    "upload_date": "20260505",
-    "title": "I Tested Every AI Agent. They All Fail the Same Way.",
-    "duration": 1975
+    "id": "RnjgLlQTMf0",
+    "upload_date": "20260301",
+    "title": "Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)",
+    "duration": 1724
   },
   {
-    "id": "b1fxYGPbHeo",
-    "upload_date": "20260506",
-    "title": "Your AI Fails At Real Work. The Model Isn't Why.",
-    "duration": 1397
+    "id": "2ghhiPLg-jg",
+    "upload_date": "20260228",
+    "title": "My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.",
+    "duration": 1781
   },
   {
-    "id": "85Q9htV2CBE",
-    "upload_date": "20260507",
-    "title": "I Tested OpenClaw Against Model Churn. Here's What Survived.",
-    "duration": 1562
+    "id": "BpibZSMGtdY",
+    "upload_date": "20260227",
+    "title": "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.",
+    "duration": 2472
+  },
+  {
+    "id": "q6pbQ5li5Cg",
+    "upload_date": "20260226",
+    "title": "Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)",
+    "duration": 1952
+  },
+  {
+    "id": "0v9ixCWNhPo",
+    "upload_date": "20260225",
+    "title": "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)",
+    "duration": 2140
+  },
+  {
+    "id": "QWzLPn164w0",
+    "upload_date": "20260224",
+    "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
+    "duration": 1781
+  },
+  {
+    "id": "8jKAT8GNDE0",
+    "upload_date": "20260223",
+    "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
+    "duration": 2197
+  },
+  {
+    "id": "OMb5oTlC_q0",
+    "upload_date": "20260222",
+    "title": "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)",
+    "duration": 2160
+  },
+  {
+    "id": "O-0poNv2jD4",
+    "upload_date": "20260221",
+    "title": "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.",
+    "duration": 1754
+  },
+  {
+    "id": "-bQcWs1Z9a0",
+    "upload_date": "20260220",
+    "title": "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.",
+    "duration": 1813
+  },
+  {
+    "id": "6r0UeMQE66I",
+    "upload_date": "20260219",
+    "title": "Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.",
+    "duration": 1803
+  },
+  {
+    "id": "bDcgHzCBgmQ",
+    "upload_date": "20260218",
+    "title": "The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)",
+    "duration": 2535
+  },
+  {
+    "id": "5IzPLjqkFaE",
+    "upload_date": "20260217",
+    "title": "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.",
+    "duration": 1611
+  },
+  {
+    "id": "41UDGsBEjoI",
+    "upload_date": "20260216",
+    "title": "Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)",
+    "duration": 1702
+  },
+  {
+    "id": "RtMLnCMv3do",
+    "upload_date": "20260215",
+    "title": "The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.",
+    "duration": 2066
+  },
+  {
+    "id": "NCgdpbEvNVA",
+    "upload_date": "20260214",
+    "title": "Why $650 Billion in AI Spending ISN'T Enough. The 4 Skills that Survive and What This Means for You.",
+    "duration": 1373
+  },
+  {
+    "id": "U1oHRqUkI1E",
+    "upload_date": "20260213",
+    "title": "I Just Did a Full Day of Analyst Work in 10 Minutes. The $120K Job Description Just Changed Forever.",
+    "duration": 1760
+  },
+  {
+    "id": "q-sClVMYY4w",
+    "upload_date": "20260212",
+    "title": "OpenClaw: 160,000 Developers Are Building Something OpenAI & Google Can't Stop. Where Do You Stand?",
+    "duration": 1513
+  },
+  {
+    "id": "JKk77rzOL34",
+    "upload_date": "20260211",
+    "title": "Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)",
+    "duration": 1839
+  },
+  {
+    "id": "DGWtSzqCpog",
+    "upload_date": "20260210",
+    "title": "The $285 Billion Crash Wall Street Won't Explain Honestly. Here's What Everyone Missed.",
+    "duration": 1404
+  },
+  {
+    "id": "q6p-_W6_VoM",
+    "upload_date": "20260209",
+    "title": "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will.",
+    "duration": 842
+  },
+  {
+    "id": "pSgy2P2q790",
+    "upload_date": "20260208",
+    "title": "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here",
+    "duration": 1575
+  },
+  {
+    "id": "sLz4mAyykeE",
+    "upload_date": "20260207",
+    "title": "90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part.",
+    "duration": 1150
+  },
+  {
+    "id": "iL3uDrk-i_E",
+    "upload_date": "20260206",
+    "title": "Anthropic's CEO Bet the Company on This Philosophy. The Data Says He Was Right.",
+    "duration": 1149
+  },
+  {
+    "id": "KX0GurmgAoo",
+    "upload_date": "20260205",
+    "title": "90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)",
+    "duration": 1146
+  },
+  {
+    "id": "dZxyeYBxPBA",
+    "upload_date": "20260204",
+    "title": "OpenAI Is Slowing Hiring. Anthropic's Engineers Stopped Writing Code. Here's Why You Should Care.",
+    "duration": 1436
+  },
+  {
+    "id": "WEEKBlQfGt8",
+    "upload_date": "20260203",
+    "title": "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real.",
+    "duration": 549
+  },
+  {
+    "id": "p9acrso71KU",
+    "upload_date": "20260202",
+    "title": "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)",
+    "duration": 1322
+  },
+  {
+    "id": "pxuXV3Q6tGY",
+    "upload_date": "20260201",
+    "title": "Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It's Not What You Think)",
+    "duration": 1404
+  },
+  {
+    "id": "kuGg0b2IrHQ",
+    "upload_date": "20260131",
+    "title": "Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars. This Week Broke Something.",
+    "duration": 890
+  },
+  {
+    "id": "7sk3qmIQZnI",
+    "upload_date": "20260130",
+    "title": "the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth.",
+    "duration": 1117
+  },
+  {
+    "id": "AoA9h3TjxE0",
+    "upload_date": "20260129",
+    "title": "Why Every Cold Application You Send Is a Waste of Time (And What Actually Works)",
+    "duration": 958
+  },
+  {
+    "id": "NoRePxSrhpw",
+    "upload_date": "20260128",
+    "title": "The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)",
+    "duration": 1475
+  },
+  {
+    "id": "f-v0fJgBqhk",
+    "upload_date": "20260127",
+    "title": "I Built an 11-Tab Financial Model in 10 Minutes. The $20/Month Tool That's About Change How We Work.",
+    "duration": 1268
+  },
+  {
+    "id": "2EXyj_fHU48",
+    "upload_date": "20260126",
+    "title": "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work",
+    "duration": 1434
+  },
+  {
+    "id": "EZ4EjJ0iDDQ",
+    "upload_date": "20260125",
+    "title": "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)",
+    "duration": 1292
+  },
+  {
+    "id": "2sY7Pcm2j2g",
+    "upload_date": "20260124",
+    "title": "Apple Took Years to Catch Up. Kilo Code Took 6 Weeks--and It's Coming for Lovable, Cursor, Replit",
+    "duration": 624
+  },
+  {
+    "id": "5Di6o6zuMLc",
+    "upload_date": "20260123",
+    "title": "The Builders Who Figure This Out First Will Be Impossible to Catch. Why You Need an Identity Shift.",
+    "duration": 1216
+  },
+  {
+    "id": "HZ9iL_lFYgQ",
+    "upload_date": "20260122",
+    "title": "The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)",
+    "duration": 1327
+  },
+  {
+    "id": "hDpjMJw3flk",
+    "upload_date": "20260121",
+    "title": "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)",
+    "duration": 1133
+  },
+  {
+    "id": "ra7nYJe86GI",
+    "upload_date": "20260120",
+    "title": "Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider",
+    "duration": 1521
+  },
+  {
+    "id": "_gPODg6br5w",
+    "upload_date": "20260119",
+    "title": "They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work",
+    "duration": 1566
+  },
+  {
+    "id": "Nt7vzMiE0mY",
+    "upload_date": "20260118",
+    "title": "Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI",
+    "duration": 1759
+  },
+  {
+    "id": "RgQtTvneqPY",
+    "upload_date": "20260117",
+    "title": "LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why.",
+    "duration": 1383
+  },
+  {
+    "id": "0teZqotpqT8",
+    "upload_date": "20260116",
+    "title": "Stop Competing With 400 Applicants. Build This in One Weekend (Yes, there's a  no code option too!)",
+    "duration": 1557
+  },
+  {
+    "id": "hpDC29JdgjI",
+    "upload_date": "20260115",
+    "title": "THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)",
+    "duration": 1823
+  },
+  {
+    "id": "h7dbkDcb3hA",
+    "upload_date": "20260114",
+    "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
+    "duration": 1939
+  },
+  {
+    "id": "dzp0OQbElpU",
+    "upload_date": "20260113",
+    "title": "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It",
+    "duration": 1536
+  },
+  {
+    "id": "M9TJizOxNFk",
+    "upload_date": "20260112",
+    "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
+    "duration": 1390
+  },
+  {
+    "id": "5Et9WoDCsYs",
+    "upload_date": "20260111",
+    "title": "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace",
+    "duration": 1378
+  },
+  {
+    "id": "TTMOSR-nKjg",
+    "upload_date": "20260110",
+    "title": "OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories",
+    "duration": 762
+  },
+  {
+    "id": "0TpON5T-Sw4",
+    "upload_date": "20260109",
+    "title": "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)",
+    "duration": 1806
+  },
+  {
+    "id": "5Kp-Gj5qXL0",
+    "upload_date": "20260108",
+    "title": "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong",
+    "duration": 1117
+  },
+  {
+    "id": "iG_CCjdyeX0",
+    "upload_date": "20260107",
+    "title": "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY",
+    "duration": 820
+  },
+  {
+    "id": "qw7HDITpTR4",
+    "upload_date": "20260106",
+    "title": "The Manus Acquisition Explained: Why Meta Paid $2B for a \"Wrapper\"",
+    "duration": 681
+  },
+  {
+    "id": "BaC5FEN2e4Y",
+    "upload_date": "20260105",
+    "title": "Most People Want Validation, Not Perspective (Why This Matters Now)",
+    "duration": 830
+  },
+  {
+    "id": "fyHnGHxGuhI",
+    "upload_date": "20260104",
+    "title": "Why Andrej Karpathy Feels \"Behind\" (And What It Means for Your Career)",
+    "duration": 1509
+  },
+  {
+    "id": "s1eqzfXCgXI",
+    "upload_date": "20260103",
+    "title": "The Fork Most Leaders Don’t See: Visibility vs. Execution",
+    "duration": 805
+  },
+  {
+    "id": "T74uZgfu6mU",
+    "upload_date": "20260102",
+    "title": "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)",
+    "duration": 1125
+  },
+  {
+    "id": "pOb0pjXpn6Q",
+    "upload_date": "20260101",
+    "title": "The Compounding Gap That Makes 2026 the Last Chance to Catch Up",
+    "duration": 1009
   }
 ]
