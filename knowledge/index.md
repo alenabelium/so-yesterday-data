@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Base Index"
-generated: "2026-05-05"
+generated: "2026-05-08"
 total_concepts: 74
 ---
 

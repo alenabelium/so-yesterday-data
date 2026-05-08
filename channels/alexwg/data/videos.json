@@ -1,87 +1,339 @@
 [
   {
-    "id": "x6Z5jZZ-siY",
-    "upload_date": "20260504",
-    "title": "Welcome to May 4, 2026",
-    "duration": 370
+    "id": "fqymOJ-Ca5Y",
+    "upload_date": "20260126",
+    "title": "A Nation That Learned To Sprint",
+    "duration": 241
   },
   {
-    "id": "gDR5IfS-dfM",
-    "upload_date": "20260503",
-    "title": "Welcome to May 3, 2026",
-    "duration": 352
+    "id": "Yh3CAD8elvg",
+    "upload_date": "20260201",
+    "title": "Moonshots",
+    "duration": 213
   },
   {
-    "id": "_Iqs0hgSoo8",
-    "upload_date": "20260501",
-    "title": "Welcome to May 1, 2026",
-    "duration": 339
+    "id": "fA_TQodyigE",
+    "upload_date": "20260210",
+    "title": "Welcome to February 10, 2026",
+    "duration": 214
   },
   {
-    "id": "Y__WxuKM1y4",
-    "upload_date": "20260430",
-    "title": "Welcome to April 30, 2026",
+    "id": "2KVJ1IbZUS8",
+    "upload_date": "20260211",
+    "title": "Welcome to February 11, 2026",
+    "duration": 277
+  },
+  {
+    "id": "1stYHXtlbRY",
+    "upload_date": "20260212",
+    "title": "Welcome to February 12, 2026",
+    "duration": 265
+  },
+  {
+    "id": "kYwgZSZMFN4",
+    "upload_date": "20260213",
+    "title": "Welcome to February 13, 2026",
+    "duration": 388
+  },
+  {
+    "id": "C6BeZrl8bCU",
+    "upload_date": "20260214",
+    "title": "Solve Everything",
+    "duration": 321
+  },
+  {
+    "id": "DY3cJ0mQ7yk",
+    "upload_date": "20260215",
+    "title": "Physical Superintelligence",
+    "duration": 216
+  },
+  {
+    "id": "zD_k8kk0vSo",
+    "upload_date": "20260216",
+    "title": "Welcome to February 16, 2026",
+    "duration": 351
+  },
+  {
+    "id": "15dmbbWZBps",
+    "upload_date": "20260217",
+    "title": "Welcome to February 17, 2026",
+    "duration": 315
+  },
+  {
+    "id": "Uxbw7owPRIM",
+    "upload_date": "20260218",
+    "title": "Welcome to February 18, 2026",
+    "duration": 316
+  },
+  {
+    "id": "8lOtv8888g8",
+    "upload_date": "20260219",
+    "title": "Welcome to February 19, 2026",
+    "duration": 330
+  },
+  {
+    "id": "caVHw3OZdaA",
+    "upload_date": "20260220",
+    "title": "Welcome to February 20, 2026",
+    "duration": 325
+  },
+  {
+    "id": "5BabX6lwt2M",
+    "upload_date": "20260221",
+    "title": "You Are Invited to February 2027",
+    "duration": 319
+  },
+  {
+    "id": "_J1-XMME4s0",
+    "upload_date": "20260222",
+    "title": "A Conversation with Ben Horowitz",
+    "duration": 564
+  },
+  {
+    "id": "0nbKBNueEMI",
+    "upload_date": "20260223",
+    "title": "Welcome to February 23, 2026",
+    "duration": 326
+  },
+  {
+    "id": "ATiMhPtz_Z8",
+    "upload_date": "20260224",
+    "title": "Welcome to February 24, 2026",
+    "duration": 331
+  },
+  {
+    "id": "n2LB096r1Wo",
+    "upload_date": "20260225",
+    "title": "Welcome to February 25, 2026",
     "duration": 346
   },
   {
-    "id": "cGLldrAZdcg",
-    "upload_date": "20260429",
-    "title": "Welcome to April 29, 2026",
-    "duration": 339
+    "id": "Qx3qNBR796c",
+    "upload_date": "20260226",
+    "title": "Welcome to February 26, 2026",
+    "duration": 322
   },
   {
-    "id": "cHH7NPZvEt4",
-    "upload_date": "20260427",
-    "title": "Welcome to April 27, 2026",
-    "duration": 333
-  },
-  {
-    "id": "tEvonHzECKE",
-    "upload_date": "20260426",
-    "title": "Welcome to April 26, 2026",
-    "duration": 359
-  },
-  {
-    "id": "8OLrhFfm4pg",
-    "upload_date": "20260423",
-    "title": "Welcome to April 23, 2026",
-    "duration": 400
-  },
-  {
-    "id": "8ItddXCQGgI",
-    "upload_date": "20260420",
-    "title": "Welcome to April 20, 2026",
+    "id": "LP4eUjgTmBI",
+    "upload_date": "20260227",
+    "title": "Welcome to February 27, 2026",
     "duration": 345
   },
   {
-    "id": "zA3OhLyCXzU",
-    "upload_date": "20260419",
-    "title": "ProRL Spring Training",
-    "duration": 175
+    "id": "i4gpAlBqxLQ",
+    "upload_date": "20260228",
+    "title": "Welcome to February 28, 2026",
+    "duration": 315
   },
   {
-    "id": "F6G5fdnn8kU",
-    "upload_date": "20260417",
-    "title": "Welcome to April 17, 2026",
+    "id": "FDHt4aBKf6s",
+    "upload_date": "20260301",
+    "title": "A Conversation with Frazer Anderson",
+    "duration": 466
+  },
+  {
+    "id": "CQK2pZ56yWk",
+    "upload_date": "20260302",
+    "title": "Welcome to March 2, 2026",
+    "duration": 374
+  },
+  {
+    "id": "i9Fdt67S7iQ",
+    "upload_date": "20260303",
+    "title": "Welcome to March 3, 2026",
+    "duration": 366
+  },
+  {
+    "id": "whRULuLYwng",
+    "upload_date": "20260304",
+    "title": "Welcome to March 4, 2026",
+    "duration": 393
+  },
+  {
+    "id": "nCAkkvk1K7E",
+    "upload_date": "20260305",
+    "title": "Welcome to March 5, 2026",
+    "duration": 337
+  },
+  {
+    "id": "BCzYZVTnk-8",
+    "upload_date": "20260306",
+    "title": "Welcome to March 6, 2026",
+    "duration": 323
+  },
+  {
+    "id": "e21OUXPlnhk",
+    "upload_date": "20260307",
+    "title": "The First Multi-Behavior Brain Upload",
+    "duration": 258
+  },
+  {
+    "id": "3Cx1jSNbvEM",
+    "upload_date": "20260308",
+    "title": "Welcome to March 8, 2026",
+    "duration": 325
+  },
+  {
+    "id": "uo9dGwURPsA",
+    "upload_date": "20260309",
+    "title": "Welcome to March 9, 2026",
+    "duration": 340
+  },
+  {
+    "id": "pJ33ptze7Ns",
+    "upload_date": "20260310",
+    "title": "Welcome to March 10, 2026",
+    "duration": 335
+  },
+  {
+    "id": "1vI0gopOBv0",
+    "upload_date": "20260312",
+    "title": "Welcome to March 12, 2026",
+    "duration": 328
+  },
+  {
+    "id": "fMf69VMQp8k",
+    "upload_date": "20260313",
+    "title": "Welcome to March 13, 2026",
+    "duration": 325
+  },
+  {
+    "id": "5iZn9sI3-Hc",
+    "upload_date": "20260314",
+    "title": "A Conversation with Mustafa Suleyman",
+    "duration": 1319
+  },
+  {
+    "id": "ey9m8v7YDYQ",
+    "upload_date": "20260315",
+    "title": "The First Open-Source Agentic AI Physicist",
+    "duration": 352
+  },
+  {
+    "id": "xtFJhPN3APk",
+    "upload_date": "20260316",
+    "title": "Welcome to March 16, 2026",
+    "duration": 338
+  },
+  {
+    "id": "GbEvdZ_fvUs",
+    "upload_date": "20260317",
+    "title": "Welcome to March 17, 2026",
+    "duration": 352
+  },
+  {
+    "id": "CZb1CPzZXJE",
+    "upload_date": "20260318",
+    "title": "Welcome to March 18, 2026",
+    "duration": 321
+  },
+  {
+    "id": "SoapsUAiNZg",
+    "upload_date": "20260319",
+    "title": "The First American Professional Robotics Sports League",
+    "duration": 281
+  },
+  {
+    "id": "iFLlsFIyTgM",
+    "upload_date": "20260320",
+    "title": "Welcome to March 20, 2026",
+    "duration": 362
+  },
+  {
+    "id": "aO9REOhyI0U",
+    "upload_date": "20260321",
+    "title": "The First AI-Grown Land",
+    "duration": 245
+  },
+  {
+    "id": "pos6z-oMRas",
+    "upload_date": "20260322",
+    "title": "Welcome to March 22, 2026",
+    "duration": 341
+  },
+  {
+    "id": "OL6FgRs3AWo",
+    "upload_date": "20260323",
+    "title": "Welcome to March 23, 2026",
+    "duration": 340
+  },
+  {
+    "id": "H-D_0EONXu4",
+    "upload_date": "20260324",
+    "title": "Welcome to March 24, 2026",
+    "duration": 352
+  },
+  {
+    "id": "GcydRleZP8U",
+    "upload_date": "20260325",
+    "title": "Welcome to March 25, 2026",
     "duration": 333
   },
   {
-    "id": "Tkn19EjcC3Q",
-    "upload_date": "20260416",
-    "title": "Welcome to April 16, 2026",
-    "duration": 360
+    "id": "2UxEvsWfDns",
+    "upload_date": "20260326",
+    "title": "The First Tradable Compute Price Index",
+    "duration": 350
   },
   {
-    "id": "YYreroGHKrw",
-    "upload_date": "20260413",
-    "title": "Welcome to April 13, 2026",
+    "id": "ZDVei3g1f5s",
+    "upload_date": "20260327",
+    "title": "Welcome to March 27, 2026",
+    "duration": 358
+  },
+  {
+    "id": "t1U-EQllejM",
+    "upload_date": "20260328",
+    "title": "Welcome to March 28, 2026",
+    "duration": 328
+  },
+  {
+    "id": "m-sI-a2FzeE",
+    "upload_date": "20260329",
+    "title": "Welcome to March 29, 2026",
+    "duration": 317
+  },
+  {
+    "id": "ttQGrsVDp6M",
+    "upload_date": "20260331",
+    "title": "Welcome to March 31, 2026",
+    "duration": 340
+  },
+  {
+    "id": "U4U0zApTbhA",
+    "upload_date": "20260401",
+    "title": "Welcome to April 1, 2026",
     "duration": 353
   },
   {
-    "id": "oDFfzBp2rBg",
-    "upload_date": "20260412",
-    "title": "Welcome to April 12, 2026",
-    "duration": 327
+    "id": "McVVlyzy62s",
+    "upload_date": "20260402",
+    "title": "Welcome to April 2, 2026",
+    "duration": 342
+  },
+  {
+    "id": "lpkwe5nRA84",
+    "upload_date": "20260403",
+    "title": "Welcome to April 3, 2026",
+    "duration": 367
+  },
+  {
+    "id": "ZzUUTtGzF5c",
+    "upload_date": "20260405",
+    "title": "Welcome to April 5, 2026",
+    "duration": 371
+  },
+  {
+    "id": "KR__uQZURHI",
+    "upload_date": "20260406",
+    "title": "The First One-Person AI Conglomerates",
+    "duration": 350
+  },
+  {
+    "id": "aOvNzRYhcLA",
+    "upload_date": "20260407",
+    "title": "Welcome to April 7, 2026",
+    "duration": 319
   },
   {
     "id": "F7fZrHtEnOk",
@@ -96,339 +348,99 @@
     "duration": 335
   },
   {
-    "id": "aOvNzRYhcLA",
-    "upload_date": "20260407",
-    "title": "Welcome to April 7, 2026",
-    "duration": 319
+    "id": "oDFfzBp2rBg",
+    "upload_date": "20260412",
+    "title": "Welcome to April 12, 2026",
+    "duration": 327
   },
   {
-    "id": "KR__uQZURHI",
-    "upload_date": "20260406",
-    "title": "The First One-Person AI Conglomerates",
-    "duration": 350
-  },
-  {
-    "id": "ZzUUTtGzF5c",
-    "upload_date": "20260405",
-    "title": "Welcome to April 5, 2026",
-    "duration": 371
-  },
-  {
-    "id": "lpkwe5nRA84",
-    "upload_date": "20260403",
-    "title": "Welcome to April 3, 2026",
-    "duration": 367
-  },
-  {
-    "id": "McVVlyzy62s",
-    "upload_date": "20260402",
-    "title": "Welcome to April 2, 2026",
-    "duration": 342
-  },
-  {
-    "id": "U4U0zApTbhA",
-    "upload_date": "20260401",
-    "title": "Welcome to April 1, 2026",
+    "id": "YYreroGHKrw",
+    "upload_date": "20260413",
+    "title": "Welcome to April 13, 2026",
     "duration": 353
   },
   {
-    "id": "ttQGrsVDp6M",
-    "upload_date": "20260331",
-    "title": "Welcome to March 31, 2026",
-    "duration": 340
+    "id": "Tkn19EjcC3Q",
+    "upload_date": "20260416",
+    "title": "Welcome to April 16, 2026",
+    "duration": 360
   },
   {
-    "id": "m-sI-a2FzeE",
-    "upload_date": "20260329",
-    "title": "Welcome to March 29, 2026",
-    "duration": 317
-  },
-  {
-    "id": "t1U-EQllejM",
-    "upload_date": "20260328",
-    "title": "Welcome to March 28, 2026",
-    "duration": 328
-  },
-  {
-    "id": "ZDVei3g1f5s",
-    "upload_date": "20260327",
-    "title": "Welcome to March 27, 2026",
-    "duration": 358
-  },
-  {
-    "id": "2UxEvsWfDns",
-    "upload_date": "20260326",
-    "title": "The First Tradable Compute Price Index",
-    "duration": 350
-  },
-  {
-    "id": "GcydRleZP8U",
-    "upload_date": "20260325",
-    "title": "Welcome to March 25, 2026",
+    "id": "F6G5fdnn8kU",
+    "upload_date": "20260417",
+    "title": "Welcome to April 17, 2026",
     "duration": 333
   },
   {
-    "id": "H-D_0EONXu4",
-    "upload_date": "20260324",
-    "title": "Welcome to March 24, 2026",
-    "duration": 352
+    "id": "zA3OhLyCXzU",
+    "upload_date": "20260419",
+    "title": "ProRL Spring Training",
+    "duration": 175
   },
   {
-    "id": "OL6FgRs3AWo",
-    "upload_date": "20260323",
-    "title": "Welcome to March 23, 2026",
-    "duration": 340
-  },
-  {
-    "id": "pos6z-oMRas",
-    "upload_date": "20260322",
-    "title": "Welcome to March 22, 2026",
-    "duration": 341
-  },
-  {
-    "id": "aO9REOhyI0U",
-    "upload_date": "20260321",
-    "title": "The First AI-Grown Land",
-    "duration": 245
-  },
-  {
-    "id": "iFLlsFIyTgM",
-    "upload_date": "20260320",
-    "title": "Welcome to March 20, 2026",
-    "duration": 362
-  },
-  {
-    "id": "SoapsUAiNZg",
-    "upload_date": "20260319",
-    "title": "The First American Professional Robotics Sports League",
-    "duration": 281
-  },
-  {
-    "id": "CZb1CPzZXJE",
-    "upload_date": "20260318",
-    "title": "Welcome to March 18, 2026",
-    "duration": 321
-  },
-  {
-    "id": "GbEvdZ_fvUs",
-    "upload_date": "20260317",
-    "title": "Welcome to March 17, 2026",
-    "duration": 352
-  },
-  {
-    "id": "xtFJhPN3APk",
-    "upload_date": "20260316",
-    "title": "Welcome to March 16, 2026",
-    "duration": 338
-  },
-  {
-    "id": "ey9m8v7YDYQ",
-    "upload_date": "20260315",
-    "title": "The First Open-Source Agentic AI Physicist",
-    "duration": 352
-  },
-  {
-    "id": "5iZn9sI3-Hc",
-    "upload_date": "20260314",
-    "title": "A Conversation with Mustafa Suleyman",
-    "duration": 1319
-  },
-  {
-    "id": "fMf69VMQp8k",
-    "upload_date": "20260313",
-    "title": "Welcome to March 13, 2026",
-    "duration": 325
-  },
-  {
-    "id": "1vI0gopOBv0",
-    "upload_date": "20260312",
-    "title": "Welcome to March 12, 2026",
-    "duration": 328
-  },
-  {
-    "id": "pJ33ptze7Ns",
-    "upload_date": "20260310",
-    "title": "Welcome to March 10, 2026",
-    "duration": 335
-  },
-  {
-    "id": "uo9dGwURPsA",
-    "upload_date": "20260309",
-    "title": "Welcome to March 9, 2026",
-    "duration": 340
-  },
-  {
-    "id": "3Cx1jSNbvEM",
-    "upload_date": "20260308",
-    "title": "Welcome to March 8, 2026",
-    "duration": 325
-  },
-  {
-    "id": "e21OUXPlnhk",
-    "upload_date": "20260307",
-    "title": "The First Multi-Behavior Brain Upload",
-    "duration": 258
-  },
-  {
-    "id": "BCzYZVTnk-8",
-    "upload_date": "20260306",
-    "title": "Welcome to March 6, 2026",
-    "duration": 323
-  },
-  {
-    "id": "nCAkkvk1K7E",
-    "upload_date": "20260305",
-    "title": "Welcome to March 5, 2026",
-    "duration": 337
-  },
-  {
-    "id": "whRULuLYwng",
-    "upload_date": "20260304",
-    "title": "Welcome to March 4, 2026",
-    "duration": 393
-  },
-  {
-    "id": "i9Fdt67S7iQ",
-    "upload_date": "20260303",
-    "title": "Welcome to March 3, 2026",
-    "duration": 366
-  },
-  {
-    "id": "CQK2pZ56yWk",
-    "upload_date": "20260302",
-    "title": "Welcome to March 2, 2026",
-    "duration": 374
-  },
-  {
-    "id": "FDHt4aBKf6s",
-    "upload_date": "20260301",
-    "title": "A Conversation with Frazer Anderson",
-    "duration": 466
-  },
-  {
-    "id": "i4gpAlBqxLQ",
-    "upload_date": "20260228",
-    "title": "Welcome to February 28, 2026",
-    "duration": 315
-  },
-  {
-    "id": "LP4eUjgTmBI",
-    "upload_date": "20260227",
-    "title": "Welcome to February 27, 2026",
+    "id": "8ItddXCQGgI",
+    "upload_date": "20260420",
+    "title": "Welcome to April 20, 2026",
     "duration": 345
   },
   {
-    "id": "Qx3qNBR796c",
-    "upload_date": "20260226",
-    "title": "Welcome to February 26, 2026",
-    "duration": 322
+    "id": "8OLrhFfm4pg",
+    "upload_date": "20260423",
+    "title": "Welcome to April 23, 2026",
+    "duration": 400
   },
   {
-    "id": "n2LB096r1Wo",
-    "upload_date": "20260225",
-    "title": "Welcome to February 25, 2026",
+    "id": "tEvonHzECKE",
+    "upload_date": "20260426",
+    "title": "Welcome to April 26, 2026",
+    "duration": 359
+  },
+  {
+    "id": "cHH7NPZvEt4",
+    "upload_date": "20260427",
+    "title": "Welcome to April 27, 2026",
+    "duration": 333
+  },
+  {
+    "id": "cGLldrAZdcg",
+    "upload_date": "20260429",
+    "title": "Welcome to April 29, 2026",
+    "duration": 339
+  },
+  {
+    "id": "Y__WxuKM1y4",
+    "upload_date": "20260430",
+    "title": "Welcome to April 30, 2026",
     "duration": 346
   },
   {
-    "id": "ATiMhPtz_Z8",
-    "upload_date": "20260224",
-    "title": "Welcome to February 24, 2026",
-    "duration": 331
+    "id": "_Iqs0hgSoo8",
+    "upload_date": "20260501",
+    "title": "Welcome to May 1, 2026",
+    "duration": 339
   },
   {
-    "id": "0nbKBNueEMI",
-    "upload_date": "20260223",
-    "title": "Welcome to February 23, 2026",
-    "duration": 326
+    "id": "gDR5IfS-dfM",
+    "upload_date": "20260503",
+    "title": "Welcome to May 3, 2026",
+    "duration": 352
   },
   {
-    "id": "_J1-XMME4s0",
-    "upload_date": "20260222",
-    "title": "A Conversation with Ben Horowitz",
-    "duration": 564
+    "id": "x6Z5jZZ-siY",
+    "upload_date": "20260504",
+    "title": "Welcome to May 4, 2026",
+    "duration": 370
   },
   {
-    "id": "5BabX6lwt2M",
-    "upload_date": "20260221",
-    "title": "You Are Invited to February 2027",
-    "duration": 319
+    "id": "oZX-rqkLqU8",
+    "upload_date": "20260505",
+    "title": "Welcome to May 5, 2026",
+    "duration": 339
   },
   {
-    "id": "caVHw3OZdaA",
-    "upload_date": "20260220",
-    "title": "Welcome to February 20, 2026",
-    "duration": 325
-  },
-  {
-    "id": "8lOtv8888g8",
-    "upload_date": "20260219",
-    "title": "Welcome to February 19, 2026",
-    "duration": 330
-  },
-  {
-    "id": "Uxbw7owPRIM",
-    "upload_date": "20260218",
-    "title": "Welcome to February 18, 2026",
-    "duration": 316
-  },
-  {
-    "id": "15dmbbWZBps",
-    "upload_date": "20260217",
-    "title": "Welcome to February 17, 2026",
-    "duration": 315
-  },
-  {
-    "id": "zD_k8kk0vSo",
-    "upload_date": "20260216",
-    "title": "Welcome to February 16, 2026",
-    "duration": 351
-  },
-  {
-    "id": "DY3cJ0mQ7yk",
-    "upload_date": "20260215",
-    "title": "Physical Superintelligence",
-    "duration": 216
-  },
-  {
-    "id": "C6BeZrl8bCU",
-    "upload_date": "20260214",
-    "title": "Solve Everything",
-    "duration": 321
-  },
-  {
-    "id": "kYwgZSZMFN4",
-    "upload_date": "20260213",
-    "title": "Welcome to February 13, 2026",
-    "duration": 388
-  },
-  {
-    "id": "1stYHXtlbRY",
-    "upload_date": "20260212",
-    "title": "Welcome to February 12, 2026",
-    "duration": 265
-  },
-  {
-    "id": "2KVJ1IbZUS8",
-    "upload_date": "20260211",
-    "title": "Welcome to February 11, 2026",
-    "duration": 277
-  },
-  {
-    "id": "fA_TQodyigE",
-    "upload_date": "20260210",
-    "title": "Welcome to February 10, 2026",
-    "duration": 214
-  },
-  {
-    "id": "Yh3CAD8elvg",
-    "upload_date": "20260201",
-    "title": "Moonshots",
-    "duration": 213
-  },
-  {
-    "id": "fqymOJ-Ca5Y",
-    "upload_date": "20260126",
-    "title": "A Nation That Learned To Sprint",
-    "duration": 241
+    "id": "LmjRwmwREsM",
+    "upload_date": "20260506",
+    "title": "Welcome to May 6, 2026",
+    "duration": 336
   }
 ]
