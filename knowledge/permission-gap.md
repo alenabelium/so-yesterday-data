@@ -6,11 +6,12 @@ tags:
   - ai-strategy
   - career
 related:
+  - compounding-gap
+  - identity-threat
   - the-observer-mindset
   - three-week-cliff
-  - compounding-gap
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

@@ -1188,14 +1188,6 @@
     },
     {
       "from": "agentic",
-      "to": "ai-agents",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "agentic",
       "to": "agentic-workflows",
       "color": {
         "color": "#334155",
@@ -1204,7 +1196,31 @@
     },
     {
       "from": "agentic",
-      "to": "tool-use",
+      "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "anthropic",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "multi-agent-systems",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "agentic",
+      "to": "openai",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1220,7 +1236,7 @@
     },
     {
       "from": "agentic",
-      "to": "multi-agent-systems",
+      "to": "tool-use",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1260,7 +1276,7 @@
     },
     {
       "from": "ai-agents",
-      "to": "tool-use",
+      "to": "ai-native-economics",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1268,7 +1284,23 @@
     },
     {
       "from": "ai-agents",
-      "to": "mcp",
+      "to": "anthropic",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "ai-agents",
+      "to": "constraint-encoding",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "ai-agents",
+      "to": "context-engineering",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1285,6 +1317,22 @@
     {
       "from": "ai-agents",
       "to": "evals",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "ai-agents",
+      "to": "mcp",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "ai-agents",
+      "to": "tool-use",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1380,7 +1428,7 @@
     },
     {
       "from": "ai-native-economics",
-      "to": "solo-operator",
+      "to": "job-market-bifurcation",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1388,7 +1436,7 @@
     },
     {
       "from": "ai-native-economics",
-      "to": "job-market-bifurcation",
+      "to": "solo-operator",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1508,6 +1556,14 @@
     },
     {
       "from": "alignment",
+      "to": "anthropic",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "alignment",
       "to": "blast-radius",
       "color": {
         "color": "#334155",
@@ -1524,14 +1580,6 @@
     },
     {
       "from": "alignment",
-      "to": "hallucination",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "alignment",
       "to": "emergent-behavior",
       "color": {
         "color": "#334155",
@@ -1539,8 +1587,8 @@
       }
     },
     {
-      "from": "anthropic",
-      "to": "alignment",
+      "from": "alignment",
+      "to": "hallucination",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1548,15 +1596,7 @@
     },
     {
       "from": "anthropic",
-      "to": "frontier-labs",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "anthropic",
-      "to": "context-window",
+      "to": "agent-orchestration",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1572,7 +1612,47 @@
     },
     {
       "from": "anthropic",
+      "to": "constraint-encoding",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "context-window",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "frontier-labs",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
       "to": "hallucination",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "openai",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "anthropic",
+      "to": "scaling-laws",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1707,6 +1787,14 @@
       }
     },
     {
+      "from": "blast-radius",
+      "to": "anthropic",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
       "from": "chain-of-thought",
       "to": "prompt-engineering",
       "color": {
@@ -1788,7 +1876,7 @@
     },
     {
       "from": "claude-code",
-      "to": "tool-use",
+      "to": "ai-agents",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1796,7 +1884,7 @@
     },
     {
       "from": "claude-code",
-      "to": "vibe-coding",
+      "to": "anthropic",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1812,7 +1900,15 @@
     },
     {
       "from": "claude-code",
-      "to": "anthropic",
+      "to": "tool-use",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "claude-code",
+      "to": "vibe-coding",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1860,7 +1956,7 @@
     },
     {
       "from": "compounding-gap",
-      "to": "three-week-cliff",
+      "to": "constraint-encoding",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1876,14 +1972,6 @@
     },
     {
       "from": "compounding-gap",
-      "to": "constraint-encoding",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "compounding-gap",
       "to": "high-agency",
       "color": {
         "color": "#334155",
@@ -1891,8 +1979,32 @@
       }
     },
     {
+      "from": "compounding-gap",
+      "to": "identity-threat",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "compounding-gap",
+      "to": "permission-gap",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "compounding-gap",
+      "to": "three-week-cliff",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
       "from": "constraint-encoding",
-      "to": "specification-quality",
+      "to": "context-engineering",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -1907,15 +2019,7 @@
       }
     },
     {
-      "from": "context-engineering",
-      "to": "prompt-engineering",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "context-engineering",
+      "from": "constraint-encoding",
       "to": "specification-quality",
       "color": {
         "color": "#334155",
@@ -1932,7 +2036,23 @@
     },
     {
       "from": "context-engineering",
+      "to": "prompt-engineering",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "context-engineering",
       "to": "rag",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "context-engineering",
+      "to": "specification-quality",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2252,6 +2372,14 @@
     },
     {
       "from": "frontier-recognition",
+      "to": "specification-quality",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "frontier-recognition",
       "to": "the-70-percent-problem",
       "color": {
         "color": "#334155",
@@ -2308,7 +2436,7 @@
     },
     {
       "from": "identity-threat",
-      "to": "three-week-cliff",
+      "to": "permission-gap",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2324,7 +2452,7 @@
     },
     {
       "from": "identity-threat",
-      "to": "permission-gap",
+      "to": "three-week-cliff",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2524,31 +2652,15 @@
     },
     {
       "from": "openai",
-      "to": "frontier-labs",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "openai",
-      "to": "anthropic",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "openai",
-      "to": "scaling-laws",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "openai",
       "to": "ai-agents",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "context-window",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2564,7 +2676,15 @@
     },
     {
       "from": "openai",
-      "to": "context-window",
+      "to": "frontier-labs",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "openai",
+      "to": "scaling-laws",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2589,14 +2709,6 @@
     {
       "from": "permission-gap",
       "to": "three-week-cliff",
-      "color": {
-        "color": "#334155",
-        "opacity": 0.6
-      }
-    },
-    {
-      "from": "permission-gap",
-      "to": "compounding-gap",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2756,7 +2868,7 @@
     },
     {
       "from": "specification-quality",
-      "to": "vibe-coding",
+      "to": "agent-orchestration",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -2765,6 +2877,14 @@
     {
       "from": "specification-quality",
       "to": "the-70-percent-problem",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "specification-quality",
+      "to": "vibe-coding",
       "color": {
         "color": "#334155",
         "opacity": 0.6

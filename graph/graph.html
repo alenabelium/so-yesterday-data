@@ -46,7 +46,7 @@
 <span class="legend-item" data-group="Strategy & Career" onclick="toggleGroup('Strategy & Career')"><span class="legend-dot" style="background:#f59e0b"></span>Strategy & Career</span></div>
   <div style="display:flex;gap:12px;align-items:center;">
     <input id="search" type="text" placeholder="Search concepts..." />
-    <span class="stats">74 concepts &middot; 241 connections</span>
+    <span class="stats">74 concepts &middot; 256 connections</span>
   </div>
 </div>
 <div id="graph"></div>
@@ -1240,14 +1240,6 @@ const edgesData = [
   },
   {
     "from": "agentic",
-    "to": "ai-agents",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "agentic",
     "to": "agentic-workflows",
     "color": {
       "color": "#334155",
@@ -1256,7 +1248,31 @@ const edgesData = [
   },
   {
     "from": "agentic",
-    "to": "tool-use",
+    "to": "ai-agents",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "agentic",
+    "to": "anthropic",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "agentic",
+    "to": "multi-agent-systems",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "agentic",
+    "to": "openai",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1272,7 +1288,7 @@ const edgesData = [
   },
   {
     "from": "agentic",
-    "to": "multi-agent-systems",
+    "to": "tool-use",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1312,7 +1328,7 @@ const edgesData = [
   },
   {
     "from": "ai-agents",
-    "to": "tool-use",
+    "to": "ai-native-economics",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1320,7 +1336,23 @@ const edgesData = [
   },
   {
     "from": "ai-agents",
-    "to": "mcp",
+    "to": "anthropic",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "ai-agents",
+    "to": "constraint-encoding",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "ai-agents",
+    "to": "context-engineering",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1337,6 +1369,22 @@ const edgesData = [
   {
     "from": "ai-agents",
     "to": "evals",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "ai-agents",
+    "to": "mcp",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "ai-agents",
+    "to": "tool-use",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1432,7 +1480,7 @@ const edgesData = [
   },
   {
     "from": "ai-native-economics",
-    "to": "solo-operator",
+    "to": "job-market-bifurcation",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1440,7 +1488,7 @@ const edgesData = [
   },
   {
     "from": "ai-native-economics",
-    "to": "job-market-bifurcation",
+    "to": "solo-operator",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1560,6 +1608,14 @@ const edgesData = [
   },
   {
     "from": "alignment",
+    "to": "anthropic",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "alignment",
     "to": "blast-radius",
     "color": {
       "color": "#334155",
@@ -1576,14 +1632,6 @@ const edgesData = [
   },
   {
     "from": "alignment",
-    "to": "hallucination",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "alignment",
     "to": "emergent-behavior",
     "color": {
       "color": "#334155",
@@ -1591,8 +1639,8 @@ const edgesData = [
     }
   },
   {
-    "from": "anthropic",
-    "to": "alignment",
+    "from": "alignment",
+    "to": "hallucination",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1600,15 +1648,7 @@ const edgesData = [
   },
   {
     "from": "anthropic",
-    "to": "frontier-labs",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "anthropic",
-    "to": "context-window",
+    "to": "agent-orchestration",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1624,7 +1664,47 @@ const edgesData = [
   },
   {
     "from": "anthropic",
+    "to": "constraint-encoding",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "anthropic",
+    "to": "context-window",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "anthropic",
+    "to": "frontier-labs",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "anthropic",
     "to": "hallucination",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "anthropic",
+    "to": "openai",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "anthropic",
+    "to": "scaling-laws",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1759,6 +1839,14 @@ const edgesData = [
     }
   },
   {
+    "from": "blast-radius",
+    "to": "anthropic",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
     "from": "chain-of-thought",
     "to": "prompt-engineering",
     "color": {
@@ -1840,7 +1928,7 @@ const edgesData = [
   },
   {
     "from": "claude-code",
-    "to": "tool-use",
+    "to": "ai-agents",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1848,7 +1936,7 @@ const edgesData = [
   },
   {
     "from": "claude-code",
-    "to": "vibe-coding",
+    "to": "anthropic",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1864,7 +1952,15 @@ const edgesData = [
   },
   {
     "from": "claude-code",
-    "to": "anthropic",
+    "to": "tool-use",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "claude-code",
+    "to": "vibe-coding",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1912,7 +2008,7 @@ const edgesData = [
   },
   {
     "from": "compounding-gap",
-    "to": "three-week-cliff",
+    "to": "constraint-encoding",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1928,14 +2024,6 @@ const edgesData = [
   },
   {
     "from": "compounding-gap",
-    "to": "constraint-encoding",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "compounding-gap",
     "to": "high-agency",
     "color": {
       "color": "#334155",
@@ -1943,8 +2031,32 @@ const edgesData = [
     }
   },
   {
+    "from": "compounding-gap",
+    "to": "identity-threat",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "compounding-gap",
+    "to": "permission-gap",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "compounding-gap",
+    "to": "three-week-cliff",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
     "from": "constraint-encoding",
-    "to": "specification-quality",
+    "to": "context-engineering",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -1959,15 +2071,7 @@ const edgesData = [
     }
   },
   {
-    "from": "context-engineering",
-    "to": "prompt-engineering",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "context-engineering",
+    "from": "constraint-encoding",
     "to": "specification-quality",
     "color": {
       "color": "#334155",
@@ -1984,7 +2088,23 @@ const edgesData = [
   },
   {
     "from": "context-engineering",
+    "to": "prompt-engineering",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "context-engineering",
     "to": "rag",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "context-engineering",
+    "to": "specification-quality",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2304,6 +2424,14 @@ const edgesData = [
   },
   {
     "from": "frontier-recognition",
+    "to": "specification-quality",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "frontier-recognition",
     "to": "the-70-percent-problem",
     "color": {
       "color": "#334155",
@@ -2360,7 +2488,7 @@ const edgesData = [
   },
   {
     "from": "identity-threat",
-    "to": "three-week-cliff",
+    "to": "permission-gap",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2376,7 +2504,7 @@ const edgesData = [
   },
   {
     "from": "identity-threat",
-    "to": "permission-gap",
+    "to": "three-week-cliff",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2576,31 +2704,15 @@ const edgesData = [
   },
   {
     "from": "openai",
-    "to": "frontier-labs",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "openai",
-    "to": "anthropic",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "openai",
-    "to": "scaling-laws",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "openai",
     "to": "ai-agents",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "openai",
+    "to": "context-window",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2616,7 +2728,15 @@ const edgesData = [
   },
   {
     "from": "openai",
-    "to": "context-window",
+    "to": "frontier-labs",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "openai",
+    "to": "scaling-laws",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2641,14 +2761,6 @@ const edgesData = [
   {
     "from": "permission-gap",
     "to": "three-week-cliff",
-    "color": {
-      "color": "#334155",
-      "opacity": 0.6
-    }
-  },
-  {
-    "from": "permission-gap",
-    "to": "compounding-gap",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2808,7 +2920,7 @@ const edgesData = [
   },
   {
     "from": "specification-quality",
-    "to": "vibe-coding",
+    "to": "agent-orchestration",
     "color": {
       "color": "#334155",
       "opacity": 0.6
@@ -2817,6 +2929,14 @@ const edgesData = [
   {
     "from": "specification-quality",
     "to": "the-70-percent-problem",
+    "color": {
+      "color": "#334155",
+      "opacity": 0.6
+    }
+  },
+  {
+    "from": "specification-quality",
+    "to": "vibe-coding",
     "color": {
       "color": "#334155",
       "opacity": 0.6

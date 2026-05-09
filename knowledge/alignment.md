@@ -6,13 +6,14 @@ tags:
   - ethics-safety
   - llm-fundamentals
 related:
+  - agi
+  - anthropic
   - blast-radius
   - constraint-encoding
-  - hallucination
   - emergent-behavior
-  - agi
+  - hallucination
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

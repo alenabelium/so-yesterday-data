@@ -6,12 +6,14 @@ tags:
   - prompting
   - llm-fundamentals
 related:
-  - prompt-engineering
-  - specification-quality
+  - ai-agents
+  - constraint-encoding
   - context-window
+  - prompt-engineering
   - rag
+  - specification-quality
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

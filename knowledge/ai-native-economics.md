@@ -6,11 +6,12 @@ tags:
   - ai-strategy
   - industry-news
 related:
-  - solo-operator
+  - ai-agents
   - job-market-bifurcation
+  - solo-operator
   - token-economics
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

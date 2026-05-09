@@ -6,12 +6,14 @@ tags:
   - coding
   - productivity
 related:
-  - context-engineering
-  - vibe-coding
+  - agent-orchestration
   - constraint-encoding
+  - context-engineering
+  - frontier-recognition
   - the-70-percent-problem
+  - vibe-coding
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

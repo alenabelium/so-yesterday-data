@@ -6,13 +6,14 @@ tags:
   - productivity
   - ai-strategy
 related:
-  - rejection-competency
-  - compounding-gap
-  - the-70-percent-problem
-  - frontier-labs
   - benchmarks
+  - compounding-gap
+  - frontier-labs
+  - rejection-competency
+  - specification-quality
+  - the-70-percent-problem
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

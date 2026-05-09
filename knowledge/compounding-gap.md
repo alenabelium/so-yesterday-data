@@ -6,12 +6,14 @@ tags:
   - ai-strategy
   - career
 related:
-  - three-week-cliff
-  - frontier-recognition
   - constraint-encoding
+  - frontier-recognition
   - high-agency
+  - identity-threat
+  - permission-gap
+  - three-week-cliff
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

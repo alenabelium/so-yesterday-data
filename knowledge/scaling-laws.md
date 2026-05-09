@@ -6,13 +6,14 @@ tags:
   - llm-fundamentals
   - ai-strategy
 related:
-  - frontier-labs
-  - ai-infrastructure
-  - inference
-  - emergent-behavior
   - agi
+  - ai-infrastructure
+  - anthropic
+  - emergent-behavior
+  - frontier-labs
+  - inference
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-09"
 confidence: high
 ---
 

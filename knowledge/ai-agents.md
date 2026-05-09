@@ -7,12 +7,17 @@ tags:
   - llm-fundamentals
 related:
   - agent-orchestration
-  - tool-use
-  - mcp
+  - agentic
+  - ai-native-economics
+  - anthropic
+  - constraint-encoding
+  - context-engineering
   - emergent-behavior
   - evals
+  - mcp
+  - tool-use
 created: "2026-03-19"
-updated: "2026-03-21"
+updated: "2026-05-09"
 confidence: high
 ---
 

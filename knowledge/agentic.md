@@ -7,14 +7,16 @@ tags:
   - ai-strategy
   - llm-fundamentals
 related:
-  - ai-agents
   - agentic-workflows
-  - tool-use
-  - task-decomposition
+  - ai-agents
+  - anthropic
   - multi-agent-systems
+  - openai
+  - task-decomposition
+  - tool-use
 confidence: medium
 created: "2026-04-16"
-updated: "2026-04-16"
+updated: "2026-05-09"
 ---
 
 Agentic refers to the emerging capability of AI systems to act with autonomy, moving beyond simple text generation to actively planning, reasoning, and executing complex tasks. Unlike traditional chatbots that wait for explicit prompts, agentic systems can break down high-level objectives into sub-tasks, select and utilize external tools, and iterate on their own outputs to achieve a desired outcome. This shift represents a fundamental change in how AI interacts with the world, transitioning from a passive information retriever to an active problem solver.

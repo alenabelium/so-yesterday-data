@@ -8,13 +8,14 @@ tags:
   - ai-tools
 related:
   - agentic-workflows
+  - ai-agents
+  - anthropic
+  - mcp
   - tool-use
   - vibe-coding
-  - mcp
-  - anthropic
 confidence: medium
 created: "2026-04-17"
-updated: "2026-04-17"
+updated: "2026-05-09"
 ---
 
 Claude Code is a command-line interface (CLI) tool developed by Anthropic that transforms the local terminal into an environment for autonomous AI agents. Unlike traditional chat interfaces, it allows the model to directly interact with the file system, execute shell commands, and manage development tasks without human intervention for every step. This capability bridges the gap between high-level intent and low-level implementation, enabling developers to delegate complex coding tasks, debugging sessions, and refactoring operations to an AI agent that operates within their local repository.
