@@ -10,6 +10,9 @@ related:
   - identity-threat
   - permission-gap
   - high-agency
+sources:
+  - {type: "video", id: "BaC5FEN2e4Y", date: "2026-01-05", title: "Most People Want Validation, Not Perspective (Why This Matters Now)"}
+  - {type: "essay", slug: "2026-03-13-01-start-with-ai-today", date: "2026-03-13", title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

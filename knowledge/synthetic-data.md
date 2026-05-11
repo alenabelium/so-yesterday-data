@@ -10,6 +10,9 @@ related:
   - scaling-laws
   - open-source-ai
   - inference
+sources:
+  - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
+  - {type: "video", id: "xCQ3MVZWT9Y", title: "xCQ3MVZWT9Y"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

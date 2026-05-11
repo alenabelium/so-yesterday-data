@@ -10,6 +10,12 @@ related:
   - job-market-bifurcation
   - solo-operator
   - token-economics
+sources:
+  - {type: "video", id: "hnwM01CpzmA", date: "2026-03-08", title: "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size."}
+  - {type: "video", id: "zCW-k5fFRgQ", date: "2026-03-15", title: "She quit, picked up AI, and shipped in 30 days what her team planned for Q3."}
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "digest", date: "2026-03-16", title: "Daily Digest — March 16, 2026"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

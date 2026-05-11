@@ -11,6 +11,8 @@ related:
   - constraint-encoding
   - sniff-checking
   - agent-orchestration
+sources:
+  - {type: "video", id: "awV2kJzh8zk", date: "2026-03-21", title: "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding."}
 created: "2026-03-21"
 updated: "2026-03-21"
 confidence: high

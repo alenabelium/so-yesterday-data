@@ -8,6 +8,9 @@ tags:
 related:
   - agent-orchestration
   - specification-quality
+sources:
+  - {type: "video", id: "hpDC29JdgjI", date: "2026-01-15", title: "THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)"}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

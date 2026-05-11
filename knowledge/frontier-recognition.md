@@ -12,6 +12,10 @@ related:
   - rejection-competency
   - specification-quality
   - the-70-percent-problem
+sources:
+  - {type: "video", id: "RnjgLlQTMf0", date: "2026-03-01", title: "Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)"}
+  - {type: "video", id: "EZ4EjJ0iDDQ", date: "2026-01-25", title: "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)"}
+  - {type: "essay", slug: "2026-03-13-02-the-bicycle-problem", date: "2026-03-13", title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

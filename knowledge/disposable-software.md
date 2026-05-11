@@ -8,6 +8,9 @@ tags:
 related:
   - vibe-coding
   - ai-coding-levels
+sources:
+  - {type: "video", id: "ra7nYJe86GI", date: "2026-01-20", title: "Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider"}
+  - {type: "video", id: "2JiMmye2ezg", date: "2026-03-02", title: "You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

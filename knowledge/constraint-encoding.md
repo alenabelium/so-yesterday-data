@@ -12,6 +12,10 @@ related:
   - context-engineering
   - domain-translation
   - specification-quality
+sources:
+  - {type: "video", id: "japT66frdhM", date: "2026-03-13", title: "One Simple System Gave All My AI Tools a Memory. Here's How."}
+  - {type: "video", id: "hDpjMJw3flk", date: "2026-01-21", title: "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)"}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

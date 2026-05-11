@@ -11,6 +11,12 @@ related:
   - ai-agents
   - agi
   - alignment
+sources:
+  - {type: "video", id: "WEEKBlQfGt8", date: "2026-02-03", title: "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real."}
+  - {type: "video", id: "iY7BDpZWJbE", date: "2026-03-09", title: "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet."}
+  - {type: "video", id: "LO0Ws-l6brg", date: "2026-03-11", title: "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)"}
+  - {type: "video", id: "OMb5oTlC_q0", date: "2026-02-22", title: "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)"}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

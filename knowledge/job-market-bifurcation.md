@@ -9,6 +9,13 @@ related:
   - compounding-gap
   - solo-operator
   - ai-native-economics
+sources:
+  - {type: "video", id: "RtMLnCMv3do", date: "2026-02-15", title: "The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It."}
+  - {type: "video", id: "hnwM01CpzmA", date: "2026-03-08", title: "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size."}
+  - {type: "video", id: "dzp0OQbElpU", date: "2026-01-13", title: "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It"}
+  - {type: "video", id: "toE56X2h0wk", date: "2026-03-07", title: "Andrew Yang: UBI Before UHI, Solving Job Loss, and the Future of Work"}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "video", id: "uOGHXAfvK8w", date: "2026-03-21", title: "NVIDIA GTC 2026 Recap, Anthropic Beats OpenAI, and CS Grads Job Decline"}
 created: "2026-03-19"
 updated: "2026-03-21"
 confidence: high

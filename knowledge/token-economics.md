@@ -9,6 +9,10 @@ related:
   - ai-infrastructure
   - inference
   - context-window
+sources:
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "video", id: "8jKAT8GNDE0", date: "2026-02-23", title: "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care."}
+  - {type: "video", id: "7sk3qmIQZnI", date: "2026-01-30", title: "the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth."}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

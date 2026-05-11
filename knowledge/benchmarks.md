@@ -10,6 +10,12 @@ related:
   - frontier-recognition
   - scaling-laws
   - evals
+sources:
+  - {type: "video", id: "41UDGsBEjoI", date: "2026-02-16", title: "Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)"}
+  - {type: "video", id: "RgQtTvneqPY", date: "2026-01-17", title: "LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why."}
+  - {type: "video", id: "8jKAT8GNDE0", date: "2026-02-23", title: "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care."}
+  - {type: "video", id: "JKk77rzOL34", date: "2026-02-11", title: "Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)"}
+  - {type: "video", id: "awV2kJzh8zk", date: "2026-03-21", title: "Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding."}
 created: "2026-03-19"
 updated: "2026-03-21"
 confidence: high

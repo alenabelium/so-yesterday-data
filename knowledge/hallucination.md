@@ -10,6 +10,10 @@ related:
   - the-70-percent-problem
   - sniff-checking
   - alignment
+sources:
+  - {type: "video", id: "-FhtPUkXKO4", date: "2026-03-10", title: "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it."}
+  - {type: "video", id: "T74uZgfu6mU", date: "2026-01-02", title: "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)"}
+  - {type: "digest", date: "2026-03-19", title: "Daily Digest — March 19, 2026"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

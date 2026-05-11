@@ -9,6 +9,11 @@ related:
   - multimodal-ai
   - open-source-ai
   - ai-video-generation
+sources:
+  - {type: "video", id: "UAlLD5fS7-c", date: "2026-04-10", title: "The BEST local AI music generator is here! Free & unlimited"}
+  - {type: "video", id: "54YB-hjZDR4", date: "2026-01-20", title: "Open-source SUNO is here! Free offline AI music generator"}
+  - {type: "digest", date: "2026-03-23", title: "Daily Digest — March 23, 2026"}
+  - {type: "video", id: "ogAVh_jAF50", date: "2026-03-20", title: "Music Videos Created with Generative AI - March 20, 2026"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

@@ -10,6 +10,10 @@ related:
   - ai-infrastructure
   - context-window
   - scaling-laws
+sources:
+  - {type: "video", id: "8jKAT8GNDE0", date: "2026-02-23", title: "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care."}
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "video", id: "pSgy2P2q790", date: "2026-02-08", title: "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

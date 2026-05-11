@@ -8,6 +8,9 @@ tags:
 related:
   - tool-use
   - ai-agents
+sources:
+  - {type: "video", id: "japT66frdhM", date: "2026-03-13", title: "One Simple System Gave All My AI Tools a Memory. Here's How."}
+  - {type: "video", id: "DTgrzlQtOd0", date: "2026-01-22", title: "Claude Code Ends SaaS, the Gemini + Siri Partnership, and Math Finally Solves AI"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

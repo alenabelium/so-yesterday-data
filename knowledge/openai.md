@@ -14,6 +14,9 @@ related:
   - fine-tuning
   - frontier-labs
   - scaling-laws
+sources: []
+# sources: insufficient links in body — TODO manual
+# sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-15"
 updated: "2026-05-09"

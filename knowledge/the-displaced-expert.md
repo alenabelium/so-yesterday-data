@@ -10,6 +10,9 @@ related:
   - domain-translation
   - constraint-encoding
   - the-70-percent-problem
+sources:
+  - {type: "video", id: "q6p-_W6_VoM", date: "2026-02-09", title: "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will."}
+  - {type: "video", id: "HZ9iL_lFYgQ", date: "2026-01-22", title: "The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

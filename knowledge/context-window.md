@@ -10,6 +10,9 @@ related:
   - token-economics
   - agent-orchestration
   - inference
+sources:
+  - {type: "video", id: "JKk77rzOL34", date: "2026-02-11", title: "Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)"}
+  - {type: "video", id: "41UDGsBEjoI", date: "2026-02-16", title: "Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

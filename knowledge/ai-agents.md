@@ -16,6 +16,13 @@ related:
   - evals
   - mcp
   - tool-use
+sources:
+  - {type: "video", id: "WEEKBlQfGt8", date: "2026-02-03", title: "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real."}
+  - {type: "video", id: "2EXyj_fHU48", date: "2026-01-26", title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"}
+  - {type: "video", id: "LO0Ws-l6brg", date: "2026-03-11", title: "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)"}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
+  - {type: "digest", date: "2026-03-18", title: "Daily Digest — March 18, 2026"}
+  - {type: "video", id: "vqnAOV8NMZ4", date: "2026-03-20", title: "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk."}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

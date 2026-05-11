@@ -11,6 +11,11 @@ related:
   - transformer-architecture
   - scaling-laws
   - frontier-labs
+sources:
+  - {type: "video", id: "o5rGuknRw2A", date: "2026-04-05", title: "Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS"}
+  - {type: "video", id: "GPNevWKbQTg", title: "GPNevWKbQTg"}
+  - {type: "video", id: "hSQciQsxV2w", date: "2026-02-20", title: "Google wins again. Gemini 3.1 Pro review"}
+  - {type: "video", id: "fnMAIa2PEAk", date: "2026-02-22", title: "AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

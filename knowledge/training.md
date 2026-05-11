@@ -11,6 +11,9 @@ related:
   - synthetic-data
   - scaling-laws
   - inference
+sources: []
+# sources: insufficient links in body — TODO manual
+# sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-15"
 updated: "2026-04-15"

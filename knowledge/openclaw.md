@@ -9,6 +9,15 @@ related:
   - open-source-ai
   - ai-agents
   - emergent-behavior
+sources:
+  - {type: "video", id: "p9acrso71KU", date: "2026-02-02", title: "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)"}
+  - {type: "video", id: "WEEKBlQfGt8", date: "2026-02-03", title: "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real."}
+  - {type: "video", id: "q-sClVMYY4w", date: "2026-02-12", title: "OpenClaw: 160,000 Developers Are Building Something OpenAI & Google Can't Stop. Where Do You Stand?"}
+  - {type: "video", id: "5IzPLjqkFaE", date: "2026-02-17", title: "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him."}
+  - {type: "video", id: "JlB852LGRJk", date: "2026-02-05", title: "OpenClaw Debate: AI Personhood, Proof of AGI, and the ‘Rights’ Framework"}
+  - {type: "video", id: "qP73cGLQmCU", date: "2026-03-09", title: "OpenClaw Explained: Baby AGI, Security Threats, Mac Mini Became Everyone's Supercomputer"}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "video", id: "vqnAOV8NMZ4", date: "2026-03-20", title: "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk."}
 created: "2026-03-19"
 updated: "2026-03-21"
 confidence: high

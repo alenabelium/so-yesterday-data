@@ -10,6 +10,10 @@ related:
   - agent-orchestration
   - specification-quality
   - hallucination
+sources:
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "video", id: "-FhtPUkXKO4", date: "2026-03-10", title: "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it."}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

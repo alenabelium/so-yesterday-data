@@ -14,6 +14,9 @@ related:
   - openai
   - task-decomposition
   - tool-use
+sources: []
+# sources: insufficient links in body — TODO manual
+# sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-16"
 updated: "2026-05-09"

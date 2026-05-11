@@ -10,6 +10,9 @@ related:
   - rag
   - context-engineering
   - scaling-laws
+sources:
+  - {type: "video", id: "qP73cGLQmCU", date: "2026-03-09", title: "OpenClaw Explained: Baby AGI, Security Threats, Mac Mini Became Everyone's Supercomputer"}
+  - {type: "video", id: "O7SSQfiPDXA", date: "2026-03-04", title: "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

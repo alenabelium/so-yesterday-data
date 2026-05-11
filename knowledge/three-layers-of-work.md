@@ -8,6 +8,10 @@ tags:
 related:
   - agent-orchestration
   - solo-operator
+sources:
+  - {type: "video", id: "5Et9WoDCsYs", date: "2026-01-11", title: "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace"}
+  - {type: "video", id: "NCgdpbEvNVA", date: "2026-02-14", title: "Why $650 Billion in AI Spending ISN'T Enough. The 4 Skills that Survive and What This Means for You."}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

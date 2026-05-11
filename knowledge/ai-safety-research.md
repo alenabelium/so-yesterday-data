@@ -11,6 +11,12 @@ related:
   - emergent-behavior
   - frontier-labs
   - blast-radius
+sources:
+  - {type: "video", id: "OMb5oTlC_q0", date: "2026-02-22", title: "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)"}
+  - {type: "video", id: "iY7BDpZWJbE", date: "2026-03-09", title: "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet."}
+  - {type: "video", id: "T8X6kp-pcKs", date: "2026-03-05", title: "Amazon's $35B AGI Ultimatum to OpenAI & Anthropic Drops AI Safety"}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "video", id: "2WTFuSeYJ6o", date: "2026-01-09", title: "The 2026 Timeline: AGI Arrival, Safety Concerns, Robotaxi Fleets & Hyperscaler Timelines"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

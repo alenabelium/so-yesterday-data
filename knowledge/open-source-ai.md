@@ -10,6 +10,10 @@ related:
   - ai-infrastructure
   - fine-tuning
   - frontier-labs
+sources:
+  - {type: "video", id: "RgQtTvneqPY", date: "2026-01-17", title: "LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why."}
+  - {type: "video", id: "qP73cGLQmCU", date: "2026-03-09", title: "OpenClaw Explained: Baby AGI, Security Threats, Mac Mini Became Everyone's Supercomputer"}
+  - {type: "digest", date: "2026-03-16", title: "Daily Digest — March 16, 2026"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high
