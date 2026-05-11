@@ -12,6 +12,10 @@ related:
   - frontier-recognition
   - the-70-percent-problem
   - vibe-coding
+sources:
+  - {type: "video", id: "hDpjMJw3flk", date: "2026-01-21", title: "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)"}
+  - {type: "video", id: "iG_CCjdyeX0", date: "2026-01-07", title: "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY"}
+  - {type: "video", id: "sLz4mAyykeE", date: "2026-02-07", title: "90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part."}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

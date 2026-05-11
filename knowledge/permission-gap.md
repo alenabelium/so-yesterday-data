@@ -10,6 +10,11 @@ related:
   - identity-threat
   - the-observer-mindset
   - three-week-cliff
+sources:
+  - {type: "video", id: "EZ4EjJ0iDDQ", date: "2026-01-25", title: "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)"}
+  - {type: "video", id: "dzp0OQbElpU", date: "2026-01-13", title: "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It"}
+  - {type: "essay", slug: "2026-03-13-01-start-with-ai-today", date: "2026-03-13", title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"}
+  - {type: "essay", slug: "2026-03-13-02-the-bicycle-problem", date: "2026-03-13", title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

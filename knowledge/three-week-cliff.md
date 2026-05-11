@@ -10,6 +10,9 @@ related:
   - identity-threat
   - permission-gap
   - the-70-percent-problem
+sources:
+  - {type: "video", id: "EZ4EjJ0iDDQ", date: "2026-01-25", title: "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)"}
+  - {type: "essay", slug: "2026-03-13-01-start-with-ai-today", date: "2026-03-13", title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

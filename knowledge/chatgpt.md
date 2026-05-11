@@ -13,6 +13,9 @@ related:
   - context-window
   - hallucination
   - tool-use
+sources: []
+# sources: insufficient links in body — TODO manual
+# sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-27"
 updated: "2026-04-27"

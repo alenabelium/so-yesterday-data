@@ -11,6 +11,12 @@ related:
   - multi-agent-systems
   - blast-radius
   - tool-use
+sources:
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "video", id: "iY7BDpZWJbE", date: "2026-03-09", title: "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet."}
+  - {type: "video", id: "0vdlwOK_Qdk", date: "2026-04-14", title: "Sora Was Burning $15 Million a Day. That's Not Even the Scary Part."}
+  - {type: "digest", date: "2026-03-28", title: "Daily Digest — March 28, 2026"}
+  - {type: "digest", date: "2026-03-30", title: "Daily Digest — March 30, 2026"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

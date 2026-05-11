@@ -11,6 +11,10 @@ related:
   - scaling-laws
   - open-source-ai
   - fine-tuning
+sources:
+  - {type: "video", id: "2OrOufa3eoc", date: "2026-01-16", title: "New open-source \"Nano Banana\" is here! INSANELY fast"}
+  - {type: "video", id: "0v9ixCWNhPo", date: "2026-02-25", title: "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)"}
+  - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

@@ -9,6 +9,10 @@ related:
   - vibe-coding
   - agent-orchestration
   - benchmarks
+sources:
+  - {type: "video", id: "bDcgHzCBgmQ", date: "2026-02-18", title: "The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)"}
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

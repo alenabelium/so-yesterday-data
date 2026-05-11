@@ -12,6 +12,10 @@ related:
   - identity-threat
   - permission-gap
   - three-week-cliff
+sources:
+  - {type: "video", id: "pOb0pjXpn6Q", date: "2026-01-01", title: "The Compounding Gap That Makes 2026 the Last Chance to Catch Up"}
+  - {type: "video", id: "EZ4EjJ0iDDQ", date: "2026-01-25", title: "Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)"}
+  - {type: "essay", slug: "2026-03-13-02-the-bicycle-problem", date: "2026-03-13", title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

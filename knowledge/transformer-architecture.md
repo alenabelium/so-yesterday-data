@@ -10,6 +10,9 @@ related:
   - context-window
   - multimodal-ai
   - emergent-behavior
+sources:
+  - {type: "video", id: "U2hZFMVNSE0", date: "2026-03-25", title: "How does AI actually work? Transformers explained"}
+  - {type: "video", id: "7kPNA86G_GA", date: "2026-01-04", title: "DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

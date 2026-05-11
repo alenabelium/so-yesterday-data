@@ -11,6 +11,12 @@ related:
   - inference
   - scaling-laws
   - frontier-labs
+sources:
+  - {type: "video", id: "pSgy2P2q790", date: "2026-02-08", title: "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here"}
+  - {type: "video", id: "O-0poNv2jD4", date: "2026-02-21", title: "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger."}
+  - {type: "video", id: "5Kp-Gj5qXL0", date: "2026-01-08", title: "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong"}
+  - {type: "digest", date: "2026-03-18", title: "Daily Digest — March 18, 2026"}
+  - {type: "digest", date: "2026-03-19", title: "Daily Digest — March 19, 2026"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

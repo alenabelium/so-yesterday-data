@@ -11,6 +11,13 @@ related:
   - sovereign-wealth-funds
   - solo-operator
   - compounding-gap
+sources:
+  - {type: "video", id: "2wVlcG8mfi4", date: "2026-03-17", title: "Post-Labor Economics is happening."}
+  - {type: "video", id: "8jV3HcmiWV8", date: "2026-03-28", title: "We're already too late"}
+  - {type: "video", id: "qNj1ldhKCXE", date: "2026-04-02", title: "Get ready for the plunge"}
+  - {type: "video", id: "WPVcI-WOHro", date: "2026-01-07", title: "My most dangerous idea"}
+  - {type: "video", id: "cY--hKUWKX4", date: "2026-01-12", title: "Do this over the next 5 years and you're set"}
+  - {type: "video", id: "Sl1_uWdFUsk", date: "2026-01-22", title: "Maybe I was WRONG!? How could AI and Robots Destroy Capitalism?"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

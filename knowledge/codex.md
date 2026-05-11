@@ -12,6 +12,9 @@ related:
   - ai-coding-levels
   - openai
   - tool-use
+sources: []
+# sources: insufficient links in body — TODO manual
+# sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-05-01"
 updated: "2026-05-01"

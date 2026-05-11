@@ -10,6 +10,11 @@ related:
   - ai-infrastructure
   - open-source-ai
   - frontier-labs
+sources:
+  - {type: "video", id: "_ey0HNGdMBk", date: "2026-02-06", title: "KLING 3.0 is crazy..."}
+  - {type: "video", id: "qd2T4VF0vWg", title: "qd2T4VF0vWg"}
+  - {type: "video", id: "S4LpG0EfOFQ", title: "S4LpG0EfOFQ"}
+  - {type: "video", id: "lkXdUgr5P-M", title: "lkXdUgr5P-M"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

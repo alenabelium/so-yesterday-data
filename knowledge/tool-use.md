@@ -8,6 +8,10 @@ tags:
 related:
   - ai-agents
   - mcp
+sources:
+  - {type: "video", id: "h7dbkDcb3hA", date: "2026-01-14", title: "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)"}
+  - {type: "video", id: "japT66frdhM", date: "2026-03-13", title: "One Simple System Gave All My AI Tools a Memory. Here's How."}
+  - {type: "video", id: "09sFAO7pklo", date: "2026-03-06", title: "Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

@@ -10,6 +10,11 @@ related:
   - ai-agents
   - alignment
   - anthropic
+sources:
+  - {type: "video", id: "-_vL1KXd2rc", date: "2026-03-07", title: "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)"}
+  - {type: "video", id: "OMb5oTlC_q0", date: "2026-02-22", title: "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)"}
+  - {type: "video", id: "iY7BDpZWJbE", date: "2026-03-09", title: "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet."}
+  - {type: "video", id: "NoRePxSrhpw", date: "2026-01-28", title: "The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

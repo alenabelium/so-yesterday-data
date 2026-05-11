@@ -10,6 +10,11 @@ related:
   - sniff-checking
   - specification-quality
   - hallucination
+sources:
+  - {type: "video", id: "-FhtPUkXKO4", date: "2026-03-10", title: "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it."}
+  - {type: "video", id: "iG_CCjdyeX0", date: "2026-01-07", title: "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY"}
+  - {type: "video", id: "KX0GurmgAoo", date: "2026-02-05", title: "90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)"}
+  - {type: "essay", slug: "2026-03-13-02-the-bicycle-problem", date: "2026-03-13", title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

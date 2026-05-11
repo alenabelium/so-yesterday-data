@@ -10,6 +10,11 @@ related:
   - ai-native-economics
   - job-market-bifurcation
   - compounding-gap
+sources:
+  - {type: "video", id: "8jV3HcmiWV8", date: "2026-03-28", title: "We're already too late"}
+  - {type: "video", id: "Llyxebn4dHw", date: "2026-01-05", title: "Yes, AI will end capitalism (as we know it)"}
+  - {type: "video", id: "Sl1_uWdFUsk", date: "2026-01-22", title: "Maybe I was WRONG!? How could AI and Robots Destroy Capitalism?"}
+  - {type: "video", id: "wngalQ32Cro", date: "2026-01-15", title: "You will own nothing and (not) be happy"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

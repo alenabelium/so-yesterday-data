@@ -11,6 +11,10 @@ related:
   - context-window
   - fine-tuning
   - hallucination
+sources:
+  - {type: "video", id: "japT66frdhM", date: "2026-03-13", title: "One Simple System Gave All My AI Tools a Memory. Here's How."}
+  - {type: "video", id: "0TpON5T-Sw4", date: "2026-01-09", title: "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)"}
+  - {type: "video", id: "2JiMmye2ezg", date: "2026-03-02", title: "You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

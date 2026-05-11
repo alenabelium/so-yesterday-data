@@ -9,6 +9,9 @@ related:
   - ai-agents
   - context-engineering
   - rag
+sources:
+  - {type: "video", id: "0TpON5T-Sw4", date: "2026-01-09", title: "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)"}
+  - {type: "video", id: "japT66frdhM", date: "2026-03-13", title: "One Simple System Gave All My AI Tools a Memory. Here's How."}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

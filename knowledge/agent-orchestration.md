@@ -11,6 +11,12 @@ related:
   - blast-radius
   - sniff-checking
   - constraint-encoding
+sources:
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
+  - {type: "video", id: "2EXyj_fHU48", date: "2026-01-26", title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"}
+  - {type: "video", id: "JKk77rzOL34", date: "2026-02-11", title: "Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)"}
+  - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
+  - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

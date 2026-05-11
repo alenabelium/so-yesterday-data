@@ -12,6 +12,10 @@ related:
   - openclaw
   - blast-radius
   - constraint-encoding
+sources:
+  - {type: "video", id: "LO0Ws-l6brg", date: "2026-03-11", title: "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)"}
+  - {type: "video", id: "2EXyj_fHU48", date: "2026-01-26", title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"}
+  - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

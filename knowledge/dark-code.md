@@ -15,6 +15,10 @@ related:
   - sniff-checking
   - rejection-competency
   - blast-radius
+sources:
+  - {type: "essay", slug: "2026-04-16-01-dark-code-and-the-three-pillars", date: "2026-04-16", title: "Dark Code and the Three Pillars: A Framework for Code Nobody Reads"}
+  - {type: "video", id: "E1idsrv79tI", date: "2026-04-13", title: "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything."}
+  - {type: "essay", slug: "2026-03-25-01-pikes-rules-for-the-agentic-age", date: "2026-03-25", title: "Pike's Rules for the Agentic Age: Why 1989 Programming Wisdom Is Your Best AI Strategy"}
 confidence: high
 created: "2026-04-16"
 updated: "2026-04-16"

@@ -10,6 +10,11 @@ related:
   - emergent-behavior
   - alignment
   - frontier-labs
+sources:
+  - {type: "video", id: "8iWSNwIRazc", date: "2026-01-20", title: "The Singularity Countdown: AGI by 2029, Humans Merge with AI, Intelligence 1000x"}
+  - {type: "video", id: "2WTFuSeYJ6o", date: "2026-01-09", title: "The 2026 Timeline: AGI Arrival, Safety Concerns, Robotaxi Fleets & Hyperscaler Timelines"}
+  - {type: "video", id: "JlB852LGRJk", date: "2026-02-05", title: "OpenClaw Debate: AI Personhood, Proof of AGI, and the ‘Rights’ Framework"}
+  - {type: "video", id: "RSNuB9pj9P8", date: "2026-01-06", title: "Elon Musk on AGI Timeline, US vs China, Job Markets, Clean Energy & Humanoid Robots"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

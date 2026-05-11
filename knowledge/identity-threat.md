@@ -10,6 +10,10 @@ related:
   - permission-gap
   - the-displaced-expert
   - three-week-cliff
+sources:
+  - {type: "video", id: "5Di6o6zuMLc", date: "2026-01-23", title: "The Builders Who Figure This Out First Will Be Impossible to Catch. Why You Need an Identity Shift."}
+  - {type: "video", id: "q6p-_W6_VoM", date: "2026-02-09", title: "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will."}
+  - {type: "video", id: "mAtmWhYQvnI", date: "2026-01-13", title: "Tony Robbins Takes AI's Hardest Questions: Job Loss, Purpose, and The Hard Times Ahead"}
 created: "2026-03-19"
 updated: "2026-05-09"
 confidence: high

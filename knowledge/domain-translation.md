@@ -9,6 +9,9 @@ related:
   - intent-engineering
   - the-displaced-expert
   - constraint-encoding
+sources:
+  - {type: "video", id: "q6p-_W6_VoM", date: "2026-02-09", title: "Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will."}
+  - {type: "video", id: "5Et9WoDCsYs", date: "2026-01-11", title: "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

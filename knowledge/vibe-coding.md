@@ -8,6 +8,12 @@ tags:
 related:
   - specification-quality
   - ai-coding-levels
+sources:
+  - {type: "video", id: "sLz4mAyykeE", date: "2026-02-07", title: "90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part."}
+  - {type: "video", id: "2ghhiPLg-jg", date: "2026-02-28", title: "My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works."}
+  - {type: "video", id: "bDcgHzCBgmQ", date: "2026-02-18", title: "The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)"}
+  - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
+  - {type: "essay", slug: "2026-03-13-01-start-with-ai-today", date: "2026-03-13", title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

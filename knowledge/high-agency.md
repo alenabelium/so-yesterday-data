@@ -10,6 +10,11 @@ related:
   - the-observer-mindset
   - permission-gap
   - compounding-gap
+sources:
+  - {type: "essay", slug: "2026-03-13-02-the-bicycle-problem", date: "2026-03-13", title: "The Bicycle Problem: Why Going Slower Won't Save Your Career in the Age of AI"}
+  - {type: "video", id: "5Di6o6zuMLc", date: "2026-01-23", title: "The Builders Who Figure This Out First Will Be Impossible to Catch. Why You Need an Identity Shift."}
+  - {type: "video", id: "zCW-k5fFRgQ", date: "2026-03-15", title: "She quit, picked up AI, and shipped in 30 days what her team planned for Q3."}
+  - {type: "essay", slug: "2026-03-13-01-start-with-ai-today", date: "2026-03-13", title: "Stop Overthinking It: A Working Professional's No-Nonsense Guide to Starting With AI Today"}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

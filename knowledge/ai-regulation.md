@@ -10,6 +10,12 @@ related:
   - ai-safety-research
   - frontier-labs
   - ai-infrastructure
+sources:
+  - {type: "video", id: "0vdlwOK_Qdk", date: "2026-04-14", title: "Sora Was Burning $15 Million a Day. That's Not Even the Scary Part."}
+  - {type: "video", id: "T8X6kp-pcKs", date: "2026-03-05", title: "Amazon's $35B AGI Ultimatum to OpenAI & Anthropic Drops AI Safety"}
+  - {type: "video", id: "ixOqr8DkFrY", title: "ixOqr8DkFrY"}
+  - {type: "video", id: "2WTFuSeYJ6o", date: "2026-01-09", title: "The 2026 Timeline: AGI Arrival, Safety Concerns, Robotaxi Fleets & Hyperscaler Timelines"}
+  - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
 confidence: high
 created: "2026-04-15"
 updated: "2026-04-15"

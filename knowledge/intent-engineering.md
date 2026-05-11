@@ -8,6 +8,9 @@ tags:
 related:
   - context-engineering
   - domain-translation
+sources:
+  - {type: "video", id: "BpibZSMGtdY", date: "2026-02-27", title: "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026."}
+  - {type: "video", id: "QWzLPn164w0", date: "2026-02-24", title: "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything."}
 created: "2026-03-19"
 updated: "2026-03-19"
 confidence: high

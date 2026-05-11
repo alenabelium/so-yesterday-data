@@ -10,6 +10,13 @@ related:
   - ai-infrastructure
   - scaling-laws
   - benchmarks
+sources:
+  - {type: "video", id: "L2rkXjd1WgM", date: "2026-02-09", title: "The Frontier Labs War: Opus 4.6, GPT 5.3 Codex, and the SuperBowl Ads Debacle"}
+  - {type: "video", id: "41UDGsBEjoI", date: "2026-02-16", title: "Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)"}
+  - {type: "video", id: "iL3uDrk-i_E", date: "2026-02-06", title: "Anthropic's CEO Bet the Company on This Philosophy. The Data Says He Was Right."}
+  - {type: "video", id: "8jKAT8GNDE0", date: "2026-02-23", title: "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care."}
+  - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
+  - {type: "video", id: "uOGHXAfvK8w", date: "2026-03-21", title: "NVIDIA GTC 2026 Recap, Anthropic Beats OpenAI, and CS Grads Job Decline"}
 created: "2026-03-19"
 updated: "2026-03-21"
 confidence: high
