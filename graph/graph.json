@@ -3,7 +3,7 @@
     {
       "id": "agent-orchestration",
       "label": "Agent Orchestration",
-      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 265 sources",
+      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 266 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -32,7 +32,7 @@
     {
       "id": "agentic-workflows",
       "label": "Agentic Workflows",
-      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 396 sources",
+      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 397 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -90,7 +90,7 @@
     {
       "id": "ai-coding-levels",
       "label": "The 5 Levels of AI Coding",
-      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 220 sources",
+      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 221 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -118,7 +118,7 @@
     {
       "id": "ai-music-generation",
       "label": "AI Music Generation",
-      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 320 sources",
+      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 321 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -174,7 +174,7 @@
     {
       "id": "ai-video-generation",
       "label": "AI Video Generation",
-      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 320 sources",
+      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 321 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -202,7 +202,7 @@
     {
       "id": "anthropic",
       "label": "Anthropic",
-      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 428 sources",
+      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 429 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -260,7 +260,7 @@
     {
       "id": "blast-radius",
       "label": "Blast Radius Management",
-      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 194 sources",
+      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 195 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -288,7 +288,7 @@
     {
       "id": "chatgpt",
       "label": "ChatGPT",
-      "title": "ChatGPT\nOpenAI's flagship conversational AI that catalyzed the global generative AI revolution and redefined human-computer interaction.\nReferenced by 362 sources",
+      "title": "ChatGPT\nOpenAI's flagship conversational AI that catalyzed the global generative AI revolution and redefined human-computer interaction.\nReferenced by 363 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -303,7 +303,7 @@
     {
       "id": "claude-code",
       "label": "Claude Code",
-      "title": "Claude Code\nAnthropic's CLI tool enabling AI agents to autonomously edit files, run commands, and manage local development workflows.\nReferenced by 329 sources",
+      "title": "Claude Code\nAnthropic's CLI tool enabling AI agents to autonomously edit files, run commands, and manage local development workflows.\nReferenced by 330 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -318,7 +318,7 @@
     {
       "id": "codex",
       "label": "Codex",
-      "title": "Codex\nOpenAI's pioneering code-generation model that established the foundation for modern AI-assisted software development.\nReferenced by 288 sources",
+      "title": "Codex\nOpenAI's pioneering code-generation model that established the foundation for modern AI-assisted software development.\nReferenced by 289 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -375,7 +375,7 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 272 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 273 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -389,7 +389,7 @@
     {
       "id": "copilot",
       "label": "Copilot",
-      "title": "Copilot\nAI-powered pair programming assistants that enhance developer productivity through real-time code generation and context awareness.\nReferenced by 306 sources",
+      "title": "Copilot\nAI-powered pair programming assistants that enhance developer productivity through real-time code generation and context awareness.\nReferenced by 307 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -404,7 +404,7 @@
     {
       "id": "cursor",
       "label": "Cursor",
-      "title": "Cursor\nAn AI-native code editor enabling deep context awareness, multi-file editing, and agentic workflows for developers.\nReferenced by 328 sources",
+      "title": "Cursor\nAn AI-native code editor enabling deep context awareness, multi-file editing, and agentic workflows for developers.\nReferenced by 329 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -419,7 +419,7 @@
     {
       "id": "dark-code",
       "label": "Dark Code",
-      "title": "Dark Code\nProduction code that no human has ever fully understood \u2014 AI-generated, automatically tested, and deployed without a comprehension step.\nReferenced by 376 sources",
+      "title": "Dark Code\nProduction code that no human has ever fully understood \u2014 AI-generated, automatically tested, and deployed without a comprehension step.\nReferenced by 377 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -434,7 +434,7 @@
     {
       "id": "disposable-software",
       "label": "Disposable Software",
-      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 239 sources",
+      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 240 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -490,7 +490,7 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 269 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 270 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -518,7 +518,7 @@
     {
       "id": "frontier-recognition",
       "label": "Frontier Recognition",
-      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 335 sources",
+      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 336 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -616,7 +616,7 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 321 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 322 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -644,7 +644,7 @@
     {
       "id": "multi-agent-systems",
       "label": "Multi-Agent Systems",
-      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 265 sources",
+      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 266 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -658,7 +658,7 @@
     {
       "id": "multimodal-ai",
       "label": "Multimodal AI",
-      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 269 sources",
+      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 270 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -743,7 +743,7 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 225 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 226 sources",
       "group": "Prompting",
       "color": "#a78bfa",
       "size": 45,
@@ -757,7 +757,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 314 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 315 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -771,7 +771,7 @@
     {
       "id": "rejection-competency",
       "label": "Rejection Competency",
-      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 335 sources",
+      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 336 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -799,7 +799,7 @@
     {
       "id": "second-brain",
       "label": "Building a Second Brain",
-      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 280 sources",
+      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 281 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -813,7 +813,7 @@
     {
       "id": "sniff-checking",
       "label": "Sniff-Checking",
-      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 238 sources",
+      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 239 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -827,7 +827,7 @@
     {
       "id": "solo-operator",
       "label": "The Solo Operator",
-      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 336 sources",
+      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 337 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -855,7 +855,7 @@
     {
       "id": "specification-quality",
       "label": "Specification Quality",
-      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 238 sources",
+      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 239 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -883,7 +883,7 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 282 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 283 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -897,7 +897,7 @@
     {
       "id": "the-70-percent-problem",
       "label": "The 70% Problem",
-      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 335 sources",
+      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 336 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -981,7 +981,7 @@
     {
       "id": "token",
       "label": "Token",
-      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 403 sources",
+      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 404 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -996,7 +996,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 322 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 323 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1037,7 +1037,7 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 245 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 246 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
