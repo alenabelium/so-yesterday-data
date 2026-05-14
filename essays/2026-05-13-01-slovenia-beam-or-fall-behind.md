@@ -35,13 +35,13 @@ Until that moment hits, AI sounds like marketing. After it hits, the old workflo
 
 The reflex in Slovenian institutional thinking — and in most of Europe — is to sequence the transformation: first run a digital literacy programme, then train teachers, then maybe pilot AI in a few schools, then write a strategy, then procure, then deploy. Each step takes 12–24 months. By the time you reach the fifth box, the tools you procured against are two generations obsolete.
 
-This is the inversion that the AI frontier forces. Andrej Karpathy's old line — *you don't need to be educated to use AI, you should just get frontier AI and educate yourself* — is now operational reality. The cheapest, fastest, most personalised tutor a Slovene fifth-grader will ever encounter is already running on a server in Frankfurt. The cheapest, most patient mentor an over-55 civil servant in Velenje will ever encounter is the same model. Knowledge has become almost free. **Access and the willingness to use it are the only remaining scarcities.**
+This is the inversion that the AI frontier forces. The new operational reality is blunt: *you don't need to be educated to use frontier AI — you should get frontier AI and educate yourself with it.* The cheapest, fastest, most personalised tutor a Slovene fifth-grader will ever encounter is already running on a server in Frankfurt. The cheapest, most patient mentor an over-55 civil servant in Velenje will ever encounter is the same model. Knowledge has become almost free. **Access and the willingness to use it are the only remaining scarcities.**
 
 This is the lesson from Estonia. While Slovenia debates curriculum reform, Estonia's [AI Leap programme](https://www.educationestonia.org/estonia-launches-ai-leap-2025-to-transform-education/) — through public partnerships with OpenAI and Anthropic — put frontier AI tools into the hands of **20,000 high-school students and 3,000 teachers from September 2025**, with the explicit plan to extend further. Note the move: Estonia did not write a curriculum, then train teachers, then deploy tools. It deployed tools, then let the curriculum self-organise around what worked. That is the Estonian instinct that built the digital state in ten years and the one Slovenia should borrow now.
 
 Finland's instinct is the other half. Its [phenomenon-based learning](https://www.tandfonline.com/doi/full/10.1080/2331186X.2024.2309733) reform pushed schools to organise teaching around real-world phenomena — climate, migration, energy — across subject boundaries. The pedagogical match with agentic AI is almost unfair: an agent that can pull together history, chemistry, statistics and policy in one conversation is the perfect phenomenon-based tutor. Slovenia should not pick Estonia *or* Finland. It should run **Estonia's deployment speed on Finland's pedagogy**.
 
-## Six blockers, in plain Slovene
+## Six blockers, named plainly
 
 Before any plan, name what actually stops people. Each of these is a wall a Slovene teacher, civil servant or SME owner is hitting *this month*.
 
