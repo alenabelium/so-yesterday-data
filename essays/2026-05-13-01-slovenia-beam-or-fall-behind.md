@@ -3,6 +3,7 @@ title: "Beam or Be Left Behind: A Slovenian Plan to Skip Digital Transformation 
 date: "2026-05-13"
 description: "A practical 24-month strategy for a small country that cannot afford another five-year roadmap. Put frontier agentic systems in every school, public body and SME by autumn, flip the public-sector burden of proof, and recruit a few hundred evangelists who can make the moment of joy contagious."
 slug: "2026-05-13-01-slovenia-beam-or-fall-behind"
+featured: true
 ---
 
 # Beam or Be Left Behind: A Slovenian Plan to Skip Digital Transformation and Jump Straight Into AI
