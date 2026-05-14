@@ -21,4 +21,4 @@ The speaker argues that while there is an infinite demand for AI talent, most jo
 
 - Replace vague prompting with 'specification precision' by defining exact agent behaviors, escalation triggers, and success metrics to ensure the AI executes your literal intent rather than filling in blanks [00:04:30](https://www.youtube.com/watch?v=qh-KUDWZGaU&t=270).
 - Develop 'failure pattern recognition' to diagnose specific agent errors like context degradation, specification drift, and silent failures that produce plausible but incorrect outputs [00:12:13](https://www.youtube.com/watch?v=qh-KUDWZGaU&t=733).
-- Master 'context architecture' by organizing company data into logical, searchable structures that allow agents to reliably retrieve the correct information without pollution or confusion [00:18:52](https://www.youtube.com/watch?v=qh-KUDWZGaU&t=1132). [MM:SS](https://www.youtube.com/watch?v=qh-KUDWZGaU&t=SECONDS)
+- Master 'context architecture' by organizing company data into logical, searchable structures that allow agents to reliably retrieve the correct information without pollution or confusion [00:18:52](https://www.youtube.com/watch?v=qh-KUDWZGaU&t=1132).

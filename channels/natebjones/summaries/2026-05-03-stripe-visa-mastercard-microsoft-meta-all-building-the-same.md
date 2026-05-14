@@ -20,6 +20,6 @@ The video argues that the internet economy is undergoing a fundamental shift whe
 
 ## Key Points
 
-- The core shift in the internet economy is moving from seller-controlled funnels that capture human intent to a buyer-driven model where AI agents arrive with pre-formed intent and context [00:00:00].
-- Payment authority is relocating from the seller's checkout flow to the buyer's agent, requiring new infrastructure like scoped tokens and one-time use cards to manage trust and fraud [00:13:52].
-- Branding is evolving from emotional persuasion on landing pages to becoming a reliable, data-driven entry in a buyer's preference ledger that agents can reference and trust [00:23:41] [MM:SS](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=SECONDS)
+- The core shift in the internet economy is moving from seller-controlled funnels that capture human intent to a buyer-driven model where AI agents arrive with pre-formed intent and context [00:00:00](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=0).
+- Payment authority is relocating from the seller's checkout flow to the buyer's agent, requiring new infrastructure like scoped tokens and one-time use cards to manage trust and fraud [00:13:52](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=832).
+- Branding is evolving from emotional persuasion on landing pages to becoming a reliable, data-driven entry in a buyer's preference ledger that agents can reference and trust [00:23:41](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=1421)

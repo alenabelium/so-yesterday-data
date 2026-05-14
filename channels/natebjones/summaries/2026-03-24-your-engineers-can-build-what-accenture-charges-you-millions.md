@@ -21,4 +21,4 @@ The video argues that the complexity surrounding AI agent adoption is often manu
 
 - Apply Rob Pike's rule that 'data dominates' by prioritizing clean data structures and environments, as fixing the underlying infrastructure makes agent behavior self-evident and reduces complexity [09:43](https://www.youtube.com/watch?v=7AO4w4Y_L24&t=583).
 - Implement strict linting rules to enforce code simplicity and consistency, preventing agents from generating messy or buggy code that is difficult to debug and maintain [17:22](https://www.youtube.com/watch?v=7AO4w4Y_L24&t=1042).
-- Adopt incremental summarization strategies for context compression rather than regenerating full summaries, ensuring long-running agent sessions preserve critical session intent and file modifications [13:43](https://www.youtube.com/watch?v=7AO4w4Y_L24&t=823). [MM:SS](https://www.youtube.com/watch?v=7AO4w4Y_L24&t=SECONDS)
+- Adopt incremental summarization strategies for context compression rather than regenerating full summaries, ensuring long-running agent sessions preserve critical session intent and file modifications [13:43](https://www.youtube.com/watch?v=7AO4w4Y_L24&t=823).

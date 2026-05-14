@@ -20,4 +20,4 @@ The video argues that the massive global investment in AI infrastructure is stal
 
 - Institutional investors cannot efficiently underwrite or hedge GPU infrastructure risks without a transparent market benchmark, causing a bottleneck in the $7 trillion projected buildout [00:00:00](https://www.youtube.com/watch?v=2UxEvsWfDns&t=0).
 - The new OCPI index settles using Asian-style averaging of volume-weighted prices for specific GPU types and regions, treating compute as a consumable commodity similar to electricity [00:01:34](https://www.youtube.com/watch?v=2UxEvsWfDns&t=94).
-- Listing the index on the Bloomberg terminal serves as a critical credential that signals the market is ready for institutional capital, enabling forward curves and insurable residual value risks [00:03:09](https://www.youtube.com/watch?v=2UxEvsWfDns&t=189). [MM:SS](https://www.youtube.com/watch?v=2UxEvsWfDns&t=SECONDS)
+- Listing the index on the Bloomberg terminal serves as a critical credential that signals the market is ready for institutional capital, enabling forward curves and insurable residual value risks [00:03:09](https://www.youtube.com/watch?v=2UxEvsWfDns&t=189).

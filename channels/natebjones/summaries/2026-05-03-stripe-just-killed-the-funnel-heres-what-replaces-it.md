@@ -20,6 +20,6 @@ Stripe's new agent commerce suite signals a fundamental shift where economic pow
 
 ## Key Points
 
-- Businesses must transform their product catalogs, pricing, and policies into structured, machine-readable metadata to ensure AI agents can accurately interpret and act on buyer intent [00:08:34].
-- Payment authority is migrating from the seller's checkout flow to the buyer's agent, requiring new trust mechanisms like scoped tokens and one-time use cards to secure transactions [00:14:29].
-- Brand value is shifting from emotional persuasion on landing pages to becoming a reliable, data-driven constraint within the buyer's agent memory and preference layer [00:23:41] [MM:SS](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=SECONDS)
+- Businesses must transform their product catalogs, pricing, and policies into structured, machine-readable metadata to ensure AI agents can accurately interpret and act on buyer intent [00:08:34](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=514).
+- Payment authority is migrating from the seller's checkout flow to the buyer's agent, requiring new trust mechanisms like scoped tokens and one-time use cards to secure transactions [00:14:29](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=869).
+- Brand value is shifting from emotional persuasion on landing pages to becoming a reliable, data-driven constraint within the buyer's agent memory and preference layer [00:23:41](https://www.youtube.com/watch?v=XGvDbeoSN3E&t=1421)

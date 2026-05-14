@@ -20,4 +20,4 @@ The video titled 'ProRL Spring Training' consists entirely of musical interludes
 
 - The transcript contains only music cues and a single 'Shh' at the end, offering no actionable insights on AI or training methodologies [02:54](https://www.youtube.com/watch?v=zA3OhLyCXzU&t=174).
 - No specific strategies, tools, or fundamental concepts are discussed, making it impossible to extract relevant professional advice [00:00](https://www.youtube.com/watch?v=zA3OhLyCXzU&t=0).
-- The absence of spoken content prevents the identification of any key themes related to the video's title or the channel's typical subject matter [00:00](https://www.youtube.com/watch?v=zA3OhLyCXzU&t=0). [MM:SS](https://www.youtube.com/watch?v=zA3OhLyCXzU&t=SECONDS)
+- The absence of spoken content prevents the identification of any key themes related to the video's title or the channel's typical subject matter [00:00](https://www.youtube.com/watch?v=zA3OhLyCXzU&t=0).

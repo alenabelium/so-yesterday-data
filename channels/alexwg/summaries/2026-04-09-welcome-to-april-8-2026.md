@@ -23,4 +23,4 @@ This video presents a speculative future scenario from April 2026 where Anthropi
 
 - Organizations must prioritize forming cross-industry coalitions to leverage frontier AI models for proactively identifying and fixing high-severity software vulnerabilities before adversaries exploit them [00:00:00](https://www.youtube.com/watch?v=F7fZrHtEnOk&t=0).
 - Enterprises should adopt composable agent APIs with built-in sandboxing and scoped credentials to safely scale AI deployment while maintaining strict security boundaries [00:02:16](https://www.youtube.com/watch?v=F7fZrHtEnOk&t=136).
-- Business leaders need to anticipate rapid labor market repricing and workflow automation, as nearly half of Q1 tech layoffs in this scenario are directly attributed to AI implementation [00:03:56](https://www.youtube.com/watch?v=F7fZrHtEnOk&t=236). [MM:SS](https://www.youtube.com/watch?v=F7fZrHtEnOk&t=SECONDS)
+- Business leaders need to anticipate rapid labor market repricing and workflow automation, as nearly half of Q1 tech layoffs in this scenario are directly attributed to AI implementation [00:03:56](https://www.youtube.com/watch?v=F7fZrHtEnOk&t=236).

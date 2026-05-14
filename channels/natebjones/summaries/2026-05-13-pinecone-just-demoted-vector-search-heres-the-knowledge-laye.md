@@ -21,7 +21,7 @@ The video argues that traditional vector search is insufficient for complex AI a
 
 ## Key Points
 
-- Vector search alone causes agents to waste up to 85% of compute on rediscovering information, necessitating a shift toward specialized memory systems that handle structured data like tables and graphs [00:01:02].
-- Industry leaders are adopting distinct retrieval strategies: Pinecone uses NoQL for intent-rich queries, Page Index preserves document hierarchy, SAP invests in tabular foundation models, and Microsoft utilizes graph RAG for relational data [00:06:18].
-- Larger context windows do not solve retrieval issues because they fail to enforce permissions, preserve structure, or distinguish authoritative sources from stale data [00:13:40].
-- Developers should first define a 'retrieval contract' specifying the exact data bundle an agent needs, then select the appropriate primitives (vector, graph, or tabular) to deliver that bundle [00:14:44]. [MM:SS](https://www.youtube.com/watch?v=lqiwQiDglGk&t=SECONDS)
+- Vector search alone causes agents to waste up to 85% of compute on rediscovering information, necessitating a shift toward specialized memory systems that handle structured data like tables and graphs [00:01:02](https://www.youtube.com/watch?v=lqiwQiDglGk&t=62).
+- Industry leaders are adopting distinct retrieval strategies: Pinecone uses NoQL for intent-rich queries, Page Index preserves document hierarchy, SAP invests in tabular foundation models, and Microsoft utilizes graph RAG for relational data [00:06:18](https://www.youtube.com/watch?v=lqiwQiDglGk&t=378).
+- Larger context windows do not solve retrieval issues because they fail to enforce permissions, preserve structure, or distinguish authoritative sources from stale data [00:13:40](https://www.youtube.com/watch?v=lqiwQiDglGk&t=820).
+- Developers should first define a 'retrieval contract' specifying the exact data bundle an agent needs, then select the appropriate primitives (vector, graph, or tabular) to deliver that bundle [00:14:44](https://www.youtube.com/watch?v=lqiwQiDglGk&t=884).

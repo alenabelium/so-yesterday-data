@@ -21,6 +21,6 @@ The video argues that while the human-facing user experience of issue trackers i
 
 ## Key Points
 
-- Issue trackers are transitioning from a manual human interface to a critical 'substrate' for AI agents, providing the necessary state machine, ownership, and audit trails that models lack internally [00:01:09].
-- The strategic value of enterprise tools like Atlassian and Salesforce is increasing because they already possess the durable records and permission structures that agents need to safely execute work [00:15:27].
-- Builders and leaders should evaluate their software stack based on whether it exposes clean records, explicit verbs, and queryable history, as these are the true determinants of AI readiness [00:22:58]. [MM:SS](https://www.youtube.com/watch?v=FDkvRl1RlT0&t=SECONDS)
+- Issue trackers are transitioning from a manual human interface to a critical 'substrate' for AI agents, providing the necessary state machine, ownership, and audit trails that models lack internally [00:01:09](https://www.youtube.com/watch?v=FDkvRl1RlT0&t=69).
+- The strategic value of enterprise tools like Atlassian and Salesforce is increasing because they already possess the durable records and permission structures that agents need to safely execute work [00:15:27](https://www.youtube.com/watch?v=FDkvRl1RlT0&t=927).
+- Builders and leaders should evaluate their software stack based on whether it exposes clean records, explicit verbs, and queryable history, as these are the true determinants of AI readiness [00:22:58](https://www.youtube.com/watch?v=FDkvRl1RlT0&t=1378).

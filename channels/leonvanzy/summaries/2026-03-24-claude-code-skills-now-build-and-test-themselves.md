@@ -21,4 +21,4 @@ This video details advanced updates to Claude Code Skills, highlighting the abil
 
 - Utilize the Skill Creator skill to automatically generate custom skills and run blind A/B evaluations to prove their effectiveness against baseline agent performance [04:20](https://www.youtube.com/watch?v=epZy_NajGnA&t=260).
 - Implement dynamic context injection using shell commands in skill files to preload project data like file trees and git history, reducing token waste and latency [13:54](https://www.youtube.com/watch?v=epZy_NajGnA&t=834).
-- Configure the 'context: fork' property in skills to execute long-running or context-heavy tasks in isolated sessions, keeping the main conversation window clean [10:40](https://www.youtube.com/watch?v=epZy_NajGnA&t=640). [MM:SS](https://www.youtube.com/watch?v=epZy_NajGnA&t=SECONDS)
+- Configure the 'context: fork' property in skills to execute long-running or context-heavy tasks in isolated sessions, keeping the main conversation window clean [10:40](https://www.youtube.com/watch?v=epZy_NajGnA&t=640).

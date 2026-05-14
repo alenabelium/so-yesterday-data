@@ -22,4 +22,4 @@ The video presents a speculative future where AI has achieved emotional depth an
 
 - Organizations must prepare for the collapse of training cycle times and the rise of recursive self-improvement, which is already driving companies to shut down legacy projects to focus on automated researchers [00:00:00](https://www.youtube.com/watch?v=lpkwe5nRA84&t=0).
 - The minimum viable team is shrinking to one person, as demonstrated by the first one-person unicorn achieving massive revenue through AI agents for coding, operations, and marketing [00:01:10](https://www.youtube.com/watch?v=lpkwe5nRA84&t=70).
-- Economic forecasts predict a sharp decline in labor participation and extreme wealth concentration, necessitating new strategies for navigating a workforce where AI handles 80% of tasks [00:02:35](https://www.youtube.com/watch?v=lpkwe5nRA84&t=155). [MM:SS](https://www.youtube.com/watch?v=lpkwe5nRA84&t=SECONDS)
+- Economic forecasts predict a sharp decline in labor participation and extreme wealth concentration, necessitating new strategies for navigating a workforce where AI handles 80% of tasks [00:02:35](https://www.youtube.com/watch?v=lpkwe5nRA84&t=155).

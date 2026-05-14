@@ -22,6 +22,6 @@ In the AI era, 'taste' and 'agency' are becoming more valuable than traditional 
 
 ## Key Points
 
-- Taste is defined as the ability to run a virtual simulation in your head to predict whether a specific in-group will like an idea, which is developed through constant iteration and feedback loops [00:57:19].
-- The concept of 'malleable software' suggests that tools should work closer to the user's interests than the corporation's, allowing individuals to own and customize their computing environment rather than being stuck in rigid apps [00:17:58].
-- Great products succeed not by adding more features, but by having one tiny core superpower that is exceptionally good, such as the pull request at GitHub or the syncing icon at Dropbox [01:01:15]. [MM:SS](https://www.youtube.com/watch?v=mCO-D3pkviM&t=SECONDS)
+- Taste is defined as the ability to run a virtual simulation in your head to predict whether a specific in-group will like an idea, which is developed through constant iteration and feedback loops [00:57:19](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3439).
+- The concept of 'malleable software' suggests that tools should work closer to the user's interests than the corporation's, allowing individuals to own and customize their computing environment rather than being stuck in rigid apps [00:17:58](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1078).
+- Great products succeed not by adding more features, but by having one tiny core superpower that is exceptionally good, such as the pull request at GitHub or the syncing icon at Dropbox [01:01:15](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3675).

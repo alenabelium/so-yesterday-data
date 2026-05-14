@@ -21,6 +21,6 @@ This video demonstrates how to configure the Hermes AI agent to function as a fu
 
 ## Key Points
 
-- The video outlines the initial setup process, including deploying Hermes on a Hostinger VPS, configuring OpenAI models, and connecting the agent to Telegram for remote access [00:01:23].
-- Viewers are shown how to authenticate the agent with Vercel by installing the CLI tool and securely setting environment variables to enable automated project deployment [00:04:37].
-- The final test involves prompting Hermes to build a personal portfolio page, which it successfully creates, deploys to a live URL, and updates with new content upon request [00:09:47] [MM:SS](https://www.youtube.com/watch?v=gxx39SE0aDw&t=SECONDS)
+- The video outlines the initial setup process, including deploying Hermes on a Hostinger VPS, configuring OpenAI models, and connecting the agent to Telegram for remote access [00:01:23](https://www.youtube.com/watch?v=gxx39SE0aDw&t=83).
+- Viewers are shown how to authenticate the agent with Vercel by installing the CLI tool and securely setting environment variables to enable automated project deployment [00:04:37](https://www.youtube.com/watch?v=gxx39SE0aDw&t=277).
+- The final test involves prompting Hermes to build a personal portfolio page, which it successfully creates, deploys to a live URL, and updates with new content upon request [00:09:47](https://www.youtube.com/watch?v=gxx39SE0aDw&t=587)

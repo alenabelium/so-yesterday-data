@@ -23,4 +23,4 @@ This video demonstrates how to bypass API cost barriers by using Claude Code cha
 
 - Migrate your existing AI agent's memory and skills by backing up critical files like identity and tools into a new project folder to maintain continuity [00:02:39](https://www.youtube.com/watch?v=HN6Zd6sZT-A&t=159).
 - Install the official Telegram plugin in Claude Code and configure it with your bot's access token to enable remote command execution and project interaction [00:06:02](https://www.youtube.com/watch?v=HN6Zd6sZT-A&t=362).
-- Secure your private assistant by running the access policy allow list command to restrict bot interactions to only your specific user account [00:08:39](https://www.youtube.com/watch?v=HN6Zd6sZT-A&t=519). [MM:SS](https://www.youtube.com/watch?v=HN6Zd6sZT-A&t=SECONDS)
+- Secure your private assistant by running the access policy allow list command to restrict bot interactions to only your specific user account [00:08:39](https://www.youtube.com/watch?v=HN6Zd6sZT-A&t=519).

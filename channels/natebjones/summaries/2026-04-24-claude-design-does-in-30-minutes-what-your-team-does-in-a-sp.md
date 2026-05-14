@@ -23,4 +23,4 @@ The video argues that Anthropic's Claude Design, combined with Claude Code and C
 
 - Replace static mockups and PRDs with live, code-based prototypes generated in minutes to accelerate feedback loops and eliminate translation errors between design and engineering [00:00:48](https://www.youtube.com/watch?v=KlPxWaY91rE&t=48).
 - Shift designer focus from executing repetitive mockups to high-level strategic judgment and context, as AI handles the rapid generation of multiple design directions [00:16:50](https://www.youtube.com/watch?v=KlPxWaY91rE&t=1010).
-- Restructure teams to be smaller and more cross-functional, as the ability for any role to prototype and ship code reduces the need for specialized handoffs and coordination overhead [00:22:15](https://www.youtube.com/watch?v=KlPxWaY91rE&t=1335). [MM:SS](https://www.youtube.com/watch?v=KlPxWaY91rE&t=SECONDS)
+- Restructure teams to be smaller and more cross-functional, as the ability for any role to prototype and ship code reduces the need for specialized handoffs and coordination overhead [00:22:15](https://www.youtube.com/watch?v=KlPxWaY91rE&t=1335).

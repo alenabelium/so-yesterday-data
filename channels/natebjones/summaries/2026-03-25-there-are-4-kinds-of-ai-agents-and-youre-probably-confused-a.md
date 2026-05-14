@@ -21,4 +21,4 @@ The video argues that the term 'AI agent' is too simplistic, as sophisticated sy
 
 - Distinguish between 'coding harnesses' for individual tasks and project-scale architectures where an agent acts as a manager to coordinate sub-agents for complex engineering work [00:01:57](https://www.youtube.com/watch?v=YpPcDHc3e9U&t=117).
 - Implement 'dark factories' only when you can define strict specifications and evaluation metrics that allow the system to run autonomously without human intervention in the middle [00:02:59](https://www.youtube.com/watch?v=YpPcDHc3e9U&t=179).
-- Select 'auto research' frameworks specifically for problems defined by a measurable metric to optimize, rather than for building functional software or creative content [00:04:32](https://www.youtube.com/watch?v=YpPcDHc3e9U&t=272). [MM:SS](https://www.youtube.com/watch?v=YpPcDHc3e9U&t=SECONDS)
+- Select 'auto research' frameworks specifically for problems defined by a measurable metric to optimize, rather than for building functional software or creative content [00:04:32](https://www.youtube.com/watch?v=YpPcDHc3e9U&t=272).

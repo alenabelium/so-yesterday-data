@@ -20,6 +20,6 @@ The episode analyzes the accelerating AI race, highlighting Google's record earn
 
 ## Key Points
 
-- The White House is considering a vetting process for AI models before release, a shift driven by the 'Mythos moment' where private sector capabilities leapfrogged government security benchmarks [00:08:02].
-- Compute has become the 'innermost loop' constraint, forcing companies to prioritize high-value enterprise use cases over consumer applications as demand outstrips supply [00:25:36].
-- Private equity firms are partnering with AI labs to force top-down adoption of AI in legacy companies, creating a new deployment channel that bypasses internal corporate resistance [00:45:34] [MM:SS](https://www.youtube.com/watch?v=zdAqvqhdVgU&t=SECONDS)
+- The White House is considering a vetting process for AI models before release, a shift driven by the 'Mythos moment' where private sector capabilities leapfrogged government security benchmarks [00:08:02](https://www.youtube.com/watch?v=zdAqvqhdVgU&t=482).
+- Compute has become the 'innermost loop' constraint, forcing companies to prioritize high-value enterprise use cases over consumer applications as demand outstrips supply [00:25:36](https://www.youtube.com/watch?v=zdAqvqhdVgU&t=1536).
+- Private equity firms are partnering with AI labs to force top-down adoption of AI in legacy companies, creating a new deployment channel that bypasses internal corporate resistance [00:45:34](https://www.youtube.com/watch?v=zdAqvqhdVgU&t=2734)

@@ -21,4 +21,4 @@ As next-generation AI models become significantly more expensive, inefficient to
 
 - Convert all document inputs to clean Markdown before ingestion to avoid the massive token overhead caused by binary formatting, headers, and metadata in raw PDFs [02:59](https://www.youtube.com/watch?v=5ztI_dbj6ek&t=179).
 - Prevent conversation sprawl by starting fresh chats every 10-15 turns and separating information gathering from execution tasks to keep the context window focused and efficient [05:36](https://www.youtube.com/watch?v=5ztI_dbj6ek&t=336).
-- Implement prompt caching for stable system prompts and tool definitions, which can reduce costs by 90% on repeated content for production agents and workflows [17:42](https://www.youtube.com/watch?v=5ztI_dbj6ek&t=1062). [MM:SS](https://www.youtube.com/watch?v=5ztI_dbj6ek&t=SECONDS)
+- Implement prompt caching for stable system prompts and tool definitions, which can reduce costs by 90% on repeated content for production agents and workflows [17:42](https://www.youtube.com/watch?v=5ztI_dbj6ek&t=1062).

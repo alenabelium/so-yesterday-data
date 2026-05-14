@@ -22,4 +22,4 @@ The video argues that while AI agents' ability to control computers via browsers
 
 - The speaker distinguishes between the three layers of agent interaction: access (computer use), meaning (semantic work primitives), and authority, arguing that meaning is the critical layer for long-term value.
 - Coding agents succeeded first because codebases provide rich semantic feedback loops like tests and type systems, a density of meaning that most general knowledge work currently lacks.
-- The future of software requires a shift from UI-centric design to exposing semantically meaningful units of work that are permissioned, reviewable, and composable for AI agents. [MM:SS](https://www.youtube.com/watch?v=b1fxYGPbHeo&t=SECONDS)
+- The future of software requires a shift from UI-centric design to exposing semantically meaningful units of work that are permissioned, reviewable, and composable for AI agents.

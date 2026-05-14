@@ -23,4 +23,4 @@ This video demonstrates how to configure Claude Code to run Google's open-weight
 
 - Configure Claude Code to use Gemma 4 by creating a .claude/settings.json file that points to your local LM Studio or Ollama server URL and specifies the model name [06:19](https://www.youtube.com/watch?v=-kA-8QJXY1g&t=379).
 - For optimal performance on consumer hardware, use the 26 billion parameter Gemma 4 model via LM Studio to leverage GPU acceleration, which significantly outperforms CPU-based Ollama setups [09:12](https://www.youtube.com/watch?v=-kA-8QJXY1g&t=552).
-- Enhance the agent's capabilities by providing a pre-written implementation plan and installing specific skills like Playwright for end-to-end testing and Shad CN for UI components [00:02:43](https://www.youtube.com/watch?v=-kA-8QJXY1g&t=163). [MM:SS](https://www.youtube.com/watch?v=-kA-8QJXY1g&t=SECONDS)
+- Enhance the agent's capabilities by providing a pre-written implementation plan and installing specific skills like Playwright for end-to-end testing and Shad CN for UI components [00:02:43](https://www.youtube.com/watch?v=-kA-8QJXY1g&t=163).

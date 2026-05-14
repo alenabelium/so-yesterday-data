@@ -23,7 +23,7 @@ The video introduces Mammal, a new multimodal AI foundation model that unifies c
 
 ## Key Points
 
-- Mammal unifies chemistry, genetics, and protein data into a single model, beating specialized models like Moleformer in predicting blood-brain barrier penetration and clinical toxicity [00:11:16].
-- The AI successfully predicted that Carfilzomib, a drug known only for blood cancers, would be effective against solid tumors, a hypothesis later confirmed by physical experiments [00:19:31].
-- Mammal outperformed AlphaFold 3 in predicting antibody binding to disease targets, particularly for proteins with intrinsically disordered regions that AlphaFold struggles with [00:24:23].
-- The model demonstrated the ability to design new antibodies from scratch, achieving a 19% improvement in predicting the highly variable CDRH3 region compared to previous state-of-the-art methods [00:29:11]. [MM:SS](https://www.youtube.com/watch?v=s3rNDndvav0&t=SECONDS)
+- Mammal unifies chemistry, genetics, and protein data into a single model, beating specialized models like Moleformer in predicting blood-brain barrier penetration and clinical toxicity [00:11:16](https://www.youtube.com/watch?v=s3rNDndvav0&t=676).
+- The AI successfully predicted that Carfilzomib, a drug known only for blood cancers, would be effective against solid tumors, a hypothesis later confirmed by physical experiments [00:19:31](https://www.youtube.com/watch?v=s3rNDndvav0&t=1171).
+- Mammal outperformed AlphaFold 3 in predicting antibody binding to disease targets, particularly for proteins with intrinsically disordered regions that AlphaFold struggles with [00:24:23](https://www.youtube.com/watch?v=s3rNDndvav0&t=1463).
+- The model demonstrated the ability to design new antibodies from scratch, achieving a 19% improvement in predicting the highly variable CDRH3 region compared to previous state-of-the-art methods [00:29:11](https://www.youtube.com/watch?v=s3rNDndvav0&t=1751).

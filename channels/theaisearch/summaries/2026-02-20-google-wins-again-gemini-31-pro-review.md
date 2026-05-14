@@ -24,4 +24,4 @@ This video reviews Google's Gemini 3.1 Pro, positioning it as the current leader
 
 - Gemini 3.1 Pro demonstrates exceptional multimodal reasoning by analyzing uploaded videos to generate fully functional interactive applications, such as an earthquake simulation map, without explicit text instructions [00:09:50](https://www.youtube.com/watch?v=hSQciQsxV2w&t=590).
 - The model outperforms competitors in the ARC-AGI2 benchmark, showcasing an emergent ability to learn and apply new visual patterns it has never seen before during training [00:17:41](https://www.youtube.com/watch?v=hSQciQsxV2w&t=1061).
-- Despite its high intelligence, users should remain aware of occasional hallucinations in visual tasks, as the model incorrectly identified the absence of Waldo in a 'Where's Waldo' image [00:08:44](https://www.youtube.com/watch?v=hSQciQsxV2w&t=524). [MM:SS](https://www.youtube.com/watch?v=hSQciQsxV2w&t=SECONDS)
+- Despite its high intelligence, users should remain aware of occasional hallucinations in visual tasks, as the model incorrectly identified the absence of Waldo in a 'Where's Waldo' image [00:08:44](https://www.youtube.com/watch?v=hSQciQsxV2w&t=524).

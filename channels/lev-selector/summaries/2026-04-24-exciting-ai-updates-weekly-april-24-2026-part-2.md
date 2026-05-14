@@ -26,4 +26,4 @@ This weekly update highlights a paradigm shift in AI where engineers are transit
 - Engineers must evolve into 'staff-level orchestrators' who manage agent swarms and define non-functional requirements rather than writing code manually, as code generation becomes abundant and free [00:06:18](https://www.youtube.com/watch?v=oVDfoWer_M4&t=378).
 - Adopting neuro-symbolic AI and recurrent architectures can drastically cut energy usage by 100 times while improving accuracy, making advanced AI tools affordable for smaller businesses [00:01:25](https://www.youtube.com/watch?v=oVDfoWer_M4&t=85).
 - Implementing MLOps solutions like Weights & Biases or MLflow is essential for corporations to manage the full lifecycle of models, from experiment tracking to production deployment [00:11:30](https://www.youtube.com/watch?v=oVDfoWer_M4&t=690).
-- Tags: ai-agents, ai-strategy, productivity, ai-tools [MM:SS](https://www.youtube.com/watch?v=oVDfoWer_M4&t=SECONDS)
+- Tags: ai-agents, ai-strategy, productivity, ai-tools

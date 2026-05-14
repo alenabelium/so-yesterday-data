@@ -21,7 +21,7 @@ The video argues that traditional prompt engineering and manual human approval a
 
 ## Key Points
 
-- Prompt engineering and manual confirmation fail because prompts degrade in long contexts and users develop 'click fatigue', necessitating an architectural shift to a separate validator model that checks intent against policy [00:04:36].
-- Agent actions must be classified into four risk buckets—readonly, reversible writes, external impact, and high-risk—to apply the correct level of scrutiny, with high-risk actions requiring both judge and human approval [00:10:19].
-- The judge layer should offer four outcomes (allow, block, revise, escalate) rather than just yes/no to prevent bypass, and using frontier closed-source models for the judge mitigates 'correlated judgment' blind spots found in older or open-source models [00:16:36].
-- Agentic systems are evolving from simple workflow runners to 'managed workers' where the critical differentiator is the management system, specifically the judge model that supervises permissions and context [00:18:43]. [MM:SS](https://www.youtube.com/watch?v=SX1myuPEDFg&t=SECONDS)
+- Prompt engineering and manual confirmation fail because prompts degrade in long contexts and users develop 'click fatigue', necessitating an architectural shift to a separate validator model that checks intent against policy [00:04:36](https://www.youtube.com/watch?v=SX1myuPEDFg&t=276).
+- Agent actions must be classified into four risk buckets—readonly, reversible writes, external impact, and high-risk—to apply the correct level of scrutiny, with high-risk actions requiring both judge and human approval [00:10:19](https://www.youtube.com/watch?v=SX1myuPEDFg&t=619).
+- The judge layer should offer four outcomes (allow, block, revise, escalate) rather than just yes/no to prevent bypass, and using frontier closed-source models for the judge mitigates 'correlated judgment' blind spots found in older or open-source models [00:16:36](https://www.youtube.com/watch?v=SX1myuPEDFg&t=996).
+- Agentic systems are evolving from simple workflow runners to 'managed workers' where the critical differentiator is the management system, specifically the judge model that supervises permissions and context [00:18:43](https://www.youtube.com/watch?v=SX1myuPEDFg&t=1123).

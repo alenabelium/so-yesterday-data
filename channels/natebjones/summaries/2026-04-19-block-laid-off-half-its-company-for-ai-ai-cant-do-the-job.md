@@ -22,4 +22,4 @@ The video argues that while AI 'world models' can automate information logistics
 
 - Organizations must explicitly define an 'interpretive boundary' to distinguish between factual data the AI can automate and complex judgment calls that require human oversight [00:10:47](https://www.youtube.com/watch?v=fm6mYqFAM5c&t=647).
 - A successful world model requires encoding outcomes to create a feedback loop, ensuring the system learns from the results of actions rather than just recording events [00:14:38](https://www.youtube.com/watch?v=fm6mYqFAM5c&t=878).
-- Companies should design systems to capture data as a byproduct of work to prevent employee resistance and ensure the model receives high-fidelity signals without extra documentation burdens [00:12:59](https://www.youtube.com/watch?v=fm6mYqFAM5c&t=779). [MM:SS](https://www.youtube.com/watch?v=fm6mYqFAM5c&t=SECONDS)
+- Companies should design systems to capture data as a byproduct of work to prevent employee resistance and ensure the model receives high-fidelity signals without extra documentation burdens [00:12:59](https://www.youtube.com/watch?v=fm6mYqFAM5c&t=779).

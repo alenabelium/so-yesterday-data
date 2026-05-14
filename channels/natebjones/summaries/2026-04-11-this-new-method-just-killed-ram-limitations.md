@@ -23,4 +23,4 @@ Google's new TurboQuant method addresses the critical AI memory crisis by compre
 - Organizations should prioritize software-based memory optimization strategies like TurboQuant to extend the utility of existing GPU fleets rather than waiting for new hardware fabrication cycles [00:08:54](https://www.youtube.com/watch?v=erV_8yrGMA8&t=534).
 - Developers must evaluate the full stack implications of high-concurrency compression, as reducing KV cache size fundamentally changes the number of simultaneous users a single chip can serve [00:07:10](https://www.youtube.com/watch?v=erV_8yrGMA8&t=430).
 - Enterprises should adopt a 'sovereign memory' strategy by controlling their own context layers and data storage to ensure they benefit from future architectural improvements without relying on third-party constraints [00:21:12](https://www.youtube.com/watch?v=erV_8yrGMA8&t=1272).
-- Tags: ["ai-strategy", "llm-fundamentals", "productivity"] [MM:SS](https://www.youtube.com/watch?v=erV_8yrGMA8&t=SECONDS)
+- Tags: ["ai-strategy", "llm-fundamentals", "productivity"]

@@ -23,4 +23,4 @@ This weekly AI update highlights the rapid evolution of agentic AI, emphasizing 
 
 - Adopt managed agent solutions like Anthropic's new offering or self-hosted tools like Hermes to leverage AI that can autonomously learn from failures and update its own prompts [00:04:05](https://www.youtube.com/watch?v=tILZuOvro6I&t=245).
 - Implement lightweight memory architectures using SQLite and vector databases to give agents persistent context and hierarchical knowledge storage without heavy infrastructure [00:02:45](https://www.youtube.com/watch?v=tILZuOvro6I&t=165).
-- Utilize token-optimization plugins like Caveman to reduce token usage by up to 75%, which simultaneously improves conversation clarity and reduces hallucinations [00:25:27](https://www.youtube.com/watch?v=tILZuOvro6I&t=1527). [MM:SS](https://www.youtube.com/watch?v=tILZuOvro6I&t=SECONDS)
+- Utilize token-optimization plugins like Caveman to reduce token usage by up to 75%, which simultaneously improves conversation clarity and reduces hallucinations [00:25:27](https://www.youtube.com/watch?v=tILZuOvro6I&t=1527).

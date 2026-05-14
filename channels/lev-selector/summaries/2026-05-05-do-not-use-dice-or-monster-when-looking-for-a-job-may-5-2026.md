@@ -24,4 +24,4 @@ This video warns job seekers against using legacy platforms like Dice and Monste
 
 - Dice and Monster are now ineffective and dangerous due to being populated by offshore firms that scrape resumes and demand sensitive personal data like social security numbers [00:00:00](https://www.youtube.com/watch?v=0wApDvhL6Gg&t=0).
 - Many listings on these platforms are fake or low-paying, serving primarily as lead generation tools that expose users to spam and identity theft risks [00:00:15](https://www.youtube.com/watch?v=0wApDvhL6Gg&t=15).
-- Job seekers should prioritize safer alternatives like LinkedIn, Hacker News, and direct company career pages while remaining skeptical of vague inbound communications [00:00:45](https://www.youtube.com/watch?v=0wApDvhL6Gg&t=45). [MM:SS](https://www.youtube.com/watch?v=0wApDvhL6Gg&t=SECONDS)
+- Job seekers should prioritize safer alternatives like LinkedIn, Hacker News, and direct company career pages while remaining skeptical of vague inbound communications [00:00:45](https://www.youtube.com/watch?v=0wApDvhL6Gg&t=45).

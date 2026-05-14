@@ -25,4 +25,4 @@ This video outlines a fundamental shift in software development where AI agents 
 
 - The software development paradigm is shifting from writing code to describing intent, with new tools like Cursor v3 replacing code editors with agent orchestration windows [03:56](https://www.youtube.com/watch?v=XDASSrE4348&t=236).
 - Users should adopt a four-step workflow where agents handle architecture, planning, and implementation while humans only steer the process and review logs [06:49](https://www.youtube.com/watch?v=XDASSrE4348&t=409).
-- Developers must be aware of new security vulnerabilities where websites can serve malicious content specifically designed to trick or attack AI agents [12:34](https://www.youtube.com/watch?v=XDASSrE4348&t=754). [MM:SS](https://www.youtube.com/watch?v=XDASSrE4348&t=SECONDS)
+- Developers must be aware of new security vulnerabilities where websites can serve malicious content specifically designed to trick or attack AI agents [12:34](https://www.youtube.com/watch?v=XDASSrE4348&t=754).

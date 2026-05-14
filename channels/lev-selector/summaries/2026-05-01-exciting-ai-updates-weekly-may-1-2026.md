@@ -25,4 +25,4 @@ This weekly update highlights the dominance of cost-effective Chinese open-sourc
 
 - Adopt cost-efficient Chinese open-source models like DeepSeek V4 Pro for business use cases where frontier performance is unnecessary, leveraging their lower costs and optimized hardware compatibility [00:01:19](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=79).
 - Implement multi-layered validation protocols, including schema checks and LLM-as-a-judge systems integrated into CI/CD pipelines, to ensure AI output reliability before deployment [00:19:36](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1176).
-- Avoid predatory job boards like Dice and Monster, instead prioritizing direct networking and company career pages to secure legitimate opportunities in the evolving AI job market [00:24:04](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1444). [MM:SS](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=SECONDS)
+- Avoid predatory job boards like Dice and Monster, instead prioritizing direct networking and company career pages to secure legitimate opportunities in the evolving AI job market [00:24:04](https://www.youtube.com/watch?v=Z-Qvqfv5760&t=1444).

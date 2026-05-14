@@ -20,6 +20,6 @@ The video argues that AI is not replacing entire jobs overnight but is instead h
 
 ## Key Points
 
-- The most dangerous moment for a job is not when work disappears, but when the work remains yet requires less human expertise, similar to how travel agents were slowly displaced by online booking tools [00:00:48].
-- Workers should audit their last two weeks by tagging every task as Theater (performative), Commodity (replaceable), On-the-Line (shifting), or Durable (requiring unique judgment) to see the true composition of their role [00:04:37].
-- The ultimate goal is to stop defending routine work and instead invest recovered time into 'question holding' and ambiguous cases where human calibration and context are irreplaceable [00:18:26] [MM:SS](https://www.youtube.com/watch?v=rYqt6mMlv7o&t=SECONDS)
+- The most dangerous moment for a job is not when work disappears, but when the work remains yet requires less human expertise, similar to how travel agents were slowly displaced by online booking tools [00:00:48](https://www.youtube.com/watch?v=rYqt6mMlv7o&t=48).
+- Workers should audit their last two weeks by tagging every task as Theater (performative), Commodity (replaceable), On-the-Line (shifting), or Durable (requiring unique judgment) to see the true composition of their role [00:04:37](https://www.youtube.com/watch?v=rYqt6mMlv7o&t=277).
+- The ultimate goal is to stop defending routine work and instead invest recovered time into 'question holding' and ambiguous cases where human calibration and context are irreplaceable [00:18:26](https://www.youtube.com/watch?v=rYqt6mMlv7o&t=1106)

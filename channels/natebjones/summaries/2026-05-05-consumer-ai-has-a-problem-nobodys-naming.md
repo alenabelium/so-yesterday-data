@@ -21,6 +21,6 @@ The video argues that consumer AI has hit a ceiling where capable agents have be
 
 ## Key Points
 
-- Current AI agents force users into a project manager role, creating a new inbox of tasks to steer and approve rather than reducing cognitive load [00:00:46].
-- The 'anticipation gap' exists because agents lack the intuition to know when to act in messy consumer lives without being annoying or making costly errors [00:15:20].
-- Building trust requires a 'ladder of permission' where agents progress from reading and suggesting to acting autonomously only after proving reliability in specific domains [00:23:39] [MM:SS](https://www.youtube.com/watch?v=Z0HizICooiw&t=SECONDS)
+- Current AI agents force users into a project manager role, creating a new inbox of tasks to steer and approve rather than reducing cognitive load [00:00:46](https://www.youtube.com/watch?v=Z0HizICooiw&t=46).
+- The 'anticipation gap' exists because agents lack the intuition to know when to act in messy consumer lives without being annoying or making costly errors [00:15:20](https://www.youtube.com/watch?v=Z0HizICooiw&t=920).
+- Building trust requires a 'ladder of permission' where agents progress from reading and suggesting to acting autonomously only after proving reliability in specific domains [00:23:39](https://www.youtube.com/watch?v=Z0HizICooiw&t=1419)

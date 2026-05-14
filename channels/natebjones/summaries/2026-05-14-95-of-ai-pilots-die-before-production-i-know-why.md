@@ -21,7 +21,7 @@ The video argues that the failure of most AI pilots stems from a misunderstandin
 
 ## Key Points
 
-- Private equity firms are pivoting from traditional SaaS investments to agentic workflows to rescue portfolio companies, creating a massive capital push toward enterprise AI deployment solutions [00:01:02].
-- Four distinct pressures are reshaping the market: hyperscalers like OpenAI are moving down-stack to control deployment, consultancies are building agentic practices, systems of record are opening APIs, and PE is acting as a distribution channel [00:07:45].
-- The true moat in AI is the implementation layer—including workflow design, data access, authority, evals, and audit trails—which requires deep customization that generic models cannot provide [00:15:02].
-- Success in the next 12 months depends on sitting closer to specific business objects and workflows rather than relying on generic intelligence or abstract reasoning capabilities [00:19:53]. [MM:SS](https://www.youtube.com/watch?v=jwtpMSRAPAQ&t=SECONDS)
+- Private equity firms are pivoting from traditional SaaS investments to agentic workflows to rescue portfolio companies, creating a massive capital push toward enterprise AI deployment solutions [00:01:02](https://www.youtube.com/watch?v=jwtpMSRAPAQ&t=62).
+- Four distinct pressures are reshaping the market: hyperscalers like OpenAI are moving down-stack to control deployment, consultancies are building agentic practices, systems of record are opening APIs, and PE is acting as a distribution channel [00:07:45](https://www.youtube.com/watch?v=jwtpMSRAPAQ&t=465).
+- The true moat in AI is the implementation layer—including workflow design, data access, authority, evals, and audit trails—which requires deep customization that generic models cannot provide [00:15:02](https://www.youtube.com/watch?v=jwtpMSRAPAQ&t=902).
+- Success in the next 12 months depends on sitting closer to specific business objects and workflows rather than relying on generic intelligence or abstract reasoning capabilities [00:19:53](https://www.youtube.com/watch?v=jwtpMSRAPAQ&t=1193).

@@ -21,4 +21,4 @@ The video argues that Anthropic's new Dispatch and Computer Use features finally
 
 - Leverage cloud-based scheduled tasks to automate recurring maintenance like code synchronization or news aggregation without needing your local machine running [03:30](https://www.youtube.com/watch?v=3e7gmNPr5Vo&t=210).
 - Use the Dispatch feature to orchestrate parallel agent sessions from your phone, allowing you to manage complex desktop workflows while untethered from your computer [08:48](https://www.youtube.com/watch?v=3e7gmNPr5Vo&t=528).
-- Deploy Computer Use capabilities to automate interactions with legacy software or web tools that lack API connectors, effectively solving business problems that previously required manual data entry [15:56](https://www.youtube.com/watch?v=3e7gmNPr5Vo&t=956). [MM:SS](https://www.youtube.com/watch?v=3e7gmNPr5Vo&t=SECONDS)
+- Deploy Computer Use capabilities to automate interactions with legacy software or web tools that lack API connectors, effectively solving business problems that previously required manual data entry [15:56](https://www.youtube.com/watch?v=3e7gmNPr5Vo&t=956).

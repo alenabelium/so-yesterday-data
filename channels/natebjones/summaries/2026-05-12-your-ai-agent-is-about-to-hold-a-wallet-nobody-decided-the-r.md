@@ -21,7 +21,7 @@ The video argues that the emergence of AI agents capable of autonomous financial
 
 ## Key Points
 
-- OpenAI and Stripe's Agent Commerce Protocol (ACP) enables seamless checkout within AI interfaces, but threatens merchant viability by ceding discovery and branding control to the assistant [00:02:59].
-- Shopify and Google counter with the Universal Commerce Protocol (UCP) to preserve merchant control over the full shopping path, while Google's AP2 and card networks focus on proving agent authorization and trust [00:05:17].
-- Stable coins and protocols like Coinbase's X42 are emerging as efficient rails for machine-to-machine payments, allowing agents to pay for API calls and compute without traditional checkout fees [00:11:03].
-- AWS is positioning itself as the enterprise governance layer by managing the agent runtime, budgets, and approval rules, effectively controlling the environment where payments occur rather than just the payment rail [00:13:30]. [MM:SS](https://www.youtube.com/watch?v=j5_wcDifNko&t=SECONDS)
+- OpenAI and Stripe's Agent Commerce Protocol (ACP) enables seamless checkout within AI interfaces, but threatens merchant viability by ceding discovery and branding control to the assistant [00:02:59](https://www.youtube.com/watch?v=j5_wcDifNko&t=179).
+- Shopify and Google counter with the Universal Commerce Protocol (UCP) to preserve merchant control over the full shopping path, while Google's AP2 and card networks focus on proving agent authorization and trust [00:05:17](https://www.youtube.com/watch?v=j5_wcDifNko&t=317).
+- Stable coins and protocols like Coinbase's X42 are emerging as efficient rails for machine-to-machine payments, allowing agents to pay for API calls and compute without traditional checkout fees [00:11:03](https://www.youtube.com/watch?v=j5_wcDifNko&t=663).
+- AWS is positioning itself as the enterprise governance layer by managing the agent runtime, budgets, and approval rules, effectively controlling the environment where payments occur rather than just the payment rail [00:13:30](https://www.youtube.com/watch?v=j5_wcDifNko&t=810).

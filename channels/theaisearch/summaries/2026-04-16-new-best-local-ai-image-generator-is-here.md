@@ -24,4 +24,4 @@ The video introduces Ernie Image as a new top-tier open-source AI image generato
 
 - Ernie Image demonstrates superior performance over Zage in generating complex prompts with high detail, accurate text rendering, and consistent artistic styles, making it ideal for marketing materials and comics [00:03:25](https://www.youtube.com/watch?v=A_nAU8h9YOY&t=205).
 - Users can run the model locally for free using ComfyUI by downloading the base or turbo variants, with the turbo model offering significantly faster generation speeds with minimal quality loss [00:14:20](https://www.youtube.com/watch?v=A_nAU8h9YOY&t=860).
-- For computers with limited VRAM, the video provides a method to run compressed GGUF versions of the model by installing the ComfyUI GGUF extension and swapping the diffusion loader [00:21:34](https://www.youtube.com/watch?v=A_nAU8h9YOY&t=1294). [MM:SS](https://www.youtube.com/watch?v=A_nAU8h9YOY&t=SECONDS)
+- For computers with limited VRAM, the video provides a method to run compressed GGUF versions of the model by installing the ComfyUI GGUF extension and swapping the diffusion loader [00:21:34](https://www.youtube.com/watch?v=A_nAU8h9YOY&t=1294).

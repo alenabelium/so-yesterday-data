@@ -25,4 +25,4 @@ This week's AI news highlights a shift from simple generation to complex, autono
 
 - Adopt recursive multi-agent systems that communicate in latent space to achieve 2.4x speedups and 75% token reduction compared to traditional text-based agent loops [00:11:49](https://www.youtube.com/watch?v=7r_WJ9xpne0&t=709).
 - Leverage new AI connectors that allow models to autonomously execute tasks inside professional software like Blender and Adobe Creative Cloud, moving beyond simple chat interfaces [00:35:17](https://www.youtube.com/watch?v=7r_WJ9xpne0&t=2117).
-- Utilize agent-native research artifacts to capture the full trajectory of experiments, including failures and raw data, to solve the 'storytelling tax' and improve reproducibility [00:23:03](https://www.youtube.com/watch?v=7r_WJ9xpne0&t=1383). [MM:SS](https://www.youtube.com/watch?v=7r_WJ9xpne0&t=SECONDS)
+- Utilize agent-native research artifacts to capture the full trajectory of experiments, including failures and raw data, to solve the 'storytelling tax' and improve reproducibility [00:23:03](https://www.youtube.com/watch?v=7r_WJ9xpne0&t=1383).

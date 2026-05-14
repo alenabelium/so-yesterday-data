@@ -22,4 +22,4 @@ Eric Schmidt argues that while America leads in AI software and capital, China i
 
 - America must urgently address its energy deficit and accelerate permitting for data centers to avoid losing the AI race to China's vertically integrated manufacturing capabilities [19:08](https://www.youtube.com/watch?v=DpwmmXmzvfo&t=1148).
 - The transition from human programmers to 'directors of programming systems' is accelerating, where defining evaluation functions allows AI agents to autonomously solve complex problems overnight [07:43](https://www.youtube.com/watch?v=DpwmmXmzvfo&t=463).
-- Universities should immediately pivot curricula to teach prompt engineering and AI tool usage as the foundational skill for all students, rather than traditional coding or rote memorization [11:36](https://www.youtube.com/watch?v=DpwmmXmzvfo&t=696). [MM:SS](https://www.youtube.com/watch?v=DpwmmXmzvfo&t=SECONDS)
+- Universities should immediately pivot curricula to teach prompt engineering and AI tool usage as the foundational skill for all students, rather than traditional coding or rote memorization [11:36](https://www.youtube.com/watch?v=DpwmmXmzvfo&t=696).

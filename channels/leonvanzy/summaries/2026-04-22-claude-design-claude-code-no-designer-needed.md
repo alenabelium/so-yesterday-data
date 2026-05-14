@@ -23,4 +23,4 @@ This video demonstrates how to leverage Claude Design and Claude Code to complet
 
 - Use voice dictation in Claude Design to rapidly generate multiple wireframe variations and high-fidelity prototypes by specifying layout requirements and tone [00:03:26](https://www.youtube.com/watch?v=-W8uYEX4gLQ&t=206).
 - Leverage the 'Hand off to Claude Code' feature to instantly transfer finalized designs into your terminal, allowing the AI to rewrite your existing codebase to match the new visual specifications [00:13:10](https://www.youtube.com/watch?v=-W8uYEX4gLQ&t=790).
-- Iterate on the final implementation by capturing screenshots of visual bugs and pasting them directly into Claude Code for immediate responsive fixes [00:14:04](https://www.youtube.com/watch?v=-W8uYEX4gLQ&t=844). [MM:SS](https://www.youtube.com/watch?v=-W8uYEX4gLQ&t=SECONDS)
+- Iterate on the final implementation by capturing screenshots of visual bugs and pasting them directly into Claude Code for immediate responsive fixes [00:14:04](https://www.youtube.com/watch?v=-W8uYEX4gLQ&t=844).

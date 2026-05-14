@@ -22,4 +22,4 @@ OpenAI's new Workspace Agents represent a strategic shift from simple chatbots t
 
 - Identify workflows that repeat weekly, cross two or three tools, and have a clear definition of good versus bad output to ensure the agent provides immediate value [00:07:22](https://www.youtube.com/watch?v=QrvVkm-8Jx4&t=442).
 - Deploy agents directly into existing communication channels like Slack to prevent adoption failure caused by forcing teams to switch to a separate interface [00:02:42](https://www.youtube.com/watch?v=QrvVkm-8Jx4&t=162).
-- Prioritize enterprise governance by using service accounts and least-privilege access controls to manage risks associated with agents performing actions on behalf of users [00:14:31](https://www.youtube.com/watch?v=QrvVkm-8Jx4&t=871). [MM:SS](https://www.youtube.com/watch?v=QrvVkm-8Jx4&t=SECONDS)
+- Prioritize enterprise governance by using service accounts and least-privilege access controls to manage risks associated with agents performing actions on behalf of users [00:14:31](https://www.youtube.com/watch?v=QrvVkm-8Jx4&t=871).

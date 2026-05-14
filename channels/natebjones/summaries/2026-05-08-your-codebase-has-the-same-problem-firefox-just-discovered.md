@@ -21,6 +21,6 @@ The video argues that the trust anchor for software security is shifting from hu
 
 ## Key Points
 
-- Mozilla's Mythos experiment identified 271 vulnerabilities in Firefox, demonstrating that AI can now outperform human teams in exhaustive security auditing and challenging the presumption that human-written code is inherently safe. [00:01:52]
-- The fundamental shift in software engineering involves separating 'meaning' from 'implementation,' where humans define the system's intent and boundaries while AI agents handle the execution and adversarial verification. [00:04:08]
-- To prepare for this future, engineers must prioritize writing clear specifications and maintaining code hygiene, as comprehensibility is becoming a critical security property for AI tools to effectively reason over code. [00:22:12] [MM:SS](https://www.youtube.com/watch?v=W79FW7iUkro&t=SECONDS)
+- Mozilla's Mythos experiment identified 271 vulnerabilities in Firefox, demonstrating that AI can now outperform human teams in exhaustive security auditing and challenging the presumption that human-written code is inherently safe. [00:01:52](https://www.youtube.com/watch?v=W79FW7iUkro&t=112)
+- The fundamental shift in software engineering involves separating 'meaning' from 'implementation,' where humans define the system's intent and boundaries while AI agents handle the execution and adversarial verification. [00:04:08](https://www.youtube.com/watch?v=W79FW7iUkro&t=248)
+- To prepare for this future, engineers must prioritize writing clear specifications and maintaining code hygiene, as comprehensibility is becoming a critical security property for AI tools to effectively reason over code. [00:22:12](https://www.youtube.com/watch?v=W79FW7iUkro&t=1332)

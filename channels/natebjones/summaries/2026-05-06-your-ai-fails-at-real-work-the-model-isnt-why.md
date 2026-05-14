@@ -21,6 +21,6 @@ The speaker argues that AI agents fail at real work not because of model limitat
 
 ## Key Points
 
-- The speaker distinguishes between three layers of agent interaction: access (computer use), meaning (semantic work primitives), and authority (permissions and governance). [00:02:09]
-- Coding agents succeeded first because codebases provide rich semantic feedback loops like tests and type systems, which most other knowledge work environments currently lack. [00:10:21]
-- The strategic imperative for software companies is to expose semantically meaningful units of work to agents rather than relying on them to guess intent through UI interactions. [00:21:55] [MM:SS](https://www.youtube.com/watch?v=b1fxYGPbHeo&t=SECONDS)
+- The speaker distinguishes between three layers of agent interaction: access (computer use), meaning (semantic work primitives), and authority (permissions and governance). [00:02:09](https://www.youtube.com/watch?v=b1fxYGPbHeo&t=129)
+- Coding agents succeeded first because codebases provide rich semantic feedback loops like tests and type systems, which most other knowledge work environments currently lack. [00:10:21](https://www.youtube.com/watch?v=b1fxYGPbHeo&t=621)
+- The strategic imperative for software companies is to expose semantically meaningful units of work to agents rather than relying on them to guess intent through UI interactions. [00:21:55](https://www.youtube.com/watch?v=b1fxYGPbHeo&t=1315)

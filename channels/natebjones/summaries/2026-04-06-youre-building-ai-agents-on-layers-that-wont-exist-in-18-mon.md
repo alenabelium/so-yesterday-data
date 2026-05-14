@@ -21,4 +21,4 @@ The video argues that the current AI agent infrastructure is undergoing a founda
 
 - Builders must distinguish between mature infrastructure like sandboxed compute and transitional shims like email-based identity to avoid future migration costs [00:03:10](https://www.youtube.com/watch?v=7HP1jFJ9W1c&t=190).
 - Reliability compounds negatively as agents depend on multiple primitives, making the adoption of robust orchestration and standard failure patterns essential for enterprise-scale deployment [00:19:45](https://www.youtube.com/watch?v=7HP1jFJ9W1c&t=1185).
-- Developing 'stack literacy' across all six layers is now a mandatory skill for leaders and engineers to prevent agent sprawl and ensure long-term business viability [00:21:40](https://www.youtube.com/watch?v=7HP1jFJ9W1c&t=1300). [MM:SS](https://www.youtube.com/watch?v=7HP1jFJ9W1c&t=SECONDS)
+- Developing 'stack literacy' across all six layers is now a mandatory skill for leaders and engineers to prevent agent sprawl and ensure long-term business viability [00:21:40](https://www.youtube.com/watch?v=7HP1jFJ9W1c&t=1300).

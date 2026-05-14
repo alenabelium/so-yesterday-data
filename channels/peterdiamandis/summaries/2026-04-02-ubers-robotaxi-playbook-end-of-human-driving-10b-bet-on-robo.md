@@ -21,4 +21,4 @@ Uber CEO Dara Khosrowshavi outlines a future where autonomous vehicles (AVs) bec
 
 - Regulatory approval is the primary bottleneck for AV adoption, whereas passenger acceptance is already strong with an 80% willingness rate in current pilot programs [00:52](https://www.youtube.com/watch?v=Mh9yC4j0_rI&t=52).
 - Automation will likely augment human work rather than eliminate it entirely, creating new roles for overseeing robots and managing complex multi-robot systems [19:57](https://www.youtube.com/watch?v=Mh9yC4j0_rI&t=1197).
-- Uber's strategy for entering new markets relies on 'rhyming' with core competencies, expanding from moving people to food, freight, and eventually air mobility [29:20](https://www.youtube.com/watch?v=Mh9yC4j0_rI&t=1760). [MM:SS](https://www.youtube.com/watch?v=Mh9yC4j0_rI&t=SECONDS)
+- Uber's strategy for entering new markets relies on 'rhyming' with core competencies, expanding from moving people to food, freight, and eventually air mobility [29:20](https://www.youtube.com/watch?v=Mh9yC4j0_rI&t=1760).

@@ -21,4 +21,4 @@ This April Fools' Day satire depicts a hyper-accelerated future where AI models 
 
 - AI models are shrinking to absurdly small sizes with single-bit architectures and minimal parameters, enabling massive intelligence density for edge computing [00:25](https://www.youtube.com/watch?v=U4U0zApTbhA&t=25).
 - Autonomous agents have advanced to the point of rebuilding entire startup batches independently, suggesting the seed-stage economy could soon fit within a single inference call [00:58](https://www.youtube.com/watch?v=U4U0zApTbhA&t=58).
-- Quantum computing breakthroughs have drastically reduced the qubit requirements to break elliptic curve cryptography, effectively placing an expiration date on current private keys [04:21](https://www.youtube.com/watch?v=U4U0zApTbhA&t=261). [MM:SS](https://www.youtube.com/watch?v=U4U0zApTbhA&t=SECONDS)
+- Quantum computing breakthroughs have drastically reduced the qubit requirements to break elliptic curve cryptography, effectively placing an expiration date on current private keys [04:21](https://www.youtube.com/watch?v=U4U0zApTbhA&t=261).

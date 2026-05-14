@@ -23,4 +23,4 @@ Cursor 3 redefines the development experience by shifting from a traditional IDE
 
 - Leverage the new embedded browser feature to allow agents to autonomously test UI changes and verify fixes in real-time without manual intervention [00:01:06](https://www.youtube.com/watch?v=HTKGyLar8AU&t=66).
 - Utilize the unified workspace view to run multiple agents in parallel across different projects or switch tasks between local and cloud environments for continuous operation [00:07:06](https://www.youtube.com/watch?v=HTKGyLar8AU&t=426).
-- Access the new agent-centric interface by pressing Control+Shift+P and searching for 'agent window' to bypass the traditional IDE layout [00:14:15](https://www.youtube.com/watch?v=HTKGyLar8AU&t=855). [MM:SS](https://www.youtube.com/watch?v=HTKGyLar8AU&t=SECONDS)
+- Access the new agent-centric interface by pressing Control+Shift+P and searching for 'agent window' to bypass the traditional IDE layout [00:14:15](https://www.youtube.com/watch?v=HTKGyLar8AU&t=855).

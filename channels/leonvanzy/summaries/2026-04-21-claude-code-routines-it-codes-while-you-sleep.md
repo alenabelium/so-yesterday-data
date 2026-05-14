@@ -23,4 +23,4 @@ The video introduces Claude Code Routines, a new feature allowing users to autom
 
 - Configure routines to run on specific schedules or trigger events like GitHub merges, allowing the AI to scan codebases and create pull requests for improvements while you are offline [00:01:42](https://www.youtube.com/watch?v=5LCjeni0Z-U&t=102).
 - Implement a security audit routine using a custom skill based on the OWASP Top 10 to automatically detect and fix critical vulnerabilities such as hardcoded API keys and SQL injection risks [00:08:13](https://www.youtube.com/watch?v=5LCjeni0Z-U&t=493).
-- Ensure custom skills are installed directly within the project repository folder, as standard chat interface skills are not compatible with automated code routines [00:09:35](https://www.youtube.com/watch?v=5LCjeni0Z-U&t=575). [MM:SS](https://www.youtube.com/watch?v=5LCjeni0Z-U&t=SECONDS)
+- Ensure custom skills are installed directly within the project repository folder, as standard chat interface skills are not compatible with automated code routines [00:09:35](https://www.youtube.com/watch?v=5LCjeni0Z-U&t=575).

@@ -21,6 +21,6 @@ The speaker argues that current AI agents fail because they shift the burden of 
 
 ## Key Points
 
-- Current AI agents create a new management layer for users, turning assistants into a source of stress rather than a solution for attention bottlenecks. [00:00:46]
-- The 'anticipation gap' prevents consumer agents from being truly proactive because they lack the intuition to distinguish between real priorities and messy data in daily life. [00:14:26]
-- Building trust requires a 'ladder of permission' where agents progress from reading and suggesting to drafting and acting, rather than jumping immediately to full autonomy. [00:23:39] [MM:SS](https://www.youtube.com/watch?v=Z0HizICooiw&t=SECONDS)
+- Current AI agents create a new management layer for users, turning assistants into a source of stress rather than a solution for attention bottlenecks. [00:00:46](https://www.youtube.com/watch?v=Z0HizICooiw&t=46)
+- The 'anticipation gap' prevents consumer agents from being truly proactive because they lack the intuition to distinguish between real priorities and messy data in daily life. [00:14:26](https://www.youtube.com/watch?v=Z0HizICooiw&t=866)
+- Building trust requires a 'ladder of permission' where agents progress from reading and suggesting to drafting and acting, rather than jumping immediately to full autonomy. [00:23:39](https://www.youtube.com/watch?v=Z0HizICooiw&t=1419)

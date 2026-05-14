@@ -23,4 +23,4 @@ The video argues that AI is fundamentally reshaping the global economy by rapidl
 - Identify the specific inefficiency your business or role relies on, such as speed gaps or information silos, and assess how quickly AI can close that gap to determine your vulnerability.
 - Shift your value proposition upstream from execution and data gathering to judgment, taste, and system architecture, as these are the structural gaps AI cannot easily replicate.
 - Stop bolting AI onto existing broken processes and instead rebuild your entire workflow around what AI makes possible to capture the surplus value of intelligence arbitrage.
-- Recognize that the market is in a state of permanent rolling disruption where every model release creates new temporary edges that compress rapidly, requiring constant adaptation. [MM:SS](https://www.youtube.com/watch?v=BiqG3it0gY0&t=SECONDS)
+- Recognize that the market is in a state of permanent rolling disruption where every model release creates new temporary edges that compress rapidly, requiring constant adaptation.

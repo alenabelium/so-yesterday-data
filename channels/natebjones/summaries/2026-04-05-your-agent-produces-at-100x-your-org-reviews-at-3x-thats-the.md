@@ -21,4 +21,4 @@ The speaker argues that while AI agents like OpenClaw can generate output at 100
 
 - Audit your actual business processes and fix underlying data schemas before deploying agents to ensure they operate on a clean, deterministic foundation rather than amplifying existing inefficiencies [00:05:28](https://www.youtube.com/watch?v=kVPVmz0qJvY&t=328).
 - Distinguish between agent skills and hardwired processes by keeping workflow logic deterministic while allowing agents to handle only the variable, creative, or text-processing tasks [00:08:43](https://www.youtube.com/watch?v=kVPVmz0qJvY&t=523).
-- Redesign organizational structures to handle the massive increase in production volume by shifting human roles from execution to high-level evaluation and system management [00:13:04](https://www.youtube.com/watch?v=kVPVmz0qJvY&t=784). [MM:SS](https://www.youtube.com/watch?v=kVPVmz0qJvY&t=SECONDS)
+- Redesign organizational structures to handle the massive increase in production volume by shifting human roles from execution to high-level evaluation and system management [00:13:04](https://www.youtube.com/watch?v=kVPVmz0qJvY&t=784).

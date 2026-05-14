@@ -22,4 +22,4 @@ This video outlines a speculative 2026 landscape where AI has advanced to the po
 
 - Organizations must prioritize data quality and specialized model architectures over sheer scale, as seen in Meta's Muse Spark and Alibaba's Happy Horse 1.0 dominating specific benchmarks [01:28](https://www.youtube.com/watch?v=3gdcScdKf_o&t=88).
 - The future of mass-market robotics may lie in 'embodied' appliances disguised as existing furniture rather than humanoid forms, as demonstrated by Sincere's Loom lamp robot [02:42](https://www.youtube.com/watch?v=3gdcScdKf_o&t=162).
-- Investors and engineers must account for the widening gap between global compute supply and inference demand, which is driving a strategic shift toward smaller, leaner models [01:28](https://www.youtube.com/watch?v=3gdcScdKf_o&t=88). [MM:SS](https://www.youtube.com/watch?v=3gdcScdKf_o&t=SECONDS)
+- Investors and engineers must account for the widening gap between global compute supply and inference demand, which is driving a strategic shift toward smaller, leaner models [01:28](https://www.youtube.com/watch?v=3gdcScdKf_o&t=88).

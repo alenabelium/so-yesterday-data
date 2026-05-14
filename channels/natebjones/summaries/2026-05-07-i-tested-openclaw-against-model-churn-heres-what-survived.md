@@ -22,4 +22,4 @@ OpenClaw has evolved from a viral agent demo into a mature runtime capable of or
 
 - OpenClaw has matured into a serious agent runtime with durable task flows, state management, and scoped memory, moving beyond simple chatbot wrappers to handle complex orchestration. [00:04:03](https://www.youtube.com/watch?v=85Q9htV2CBE&t=243)
 - The market is seeing a strategic divergence where Anthropic restricts agent usage on subscriptions while OpenAI integrates agents into paid tiers, necessitating a provider-agnostic architecture. [00:10:09](https://www.youtube.com/watch?v=85Q9htV2CBE&t=609)
-- To survive model churn, builders must implement user-owned memory layers and routing logic that allow workflows to swap between local, cheap, and premium models without losing operational context. [00:15:14](https://www.youtube.com/watch?v=85Q9htV2CBE&t=914) [MM:SS](https://www.youtube.com/watch?v=85Q9htV2CBE&t=SECONDS)
+- To survive model churn, builders must implement user-owned memory layers and routing logic that allow workflows to swap between local, cheap, and premium models without losing operational context. [00:15:14](https://www.youtube.com/watch?v=85Q9htV2CBE&t=914)

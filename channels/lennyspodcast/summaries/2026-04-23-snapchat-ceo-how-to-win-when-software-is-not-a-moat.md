@@ -25,4 +25,4 @@ Cat Woo, Head of Product at Anthropic, argues that in the AI era, software code 
 
 - Shift product management focus from multi-quarter roadmaps to weekly shipping cycles by establishing clear goals and repeatable processes that allow engineers to launch features in days. [00:05:26](https://www.youtube.com/watch?v=PplmzlgE0kg&t=326)
 - Prioritize 'product taste'—the ability to decide what to build and how to guide users—as the most valuable skill, since code generation is becoming increasingly cheap and accessible. [00:18:16](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1096)
-- Build automations that achieve 100% reliability rather than settling for 95%, as imperfect workflows create more friction than the manual tasks they replace. [01:09:08](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4148) [MM:SS](https://www.youtube.com/watch?v=PplmzlgE0kg&t=SECONDS)
+- Build automations that achieve 100% reliability rather than settling for 95%, as imperfect workflows create more friction than the manual tasks they replace. [01:09:08](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4148)

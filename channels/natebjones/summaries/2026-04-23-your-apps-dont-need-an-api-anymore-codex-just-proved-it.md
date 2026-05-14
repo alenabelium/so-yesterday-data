@@ -22,4 +22,4 @@ OpenAI's updated Codex has evolved from a coding tool into a desktop agent capab
 
 - Prioritize Codex for automating legacy or internal software lacking modern APIs, as its direct GUI interaction outperforms API-dependent agents in speed and reliability [00:02:52](https://www.youtube.com/watch?v=2d9ZmA-4QzU&t=172).
 - Adopt a hybrid workflow strategy by using Codex for broad, cross-application computer work and Claude for scoped, high-precision knowledge tasks within defined folders [00:18:16](https://www.youtube.com/watch?v=2d9ZmA-4QzU&t=1096).
-- Monitor the adoption velocity of the Model Context Protocol (MCP) to determine if the industry will shift toward structured integrations or remain reliant on direct UI automation [00:19:19](https://www.youtube.com/watch?v=2d9ZmA-4QzU&t=1159). [MM:SS](https://www.youtube.com/watch?v=2d9ZmA-4QzU&t=SECONDS)
+- Monitor the adoption velocity of the Model Context Protocol (MCP) to determine if the industry will shift toward structured integrations or remain reliant on direct UI automation [00:19:19](https://www.youtube.com/watch?v=2d9ZmA-4QzU&t=1159).

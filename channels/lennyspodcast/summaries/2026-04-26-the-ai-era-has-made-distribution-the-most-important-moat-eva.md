@@ -25,4 +25,4 @@ Evan Spiegel argues that in the AI era, where software features are easily repli
 
 - Prioritize building a distribution strategy and connecting users to their closest relationships rather than focusing solely on product-market fit, as software features are easily copied by competitors [00:03:35](https://www.youtube.com/watch?v=-7Yol5vX5xw&t=215).
 - Cultivate a flat, high-velocity design culture where teams produce and critique hundreds of ideas weekly to overcome the risk aversion inherent in large, hierarchical organizations [00:23:16](https://www.youtube.com/watch?v=-7Yol5vX5xw&t=1396).
-- Shift focus from pure technological advancement to human-centric adoption, anticipating societal pushback and ensuring new tools like AI and AR enhance real-world social interactions [01:03:53](https://www.youtube.com/watch?v=-7Yol5vX5xw&t=3833). [MM:SS](https://www.youtube.com/watch?v=-7Yol5vX5xw&t=SECONDS)
+- Shift focus from pure technological advancement to human-centric adoption, anticipating societal pushback and ensuring new tools like AI and AR enhance real-world social interactions [01:03:53](https://www.youtube.com/watch?v=-7Yol5vX5xw&t=3833).

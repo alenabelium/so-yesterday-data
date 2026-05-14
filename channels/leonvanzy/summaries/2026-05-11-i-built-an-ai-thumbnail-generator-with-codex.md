@@ -21,6 +21,6 @@ The creator builds a functional AI thumbnail generator application from scratch 
 
 ## Key Points
 
-- The project begins by scaffolding a Next.js application with Codex CLI, setting up a PostgreSQL database and a custom design system to ensure the UI looks professional rather than like generic AI output [00:02:11].
-- The developer utilizes planning mode to outline the dashboard features, then switches to edit mode where Codex delegates tasks to parallel sub-agents to implement the interface efficiently [00:10:44].
-- After integrating the GPT Image 2 API for actual thumbnail generation, the creator refines the app by fixing navigation bugs and redesigning the homepage to serve as a marketing landing page [00:17:16]. [MM:SS](https://www.youtube.com/watch?v=prLO7NGU4f0&t=SECONDS)
+- The project begins by scaffolding a Next.js application with Codex CLI, setting up a PostgreSQL database and a custom design system to ensure the UI looks professional rather than like generic AI output [00:02:11](https://www.youtube.com/watch?v=prLO7NGU4f0&t=131).
+- The developer utilizes planning mode to outline the dashboard features, then switches to edit mode where Codex delegates tasks to parallel sub-agents to implement the interface efficiently [00:10:44](https://www.youtube.com/watch?v=prLO7NGU4f0&t=644).
+- After integrating the GPT Image 2 API for actual thumbnail generation, the creator refines the app by fixing navigation bugs and redesigning the homepage to serve as a marketing landing page [00:17:16](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1036).

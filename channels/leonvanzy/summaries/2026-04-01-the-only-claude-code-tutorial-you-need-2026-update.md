@@ -21,4 +21,4 @@ This comprehensive tutorial demonstrates how to leverage Claude Code to build a 
 
 - Utilize 'planning mode' to generate a detailed Product Requirements Document (PRD) before coding, ensuring the agent understands specific business logic and constraints [00:17:38](https://www.youtube.com/watch?v=Q0bsphUTLtw&t=1058).
 - Implement sub-agents to split complex development tasks into parallel workflows, significantly speeding up the build process while respecting dependency chains [00:30:40](https://www.youtube.com/watch?v=Q0bsphUTLtw&t=1840).
-- Create a persistent design system and enforce it via the `.claude.md` file to ensure UI consistency across all generated components and pages [00:27:47](https://www.youtube.com/watch?v=Q0bsphUTLtw&t=1667). [MM:SS](https://www.youtube.com/watch?v=Q0bsphUTLtw&t=SECONDS)
+- Create a persistent design system and enforce it via the `.claude.md` file to ensure UI consistency across all generated components and pages [00:27:47](https://www.youtube.com/watch?v=Q0bsphUTLtw&t=1667).

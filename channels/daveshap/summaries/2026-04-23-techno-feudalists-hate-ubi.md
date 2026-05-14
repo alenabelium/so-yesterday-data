@@ -22,4 +22,4 @@ The video critiques the 'tech right' opposition to Universal Basic Income (UBI),
 
 - Financial security provided by UBI enables high-level innovation by preventing the 'lost Einstein' phenomenon, as historical figures like Darwin and Gates required stability to pursue groundbreaking work [00:05:01](https://www.youtube.com/watch?v=ifq1G3tNp3c&t=301).
 - UBI acts as a demand-side stimulus that forces the economy to produce more goods and services, thereby increasing the energy budget required to ascend the Kardashev scale [00:07:15](https://www.youtube.com/watch?v=ifq1G3tNp3c&t=435).
-- Critics' fears of total state dependence are exaggerated, as UBI is designed as a baseline floor rather than a replacement for all other income sources or voluntary striving [00:09:09](https://www.youtube.com/watch?v=ifq1G3tNp3c&t=549). [MM:SS](https://www.youtube.com/watch?v=ifq1G3tNp3c&t=SECONDS)
+- Critics' fears of total state dependence are exaggerated, as UBI is designed as a baseline floor rather than a replacement for all other income sources or voluntary striving [00:09:09](https://www.youtube.com/watch?v=ifq1G3tNp3c&t=549).
