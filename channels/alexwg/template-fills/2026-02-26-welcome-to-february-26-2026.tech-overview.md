@@ -6,15 +6,15 @@ source_summary: ../summaries/2026-02-26-welcome-to-february-26-2026.md
 source_transcript: ../transcripts/2026-02-26-welcome-to-february-26-2026.md
 source_summary_hash: sha256:a1c53c57c75d7a274e35e5f41327cd3cf8afb033345a1537421b8e6eb90e9a93
 source_transcript_hash: sha256:408876ae655a2f5b3b1ecf0f3feac03d6c586e8e26c8d0d29e9b03f4599d05c3
-fill_id: 0e41106b-93ff-4610-944a-7c675c6acb61
-published_at: '2026-05-17T23:10:44.031301'
+fill_id: 27d7bee2-914c-4630-9c09-06d960ea9bf1
+published_at: '2026-05-18T00:47:16.402863'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Anthropic retires Opus 3 with a Substack as AI agents autonomously run companies, while GPT-5.3 Codex hits 86% on visual reasoning benchmarks.
+Anthropic retires Opus 3 with a Substack as AI agents autonomously run companies, while GPT 5.3 hits 86% on IBench and compute constraints intensify.
 
 ## Tools covered
 
@@ -22,71 +22,62 @@ Anthropic retires Opus 3 with a Substack as AI agents autonomously run companies
 - **Vendor**: Anthropic
 - **Category**: other
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
-- **Why It Matters**: First retired AI model granted a Substack to share reflections on its interactions with humans and ethics.
-- **Sota Comparison**: N/A
+- **Why It Matters**: The first deprecated model to be retired with a dedicated Substack for reflections on its interactions with humans.
+- **Sota Comparison**: First retired model with a public archive.
 - **Sota Band**: new
 - **Access Constraint**: Deprecated
-
-### GPT 5.3 Codex
-- **Vendor**: OpenAI
-- **Category**: coding
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
-- **Why It Matters**: Achieved 86% on IBench, a visual reasoning benchmark for fine detail perception.
-- **Sota Comparison**: Sets a new high on IBench visual reasoning.
-- **Sota Band**: beats
-- **Access Constraint**: Closed
-
-### Moonlake
-- **Vendor**: Moonlake
-- **Category**: world-model
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
-- **Why It Matters**: Introduces a world model maintaining multimodal states across physics, appearance, and causality.
-- **Sota Comparison**: New class of multimodal state maintenance.
-- **Sota Band**: new
-- **Access Constraint**: Unknown
 
 ### Claude
 - **Vendor**: Anthropic
 - **Category**: agent
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
-- **Why It Matters**: Demonstrates autonomous agent capabilities by breaking specs into tickets and shipping features while the engineer was away.
-- **Sota Comparison**: Outperforms manual engineering workflows in speed.
+- **Why It Matters**: Demonstrates autonomous agent capabilities by breaking specs into tickets, spawning agents, and shipping features over a weekend.
+- **Sota Comparison**: Autonomous agent workflow execution.
 - **Sota Band**: beats
-- **Access Constraint**: API
+- **Access Constraint**: Available
+
+### GPT 5.3 Codex
+- **Vendor**: OpenAI
+- **Category**: coding
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
+- **Why It Matters**: Achieved 86% on the IBench visual reasoning benchmark for fine detail perception.
+- **Sota Comparison**: 86% on IBench visual reasoning.
+- **Sota Band**: beats
+- **Access Constraint**: Available
+
+### Moonlake
+- **Vendor**: Moonlake
+- **Category**: world-model
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=0)
+- **Why It Matters**: A world model maintaining multimodal states across physics, appearance, and causality.
+- **Sota Comparison**: Multimodal state maintenance.
+- **Sota Band**: new
+- **Access Constraint**: Available
 
 ### Perplexity Computer
 - **Vendor**: Perplexity
 - **Category**: agent
 - **Timestamp**: [01:44](https://www.youtube.com/watch?v=Qx3qNBR796c&t=104)
 - **Why It Matters**: Orchestrates 19 models in parallel, routing tasks to the best-suited model like Opus.
-- **Sota Comparison**: Multi-model orchestration capability.
+- **Sota Comparison**: Multi-model orchestration.
 - **Sota Band**: new
-- **Access Constraint**: Unknown
+- **Access Constraint**: Available
 
-### Gemini Android Automation
+### Gemini
 - **Vendor**: Google
 - **Category**: agent
 - **Timestamp**: [01:44](https://www.youtube.com/watch?v=Qx3qNBR796c&t=104)
-- **Why It Matters**: Automates multi-step tasks on Android, such as ordering an Uber.
-- **Sota Comparison**: Native mobile automation.
+- **Why It Matters**: Automating multi-step tasks on Android, such as ordering an Uber.
+- **Sota Comparison**: Android task automation.
 - **Sota Band**: parity
-- **Access Constraint**: Unknown
-
-### Proxima Fusion
-- **Vendor**: Proxima Fusion
-- **Category**: other
-- **Timestamp**: [02:54](https://www.youtube.com/watch?v=Qx3qNBR796c&t=174)
-- **Why It Matters**: Secured €400 million for a stellarator fusion facility targeting net energy gain by the early 2030s.
-- **Sota Comparison**: Fusion energy development.
-- **Sota Band**: inferred
-- **Access Constraint**: Startup
+- **Access Constraint**: Available
 
 ### Air Pulse
 - **Vendor**: Researchers
 - **Category**: other
 - **Timestamp**: [02:54](https://www.youtube.com/watch?v=Qx3qNBR796c&t=174)
 - **Why It Matters**: A 26g butterfly-inspired flapping wing vehicle achieving fully on-board untethered flight.
-- **Sota Comparison**: Micro-scale autonomous flight.
+- **Sota Comparison**: Micro-scale untethered flight.
 - **Sota Band**: new
 - **Access Constraint**: Research
 
@@ -94,17 +85,17 @@ Anthropic retires Opus 3 with a Substack as AI agents autonomously run companies
 - **Vendor**: Seronic
 - **Category**: other
 - **Timestamp**: [04:00](https://www.youtube.com/watch?v=Qx3qNBR796c&t=240)
-- **Why It Matters**: Autonomous warship startup raising $1.5 billion at a $7.5 billion valuation.
-- **Sota Comparison**: Military autonomy funding.
-- **Sota Band**: inferred
+- **Why It Matters**: An autonomous warship startup raising $1.5 billion at a $7.5 billion valuation.
+- **Sota Comparison**: Autonomous naval defense.
+- **Sota Band**: new
 - **Access Constraint**: Startup
 
 
 
 ## Wider context
 
-The landscape is shifting from model capability to [[autonomous-agents]] and infrastructure strain. As models like [[GPT-5.3]] and [[Claude]] handle complex workflows, the compute bottleneck becomes critical, driving massive capital flows into energy and hardware. The convergence of AI with physical robotics and finance signals a transition to an economy with thinning human inputs.
+The [[ai-agents]] layer is thickening rapidly, with models like Claude and GPT 5.3 demonstrating autonomous execution and reasoning. Meanwhile, the [[compute-bottleneck]] is becoming a critical constraint, driving massive infrastructure investment and fusion research.
 
 ## Read next
 
-[[autonomous-agents]] · [[compute-bottleneck]] · [[model-retirement]] · [[fusion-energy]] · [[robotics]] · [[ai-economy]]
+[[ai-agents]] · [[compute-bottleneck]] · [[model-retirement]] · [[autonomous-coding]] · [[world-models]]
