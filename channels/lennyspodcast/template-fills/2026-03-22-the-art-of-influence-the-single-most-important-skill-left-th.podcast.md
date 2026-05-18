@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-22-the-art-of-influence-the-single-most-imp
 source_transcript: ../transcripts/2026-03-22-the-art-of-influence-the-single-most-important-skill-left-th.md
 source_summary_hash: sha256:34923f558bcda937352aac7eee90f79de651a2148def5abf72cef1d02e155a07
 source_transcript_hash: sha256:3a52e2e80c97f017fb8fe8f673586c1dd26e1f1ef81f104ae4c258bc7193c4e3
-fill_id: 2b426af0-5415-408c-bb12-52a315c10113
-published_at: '2026-05-17T23:19:04.044819'
+fill_id: ee40a4aa-454f-4c6b-9dbe-401a8fe7feb8
+published_at: '2026-05-18T02:51:47.927724'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -22,7 +22,7 @@ provenance: agent:template-fill-v1
 
 ## Cold open
 
-### As product managers, one of our best sets of skills is curiosity and empathy and trying to understand our users. But the moment that we're talking to an executive, we forget those skills and those talents.
+### As product managers, one of our best sets of skills is curiosity and empathy... But the moment that we're talking to an executive, we forget those skills.
 - **Attribution**: Jessica Feain
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=0)
 
@@ -38,20 +38,20 @@ provenance: agent:template-fill-v1
 
 ### Understanding Executive Context and Calendars
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=0)
-- **Summary**: Executives operate in a 'strobe light' environment of urgent, context-switching demands. Product leaders must stop centering their own desires and instead help executives get into the mindset of the problem by asking what is top of mind, what the board is pushing, and how the pitch aligns with the exec's specific success metrics and incentives.
+- **Summary**: Executives operate in a 'strobe light' environment of urgent, context-switching demands. To influence them, PMs must stop centering their own problems and instead help executives get into the right mindset by asking what is top of mind, what the board is pushing, and how the pitch aligns with their specific success metrics and incentives.
 - **Anchor Quotes**: [0, 1, 2]
 
 ### Tactical Influence: Learning Over Convincing
-- **Timestamp**: [19:17](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=1157)
-- **Summary**: Instead of going into meetings to convince, go in to learn. Use phrases like 'That's so interesting. What led you to believe that?' to disarm executives and uncover their reasoning. Present multiple options (the 'Stuart plus two' method) to show thoroughness and invite debate, rather than presenting a single done deal which can trigger resistance.
+- **Timestamp**: [10:23](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=623)
+- **Summary**: PMs should enter meetings with a learning mindset, using phrases like 'That's so interesting. What led you to believe that?' to uncover the executive's reasoning. Presenting multiple options (like the 'Stuart plus two' method) builds trust by showing thorough consideration, while killing or deprioritizing bad ideas demonstrates seniority and alignment with company goals.
 
-### Building Trust Through Impact and Risk Reduction
+### Building Trust Through Action and Alignment
 - **Timestamp**: [57:20](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=3440)
-- **Summary**: Trust is built by delivering results, acting with 'product citizenship', and being willing to kill or deprioritize bad ideas. To overcome executive hesitation, shrink the change into small experiments or proofs of concept. This reduces risk and builds momentum, allowing product leaders to act like owners and strategic thinkers rather than just feature builders.
+- **Summary**: Trust is built by grounding pitches in the executive's existing beliefs, shrinking change into small experiments, and following up quickly on subtle feedback threads. PMs must act like a CPO by thinking globally about the business, not just their feature, and connecting their work to broader company outcomes to show they are strategic owners.
 
-### AI and the Golden Age of Product Management
+### AI and the Future of Product Management
 - **Timestamp**: [01:09:44](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4184)
-- **Summary**: As AI automates execution, the core value of product management shifts to deciding what to build and influencing stakeholders. This is a 'golden age' for product thinkers because the leverage moves from project coordination to judgment, taste, and distribution. Agents should be treated like junior team members that need onboarding with clear product principles and guardrails.
+- **Summary**: AI is ushering in a 'golden age of product management' by automating execution, which shifts the PM's leverage to deciding what to build and influencing stakeholders. As agents become junior team members, PMs must onboard them with clear product principles and guardrails, while human value remains in judgment, taste, and distribution.
 
 ## Quotes to remember
 
@@ -63,32 +63,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Jessica Feain
 - **Timestamp**: [13:24](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=804)
 
+### You get paid to have an opinion. You get paid to be a domain expert.
+- **Speaker**: Jessica Feain
+- **Timestamp**: [16:46](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=1006)
+
 ### One of the biggest things you can do to build trust is kill things. Deprioritize things.
 - **Speaker**: Jessica Feain
 - **Timestamp**: [01:00:53](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=3653)
 
-### We are basically all directors of work now... How would we onboard new junior team members who don't already understand our product philosophy?
+### First the guests.
 - **Speaker**: Jessica Feain
-- **Timestamp**: [01:18:58](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4738)
+- **Timestamp**: [01:30:42](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=5442)
 
 ## Predictions
 
 ### 100% of code will soon be written by AI.
-- **Hedge**: The host states this as a current belief/observation regarding the trajectory of AI coding tools.
-- **Timestamp**: [01:14:15](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4455)
+- **Hedge**: I've actually been building a bunch of stuff and I just find codeex and clock code are so good at actually giving you ideas for what to build.
+- **Timestamp**: [01:15:15](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4515)
 
-### Strategy clarity becomes the most important mechanism for empowering organizations as building velocity increases.
-- **Hedge**: Jessica Feain argues this is necessary to anchor teams and prevent compounding mistakes in a fast-moving AI era.
-- **Timestamp**: [01:16:59](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4619)
+### Strategy clarity becomes the most important mechanism for empowered organizations as decision-making speeds up.
+- **Hedge**: Once you have that then it's cool fire off 100 agents and we'll go build it and launch it.
+- **Timestamp**: [01:17:56](https://www.youtube.com/watch?v=RP4vJeIb7WU&t=4676)
 
 ## Lightning round
 
 - **Books**: ['Pachinko', 'Homegoing', 'The History of Burning', 'The Overstory']
-- **Media**: ['The Pit (TV Show)']
-- **Products**: ['Towel Warmer', 'Casa (Household Assistant Service)']
+- **Media**: ['The Pitt']
+- **Products**: ['Casa', 'Towel Warmer']
 - **Motto**: First the guests.
-- **Advice**: Be authentic to your own personality type when influencing others; you don't need to mimic aggressive or masculine styles if they aren't true to you. Focus on what you want to accomplish and how to grow in a way that feels true to you.
+- **Advice**: You can accomplish the same things other people can through your own strengths. You don't have to do it the way they're doing it.
 
 ## Concepts surfaced
 
-[[executive-influence]] · [[product-management-strategy]] · [[ai-agents-workforce]] · [[trust-building]] · [[decision-making]] · [[stakeholder-management]] · [[product-craft]] · [[career-growth]]
+[[executive-influence]] · [[product-strategy]] · [[ai-agents]] · [[trust-building]] · [[stakeholder-management]] · [[product-craft]] · [[career-growth]] · [[decision-making]]
