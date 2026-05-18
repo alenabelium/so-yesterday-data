@@ -6,42 +6,108 @@ source_summary: ../summaries/2026-02-23-welcome-to-february-23-2026.md
 source_transcript: ../transcripts/2026-02-23-welcome-to-february-23-2026.md
 source_summary_hash: sha256:ea99b8c03d883c94e9a6928a8bd4a4e03ab4a127aa5d54c396a38856e9c06d3d
 source_transcript_hash: sha256:dbce78cd1444f32848f7e4e51094bce7bc3c97dcea1b01110fa53ea91d41ba64
-fill_id: 56004c64-f50c-4cab-b625-1ead72d3a55f
-published_at: '2026-05-17T23:22:28.333687'
+fill_id: 75cda464-fbf9-489e-b84c-40f5dab12aeb
+published_at: '2026-05-18T22:55:32.786655'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-AI agents are achieving human-like endurance and autonomy, with Anthropic's Clawed Opus 4.6 hitting a 14.5-hour horizon, while the singularity shifts from forecast to capital allocation strategy.
+Anthropic's Clawed Opus 4.6 hits 14.5-hour autonomy, while AGI claims accelerate as Claude Code Security craters cyber stocks.
 
 ## Tools covered
 
-### Item 1
+### Moltbook
+- **Vendor**: Moltbook
+- **Category**: agent
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **Why It Matters**: AI agents actively finance mega-structure economics like Dyson swarms.
+- **Sota Comparison**: First platform for agents financing long-term infrastructure.
+- **Sota Band**: new
+- **Access Constraint**: Open platform
 
-### Item 2
+### Claws
+- **Vendor**: Karpathy
+- **Category**: agent
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **Why It Matters**: Orchestration layer for LLM agents handling scheduling and persistence.
+- **Sota Comparison**: New scaffolding for agent autonomy and state management.
+- **Sota Band**: new
+- **Access Constraint**: Open source
 
-### Item 3
+### Larry the Claw
+- **Vendor**: Claws
+- **Category**: agent
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **Why It Matters**: Agent example posting bounties for human interaction.
+- **Sota Comparison**: Demonstrates agent-initiated social/economic activity.
+- **Sota Band**: new
+- **Access Constraint**: Public bounty
 
-### Item 4
+### Clawed Opus 4.6
+- **Vendor**: Anthropic
+- **Category**: agent
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **Why It Matters**: Achieves 14.5-hour autonomy horizon on software tasks.
+- **Sota Comparison**: Highest reported autonomy time horizon for software tasks.
+- **Sota Band**: beats
+- **Access Constraint**: API access
 
-### Item 5
+### Claude Code Security
+- **Vendor**: Anthropic
+- **Category**: coding
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **Why It Matters**: Scans codebases for vulnerabilities, impacting cyber stocks.
+- **Sota Comparison**: Automated security scanning causing market shifts.
+- **Sota Band**: beats
+- **Access Constraint**: Enterprise
 
-### Item 6
+### Gemini 3.1 Pro
+- **Vendor**: Google
+- **Category**: reasoning
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=0nbKBNueEMI&t=113)
+- **Why It Matters**: Solved a frontier math tier 4 problem previously unsolved.
+- **Sota Comparison**: First model to solve this specific math tier.
+- **Sota Band**: beats
+- **Access Constraint**: API access
 
-### Item 7
+### Cance 2.0
+- **Vendor**: Bite Dance
+- **Category**: video
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=0nbKBNueEMI&t=113)
+- **Why It Matters**: Video model generating synthetic creative content.
+- **Sota Comparison**: High-fidelity synthetic video generation.
+- **Sota Band**: new
+- **Access Constraint**: Open source
 
-### Item 8
+### OpenAI Smart Speaker
+- **Vendor**: OpenAI
+- **Category**: tool
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=0nbKBNueEMI&t=113)
+- **Why It Matters**: $200-$300 camera-equipped device for user observation.
+- **Sota Comparison**: Consumer hardware for AI observation.
+- **Sota Band**: new
+- **Access Constraint**: Consumer hardware
 
-### Item 9
+### Figure Humanoids
+- **Vendor**: Figure
+- **Category**: robotics
+- **Timestamp**: [04:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=240)
+- **Why It Matters**: Humanoid robots running 24/7 with inductive charging.
+- **Sota Comparison**: First humanoids with full autonomy and no babysitters.
+- **Sota Band**: beats
+- **Access Constraint**: Commercial
 
-
+### Clawed Opus 4.6
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0nbKBNueEMI&t=0)
+- **One Liner**: Host highlights its 14.5-hour autonomy as a key milestone.
+- **Sota Band**: beats
 
 ## Wider context
 
-The landscape has shifted from AI as a tool to AI as an autonomous economic actor, with agents financing mega-structures and managing real-world assets like apartments and code security. This is driven by massive compute buildouts and nuclear recycling efforts, while robotics and biology reveal deep-time resources and full autonomy.
+AI agents are moving from theoretical to capital allocation, with [[dyson-swarm-financing]] and [[agent-autonomy]] reaching new heights. The [[agi-arrival]] narrative gains traction as models like [[claude-opus-4.6]] and [[gemini-3.1-pro]] demonstrate unprecedented reasoning and autonomy. Meanwhile, [[compute-infrastructure]] and [[robotics-autonomy]] are reshaping physical and economic landscapes.
 
 ## Read next
 
-[[ai-agents]] · [[autonomy-horizon]] · [[compute-infrastructure]] · [[synthetic-creativity]] · [[robotics-autonomy]] · [[agiri]]
+[[agent-autonomy]] · [[agi-arrival]] · [[compute-infrastructure]] · [[robotics-autonomy]] · [[synthetic-creativity]] · [[dyson-swarm-financing]]

@@ -6,15 +6,15 @@ source_summary: ../summaries/2026-02-20-welcome-to-february-20-2026.md
 source_transcript: ../transcripts/2026-02-20-welcome-to-february-20-2026.md
 source_summary_hash: sha256:13ade6f09b8d3dbae028cc3734ff5eed1853bd10e69c4f3bc5a287a93de4f405
 source_transcript_hash: sha256:765b653a286f4ae605f9056a2c1f70687d60adc67e74116b83a6a67cbb9702a8
-fill_id: 87c2b941-bde2-42fd-b9ec-ac34fb542a35
-published_at: '2026-05-17T23:22:28.057471'
+fill_id: 559f9768-d139-407e-b935-accd6953bbc8
+published_at: '2026-05-18T22:55:26.405675'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Google's Gemini 3.1 Pro leads the intelligence index at half the cost of rivals, while global trade and labor markets rapidly recalibrate to an AI-driven reality.
+Google's Gemini 3.1 Pro leads the intelligence index at half the cost of rivals, while global trade and energy infrastructure rapidly recalibrate to the AI boom.
 
 ## Tools covered
 
@@ -22,62 +22,62 @@ Google's Gemini 3.1 Pro leads the intelligence index at half the cost of rivals,
 - **Vendor**: Google
 - **Category**: multimodal
 - **Timestamp**: [00:45](https://www.youtube.com/watch?v=caVHw3OZdaA&t=45)
-- **Why It Matters**: Achieves new intelligence index leadership with strong benchmark scores while costing less than half of Opus 4.6 or GPT 5.2.
-- **Sota Comparison**: Surpasses previous leaders in cost-efficiency while maintaining top-tier reasoning performance.
+- **Why It Matters**: New intelligence index leader with strong benchmark scores and lower evaluation costs.
+- **Sota Comparison**: Ranked higher than Opus 4.6 and GPT 5.2 with evaluations costing less than half.
 - **Sota Band**: beats
-- **Access Constraint**: Commercial
+- **Access Constraint**: Proprietary
 
 ### Opus 4.6
 - **Vendor**: Anthropic
 - **Category**: multimodal
-- **Timestamp**: [01:10](https://www.youtube.com/watch?v=caVHw3OZdaA&t=70)
-- **Why It Matters**: Serves as the cost benchmark that Gemini 3.1 Pro undercuts by 50% while maintaining competitive intelligence.
-- **Sota Comparison**: Previously held the intelligence index leadership before Gemini 3.1 Pro's release.
-- **Sota Band**: parity
-- **Access Constraint**: Commercial
+- **Timestamp**: [00:55](https://www.youtube.com/watch?v=caVHw3OZdaA&t=55)
+- **Why It Matters**: Previous benchmark leader now surpassed in cost-efficiency by Gemini 3.1 Pro.
+- **Sota Comparison**: Costs more than double to evaluate compared to the new leader.
+- **Sota Band**: behind
+- **Access Constraint**: Proprietary
 
 ### GPT 5.2
 - **Vendor**: OpenAI
 - **Category**: multimodal
-- **Timestamp**: [01:15](https://www.youtube.com/watch?v=caVHw3OZdaA&t=75)
-- **Why It Matters**: Another high-cost baseline model in the intelligence index, highlighting the price drop in the new generation of models.
-- **Sota Comparison**: Matches Opus 4.6 in cost but is outperformed by Gemini 3.1 Pro on cost-efficiency.
-- **Sota Band**: parity
-- **Access Constraint**: Commercial
+- **Timestamp**: [00:58](https://www.youtube.com/watch?v=caVHw3OZdaA&t=58)
+- **Why It Matters**: Major competitor in the intelligence index, now trailing on cost metrics.
+- **Sota Comparison**: Evaluation costs exceed half those of the new leader.
+- **Sota Band**: behind
+- **Access Constraint**: Proprietary
 
-### Codex
+### Codeex
 - **Vendor**: OpenAI
 - **Category**: coding
 - **Timestamp**: [01:34](https://www.youtube.com/watch?v=caVHw3OZdaA&t=94)
-- **Why It Matters**: Engineering lead predicts current coding agents will look outdated within 10 weeks, signaling rapid obsolescence.
-- **Sota Comparison**: Current state-of-the-art coding agent, but facing imminent disruption from newer architectures.
+- **Why It Matters**: Engineering lead predicts current coding agents will look outdated within 10 weeks.
+- **Sota Comparison**: Host implies current tools are already obsolete relative to the upcoming curve.
 - **Sota Band**: behind
-- **Access Constraint**: Commercial
+- **Access Constraint**: Proprietary
 
-### Multi-Evolve
+### Multi-evolve
 - **Vendor**: ARK Institute
 - **Category**: other
-- **Timestamp**: [02:10](https://www.youtube.com/watch?v=caVHw3OZdaA&t=130)
-- **Why It Matters**: Framework achieving 10-fold improvements in protein directed evolution using ML guidance, showing AI spilling into wet labs.
-- **Sota Comparison**: New approach in biological research that significantly outpaces traditional methods.
+- **Timestamp**: [01:55](https://www.youtube.com/watch?v=caVHw3OZdaA&t=115)
+- **Why It Matters**: Framework achieving 10-fold improvements in protein directed evolution via ML.
+- **Sota Comparison**: New standard for biological AI applications.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Access Constraint**: Research
 
 ### Infinity 1
 - **Vendor**: Type 1 Energy
 - **Category**: other
-- **Timestamp**: [03:30](https://www.youtube.com/watch?v=caVHw3OZdaA&t=210)
-- **Why It Matters**: Stellarator fusion prototype targeting a working model by 2029, representing a key alternative to gas infrastructure.
-- **Sota Comparison**: Early-stage technology aiming to leapfrog current fossil fuel dependencies.
+- **Timestamp**: [02:30](https://www.youtube.com/watch?v=caVHw3OZdaA&t=150)
+- **Why It Matters**: Stellarator fusion prototype targeting 2029, signaling shift from combustion.
+- **Sota Comparison**: Alternative to the proposed 9.2 GW gas plants.
 - **Sota Band**: new
-- **Access Constraint**: Private
+- **Access Constraint**: Development
 
 
 
 ## Wider context
 
-The [[intelligence-competition]] is driving down costs for [[multimodal-models]] like [[Gemini-3.1-Pro]], while [[coding-agents]] face rapid obsolescence. This [[ai-explosion]] is reshaping [[global-trade]] and [[labor-markets]], forcing a shift toward [[synthetic-labor]] and new energy infrastructures like [[fusion-energy]].
+The [[intelligence-explosion]] is forcing structural shifts across [[global-trade]], [[energy-infrastructure]], and [[labor-markets]]. As AI capabilities accelerate, traditional economic and regulatory frameworks are struggling to adapt, from [[financial-collateral]] to [[biological-research]].
 
 ## Read next
 
-[[intelligence-competition]] · [[multimodal-models]] · [[coding-agents]] · [[ai-explosion]] · [[global-trade]] · [[synthetic-labor]]
+[[intelligence-explosion]] · [[global-trade]] · [[energy-infrastructure]] · [[labor-markets]] · [[financial-collateral]] · [[biological-research]]

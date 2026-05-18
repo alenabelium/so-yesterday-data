@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-01-18-how-a-meta-pm-ships-products-without-eve
 source_transcript: ../transcripts/2026-01-18-how-a-meta-pm-ships-products-without-ever-writing-code.md
 source_summary_hash: sha256:f97aa34e07d94e858be79fed883642e1055203dadd37a012e6490b0916fbe24b
 source_transcript_hash: sha256:7ebd2962d526e417897cb462878efec8865b52535704103046cd6bd7644186d1
-fill_id: ff43125e-f7aa-4cdd-9c48-52c63e16d366
-published_at: '2026-05-17T23:19:02.462239'
+fill_id: 8fc64663-89cd-468c-964d-14460d021b9f
+published_at: '2026-05-18T22:53:17.217127'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,88 +17,87 @@ provenance: agent:template-fill-v1
 - **Name**: Zevy Arnowitz
 - **Title**: Product Manager at Meta
 - **Org**: Meta
-- **Bio Oneliner**: Non-technical PM who builds revenue-generating products using AI tools like Cursor and Claude Code.
+- **Bio Oneliner**: Non-technical PM who builds products using AI workflows, slash commands, and multi-model peer review.
 - **Platform**: duo
 
 ## Cold open
 
-### I have zero technical background. Did music in high school when Sonnet 3.5 came out. I remember watching a YouTube video building apps using Bolt or Lovable. It basically felt like someone came up to me and said, 'You have superpowers now.'
+### I have zero technical background. Did music in high school when Sonnet 3.5 came out. It basically felt like someone came up to me and said, 'You have superpowers now.'
 - **Attribution**: Zevy Arnowitz
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=1em64iUFt3U&t=0)
+- **Timestamp**: [00:15](https://www.youtube.com/watch?v=1em64iUFt3U&t=15)
 
-### If you're nontechnical like me, code is terrifying, but AI just makes so much possible in the next coming years. I think everyone's going to become a builder. Titles are going to collapse and responsibilities are going to collapse.
+### Titles are going to collapse and responsibilities are going to collapse. Everyone's going to become a builder.
 - **Attribution**: Zevy Arnowitz
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=1em64iUFt3U&t=0)
+- **Timestamp**: [00:35](https://www.youtube.com/watch?v=1em64iUFt3U&t=35)
 
-### It's not that you will be replaced by AI. you'll be replaced by someone who's better at using AI than you.
+### It's not that you will be replaced by AI. You'll be replaced by someone who's better at using AI than you.
 - **Attribution**: Zevy Arnowitz
-- **Timestamp**: [00:52](https://www.youtube.com/watch?v=1em64iUFt3U&t=52)
+- **Timestamp**: [00:55](https://www.youtube.com/watch?v=1em64iUFt3U&t=55)
 
 ## Key arguments
 
-### Graduated Workflow from Chat to Code
-- **Timestamp**: [09:19](https://www.youtube.com/watch?v=1em64iUFt3U&t=559)
-- **Summary**: Zevy advises non-technical users to start with a ChatGPT project acting as a 'virtual CTO' to learn concepts without fear, then graduate to tools like Bolt or Lovable, and finally to Cursor with Claude Code for full control and speed. He emphasizes that early tools are too opinionated for serious work, while Cursor allows for complex, production-grade development.
-- **Anchor Quotes**: [0, 1]
+### Gradual AI Tool Adoption
+- **Timestamp**: [12:38](https://www.youtube.com/watch?v=1em64iUFt3U&t=758)
+- **Summary**: Zevy advises non-technical users to start with ChatGPT projects to learn context management before graduating to Bolt, Lovable, and finally Cursor with Claude Code. This exposure therapy reduces the fear of code and builds confidence gradually.
+- **Anchor Quotes**: [0]
 
 ### Structured Slash Command Workflow
 - **Timestamp**: [16:31](https://www.youtube.com/watch?v=1em64iUFt3U&t=991)
-- **Summary**: He uses a series of slash commands in Cursor to manage the build process: create issue (to Linear), exploration (to understand the codebase), create plan (markdown output), execute plan (using fast models like Composer), and peer review. This structure mimics a professional engineering team's workflow, ensuring clarity and reducing errors.
+- **Summary**: He uses a series of slash commands in Cursor to manage his workflow: create issue (Linear), exploration, plan creation, execution, review, and documentation updates. This structure allows him to act as a 'virtual CTO' and manage complex development without writing code.
 
-### Multi-Model Peer Review Technique
+### Multi-Model Peer Review
 - **Timestamp**: [39:01](https://www.youtube.com/watch?v=1em64iUFt3U&t=2341)
-- **Summary**: To overcome his inability to review code, Zevy uses a 'peer review' strategy where he has Claude, Codex, and Gemini review each other's code. He assigns each model a persona (e.g., Claude as a communicative CTO, Codex as a silent expert, Gemini as a risky designer) to leverage their distinct strengths and catch different types of bugs.
+- **Summary**: To overcome his inability to review code, Zevy uses a 'peer review' technique where he has Claude, Codex, and Gemini review each other's code. He then has the primary agent (Claude) act as a dev lead to resolve conflicts, catching bugs he would otherwise miss.
 - **Anchor Quotes**: [2]
 
-### AI as a Learning and Interviewing Partner
-- **Timestamp**: [57:13](https://www.youtube.com/watch?v=1em64iUFt3U&t=3433)
-- **Summary**: Zevy uses AI to prepare for his Meta interview by creating mock interview projects and analyzing question banks. He argues that AI should not replace thinking but act as a mentor, helping junior PMs learn faster and play at a higher level. He believes the barrier to entry is lowering, making it the best time to be a junior builder.
-- **Anchor Quotes**: [2]
+### AI-Native Codebases
+- **Timestamp**: [51:28](https://www.youtube.com/watch?v=1em64iUFt3U&t=3088)
+- **Summary**: For larger teams, he advises making codebases 'AI-native' by adding extensive markdown documentation and plain text instructions. This helps agents navigate the codebase effectively, allowing PMs to ship contained UI projects safely.
 
-### Post-Mortem Documentation for AI Native Codebases
-- **Timestamp**: [46:20](https://www.youtube.com/watch?v=1em64iUFt3U&t=2780)
-- **Summary**: He stresses the importance of updating documentation and system prompts after every mistake or bug. By feeding the root cause of errors back into the AI's context, the workflow improves over time. He advises PMs in large companies to first make their codebases 'AI native' with clear documentation before attempting to ship code.
+### Interview Preparation via AI
+- **Timestamp**: [59:40](https://www.youtube.com/watch?v=1em64iUFt3U&t=3580)
+- **Summary**: Zevy used AI projects to mock interview for his Meta role, creating a 'coach' agent and a quiz game for segmentation practice. He emphasizes that while AI is great for prep, human mock interviews remain the most critical component for success.
 
 ## Quotes to remember
 
 ### If people walk away thinking how amazing you are, you failed. And if people walk away and open their computer and start building, you've succeeded.
 - **Speaker**: Zevy Arnowitz
-- **Timestamp**: [07:27](https://www.youtube.com/watch?v=1em64iUFt3U&t=447)
+- **Timestamp**: [07:15](https://www.youtube.com/watch?v=1em64iUFt3U&t=435)
 
-### It's the best time to be a junior. Contrary to what a lot of people are saying, how there's no more junior roles out there. Yeah, that's true. But also, when else in history could you get out of school and just build a startup on your own?
+### Code is just words at the end of the day. So basically you can be working on the same project and carry it from app to app.
 - **Speaker**: Zevy Arnowitz
-- **Timestamp**: [00:52](https://www.youtube.com/watch?v=1em64iUFt3U&t=52)
+- **Timestamp**: [14:10](https://www.youtube.com/watch?v=1em64iUFt3U&t=850)
 
-### I don't want this to come out like I'm badmouthing them. Base 44 does an amazing job at basically taking all the complex guesswork out of building product and just allows you to just, you know, go with the vibes and build, but it will do signin with Google for you... but then you don't have decisions on uh what database am I using?
+### The main challenge people have is reviewing the code that AI has written. It's very difficult for me to catch mistakes.
 - **Speaker**: Zevy Arnowitz
-- **Timestamp**: [33:20](https://www.youtube.com/watch?v=1em64iUFt3U&t=2000)
+- **Timestamp**: [39:05](https://www.youtube.com/watch?v=1em64iUFt3U&t=2345)
 
-### The main challenge people have is reviewing the code that AI has written. And what you're doing here is you're having Claude review its own code.
-- **Speaker**: Lenny Rachitsky
-- **Timestamp**: [39:01](https://www.youtube.com/watch?v=1em64iUFt3U&t=2341)
-
-### Nobody knows what they're doing. And I just love that and I think it kind of makes you take life more lightly.
+### It's the best time to be a junior. Contrary to what a lot of people are saying, how there's no more junior roles out there.
 - **Speaker**: Zevy Arnowitz
-- **Timestamp**: [01:10:50](https://www.youtube.com/watch?v=1em64iUFt3U&t=4250)
+- **Timestamp**: [01:07:00](https://www.youtube.com/watch?v=1em64iUFt3U&t=4020)
+
+### Nobody knows what they're doing. It kind of makes you take life more lightly.
+- **Speaker**: Zevy Arnowitz
+- **Timestamp**: [01:10:30](https://www.youtube.com/watch?v=1em64iUFt3U&t=4230)
 
 ## Predictions
 
-### Titles and responsibilities will collapse, and everyone will become a builder.
-- **Hedge**: I think everyone's going to become a builder. Titles are going to collapse and responsibilities are going to collapse.
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=1em64iUFt3U&t=0)
+### Everyone's going to become a builder. Titles and responsibilities will collapse.
+- **Hedge**: In the next coming years.
+- **Timestamp**: [00:40](https://www.youtube.com/watch?v=1em64iUFt3U&t=40)
 
-### PMs will be able to ship contained UI projects and create PRs for developers to finish, but not heavy database migrations.
-- **Hedge**: I still don't think uh like PMS should be shipping heavy uh database chain migrations or any like big project. But you know, contained UI uh projects... I think that's definitely something that's possible.
-- **Timestamp**: [52:25](https://www.youtube.com/watch?v=1em64iUFt3U&t=3145)
+### PMs will be shipping contained UI projects and creating PRs for devs to finish.
+- **Hedge**: In the next few years as models get smarter.
+- **Timestamp**: [52:00](https://www.youtube.com/watch?v=1em64iUFt3U&t=3120)
 
 ## Lightning round
 
-- **Books**: ['The Fountain Head by Ayn Rand', 'Shoe Dog by Phil Knight', 'Mindset by Carol Dweck']
+- **Books**: ['The Fountainhead by Ayn Rand', 'Shoe Dog by Phil Knight', 'Mindset by Carol Dweck']
 - **Media**: ['The Pit', 'Severance']
 - **Products**: ['CAP (Loom alternative)', 'Supercut']
 - **Motto**: You can just do things. Nobody knows what they're doing.
-- **Advice**: Start with a GPT project to learn, then graduate to Cursor. Use AI as a mentor to learn, not just to outsource thinking. Be a 10x learner, not just a 10x doer.
+- **Advice**: Start with ChatGPT projects to learn context management. Use AI as a thought partner, not just an output generator. Be a 10x learner, not just a 10x doer.
 
 ## Concepts surfaced
 
-[[vibe-coding]] · [[cursor-code]] · [[claude-code]] · [[ai-workflow]] · [[non-technical-builder]] · [[peer-review-ai]] · [[product-management]] · [[learning-mindset]]
+[[vibe-coding]] · [[ai-workflow]] · [[slash-commands]] · [[multi-model-review]] · [[non-technical-builder]] · [[product-management]] · [[cursor-ide]] · [[claude-code]]
