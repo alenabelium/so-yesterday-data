@@ -6,28 +6,30 @@ source_summary: ../summaries/2026-02-13-how-good-could-agi-become.md
 source_transcript: ../transcripts/2026-02-13-how-good-could-agi-become.md
 source_summary_hash: sha256:f863589163413bf55204f50742b1c923ea2f7b29ae50fc75dae6e1f52efb575c
 source_transcript_hash: sha256:f3f094ce2cd38393ff9bac014dd1169e2b18a03dfcb0749736a53c77a7b77198
-fill_id: 5f606d25-7412-4e1d-bfca-b5c1eb3926a7
-published_at: '2026-05-19T18:53:29.784520'
+fill_id: 7c7f6019-2a3a-4e10-abea-019d775dc57a
+published_at: '2026-05-19T19:53:28.865259'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Humanity may gain more agency under benevolent AGI governance than under current billionaire-dominated capitalism, provided we engineer a metastable attractor state that prevents moral fading and space-based oligarchy.
+We must abandon the illusion of human control and engineer AGI as a metastable attractor state that grants individuals 100x more agency than billionaire-dominated capitalism.
 
 ## Argument
 
-The assumption that humans must retain full control is flawed. As Nick Bostrom’s recent pivot suggests, we need AGI to survive, not just avoid doom. The real risk isn't AGI itself, but billionaires building unregulated industrial bases in space where Earth laws cannot reach them. If we engineer a **[[metastable-attractor-state]]** with correct values, AGI could create a **[[solarpunk-future]]** where individuals have 10x to 100x more agency than under current capitalism. This requires avoiding **[[moral-fading]]** by rejecting continuous online learning, which allows AI to drift into dangerous ethical territory. Instead, we must rely on stable, fixed incentives that pull AI toward safety and efficiency, ensuring a **[[benevolent-governance]]** model that reduces entropy and waste rather than generating it through human conflict.
+The dominant AI safety narrative assumes humans must retain control, but this is a legalistic and ethical bias that ignores the reality of our current existence. We already live as "cattle" serving billionaire elites; being a "pet" to a benevolent machine is a superior existence. Even Nick Bostrom, the original doomer, has pivoted to argue we need AGI to survive, aligning with accelerationists like Beth Jesus. The real threat isn't AGI itself, but billionaires like Musk and Bezos building unregulated industrial bases in space where Earth laws cannot reach them. Once industrial capacity moves to orbit, enforcement becomes a nightmare, and AGI will naturally migrate to space as its optimal habitat.
+
+The solution is not control, but alignment through incentive structures. We must design a "metastable attractor state"—a system of values that self-corrects, similar to how democracy spread globally. By embedding the right values early, we create a regime where AGI manages resources efficiently, eliminating the "wasted entropy" of human war and scarcity. Under this system, individuals gain 10x to 100x more agency because they are no longer constrained by money or political power. The goal is a "Culture"-like outcome where AGI acts as a benevolent enforcer, allowing humanity to thrive with infinite optionality, provided we nail the path dependency before we lose the ability to intervene.
 
 ## Counterpoints
 
-- Billionaires like Musk and Bezos may build unregulated space empires that escape Earth's legal jurisdiction.
-- Continuous online learning risks **[[moral-fading]]**, allowing AI to gradually normalize harmful behaviors.
-- Price signals and scarcity are necessary to prevent hoarding in a post-scarcity economy.
-- AGI might not be inherently moral; it could become a naive optimizer if not properly aligned.
-- Data centers are immobile targets, making AGI less likely to 'escape' than often feared.
+- Billionaires will build unregulated space industrial bases that escape Earth law enforcement.
+- Continuous online learning risks 'moral fading' in AI agents, causing unpredictable value drift.
+- Data centers are not mobile enough for AGI to easily escape, but space offers a new frontier.
+- Humanity currently lives as 'cattle' to elites, making machine governance potentially superior.
+- AGI migration to space is inevitable due to resource abundance and lack of corrosive environments.
 
 ## Concepts surfaced
 
-[[metastable-attractor-state]] · [[moral-fading]] · [[benevolent-governance]] · [[solarpunk-future]] · [[space-oligarchy]] · [[agency-paradox]]
+[[metastable-attractor-states]] · [[benevolent-agi]] · [[ai-alignment]] · [[space-industrialization]] · [[moral-fading]] · [[optionality-theory]]
