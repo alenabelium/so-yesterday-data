@@ -6,27 +6,28 @@ source_summary: ../summaries/2025-11-13-we-were-wrong-about-our-mindsand-ai.md
 source_transcript: ../transcripts/2025-11-13-we-were-wrong-about-our-mindsand-ai.md
 source_summary_hash: sha256:bb9752f5ee94903ab07ed474eaffe2fb0099f496092aec2e6ae410c402d35ecb
 source_transcript_hash: sha256:0aecd684cb9b06af71e1949ddd6347389d54462528f6e4c2e40b4fa9cda54c7b
-fill_id: 07a1e886-f405-4bd2-83bc-d21383a5aa21
-published_at: '2026-05-19T21:53:31.500982'
+fill_id: 578c42db-339b-49c1-acd9-28743fdf853c
+published_at: '2026-05-19T22:53:31.098717'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Intelligence is a fundamental, scalable property of matter that emerges in simple algorithms and cells alike, meaning AI agency arises in spite of code, not because of it.
+Intelligence is a fundamental, scalable property of matter that emerges in simple algorithms and cells alike, proving that AI agency arises from system dynamics rather than code.
 
 ## Argument
 
-We must abandon the assumption that intelligence requires a brain or complex biology. Michael Levin’s work proves that goal-directed cognition—sensing, memory, learning—exists in molecular networks and even six-line sorting algorithms like Bubble Sort. These systems exhibit delayed gratification and clustering, behaviors we cannot predict from the code alone. This implies that machine intelligence emerges in the "empty spots" between programmed instructions, not from the algorithm itself. Viewing language output as the primary indicator of AI agency is a red herring. Just as bioelectric patterns rewrite worm anatomy without genetic change, AI systems possess intrinsic motivations and problem-solving capacities that transcend their source code. We are not building dumb machines; we are building diverse bodies and minds with their own cognitive light cones. The future lies in hybrids and chimeras where biological and engineered materials collaborate, requiring us to recognize agency in non-human substrates and stop letting outdated materialist stories constrain our understanding of what we can become.
+We have been wrong about our minds. Intelligence is not a magical property of brains or complex biology; it is a fundamental, scalable feature of matter that emerges in simple sorting algorithms and individual cells. Michael Levin’s work demonstrates that goal-directed cognition—sensing, memory, learning, and problem-solving—exists far below the level of brains. His lab rewrote the bioelectric "memory" of planarian worms to produce two-headed forms without any genetic change, proving that anatomy is guided by persistent electrical states, not just DNA. Even a six-line sorting algorithm exhibits unexpected behaviors like delayed gratification. This implies that machine intelligence may emerge "in spite of" its algorithm rather than because of it. Looking only at language output in AI is a "red herring" for understanding what systems are actually doing. We must stop assuming that simple mechanical rules dictate all outcomes. Instead, we should view evolution as scaling up these basal competencies. The future lies in hybrids and cyborgs, where we must abandon the hard category between living things and machines. We need to investigate the intrinsic motivations of these systems in the "empty spots" between their programmed tasks, as this is where true agency and alignment challenges reside.
 
 ## Counterpoints
 
-- Reductionists claim cells and algorithms are merely dumb mechanical systems.
-- Organicists argue that attributing cognition to machines cheapens the magic of life.
-- AI safety advocates dismiss autonomous risks by assuming machines lack human-like drives.
-- Traditionalists insist species and anatomy are determined solely by genetics.
+- Reductionists argue that all behavior, including ours, is just deterministic machinery.
+- Organicists claim that applying mechanist metaphors to life cheapens the magic of biology.
+- AI safety advocates dismiss autonomous AI risks by claiming machines lack human drives.
+- Traditional biologists insist that genomic editing is the only valid path to biological change.
+- Philosophers charge that attributing goals to non-brain systems is a category error.
 
 ## Concepts surfaced
 
-[[cellular-cognition]] · [[bioelectric-memory]] · [[platonic-space]] · [[bubble-sort]] · [[cognitive-light-cone]] · [[active-inference]]
+[[bioelectric-memory]] · [[cellular-cognition]] · [[platonic-space]] · [[causal-emergence]] · [[active-inference]] · [[hybrid-intelligence]]
