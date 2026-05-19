@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-02-19-head-of-claude-code-what-happens-after-c
 source_transcript: ../transcripts/2026-02-19-head-of-claude-code-what-happens-after-coding-is-solved.md
 source_summary_hash: sha256:4d9e4467465f419b0e546dc91bc365130665d64947c0a0b475da1aff9c87def5
 source_transcript_hash: sha256:b89370a37b2ecb9f46def4022ce35c23252d838b1a7a5dc36dff2c7615606891
-fill_id: ecb86de2-07e9-4534-9155-05ab18546f16
-published_at: '2026-05-19T04:43:16.910682'
+fill_id: ea3a5cad-a8d9-4fc9-96e3-9bc8f671410c
+published_at: '2026-05-19T15:46:09.502860'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Boris Cherny
 - **Title**: Head of Claude Code at Anthropic
 - **Org**: Anthropic
-- **Bio Oneliner**: Head of Claude Code at Anthropic, former engineer at Instagram and Cursor, and author of a TypeScript book.
+- **Bio Oneliner**: Head of Claude Code at Anthropic, reflecting on the one-year anniversary of the tool and the future of AI-driven software development.
 - **Platform**: duo
 
 ## Cold open
@@ -30,37 +30,36 @@ provenance: agent:template-fill-v1
 - **Attribution**: Boris Cherny
 - **Timestamp**: [00:25](https://www.youtube.com/watch?v=We7BZVKbCVw&t=25)
 
-### Claude is starting to come up with ideas. It's looking through feedback. It's looking at bug reports. It's looking at telemetry for bug fixes and things to ship a little more like a co-worker.
-- **Attribution**: Boris Cherny
-- **Timestamp**: [00:35](https://www.youtube.com/watch?v=We7BZVKbCVw&t=35)
+### By the end of the year, everyone's going to be a product manager and everyone codes. The title software engineer is going to start to go away.
+- **Attribution**: Lenny Rachitsky
+- **Timestamp**: [00:41](https://www.youtube.com/watch?v=We7BZVKbCVw&t=41)
 
 ## Key arguments
 
-### Coding is largely solved and productivity is exploding
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=We7BZVKbCVw&t=0)
-- **Summary**: Boris reveals he writes 100% of his code via AI, shipping 10-30 PRs daily without manual editing since November. He argues that coding is 'largely solved' for engineers, with productivity per engineer increasing 200% and the title 'software engineer' potentially being replaced by 'builder'.
-- **Anchor Quotes**: [0, 1]
+### Coding is largely solved and democratized
+- **Timestamp**: [00:25](https://www.youtube.com/watch?v=We7BZVKbCVw&t=25)
+- **Summary**: Boris declares that coding is largely solved, comparing the current shift to the printing press. He predicts that within a year or two, learning to code will not matter, and everyone will be able to build software, democratizing the ability to create.
+- **Anchor Quotes**: [1]
 
-### The next frontier is agentic AI and democratization
-- **Timestamp**: [00:35](https://www.youtube.com/watch?v=We7BZVKbCVw&t=35)
-- **Summary**: The focus is shifting from writing code to AI coming up with its own ideas by analyzing feedback and telemetry. Boris compares this to the printing press, predicting a democratization moment where non-technical roles like product managers and designers will also build software, expanding the boundary of who can create.
-- **Anchor Quotes**: [2]
+### The next frontier: AI as a co-worker
+- **Timestamp**: [17:05](https://www.youtube.com/watch?v=We7BZVKbCVw&t=1025)
+- **Summary**: Claude Code is evolving from a coding tool into a co-worker that analyzes feedback, bug reports, and telemetry to come up with its own ideas for fixes and features. This marks a shift from just writing code to managing the entire product lifecycle.
 
-### Building for latent demand and the model's trajectory
-- **Timestamp**: [07:12](https://www.youtube.com/watch?v=We7BZVKbCVw&t=432)
-- **Summary**: Boris shares that Claude Code started as a terminal-based hack because it was the only form factor that could keep up with rapid model improvements. He advises building for the model six months in the future rather than today, and leveraging 'latent demand' by observing how users misuse tools to discover new product opportunities like Co-Work.
+### Product strategy: Underfunding and latent demand
+- **Timestamp**: [10:14](https://www.youtube.com/watch?v=We7BZVKbCVw&t=614)
+- **Summary**: Boris shares the principle of underfunding teams to force innovation and leveraging 'latent demand' by observing how users misuse or hack tools (like using Claude Code for non-technical tasks) to identify new product opportunities like Claude Work.
 
-### Safety, underfunding, and the bitter lesson
-- **Timestamp**: [25:32](https://www.youtube.com/watch?v=We7BZVKbCVw&t=1532)
-- **Summary**: He advocates for underfunding teams to force efficiency and giving engineers unlimited tokens to experiment. He cites the 'bitter lesson' that general models always outperform specific ones, advising builders to bet on general models and release early to study safety in the wild through layers of alignment, evals, and real-world usage.
+### Advice for engineers and builders
+- **Timestamp**: [41:00](https://www.youtube.com/watch?v=We7BZVKbCVw&t=2460)
+- **Summary**: He advises engineers to become generalists who code across disciplines, use the most capable models to save tokens, and build products for the model six months in the future rather than today's limitations.
 
-### Advice for thriving in the AI era
-- **Timestamp**: [41:42](https://www.youtube.com/watch?v=We7BZVKbCVw&t=2502)
-- **Summary**: Boris advises becoming a generalist who crosses disciplines (e.g., engineers who code, PMs who code) and using common sense. He recommends using the most capable model (Opus) in plan mode to avoid token waste and finding the right interface (terminal, desktop, or mobile) for individual workflows.
+### Anthropic's safety and mission focus
+- **Timestamp**: [05:35](https://www.youtube.com/watch?v=We7BZVKbCVw&t=335)
+- **Summary**: Boris explains his return to Anthropic was driven by the mission of safety. He details their three-layer safety approach: mechanistic interpretability, evaluation labs, and real-world release to ensure models remain aligned as they become more powerful.
 
 ## Quotes to remember
 
-### I have never enjoyed coding as much as I do today because I don't have to deal with all the minutia.
+### I have never enjoyed coding as much as I do today because I don't have to deal with all the minutia. Productivity per engineer has increased 200%.
 - **Speaker**: Boris Cherny
 - **Timestamp**: [00:15](https://www.youtube.com/watch?v=We7BZVKbCVw&t=15)
 
@@ -68,36 +67,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Boris Cherny
 - **Timestamp**: [10:14](https://www.youtube.com/watch?v=We7BZVKbCVw&t=614)
 
-### The thing that I love about it is just thinking in these longtime skills. And yeah, I think post-AGI or if I wasn't at Anthropic, I'd probably be making miso.
+### The bitter lesson is that the more general model will always outperform the more specific model. Always bet on the more general model.
 - **Speaker**: Boris Cherny
-- **Timestamp**: [01:13:21](https://www.youtube.com/watch?v=We7BZVKbCVw&t=4401)
+- **Timestamp**: [01:05:00](https://www.youtube.com/watch?v=We7BZVKbCVw&t=3900)
 
 ### Use common sense. I think a lot of the failures that I see in especially in a work environment is people just failing to use common sense.
 - **Speaker**: Boris Cherny
-- **Timestamp**: [01:24:46](https://www.youtube.com/watch?v=We7BZVKbCVw&t=5086)
+- **Timestamp**: [01:24:30](https://www.youtube.com/watch?v=We7BZVKbCVw&t=5070)
 
 ## Predictions
 
-### By the end of the year, the title 'software engineer' will start to go away and be replaced by 'builder' or 'product manager'.
-- **Hedge**: In some places, the role titles will blur significantly.
+### By the end of the year, the title 'software engineer' will start to go away, replaced by 'builder' or 'product manager'.
+- **Hedge**: I think by the end of the year, everyone's going to be a product manager and everyone codes.
 - **Timestamp**: [00:41](https://www.youtube.com/watch?v=We7BZVKbCVw&t=41)
 
-### Everyone will be able to program and build software anytime in a few years.
-- **Hedge**: This is a long-term democratization trend similar to the printing press.
-- **Timestamp**: [00:25](https://www.youtube.com/watch?v=We7BZVKbCVw&t=25)
+### 4% of all GitHub commits are authored by Claude Code now, and it will be a fifth of all code commits by the end of the year.
+- **Hedge**: We actually think if you look at private repositories, it's quite a bit higher than that.
+- **Timestamp**: [05:35](https://www.youtube.com/watch?v=We7BZVKbCVw&t=335)
 
-### Claude will come up with its own ideas for bug fixes and features by analyzing feedback and telemetry.
-- **Hedge**: This is the current trajectory of the model's capabilities.
-- **Timestamp**: [00:35](https://www.youtube.com/watch?v=We7BZVKbCVw&t=35)
+### In a year or two, it won't matter if you know how to code; everyone will be able to program.
+- **Hedge**: Coding is largely solved.
+- **Timestamp**: [00:25](https://www.youtube.com/watch?v=We7BZVKbCVw&t=25)
 
 ## Lightning round
 
-- **Books**: ['Functional Programming in Scala', 'Accelerando by Charles Stross', 'The Wandering Earth by Cixin Liu']
+- **Books**: ['Functional Programming in Scala', 'Accelerando by Charles Stross', 'The Wandering Earth by Liu Cixin']
 - **Media**: ['The Three-Body Problem (Netflix series)']
-- **Products**: ['Claude Code (Co-Work)', 'Acquired Podcast']
+- **Products**: ['Claude Work', 'Acquired Podcast']
 - **Motto**: Use common sense.
-- **Advice**: Don't box the model in; give it tools and a goal. Bet on general models over specific ones. Build for the model six months in the future. Be a generalist who crosses disciplines. Use the most capable model in plan mode.
+- **Advice**: Don't try to box the model in. Give it tools and a goal, and let it figure out the steps. Also, bet on the most general model available and build for the model six months in the future.
 
 ## Concepts surfaced
 
-[[claude-code]] · [[agentic-ai]] · [[latent-demand]] · [[bitter-lesson]] · [[democratization-of-software]] · [[mechanistic-interpretability]] · [[product-manager]] · [[software-engineering]]
+[[ai-agents]] · [[software-engineering]] · [[product-market-fit]] · [[latent-demand]] · [[anthropic]] · [[claude-code]] · [[democratization-of-code]] · [[ai-safety]]

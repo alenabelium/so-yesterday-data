@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-05-02-why-taste-is-beating-titles-in-the-ai-er
 source_transcript: ../transcripts/2026-05-02-why-taste-is-beating-titles-in-the-ai-era.md
 source_summary_hash: sha256:95ac210332d20ee9869d8c3fb77da4346ced82173e37e11f180d3d048e303668
 source_transcript_hash: sha256:4f1364e7beea772103137d3b5d477d0dc298e246ddf56a3fd517572d720fd604
-fill_id: 2d1fc56b-2966-4036-8298-aa2748285bcd
-published_at: '2026-05-19T04:49:37.836625'
+fill_id: 37a3d89a-a42a-4cf2-8f22-e48dadf2a279
+published_at: '2026-05-19T15:46:02.762893'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Max Shing
 - **Title**: Head of Product at Notion
 - **Org**: Notion
-- **Bio Oneliner**: Former design leader at Heroku and GitHub, two-time founder, and AI-forward product leader.
+- **Bio Oneliner**: Former design leader at Heroku and GitHub, two-time founder, and AI-forward product strategist.
 - **Platform**: duo
 
 ## Cold open
@@ -30,33 +30,29 @@ provenance: agent:template-fill-v1
 - **Attribution**: Max Shing
 - **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
 
-### All the great products have something tiny that is a superpower. one tiny core that is so exceptionally good.
-- **Attribution**: Max Shing
-- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
-
 ## Key arguments
 
-### Agency and Taste as New Differentiators
+### Agency beats skill in the AI era
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
-- **Summary**: Max Shing argues that AI lowers the barrier to entry for building software, making 'taste' and 'agency' the new differentiators. Taste is defined as the ability to predict user reactions through iteration, while agency is the belief that the world is malleable and one can change it. He advises developing agency by 'making things' rather than just planning.
-- **Anchor Quotes**: [0, 1]
+- **Summary**: AI lowers the barrier to entry, making technical skills less of a differentiator. The critical new skill is agency: the belief that the world is malleable and the willingness to build things without waiting for permission or perfect conditions.
+- **Anchor Quotes**: [0]
 
-### The Shift to Malleable Software
+### Taste as predictive simulation
+- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
+- **Summary**: Taste is defined as the ability to simulate how a specific user group will react to an idea. It is built through repetition and feedback loops, similar to training a model, rather than innate genius.
+- **Anchor Quotes**: [1]
+
+### The myth of the SaaS apocalypse
+- **Timestamp**: [24:36](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1476)
+- **Summary**: While AI makes building software easier, most users do not want to maintain their own tools. Specialized maintenance and engineering remain valuable, meaning SaaS will evolve rather than disappear.
+
+### The power of the tiny core
+- **Timestamp**: [01:01:15](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3675)
+- **Summary**: Great products have one tiny, exceptionally good core feature. Adding more features rarely makes a product great; instead, it often dilutes the core value that made it successful.
+
+### Malleable software and ownership
 - **Timestamp**: [17:58](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1078)
-- **Summary**: Shing advocates for 'malleable software' where users have ownership over their computing lives, contrasting it with the 'glued together' nature of traditional SaaS apps. He warns against the 'SaaS apocalypse,' arguing that while general tools will become more malleable, specialized maintenance and engineering will remain crucial because most people do not want to maintain their own full-stack software.
-
-### Designers and PMs Should Code to Understand Material
-- **Timestamp**: [06:31](https://www.youtube.com/watch?v=mCO-D3pkviM&t=391)
-- **Summary**: Shing suggests that designers and PMs should code not to ship to production, but to understand the 'material' they are designing with. He emphasizes that understanding agent loops and the substrate of computers is more valuable than just tweaking UI styles. He notes that the first 10% of projects are now free, allowing for faster iteration and 'demos not memos'.
-
-### The 'Tiny Core' of Successful Products
-- **Timestamp**: [01:00:17](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3617)
-- **Summary**: Shing posits that successful products do not win by adding endless features but by having one tiny core that is exceptionally good (e.g., GitHub's pull request, Heroku's git push). He warns against the pitfall of trying to make a product 'finally great' by adding more, and emphasizes that being right is more important than being first.
-- **Anchor Quotes**: [2]
-
-### Future of Work and Specialization
-- **Timestamp**: [15:57](https://www.youtube.com/watch?v=mCO-D3pkviM&t=957)
-- **Summary**: Shing predicts that software will return to the '90s model of general tools as a service, with specialized maintenance remaining vital. He argues that the 'SaaS apocalypse' is exaggerated because people prefer the convenience of specialized tools over building and maintaining their own. He also notes that software engineering will accelerate into other domains like HR and marketing as coding costs approach zero.
+- **Summary**: Software should work closer to the user's interest than the corporation's. Users need ownership and the ability to tweak their tools, moving away from rigid, 'ivory tower' designed applications.
 
 ## Quotes to remember
 
@@ -68,40 +64,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Max Shing
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
 
-### I don't think people want to go hunting either. They just want to go to Costco and have the steak in a styrofoam packaging and pretend that it wasn't hunting.
-- **Speaker**: Max Shing
-- **Timestamp**: [26:06](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1566)
-
 ### All the great products have something tiny that is a superpower. One tiny core that is so exceptionally good.
 - **Speaker**: Max Shing
 - **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
 
-### You're able to run a virtual machine in your head where given an idea, you can predict for a certain in-group whether they're going to like it or not.
+### Software is like a garden. You need to tend to it. The thing you pay for in SaaS is the maintenance and a bunch of specialists thinking really hard about a problem.
 - **Speaker**: Max Shing
-- **Timestamp**: [57:19](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3439)
+- **Timestamp**: [24:36](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1476)
+
+### If you speak German, this is one of the funniest clips. He breaks that veil of like no this is so stupid. What is this? What is this bunch of cabinets tied together?
+- **Speaker**: Max Shing
+- **Timestamp**: [22:33](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1353)
 
 ## Predictions
 
-### In six to 12 months, many companies will start having uncomfortable conversations around RARI (Return on AI Investment) as token spend becomes a concern.
-- **Hedge**: This assumes the gap between frontier and open-weight models does not widen drastically.
+### In six to 12 months, many companies will start asking uncomfortable questions about RARI (Return on AI Investment) as token spend becomes unsustainable.
+- **Hedge**: Depends on whether the gap between frontier and open-weight models widens or stays competitive.
 - **Timestamp**: [34:51](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2091)
 
-### Software will return to the '90s model of general tools (word processors, spreadsheets) as a service, with specialized maintenance remaining crucial.
-- **Hedge**: This assumes the 'SaaS apocalypse' is exaggerated and people still prefer specialized tools.
-- **Timestamp**: [26:55](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1615)
-
-### Software engineering will accelerate into other domains like HR, marketing, and sales as the cost of creating software approaches zero.
-- **Hedge**: This assumes models continue to improve at coding at an exponential rate.
-- **Timestamp**: [43:50](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2630)
+### Software engineering capabilities will accelerate into other domains like HR and marketing, rather than those domains developing their own distinct AI models.
+- **Hedge**: Assuming the cost of creating software continues to approach zero.
+- **Timestamp**: [42:43](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2563)
 
 ## Lightning round
 
-- **Books**: ['Code: The Hidden Language of Computer Hardware and Software by Charles Petzold', 'Tools for Conviviality by Ivan Illich', 'Seeing Like a State by James C. Scott']
+- **Books**: ['Code: The Hidden Language of Computer Hardware and Software', 'Tools for Conviviality', 'Seeing Like a State']
 - **Media**: ['Project Hail Mary', "The Handmaid's Tale"]
 - **Products**: ['Ghostty terminal emulator', 'Moshi app', 'Corné split keyboard', 'Cevivi pocket knife']
 - **Motto**: The universe is change and life is what you make it.
-- **Advice**: Don't let the frenetic rush of Silicon Valley distract you from what you care about. Read history, realize that people are no smarter than you, and exercise your agency by making things.
+- **Advice**: Don't let the frenetic rush of Silicon Valley distract you from what you care about. Read history, realize the world is made by people no smarter than you, and exercise agency by building things.
 
 ## Concepts surfaced
 
-[[agency]] · [[taste]] · [[malleable-software]] · [[saas-apocalypse]] · [[tiny-core]] · [[designers-coding]] · [[universal-basic-income]] · [[jobs-to-be-done]]
+[[agency-over-skill]] · [[taste-as-simulation]] · [[malleable-software]] · [[tiny-core-product]] · [[saas-evolution]] · [[ai-roi]] · [[design-engineering-merge]] · [[user-ownership]]
