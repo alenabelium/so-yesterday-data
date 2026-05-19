@@ -6,28 +6,32 @@ source_summary: ../summaries/2026-02-26-the-next-36-months-will-be-wild.md
 source_transcript: ../transcripts/2026-02-26-the-next-36-months-will-be-wild.md
 source_summary_hash: sha256:dac3c8432f89e1921ca350d5e35d8c299f64eb64300bec4d822f9c648f3df732
 source_transcript_hash: sha256:24057dcf742914fb088e4d464a2e99c15f9d5d55a44e1034f6b54a15cf523341
-fill_id: 44052330-5e0c-42f4-92d0-170e6fefccc7
-published_at: '2026-05-19T15:46:26.091543'
+fill_id: d71fa894-61dc-43c7-8dc4-c306051df5d0
+published_at: '2026-05-19T17:53:28.418635'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The convergence of recursive self-improvement and the 'alligator jaws' of energy demand creates an unavoidable automation cliff in 2027-2028, where job loss stems from vanishing entry-level roles rather than mass layoffs.
+The next 36 months will be WILD as AGI arrives not with a bang, but through the silent vanishing of entry-level jobs and a race for energy that outpaces political will.
 
 ## Argument
 
-The 2027-2028 AGI window is no longer speculation but a consolidation of predictions from Altman, Huang, and Amodei, driven by super-exponential gains in machine autonomy. We are witnessing the collapse of the five recursive self-improvement components: algorithmic research, data generation, and code writing are solved; only model training and evaluation remain bottlenecks. The 'terminal race condition' forces a 'Hail Mary' all-in on infrastructure, ignoring rising bipartisan anti-data center sentiment. The real economic shock is not immediate mass firing but the 'vanishing ladder': entry-level hiring freezes and ghost jobs that never appear, decoupling GDP growth from employment. We are entering the 'harvest' phase of the J-curve, where productivity explodes while labor becomes obsolete. The automation cliff is a step function; once AI reliability crosses the threshold, adoption becomes mandatory, not optional. The highest risk is not misalignment bugs but the unpredictable societal outcomes of this rapid decoupling.
+The convergence of predictions from Altman, Huang, and Amodei points to AGI and recursive self-improvement by 2027-2028. This isn't magic; it's a super-exponential curve in [[meter-evals]] where machine autonomy is doubling every 90 days. We have solved algorithmic research, data generation, and code writing. The remaining bottlenecks are [[model-training]] and [[model-evaluation]], which are infrastructure and alchemy problems, not intelligence problems.
+
+The real danger is the [[terminal-race-condition]]. Companies and nations are in a [[hail-mary]] scenario where pausing is fatal. We are hitting the [[alligator-jaws]] of energy demand versus production. While [[high-bandwidth-memory]] is the immediate bottleneck, energy is the long-term constraint. The solution isn't waiting for [[small-modular-reactors]] in 2030; it's building local microgrids and spinning up traditional nuclear.
+
+Society is distracted by the [[superior-wardf-hypothesis]], waiting for a semantic definition of AGI like consciousness. But the empirical reality is [[jobless-growth]]. 2025 saw GDP growth with minimal job creation. The [[automation-cliff]] isn't mass layoffs; it's the [[vanishing-ladder]] where entry-level positions are never created. New grad job latency exceeds a year. We are entering a regime of [[ghost-jobs]] where labor decouples from economic output. The [[sigmoid-activation]] of AI adoption means it will go from optional to mandatory in a step function. Watch [[meter-scores]] cross 24-hour autonomy and entry-level hiring implode.
 
 ## Counterpoints
 
-- The 'I'll know AGI when I see it' argument relies on the Sapir-Whorf hypothesis, mistaking semantic definitions for measurable economic impact.
-- Chip shortages are solved; the new bottleneck is high-bandwidth memory, which the market is already addressing with massive capital expenditure.
-- Energy demand is constrained by the 'alligator jaws' of production vs. consumption, but local microgrids and nuclear revival are the only viable paths.
-- Anti-data center sentiment is bipartisan virtue signaling that ignores the necessity of compute for both economic competition and political goals.
-- Job loss is structural, not cyclical: the 'vanishing ladder' means new graduates face year-long latency, signaling a regime change in work.
+- Chip shortages are solved; the new bottleneck is high-bandwidth memory and energy.
+- AGI isn't about consciousness; it's about economic substitutability and autonomous task completion.
+- The race is a terminal race condition; no company can pause without going bankrupt.
+- Energy demand is outpacing production, requiring local microgrids rather than waiting for new nuclear.
+- Job loss is structural (vanishing entry-level roles), not just cyclical layoffs.
 
 ## Concepts surfaced
 
-[[recursive-self-improvement]] · [[automation-cliff]] · [[terminal-race-condition]] · [[vanishing-ladder]] · [[alligator-jaws]] · [[super-exponential-growth]]
+[[recursive-self-improvement]] · [[terminal-race-condition]] · [[automation-cliff]] · [[meter-evals]] · [[alligator-jaws]] · [[ghost-jobs]]
