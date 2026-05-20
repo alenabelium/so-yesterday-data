@@ -6,34 +6,27 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 5a0c7c5b-c884-4ec9-b21b-7ee890086b48
-published_at: '2026-05-19T17:03:53.863584'
+fill_id: 1f64d465-249b-43de-89af-955bd1f70581
+published_at: '2026-05-20T09:13:03.262266'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Post-labor economics is inevitable as wages decouple from output, requiring a shift to government transfers and capital income to sustain consumer demand.
+Human labor input is decoupling from economic output, meaning wages will cease to be the primary source of household income and must be replaced by government transfers and capital-based income.
 
 ## Argument
 
-The economy has historically shifted from primary extraction to secondary manufacturing, and now to a tertiary service sector that peaked around 2015. As AI decouples human labor from economic output, wages will cease to be the primary income source. Households must rely on two buckets: government transfers (UBI, social security) and capital-based income (stocks, businesses). The critical challenge is boosting capital to prevent a deflationary death spiral. This book aims to convince voters and politicians by proving that labor zero is not just an idea but a structural reality that demands immediate policy and economic adaptation.
-
-[[post-labor-economics]]
-[[labor-zero]]
-[[deflationary-death-spiral]]
-[[capital-income]]
-[[government-transfers]]
-[[economic-decoupling]]
+The economy has historically shifted from primary extraction to secondary manufacturing, and now to a tertiary service sector that peaked around 2015. As automation renders human labor less necessary for output, the traditional wage model collapses. Post-labor economics defines this decoupling: economic output no longer requires proportional human input. To survive, society must pivot to two income buckets: government transfers (UBI, social security) and capital ownership (stocks, businesses, rentals). The critical failure of current discourse is ignoring capital; boosting capital income is essential to maintain aggregate demand and avoid a deflationary death spiral. This book aims to establish a consensus among voters and politicians by proving that labor-zero is not just an idea, but an inevitable economic reality that requires immediate structural preparation.
 
 ## Counterpoints
 
-- Education is useless because AI will disrupt every job market.
-- Soft skills are the only valuable set for the future.
-- Post-labor economics is just an idea until it gains mimetic saturation.
-- Capital-based income is ignored in most UBI discussions.
+- Education is useless because you never use what you learned in school.
+- Soft skills are the only valuable protection against automation.
+- AI alignment and X-risk are more important than job market disruption.
+- Publishing as free blog content is sufficient for spreading ideas.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[labor-zero]] · [[deflationary-death-spiral]] · [[capital-income]] · [[government-transfers]] · [[economic-decoupling]]
+[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[automation-impact]]
