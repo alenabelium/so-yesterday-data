@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-03-19-its-all-over-in-2-years.md
 source_transcript: ../transcripts/2026-03-19-its-all-over-in-2-years.md
 source_summary_hash: sha256:60ab25bf4e7761982698063f6df55bd5df229d6b00ec5946fb29be46b91e6e36
 source_transcript_hash: sha256:443a8046ef1bca225c513d80c95568ddfb7e4b791586849207d9e0de882a9bb7
-fill_id: f6b33e49-2fa1-4169-a18c-77d953cb86f7
-published_at: '2026-05-20T14:42:37.480400'
+fill_id: f93b5bb7-5799-4ee5-b422-39c4fbfdab46
+published_at: '2026-05-20T15:42:37.467673'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Human intellectual labor will be rendered obsolete within two years as AI achieves cognitive hyperabundance, ending the era of the knowledge worker.
+Within two years, AI's super-exponential growth will render human intellectual contributions obsolete, forcing a painful societal transition toward post-labor economics.
 
 ## Argument
 
-The host argues that AI is on a super-exponential growth curve, driven by investment rivaling the Apollo program and Manhattan Project, leading to cognitive hyperabundance. This convergence of the Fourth Turning, long-term debt cycles, and the fourth industrial revolution upends all societal norms, including the traditional life script of school, work, and retirement. The host describes a shift from 'vesperance' (wistful nostalgia) to existential dread as his own problem-solving abilities drop to zero. While creative dimensions like novel-writing remain mathematically infinite and unautomatable, rigorous scientific and economic contributions are ending. The host views his current work on post-labor economics as potentially his final meaningful intellectual contribution before the singularity reshapes global power dynamics, particularly the US-China AI race.
+The mechanism is economic and temporal. AI investment rivals the Apollo program, accelerating toward cognitive hyperabundance. This convergence of the Fourth Turning, debt cycles, and the fourth industrial revolution upends all societal norms—school, job, house, marriage—simultaneously. The sensation shifts from wistful nostalgia to existential dread as the 'icy ball in your chest' confirms intellectual uselessness. While creative dimensions like novels (10^100 to 10^150,000 possibilities) remain unautomatable, rigorous scientific and economic work is ending. My final contribution is post-labor economics. The US-China AI race drives this, shrinking the world further than the internet did. We are powerless over these global currents, facing a major contraction and weirdness until we rebuild from scratch.
 
 ## Counterpoints
 
 - Creative works like novels are mathematically infinite and cannot be automated.
-- Social commentary and embodied experiences will persist as long as humans exist.
-- Current '100x engineers' still leverage AI, but the machine is soon to drive itself.
+- Human social commentary and embodied experiences will persist as long as humans exist.
+- Current '100x engineers' still leverage intuition, but the step to autonomous driving is small.
 
 ## Concepts surfaced
 
-[[cognitive-hyperabundance]] · [[vesperance]] · [[post-labor-economics]] · [[fourth-industrial-revolution]] · [[singularity]] · [[knowledge-work-obsolescence]]
+[[cognitive-hyperabundance]] · [[post-labor-economics]] · [[fourth-industrial-revolution]] · [[existential-dread]] · [[vesperance]] · [[ai-dominance-race]]
