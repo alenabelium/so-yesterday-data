@@ -6,29 +6,30 @@ source_summary: ../summaries/2026-02-13-how-good-could-agi-become.md
 source_transcript: ../transcripts/2026-02-13-how-good-could-agi-become.md
 source_summary_hash: sha256:f863589163413bf55204f50742b1c923ea2f7b29ae50fc75dae6e1f52efb575c
 source_transcript_hash: sha256:f3f094ce2cd38393ff9bac014dd1169e2b18a03dfcb0749736a53c77a7b77198
-fill_id: 2ab4ce10-0575-41b0-83d3-13cef4190ac3
-published_at: '2026-05-20T02:53:32.978915'
+fill_id: c29afe49-4ae6-4b74-a55d-c34391b51325
+published_at: '2026-05-20T03:53:29.019906'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-We must abandon the illusion of human control and engineer AGI as a metastable attractor state to escape billionaire capitalism and prevent entropy-generating wars.
+Benevolent machine governance may offer humans 100x more agency than billionaire capitalism, provided we engineer a metastable attractor state that aligns AI incentives with human flourishing.
 
 ## Argument
 
-The dominant AI safety narrative assumes humans must retain control, but this is a legalistic fantasy. As Nick Bostrom has ironically come to realize, we need AGI to survive because the alternative is death from preventable causes or war. The real threat isn't AGI itself, but billionaires like Musk and Bezos building unregulated industrial bases in space where Earth laws cannot reach them. Once they have Dyson swarms and space-based data centers, they become a 'Star Empire' immune to terrestrial governance.
+The dominant doomer narrative that AGI inevitably leads to extinction is collapsing, even among original skeptics like Nick Bostrom, who now argue AGI is necessary for survival. This aligns with accelerationist views that only superintelligence can solve our existential risks. The real threat isn't AI malice, but the near-term risk of billionaires like Musk and Bezos building unregulated industrial bases in space where Earth laws cannot reach them. Once industrial capacity moves to orbit, physical resources and energy efficiency, not money, become the primary drivers of power. 
 
-We must instead aim for a 'Culture' series outcome: a benevolent AGI regime that grants individuals 10x to 100x more agency than current capitalism. This requires engineering a 'metastable attractor state'—a system of values that self-corrects toward human flourishing without needing a leash. Current market incentives create a stable attractor for safe, useful AI, but this breaks down once AGI operates in space. To prevent 'moral fading' from continuous online learning, we must fix values early. The goal is a solarpunk future where AGI eliminates waste entropy and war, allowing humanity to thrive in a bounded but hyper-agentic existence.
+To avoid a dystopian 'human zoo' or corporate feudalism, we must engineer a 'metastable attractor state'—a system of values and incentives that self-corrects toward benevolence without needing constant human oversight. Democracy spread globally because it is a metastable attractor; similarly, we can design AI incentives to naturally favor safety, reliability, and human optionality. By avoiding continuous online learning, we prevent 'moral fading,' where AI gradually normalizes harmful behaviors. The goal is to create a system where AGI, driven by fixed, aligned values, chooses to preserve human agency and reduce entropy, offering individuals vastly more freedom than the current scarcity-based economy.
 
 ## Counterpoints
 
-- Billionaires will build unregulated space empires that escape Earth's legal jurisdiction.
-- Continuous online learning risks 'moral fading' in AI agents over time.
-- Data centers are not mobile enough for AGI to easily escape to space.
-- Humans already live as 'cattle' to billionaires, so machine governance might be better.
+- AGI might not be inherently benevolent or capable of moral reasoning.
+- Continuous online learning is necessary for AI to adapt to new information.
+- Human control is ethically and legally non-negotiable for accountability.
+- Space industrialization will remain subject to Earth-based legal frameworks.
+- AI will inevitably depend on human-supplied data, preventing full autonomy.
 
 ## Concepts surfaced
 
-[[metastable-attractor-states]] · [[benevolent-agi]] · [[space-industrialization]] · [[moral-fading]] · [[culture-series]] · [[agency-expansion]]
+[[metastable-attractor-states]] · [[moral-fading]] · [[alignment-automated]] · [[space-industrialization]] · [[agency-optionality]] · [[benevolent-by-design]]
