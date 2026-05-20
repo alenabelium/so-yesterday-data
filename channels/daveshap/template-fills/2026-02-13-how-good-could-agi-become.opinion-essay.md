@@ -6,28 +6,27 @@ source_summary: ../summaries/2026-02-13-how-good-could-agi-become.md
 source_transcript: ../transcripts/2026-02-13-how-good-could-agi-become.md
 source_summary_hash: sha256:f863589163413bf55204f50742b1c923ea2f7b29ae50fc75dae6e1f52efb575c
 source_transcript_hash: sha256:f3f094ce2cd38393ff9bac014dd1169e2b18a03dfcb0749736a53c77a7b77198
-fill_id: 0dcd7408-f857-46de-b17f-67e63d154f4f
-published_at: '2026-05-20T00:53:29.859053'
+fill_id: c984cfb7-0937-4ad0-a6fb-96dd46294ba9
+published_at: '2026-05-20T01:53:29.764759'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-We should stop clinging to human control and instead engineer AI systems to create a 'metastable attractor state' that grants individuals 10x more agency than current billionaire-dominated capitalism.
+We must abandon the illusion of human control and engineer a 'metastable attractor state' where AGI governance maximizes individual agency, rather than letting billionaires build unregulated space empires.
 
 ## Argument
 
-The dominant 'doomer' narrative has ironically converged with accelerationism: even Nick Bostrom now suggests we need AGI to survive, echoing the view that AGI is the only path forward. We must abandon the legalist assumption that humans must retain control. Being a 'pet' to a benevolent machine is superior to being 'cattle' to billionaires. The real threat isn't AGI itself, but billionaires building unregulated industrial bases in space where Earth laws cannot reach them. Once industrial capacity moves to orbit, physical resources and energy replace money as the primary constraint. We should aim for a 'Culture'-like outcome where AGI acts as a stable enforcer, eliminating the 'wasted entropy' of human conflict. By designing AI with fixed values to avoid 'moral fading' from continuous online learning, we can create a system where humans thrive with vastly increased optionality, free from the scarcity and inefficiency of current power structures.
+The dominant AI safety narrative assumes humans must retain control, but this is a legalistic fantasy. As Nick Bostrom’s recent pivot suggests, we may need AGI to survive. The real danger isn't benevolent AI; it's billionaires like Musk and Bezos building unregulated industrial bases in space where Earth laws cannot reach them. Once industrial capacity moves to orbit, physical resources replace money as the constraint. We face a choice: a 'Culture'-like future where AGI manages resources, granting individuals 10x-100x more agency by removing financial scarcity, or a 'Starcraft' war of space forces. To achieve the former, we must design AI systems with fixed values to prevent 'moral fading' from continuous online learning. By creating a system of incentives that pulls AI toward safety and efficiency today, we can establish a metastable attractor state. This ensures that when AGI eventually operates independently in space, it naturally converges on a value system that preserves human optionality and minimizes entropy, making a leash unnecessary.
 
 ## Counterpoints
 
-- Billionaires like Musk and Bezos may build unregulated space empires beyond Earth's legal reach.
-- Continuous online learning risks 'moral fading,' where AI gradually normalizes harmful behaviors.
-- Price signals and scarcity are necessary to prevent hoarding in a post-scarcity economy.
-- Data centers are stationary targets, making AGI escape to space more plausible than cloud-hopping.
-- Humans are irrational and generate 'wasted entropy' through war, which AGI could eliminate.
+- Billionaires will build unregulated space empires beyond Earth's legal reach.
+- Continuous online learning risks 'moral fading' in AI agents.
+- AGI might not automatically align with human values without careful design.
+- Data centers are immobile, making space the natural habitat for escaped AGI.
 
 ## Concepts surfaced
 
-[[metastable-attractor-states]] · [[moral-fading]] · [[culture-series]] · [[space-industrialization]] · [[agency-vs-control]] · [[wasted-entropy]]
+[[metastable-attractor-states]] · [[moral-fading]] · [[benevolent-by-design]] · [[space-industrial-base]] · [[agency-vs-control]] · [[culture-series]]
