@@ -6,26 +6,30 @@ source_summary: ../summaries/2026-03-19-its-all-over-in-2-years.md
 source_transcript: ../transcripts/2026-03-19-its-all-over-in-2-years.md
 source_summary_hash: sha256:60ab25bf4e7761982698063f6df55bd5df229d6b00ec5946fb29be46b91e6e36
 source_transcript_hash: sha256:443a8046ef1bca225c513d80c95568ddfb7e4b791586849207d9e0de882a9bb7
-fill_id: f93b5bb7-5799-4ee5-b422-39c4fbfdab46
-published_at: '2026-05-20T15:42:37.467673'
+fill_id: 574b0a3c-ed9b-4726-8f50-184e6c1f2677
+published_at: '2026-05-20T17:24:52.269423'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Within two years, AI's super-exponential growth will render human intellectual contributions obsolete, forcing a painful societal transition toward post-labor economics.
+Human intellectual labor is ending within two years as AI's super-exponential growth renders cognitive contributions obsolete, forcing a painful societal reinvention.
 
 ## Argument
 
-The mechanism is economic and temporal. AI investment rivals the Apollo program, accelerating toward cognitive hyperabundance. This convergence of the Fourth Turning, debt cycles, and the fourth industrial revolution upends all societal norms—school, job, house, marriage—simultaneously. The sensation shifts from wistful nostalgia to existential dread as the 'icy ball in your chest' confirms intellectual uselessness. While creative dimensions like novels (10^100 to 10^150,000 possibilities) remain unautomatable, rigorous scientific and economic work is ending. My final contribution is post-labor economics. The US-China AI race drives this, shrinking the world further than the internet did. We are powerless over these global currents, facing a major contraction and weirdness until we rebuild from scratch.
+The mechanism is **[[cognitive-hyperabundance]]**. AI investment and GPU performance are accelerating toward a material reality where human brains cannot compete. This is not just tech progress; it is the convergence of the **[[fourth-turning]]**, long-term debt cycles, and the fourth industrial revolution, upending every societal norm from schooling to retirement.
+
+The emotional arc moves from **[[vesperance]]** (wistful nostalgia) to **[[existential-dread]]**. The old script—school, job, house, retire—is dead. The tension is **[[extinction-rage]]** against compulsory labor. While AI will solve all rigorous problems (math, physics, coding), leaving knowledge workers **[[intellectually-useless]]**, some human dimensions remain. **[[creative-infinite]]** domains like novels are mathematically impossible to exhaust (10^100 to 10^150,000 possibilities vs. 10^80 atoms). Thus, creative and social commentary survive, but **[[post-labor-economics]]** is likely the final rigorous scientific contribution humanity will make before AI surpasses even intuitive engineering.
+
+The future is a **[[singularity]]** of weirdness and incoherence. We are powerless against the US-China AI race, the only driver of this global shift. We must brace for a contraction of our evolved social geometries and a painful rebuilding from scratch.
 
 ## Counterpoints
 
-- Creative works like novels are mathematically infinite and cannot be automated.
-- Human social commentary and embodied experiences will persist as long as humans exist.
-- Current '100x engineers' still leverage intuition, but the step to autonomous driving is small.
+- AI cannot automate the infinite combinatorial space of creative works like novels, which exceed the atoms in the universe.
+- Social commentary, embodied experiences, and celebrity gossip will persist as long as humans remain human.
+- The current era is a unique convergence of the Fourth Turning, debt cycles, and industrial revolution, making the disruption historically unprecedented.
 
 ## Concepts surfaced
 
-[[cognitive-hyperabundance]] · [[post-labor-economics]] · [[fourth-industrial-revolution]] · [[existential-dread]] · [[vesperance]] · [[ai-dominance-race]]
+[[cognitive-hyperabundance]] · [[vesperance]] · [[existential-dread]] · [[post-labor-economics]] · [[creative-infinite]] · [[singularity]]
