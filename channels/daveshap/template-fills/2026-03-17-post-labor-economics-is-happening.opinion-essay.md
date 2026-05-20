@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 1f64d465-249b-43de-89af-955bd1f70581
-published_at: '2026-05-20T09:13:03.262266'
+fill_id: 2c549030-0cb8-44de-a85a-bb0440587970
+published_at: '2026-05-20T10:06:34.361910'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,16 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary extraction to secondary manufacturing, and now to a tertiary service sector that peaked around 2015. As automation renders human labor less necessary for output, the traditional wage model collapses. Post-labor economics defines this decoupling: economic output no longer requires proportional human input. To survive, society must pivot to two income buckets: government transfers (UBI, social security) and capital ownership (stocks, businesses, rentals). The critical failure of current discourse is ignoring capital; boosting capital income is essential to maintain aggregate demand and avoid a deflationary death spiral. This book aims to establish a consensus among voters and politicians by proving that labor-zero is not just an idea, but an inevitable economic reality that requires immediate structural preparation.
+The economy is structured in three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Historically, the primary sector dominated, followed by the secondary sector during the industrial revolution. Now, the tertiary sector has peaked around 2015, mirroring the decline of previous sectors. As automation and AI disrupt the job market, wages will no longer be the main source of household income. Instead, income will come from two buckets: government transfers (UBI, social security) and capital (stocks, businesses, rental properties). The book aims to convince voters and politicians of this shift, emphasizing the need to boost both transfers and capital to maintain consumer demand and avoid a deflationary death spiral. The Kickstarter campaign is crucial for gaining visibility and consensus among key stakeholders.
 
 ## Counterpoints
 
-- Education is useless because you never use what you learned in school.
-- Soft skills are the only valuable protection against automation.
-- AI alignment and X-risk are more important than job market disruption.
-- Publishing as free blog content is sufficient for spreading ideas.
+- Education is useless because you don't use what you learn in school.
+- Soft skills are the most valuable in the age of AI.
+- AI alignment and X-risk are more important than job displacement.
+- Wages will not go to zero, but will not be the primary income source.
+- Capital-based income is often overlooked in post-labor discussions.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[automation-impact]]
+[[post-labor-economics]] · [[automation]] · [[universal-basic-income]] · [[capital-income]] · [[economic-sectors]] · [[kickstarter-campaign]]
