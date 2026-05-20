@@ -1,5 +1,5 @@
 ---
-title: Deep_Learning
+title: Deep Learning
 slug: deep-learning
 description: Referenced by template fill a9eab053-7555-4dae-acf4-53ed27bae3b9 for video -D7o3E0eBf4; awaiting author.
 tags:
@@ -11,6 +11,7 @@ provenance: agent:template-fill-v1
 created: '2026-05-19'
 updated: '2026-05-19'
 ---
+
 
 # Deep_Learning
 

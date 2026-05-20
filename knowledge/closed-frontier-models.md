@@ -1,5 +1,5 @@
 ---
-title: Closed_Frontier_Models
+title: Closed Frontier Models
 slug: closed-frontier-models
 description: Referenced by template fill cd76100b-4681-4cba-957b-21e85e5e9266 for video 1_5sSJK2rU0; awaiting author.
 tags:
@@ -11,6 +11,7 @@ provenance: agent:template-fill-v1
 created: '2026-05-19'
 updated: '2026-05-19'
 ---
+
 
 # Closed_Frontier_Models
 
