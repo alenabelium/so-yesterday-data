@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 90d88311-9b0d-4ccb-b5ed-036785e6b454
-published_at: '2026-05-20T13:42:40.250629'
+fill_id: b0a6f9e1-02cd-4511-9680-d2a5ca2e354e
+published_at: '2026-05-20T14:42:39.092563'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,21 +18,15 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation renders human labor less necessary for economic output, the traditional wage model collapses. Household income must therefore pivot to two remaining buckets: government transfers (UBI, social security) and capital-based income (stocks, businesses, rentals). The critical insight is that transfers alone are insufficient; we must actively boost capital ownership to maintain aggregate demand and avoid a deflationary death spiral. This book serves as the definitive vehicle to build consensus among voters, politicians, and think tanks, proving that post-labor economics is not just an idea but an inevitable structural shift.
-
-[[post-labor-economics]]
-[[automation-impact]]
-[[capital-ownership]]
-[[ub]]
-[[economic-sectors]]
-[[deflationary-spiral]]
+The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation accelerates, wages will no longer sustain household spending. The solution lies in balancing two income buckets: government transfers (UBI, social security) and capital-based income (stocks, businesses, rentals). Boosting capital is critical to prevent a deflationary death spiral and maintain aggregate demand. To make this concept stick, it must achieve mimetic saturation among voters, politicians, and think tanks. A high-quality book is the necessary vehicle to unify these disparate groups, and a viral Kickstarter campaign is the make-or-break mechanism to force this consensus into the public consciousness.
 
 ## Counterpoints
 
-- Objection: Education is useless because what you learn in school is rarely used professionally. Response: The value of school is learning how to learn, but this doesn't address the genuine fear of job displacement.
-- Objection: Soft skills are the most valuable asset in an AI world. Response: While true for individuals, this ignores the macroeconomic reality that labor input is decoupling from output entirely.
-- Objection: Why publish a book instead of free blog posts? Response: A book provides a unified, polished narrative necessary to align voters, politicians, and think tanks, unlike scattered content.
+- Education is useless because you never use what you learned in school.
+- Soft skills are the only valuable protection against automation.
+- Publishing as free blog content is sufficient for spreading ideas.
+- Focusing only on supply-side economics ignores demand-side realities.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[automation-impact]] · [[capital-ownership]] · [[ub]] · [[economic-sectors]] · [[deflationary-spiral]]
+[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[mimetic-saturation]]
