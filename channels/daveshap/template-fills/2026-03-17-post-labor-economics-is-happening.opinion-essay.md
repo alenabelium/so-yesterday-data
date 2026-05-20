@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 54dbd985-18c7-4500-a626-964b29cdfe32
-published_at: '2026-05-20T20:24:53.098879'
+fill_id: ca32a1f5-3211-493e-8787-c8bd2e354eea
+published_at: '2026-05-20T21:24:52.406377'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,16 +18,20 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted through three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Each sector peaked and declined as automation took over. The tertiary sector, which employs most knowledge workers, peaked around 2015. As AI accelerates this trend, wages will no longer sustain household spending. The solution is a dual approach: government transfers (UBI, social security) and capital-based income (stocks, businesses, rentals). The book aims to build consensus among voters and politicians by proving this shift is inevitable and providing a framework for the transition. The Kickstarter campaign is critical to ensure the book reaches a wide audience, including skeptics, to drive political and social change.
+The economy has historically shifted from primary extraction to secondary manufacturing, and now to a tertiary service sector that peaked around 2015. As automation erodes the need for human labor in these sectors, the traditional wage model collapses. Post-labor economics is defined by this decoupling of labor input from economic output. To survive this transition, household income must pivot from wages to two other buckets: government transfers (UBI, social security) and capital assets (stocks, businesses, rentals). The critical insight is that we must actively boost capital-based income alongside transfers to maintain aggregate consumer demand and avoid a deflationary death spiral. This is not just a theoretical exercise but a urgent political mission. The goal is to achieve mimetic saturation among voters, politicians, and think tanks by using a polished book as the single, definitive vehicle for this new economic framework. The current Kickstarter campaign is the make-or-break moment to prove this idea has traction and to force the right people to pay attention.
+
+[[post-labor-economics]]
+[[economic-decoupling]]
+[[capital-income]]
+[[mimetic-saturation]]
 
 ## Counterpoints
 
-- Education is useless because you don't use what you learn in school.
-- Soft skills are the most valuable in an AI world.
-- AI alignment is more important than job displacement.
-- Wages will not go to zero, just become less primary.
-- Capital income is hard to access for average people.
+- Critics may argue that soft skills or the ability to learn are sufficient buffers against automation.
+- Some may believe that education remains valuable regardless of specific job market shifts.
+- Skeptics might doubt that the tertiary service sector is actually peaking or declining.
+- Others may focus solely on government transfers like UBI, ignoring the need for capital accumulation.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[automation]] · [[universal-basic-income]] · [[capital-income]] · [[economic-sectors]] · [[ai-strategy]]
+[[post-labor-economics]] · [[economic-decoupling]] · [[capital-income]] · [[mimetic-saturation]] · [[automation-impact]] · [[universal-basic-income]]
