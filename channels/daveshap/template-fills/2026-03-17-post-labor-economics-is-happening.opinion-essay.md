@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 5ae9007c-e8ed-4bc7-9f9d-1f0b593ac962
-published_at: '2026-05-21T00:24:52.411573'
+fill_id: 151e69f3-4eb2-472c-998d-f0bd2519ba25
+published_at: '2026-05-21T01:24:52.263253'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,20 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation erodes the need for human labor, the traditional wage bucket disappears. Post-labor economics is defined by this decoupling: economic output no longer requires proportional human input. To prevent a deflationary death spiral, household income must be sustained by two other buckets: government transfers (UBI, social security) and capital-based income (stocks, businesses, rentals). The critical insight is that we cannot rely on transfers alone; we must actively boost capital ownership to maintain aggregate consumer demand. This is not just a theoretical exercise but a political necessity. The goal is to achieve 'mimetic saturation' among voters, politicians, and think tanks. A high-quality book is the vehicle to align these disparate groups, starting with convincing the 'conservative father-in-law' archetype to build broad consensus. The current Kickstarter campaign is the make-or-break moment to prove viability and force this new economic framework into the mainstream political discourse.
+The economy is divided into three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Historically, the primary sector dominated until the industrial revolution, followed by the secondary sector. The tertiary sector peaked around 2015 and is now in decline, mirroring the historical trajectory of farming and manufacturing. As automation replaces human labor, wages will no longer be the main driver of household income. Instead, income must come from two buckets: government transfers (UBI, social security) and capital (stocks, bonds, rental properties). The critical insight is that we must actively boost capital-based income to maintain consumer demand and avoid a deflationary death spiral. This is not just about UBI; it is about ensuring everyone has a stake in the capital that generates economic output. The goal is to convince voters, politicians, and think tanks that this new economic model is necessary and viable. The book serves as the definitive text to build consensus and drive this narrative forward, aiming to reach a broad audience, including skeptics like the host's conservative father-in-law.
+
+[[post-labor-economics]]
+[[economic-decoupling]]
+[[capital-income]]
+[[sector-peak]]
 
 ## Counterpoints
 
-- Critics may argue that focusing only on supply-side economics ignores demand-side realities, but the book explicitly integrates both by linking capital boosting to aggregate demand.
-- Some may believe soft skills or learning to learn are sufficient career protections, but this ignores the structural decoupling of labor from output across all sectors.
-- Skeptics might think free blog posts or scattered videos are enough to spread the idea, but a unified book is required to align politicians, voters, and think tanks.
-- There is a fear that wages will simply hit zero, but the argument focuses on wages ceasing to be the *primary* source of income, replaced by transfers and capital.
+- Critics might argue that education is useless because the specific skills learned are rarely used professionally.
+- Some may believe that soft skills are the only safe bet against AI automation.
+- Skeptics might think UBI alone is sufficient without addressing capital ownership.
+- People may fear that automation will not eradicate jobs but merely disrupt them temporarily.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[decoupling-labor-output]] · [[universal-basic-income]] · [[capital-based-income]] · [[mimetic-saturation]] · [[economic-sectors]]
+[[post-labor-economics]] · [[economic-decoupling]] · [[capital-income]] · [[sector-peak]] · [[universal-basic-income]] · [[automation-impact]]
