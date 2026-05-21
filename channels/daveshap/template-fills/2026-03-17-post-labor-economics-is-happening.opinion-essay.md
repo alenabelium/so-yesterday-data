@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 3da54f90-b825-448f-8de0-a9daf2802d8d
-published_at: '2026-05-21T11:24:52.417804'
+fill_id: 25c6226b-4277-46f7-a3ec-862186ceef4a
+published_at: '2026-05-21T12:24:52.302117'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,16 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation erodes the need for human labor, the traditional wage bucket disappears. Post-labor economics defines this decoupling: economic output no longer requires proportional human input. To prevent a deflationary death spiral, household income must pivot to two remaining buckets: government transfers (UBI, social security) and capital (stocks, businesses, rentals). The critical mechanism is "capital boosting capital" to sustain aggregate demand. This isn't just theory; it's a political necessity. The goal is to achieve mimetic saturation among voters, politicians, and think tanks. A high-production book is the vehicle to force consensus, targeting even skeptical demographics like conservative voters to shift the Overton window before the labor market collapse becomes undeniable.
+The economy is structured in three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Historically, the primary sector dominated, followed by the secondary sector during the industrial revolution. Now, the tertiary sector has peaked around 2015, mirroring the decline of previous sectors. As automation and AI disrupt the job market, the traditional reliance on wages for household income becomes unsustainable. Post-labor economics posits that wages will no longer be the main driver of economic activity. Instead, household income must shift to two other buckets: transfers (like UBI and social security) and capital (stocks, bonds, rental properties). The critical insight is that we cannot rely solely on transfers; we must also boost capital-based income to maintain consumer demand and avoid a deflationary death spiral. This dual approach of enhancing both transfers and capital is the core of the post-labor economic model. The goal is to convince voters, politicians, and think tanks of this new framework, ensuring a smooth transition to an economy where human labor is no longer the primary input for economic output.
 
 ## Counterpoints
 
-- Education is useless because you never use what you learned in school.
-- Soft skills are the only safe bet against AI disruption.
-- AI alignment and X-risk are more important than immediate job displacement.
-- Publishing content for free is sufficient to spread the idea.
+- Education is useless because AI will automate all jobs.
+- Soft skills are the only valuable skills in the age of AI.
+- UBI alone is sufficient to replace wages.
+- Capital ownership is already widespread enough.
+- The tertiary sector will not decline like previous sectors.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[universal-basic-income]] · [[capital-income]] · [[automation-displacement]] · [[mimetic-saturation]] · [[deflationary-death-spiral]]
+[[post-labor-economics]] · [[automation-impact]] · [[universal-basic-income]] · [[capital-income]] · [[economic-sectors]] · [[deflationary-spiral]]
