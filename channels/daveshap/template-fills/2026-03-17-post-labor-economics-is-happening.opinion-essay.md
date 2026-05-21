@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: dc916006-e69c-44c3-ae3c-c76e1fc7551c
-published_at: '2026-05-21T20:24:51.377808'
+fill_id: c7262da9-6fdc-475f-a7fd-09a835bb8c40
+published_at: '2026-05-21T22:12:06.744874'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,14 +18,15 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation erodes the need for human labor, the traditional wage bucket disappears. Post-labor economics defines this as the decoupling of human labor input from economic output. To prevent a deflationary death spiral, household income must be sustained by two other buckets: government transfers (UBI, social security) and capital (stocks, businesses, rental properties). The critical insight is that we must actively boost capital-based income alongside transfers to maintain aggregate demand. This is not just a theoretical exercise but a political imperative. The goal is to achieve 'mimetic saturation' of these ideas among voters, politicians, and think tanks. A high-quality book serves as the gold standard vehicle to align these diverse stakeholders, starting with convincing the 'conservative father-in-law' archetype to shift the broader political consensus.
+The economy has historically shifted from primary (extraction) to secondary (manufacturing) and now to a tertiary sector (services) that peaked around 2015. As automation disrupts this final sector, the traditional link between labor and income breaks. Post-labor economics defines this decoupling: wages disappear as the dominant income source. To prevent a deflationary death spiral, society must balance two new income buckets: government transfers (UBI, social security) and capital-based income (stocks, businesses, rentals). The critical mechanism for survival is not just transfers, but actively boosting capital ownership to maintain aggregate consumer demand. This requires a massive shift in public consensus, which is why the author is launching a high-production Kickstarter book. The goal is to reach 'mimetic saturation' among voters, politicians, and think tanks, specifically targeting skeptical demographics like conservative voters to build the political will necessary for this economic transition.
 
 ## Counterpoints
 
-- Education is useless because the point is to learn how to learn.
-- Soft skills are the most valuable set for STEM professionals.
-- Focusing only on supply-side economics ignores demand-side dynamics.
+- Education is useless because the specific skills learned in school are rarely used professionally.
+- Soft skills and the ability to learn are the only safe bets for students facing automation.
+- Publishing content for free as a blog series is sufficient to spread these ideas.
+- Focusing only on supply-side economics ignores the critical demand-side of the economy.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[mimetic-saturation]]
+[[post-labor-economics]] · [[automation-displacement]] · [[universal-basic-income]] · [[capital-income]] · [[economic-sector-shift]] · [[mimetic-saturation]]
