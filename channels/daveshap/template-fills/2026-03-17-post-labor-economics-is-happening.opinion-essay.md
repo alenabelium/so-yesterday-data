@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: e2601a8b-6388-44f7-8a87-4896f737fcca
-published_at: '2026-05-21T08:24:51.487516'
+fill_id: 8b512c2f-9b5b-4944-ae13-36ee37de765c
+published_at: '2026-05-21T09:24:52.324477'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,14 +18,16 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation accelerates, wages will no longer be the main driver of household income. Instead, income must come from two buckets: government transfers (UBI, social security) and capital (stocks, businesses, rentals). The critical insight is that we must actively boost capital-based income to maintain consumer demand and avoid a deflationary death spiral. This book serves as the definitive vehicle to build consensus among voters, politicians, and think tanks, ensuring the 'labor zero' movement gains the mimetic saturation needed to reshape economic policy.
+The economy has historically shifted through three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Each sector peaked and declined as automation took over. The tertiary sector, which employs most knowledge workers, peaked around 2015. As AI accelerates, wages will vanish as the main income source. Households must rely on two buckets: government transfers (UBI, social security) and capital (stocks, businesses, rentals). The critical insight is boosting capital income, not just transfers, to maintain consumer demand and avoid a deflationary death spiral. This book aims to convince voters and politicians that this shift is inevitable and requires a new economic framework. The Kickstarter campaign is a strategic move to gain mimetic saturation among key decision-makers, not just to fund the book. It’s a make-or-break moment to prove the concept to the right audience, including conservative voters and think tanks, ensuring the idea gains traction before it’s too late.
 
 ## Counterpoints
 
-- Students worry about job security and ask what to study, but the answer is that education's value is in learning to learn, not specific technical skills.
-- Critics might argue that publishing as a free blog series is sufficient, but a book is necessary to unify the narrative for policymakers and the general public.
-- Some may focus only on supply-side economics, but the book emphasizes the demand side, specifically how to boost capital income to sustain aggregate demand.
+- Education is useless because AI will replace all jobs.
+- Soft skills are the only safe career path.
+- UBI alone is sufficient to replace lost wages.
+- The tertiary sector will not decline like previous sectors.
+- Book publishing is the wrong vehicle for this message.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[mimetic-saturation]]
+[[post-labor-economics]] · [[automation-impact]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[mimetic-saturation]]
