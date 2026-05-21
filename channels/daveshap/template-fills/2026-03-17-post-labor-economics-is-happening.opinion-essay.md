@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-17-post-labor-economics-is-happening.md
 source_transcript: ../transcripts/2026-03-17-post-labor-economics-is-happening.md
 source_summary_hash: sha256:744051c6ef8e9261ff012f70d6c9d0ba8ba44bf950cd2908c85b6f01ec7d1b83
 source_transcript_hash: sha256:d45bfb5096c05ae2e5cebc83fa68d7f26793eafade610093d888d992ebd397a4
-fill_id: 8fd522c5-61eb-40a0-ab25-94e73e5d5ed6
-published_at: '2026-05-21T02:24:52.384648'
+fill_id: 73f3dc2b-3643-469e-9192-f606a54cf12a
+published_at: '2026-05-21T03:24:52.258884'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,15 @@ Human labor input is decoupling from economic output, meaning wages will cease t
 
 ## Argument
 
-The economy has historically shifted from primary (extraction) to secondary (manufacturing) to tertiary (services) sectors, with the tertiary sector peaking around 2015. As automation erodes the need for human labor, the traditional wage bucket disappears. Post-labor economics defines this decoupling: economic output no longer requires proportional human input. To prevent a deflationary death spiral, household income must pivot to two other buckets: government transfers (UBI, social security) and capital (stocks, rental properties). The critical mechanism for survival is 'capital boosting capital.' Without widespread ownership of capital, the transfer side alone cannot sustain aggregate demand. This is why the book is a deliberate political tool, not just content. It aims to achieve mimetic saturation among voters, politicians, and think tanks. The Kickstarter campaign is the make-or-break moment to prove this concept has traction, forcing the 'conservative father-in-law' demographic to confront the inevitability of a post-labor reality.
+The economy has historically shifted through three sectors: primary (extraction), secondary (manufacturing), and tertiary (services). Each sector peaked and declined as automation took over. The tertiary sector, which employs most of us, peaked around 2015. Just as farming and manufacturing became minor employers, services will too. With wages disappearing, household income must come from two buckets: government transfers (UBI, social security) and capital (stocks, businesses, rentals). The critical insight is that we must boost capital-based income to maintain consumer demand and avoid a deflationary death spiral. This book aims to convince voters and politicians of this new economic reality.
 
 ## Counterpoints
 
-- Education is useless because you never use what you learned in school professionally.
-- Soft skills are the only safe bet against AI disruption.
-- Focusing only on supply-side economics ignores the demand side.
-- AI alignment and X-risk are more important than immediate job market disruption.
+- Education is useless because you never use what you learn.
+- Soft skills are the most valuable set of skills.
+- AI alignment is more important than job disruption.
+- Publishing as a blog series is sufficient for spreading ideas.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[labor-zero]] · [[universal-basic-income]] · [[capital-income]] · [[economic-decoupling]] · [[mimetic-saturation]]
+[[post-labor-economics]] · [[automation]] · [[universal-basic-income]] · [[capital-income]] · [[economic-sectors]] · [[deflationary-death-spiral]]
