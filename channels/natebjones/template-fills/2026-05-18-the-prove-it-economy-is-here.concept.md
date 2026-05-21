@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-05-18-the-prove-it-economy-is-here.md
 source_transcript: ../transcripts/2026-05-18-the-prove-it-economy-is-here.md
 source_summary_hash: sha256:80cdcd6b50475a3c2413d7d1acbff9a1f54234029de9974a612d16f23e8cb917
 source_transcript_hash: sha256:29cfba5c7436e9f7e44819ec9eee1d727315f5e2cd64dce72d59bf3ba3d27f81
-fill_id: 0e9189b0-1795-4f6a-aca4-d0ecb5abd2d0
-published_at: '2026-05-21T07:24:53.725197'
+fill_id: ba68dd7e-8595-4cd0-8594-1f0d8bb1aaca
+published_at: '2026-05-21T08:24:53.048976'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-The internet economy is shifting from attention to interpretation, where AI agents mediate hiring and purchasing. To survive, individuals and brands must build a 'truth layer' of structured, factual data that agents can verify. Simultaneously, strong human brand loyalty remains critical to constrain agent choices. Success requires balancing technical legibility for AI with emotional resonance for humans.
+The internet economy is shifting from attention to interpretation, where AI agents mediate hiring and purchasing decisions. To survive, individuals and brands must build a 'truth layer' of structured, factual data that allows agents to verify claims. Simultaneously, offline human connection remains vital for brand loyalty, creating a dual strategy for the future.
 
 ## The argument
 
 ### Define the Interpretation Economy
 - **Anchor Timestamps**: ['00:00:00']
-- **Claim**: The economy has moved from attention (shouting for eyeballs) to interpretation (AI filtering decisions). Consumers and hiring managers now ask AI agents for recommendations, making AI the first port of call for trust and discovery.
+- **Claim**: The economy has moved from attention (shouting for eyeballs) to interpretation (AI filtering decisions). Agents are the first port of call for trust and transactions, replacing the old attention funnel.
 - **Role**: definition
 
-### Build a Truth Layer for Agents
+### Build the Truth Layer
 - **Anchor Timestamps**: ['00:05:51']
-- **Claim**: Marketers and individuals must provide a 'truth layer' of high-fidelity, structured data (e.g., JSON schemas, technical specs) that allows agents to extract clear, opinionated signals. Without this, entities are flattened into the internet average.
+- **Claim**: Agents require a 'truth layer' of high-fidelity, structured data to map customer intent. Without opinionated, provable details, products and candidates are flattened into the internet average.
 - **Role**: definition
 
-### Counter: Human Loyalty Constrains AI
-- **Anchor Timestamps**: ['00:14:13']
-- **Claim**: Human memory and offline brand loyalty become more valuable as transactions become mediated. Strong emotional connections allow humans to name specific brands, constraining the agent's search space and preventing it from offering generic alternatives.
-- **Role**: counter
+### Leverage Offline Memory
+- **Anchor Timestamps**: ['00:11:38']
+- **Claim**: Human memory becomes more valuable as transactions are mediated. Offline events create strong brand loyalty, allowing humans to ask for specific brands by name, constraining the agent's options.
+- **Role**: evidence
 
-### Synthesize the Two-Internet Strategy
+### Synthesize the Two Internets
 - **Anchor Timestamps**: ['00:15:05']
-- **Claim**: Success requires reinforcing both the human-facing layer (memory, trust, offline presence) and the agent-facing layer (clarity, structure, evidence). AI washing or lacking opinions leads to being averaged out; distinct, provable differentiation is the only wedge.
+- **Claim**: Success requires reinforcing both human-facing memory and agent-facing clarity. AI washing is dangerous; instead, lean into honest, technical differentiation to stand out to both humans and agents.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites buying a sound system via AI chat as a personal example of the interpretation economy in action. He notes that while back-office automation (like using AI for resumes) is 'table stakes' in 2026, it doesn't provide leverage. He warns against 'AI washing' where deceptive claims lead to disappointment. The caveat is that agents need 'spicy,' opinionated, and specific data to avoid flattening brands into the average; vague or purely emotional marketing fails to map customer intent for agents.
+The speaker cites buying a sound system via AI chat as a consumer example where agents filtered options based on structured data. He also references his 'Talent Board' project for individuals to prove AI skills. Caveats include the risk of 'AI washing' where deception leads to disappointment, and the observation that back-office automation is merely 'table stakes' in 2026, not a differentiator.
 
 ## Concepts surfaced
 
-[[interpretation-economy]] · [[truth-layer]] · [[ai-agent-mediated-purchasing]] · [[brand-loyalty-in-ai-age]] · [[prove-it-economy]] · [[ai-washing-risk]]
+[[interpretation-economy]] · [[truth-layer]] · [[ai-agents]] · [[brand-loyalty]] · [[offline-marketing]] · [[ai-washing]]
