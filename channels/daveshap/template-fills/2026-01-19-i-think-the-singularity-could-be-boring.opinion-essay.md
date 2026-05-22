@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-01-19-i-think-the-singularity-could-be-boring.
 source_transcript: ../transcripts/2026-01-19-i-think-the-singularity-could-be-boring.md
 source_summary_hash: sha256:416dbc19de45f8ce03e8ecf476ec32e86fb2d52b109cc5015f9c6891405ae2fc
 source_transcript_hash: sha256:7d7860ce9cf35bd434ee954ad79129b8295d3200be6f3b870ae3bd4c814ad2a6
-fill_id: 0f75db22-b4b1-4dfb-90dc-9531b74578cb
-published_at: '2026-05-22T01:07:41.110700'
+fill_id: ec610e86-1e81-42cc-9446-eb136d008aa4
+published_at: '2026-05-22T01:17:10.594882'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The singularity will feel boring because human neurology normalizes rapid change instantly, while the physical infrastructure of AI and energy remains invisible, masking the scale of transformation.
+The singularity will be boring because human neural adaptation normalizes rapid change, while the physical infrastructure of AI and space-based energy remains invisible to daily life.
 
 ## Argument
 
-The host argues that the singularity is not a sudden event but a gradual normalization of capabilities. As AI agents like Claude Code achieve autonomous coding feats, the "jagged frontier" of AI capability expands, yet daily life remains unchanged because the underlying infrastructure is hidden. In 2046, 99% of computational cycles will serve AI, not humans, making the invention of computers for AI obvious in hindsight. The most visible change will be personalized medicine via home genomic analysis, but even this becomes mundane once normalized. Robots will operate invisibly in logistics and agriculture, and energy production will shift to power AI workloads, with residential use becoming trivial. The host posits that physics may be running out of surprises, following a sigmoid curve where intelligence cannot overcome limits on energy, distance, and time. Human brains update their self-models quickly, making incremental progress feel boring rather than miraculous. While science fiction imagines dramatic shifts like faster-than-light travel, physical laws impose hard limits that intelligence alone cannot bypass. The singularity is boring because we adapt to each step, never perceiving the cumulative magnitude of change until it is already the new normal.
+The host argues that the singularity will feel mundane due to two converging forces: psychological adaptation and physical invisibility. First, human brains possess a "normalcy bias" that updates our self-model within weeks, making transformative shifts like autonomous coding or personalized medicine feel ordinary rather than miraculous. Second, the infrastructure enabling these changes—AI workloads, energy grids, and space-based Dyson swarms—is hidden from view. We will not see the "jagged frontier" of AI; we will only see the results. The host posits that all future energy production will serve AI, with residential use becoming trivial. Furthermore, while computation grows exponentially, physics imposes hard limits on energy, distance, and time. We are likely past the "golden age" of fundamental physics discoveries, meaning intelligence cannot overcome thermodynamic constraints. Progress will follow a sigmoid curve, not an infinite exponential one, leading to a "boring" reality where incremental improvements compound without delivering the dramatic, transcendent "event horizon" many expect.
 
 ## Counterpoints
 
-- AI might not be the sole driver of energy consumption if computing efficiency improves drastically.
-- Physics could still yield surprising discoveries, such as new forms of energy or matter.
-- Mind uploading or faster-than-light travel might be physically possible despite current skepticism.
-- The 'boring' narrative ignores the profound societal disruption caused by widespread automation.
-- Human adaptation to change is not universal; many may experience shock rather than normalization.
+- Sam Altman's "Gentle Singularity" concept suggests a slow, boring transition rather than a hard takeoff.
+- Physics might still hold surprises, such as new energy sources or particles, defying the sigmoid curve.
+- Faster-than-light travel or mind uploading could occur, though the host deems them physically unlikely.
+- The "jagged frontier" of AI means some capabilities surge while others lag, complicating the "boring" narrative.
+- Most people are unaware of AI's capabilities, so they may experience a sudden, non-boring shock rather than gradual normalization.
 
 ## Concepts surfaced
 
-[[jagged-frontier]] · [[boring-singularity]] · [[ai-infrastructure]] · [[personalized-medicine]] · [[physics-limits]] · [[neurological-normalization]]
+[[jagged-frontier]] · [[boring-singularity]] · [[normalcy-bias]] · [[thermodynamic-limits]] · [[sigmoid-progress]] · [[space-based-infrastructure]]

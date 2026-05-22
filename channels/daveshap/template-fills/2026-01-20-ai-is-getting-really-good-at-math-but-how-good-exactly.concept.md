@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-01-20-ai-is-getting-really-good-at-math-but-ho
 source_transcript: ../transcripts/2026-01-20-ai-is-getting-really-good-at-math-but-how-good-exactly.md
 source_summary_hash: sha256:c50e8c8ab47a1807e88f9921fe00157e196774a28c27330007bc5ea59cb5be5c
 source_transcript_hash: sha256:f2f3692e9b4264192b714ce134f36c93bebed76f12fb514d131a7ff046a24290
-fill_id: b0707089-c708-4477-ac0f-8028822c3d2d
-published_at: '2026-05-22T01:07:38.424189'
+fill_id: d7c9a395-f325-48c5-8622-de25219283e5
+published_at: '2026-05-22T02:09:07.208852'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI has shifted from scaling laws to inference-time search, achieving superhuman math via Monte Carlo tree search. This enables a hybrid neurosymbolic workflow where neural intuition feeds symbolic verification. The result is a 'super scope' that automates the grunt work of high-dimensional exploration, moving science from hypothesis testing to formal verification.
+AI's mathematical capability has surged from <2% to ~40% on frontier benchmarks, driven by a shift from training-scale to inference-time compute. This new paradigm combines neural intuition with symbolic verification, creating a self-sustaining loop of synthetic data generation. The result is the commoditization of advanced math, transforming software reliability and scientific discovery.
 
 ## The argument
 
-### Paradigm Shift to Search
+### The Inference-Time Compute Shift
 - **Anchor Timestamps**: ['00:04:26']
-- **Claim**: The primary mechanism for AI math capability is no longer training data scaling, but inference-time compute and Monte Carlo tree search. This allows models to explore high-dimensional spaces rather than just pattern matching.
+- **Claim**: The primary driver of recent AI math breakthroughs is not model scaling, but inference-time compute and Monte Carlo tree search. This allows models to explore high-dimensional spaces dynamically rather than relying solely on static training data.
 - **Role**: definition
 
-### Hybrid Neurosymbolic Loop
+### The Neurosymbolic Feedback Loop
 - **Anchor Timestamps**: ['00:07:07']
-- **Claim**: The breakthrough architecture combines neural networks for creative intuition with symbolic engines (like Lean) for rigorous proof. This feedback cycle grounds hallucination in provable logic, creating a self-contained system for generating and verifying synthetic data.
+- **Claim**: The core mechanism is a hybrid neurosymbolic approach: neural networks provide creative, intuitive guesses, while symbolic engines (like Lean) formally verify them. This creates a closed loop where verified proofs generate high-quality synthetic data for further training.
 - **Role**: definition
 
-### The Super Scope Mechanism
-- **Anchor Timestamps**: ['00:12:22']
-- **Claim**: Terence Tao describes this workflow as a 'super scope,' allowing mathematicians to offload cognitive grunt work. AI explores defined spaces exhaustively, finding gradients and anomalies in emergent complexity that humans cannot manually traverse.
+### Terence Tao's Super Scope Workflow
+- **Anchor Timestamps**: ['00:11:13']
+- **Claim**: Experts like Terence Tao use AI as a 'super scope' to explore defined mathematical spaces. By running multiple agents in parallel to test different intuitive hypotheses, humans offload the 'grunt work' of formalization and proof-checking to AI.
 - **Role**: evidence
 
-### Verification Over Approximation
-- **Anchor Timestamps**: ['00:33:10']
-- **Claim**: This shifts the scientific method from isolating variables to full formal verification. Verification becomes the bottleneck, not production, because verifying a proof takes significantly less energy than generating it, enabling rapid iteration and reliability.
+### Commoditization of Rigor
+- **Anchor Timestamps**: ['00:16:38']
+- **Claim**: As formal verification becomes cheap and automated, it replaces approximate testing. This shifts the bottleneck from mathematical capability to human specification and physical reality, making robust, crash-proof software and simulations the new standard.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Frontier Math benchmarks jumped from <2% in 2024 to ~40% in 2026. OpenAI and DeepMind both achieved IMO gold. Terence Tao runs 10 parallel AI agents daily. Caveats: AI is currently a 'savant undergraduate,' not a professor; it cannot yet solve Millennium Prize problems like the Riemann hypothesis. The 'last mile' of benchmarks remains hard. Physical reality is still the final validation layer; simulations must eventually be built to test unknown unknowns. Intelligence arbitrage will disappear as tools become ubiquitous.
+Frontier Math benchmarks jumped from <2% in 2024 to ~40% in early 2026. OpenAI and DeepMind both achieved IMO gold. However, Millennium Prize problems remain unsolved, and AI is currently a 'savant undergraduate' rather than a professor. The speaker notes that while math is decidable, physical reality remains the final validation layer for engineering and biology. The 'last mile' of benchmarks may be harder, and human intuition for problem specification remains critical.
 
 ## Concepts surfaced
 
-[[neurosymbolic-ai]] · [[monte-carlo-tree-search]] · [[formal-verification]] · [[cognitive-offload]] · [[synthetic-data-generation]] · [[inference-time-compute]]
+[[neurosymbolic-ai]] · [[inference-time-compute]] · [[formal-verification]] · [[cognitive-offload]] · [[synthetic-data-generation]]
