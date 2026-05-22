@@ -6,47 +6,47 @@ source_summary: ../summaries/2026-05-21-the-shift-from-prompting-to-questioning-
 source_transcript: ../transcripts/2026-05-21-the-shift-from-prompting-to-questioning-ai.md
 source_summary_hash: sha256:38dce93980230700c9e572b5701af535539293788a52b82b301117f55a0eea8b
 source_transcript_hash: sha256:9a9d83548b259270e646c425266f1ca48ba43face33a9062575239704ca50b0c
-fill_id: e91a5700-ed69-4e65-841d-f4b99f0634e6
-published_at: '2026-05-22T01:17:16.024874'
+fill_id: 7aaa8a66-6ed7-4523-b9a5-afb01919b385
+published_at: '2026-05-22T02:18:46.402751'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Prompt engineering has become table stakes, rendering traditional task-based prompting obsolete for advanced agents. The speaker introduces a 'questioning methodology' that treats AI as a senior partner rather than a junior assistant. This shift requires framing interactions through strategic questions that define intent, explore boundaries, and synthesize diverse data inputs to unlock higher-leverage outcomes in heavy knowledge work.
+Prompt engineering has become table stakes, rendering traditional task-based prompting obsolete for advanced agents. The 'AI Question Method' reframes the user as a manager and the AI as a senior partner, shifting interaction from direct commands to strategic inquiry. This mental model enables deeper collaboration in heavy knowledge work by leveraging the agent's expanded reasoning capabilities.
 
 ## The argument
 
-### The Mental Model Shift: Junior to Senior Partner
+### The Senior Partner Mental Model
 - **Anchor Timestamps**: ['00:03:41']
-- **Claim**: AI capabilities have accelerated with models like 4.7 and 5.5, making it 100x more powerful than six months ago. Users must stop treating AI as a junior partner requiring specific task instructions and start treating it as a senior partner capable of complex, open-ended collaboration.
+- **Claim**: AI has evolved from a junior assistant requiring specific task instructions to a senior partner capable of complex, open-ended collaboration. Users must shift their mental model to treat AI as a peer in deep knowledge work, not a tool for executing defined tasks.
 - **Role**: definition
 
-### Principle 1: The Flashlight Intent
+### Principle 1: Flashlight Intent
 - **Anchor Timestamps**: ['00:12:23']
-- **Claim**: Questions must convey a specific perspective or thesis, acting as a 'center of the flashlight' with clear edges. This directs the AI's focus while allowing it to explore the surrounding problem space, avoiding overly open-ended or closed-ended queries.
+- **Claim**: Questions must convey a specific perspective or thesis (the 'center of the flashlight') while defining clear boundaries (the 'edges'). This directs the AI's focus without restricting its exploratory range, preventing overly open or closed-ended responses.
 - **Role**: evidence
 
-### Principle 2: Inviting Synthesis Over Eval
-- **Anchor Timestamps**: ['00:14:06']
-- **Claim**: Instead of rigid evaluations, ask questions that force the AI to contend with complex outcomes and synthesize across multiple directions. This leverages the AI's ability to wrestle with ambiguity and generate nuanced responses that static evals cannot capture.
+### Principle 2: Synthesis Over Eval
+- **Anchor Timestamps**: ['00:13:28']
+- **Claim**: Instead of writing rigid evaluations, ask open-ended questions that force the AI to synthesize complex outcomes. This leverages the model's ability to explore what 'good' looks like across multiple dimensions, such as customer experience and technical integration.
 - **Role**: evidence
 
-### Principle 3: Data and Opinion Integration
+### Principle 3: Data and Thesis Engagement
 - **Anchor Timestamps**: ['00:19:35']
-- **Claim**: Effective questioning requires invoking both hard data artifacts and implicit opinions/theses. By framing questions that challenge the AI to examine all provided data sources through the lens of your specific thesis, you ensure comprehensive engagement rather than superficial mirroring.
+- **Claim**: Invite the AI to wrestle with both hard data inputs and the user's implicit opinions. By providing a folder of diverse artifacts and a specific thesis to test, the user ensures the AI engages with the entire context rather than cherry-picking data.
 - **Role**: evidence
 
-### Synthesis: The Question Method as New Standard
+### Synthesis: The New Prompting Standard
 - **Anchor Timestamps**: ['00:23:49']
-- **Claim**: The 'question method' replaces prompt engineering as the core skill for heavy knowledge work. By using sharp, intent-driven questions, users enable AI to act as a true collaborator, exploring problem spaces and delivering meaningful creative work that task-based prompting cannot achieve.
+- **Claim**: The shift from prompting to questioning is not a rejection of past techniques but an evolution of intent. Sharp, strategic questions allow AI to act as a true partner in creative and analytical work, moving beyond the limitations of 2025's task-based prompting.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites specific model updates (Opus 4.7, OpenAI 5.5) as the catalyst for this shift, noting that agentic workflows have become significantly more powerful. He provides concrete examples: using a 'flashlight' analogy to define intent boundaries in marketing attribution, and a fictional Prime Video PR FAQ to demonstrate synthesis. He also distinguishes 'heavy knowledge work' (co-work with frontier models) from 'agentic pipelines' (predictable workflows like customer service tickets), noting this method applies to the former. Caveats include that this approach requires cutting-edge models and sufficient context windows; it may not work on free accounts or older models. The speaker also notes that while prompt engineering is 'dead' as a differentiator, it remains 'table stakes' for basic competence.
+The speaker illustrates the method using a marketing attribution problem where the AI must synthesize CSVs and Excels into a narrative deck. Another example involves a fictional Prime Video PR FAQ, where the AI is asked to consider customer experience across 3D and non-3D contexts. A third example uses MRR (Monthly Recurring Revenue) data, where the user provides a thesis that 'product-led growth is broken' and asks the AI to validate or refute it using voice-of-customer transcripts and support tickets. Caveats include the requirement for 'heavy knowledge work' with frontier models (specifically mentioning 4.7 and 5.5 updates). The method may not work for free accounts, those running out of tokens quickly, or users of older models. The speaker also distinguishes this from 'agentic pipelines' used for predictable, buttoned-up workflows like customer service tickets.
 
 ## Concepts surfaced
 
-[[agentic-workflows]] · [[heavy-knowledge-work]] · [[model-capabilities]] · [[prompt-engineering-dead]] · [[senior-partner-model]] · [[question-method]]
+[[agentic-pipelines]] · [[frontier-models]] · [[heavy-knowledge-work]] · [[mental-models]] · [[prompt-engineering]] · [[synthesis]]
