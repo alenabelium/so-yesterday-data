@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-05-21-the-shift-from-prompting-to-questioning-
 source_transcript: ../transcripts/2026-05-21-the-shift-from-prompting-to-questioning-ai.md
 source_summary_hash: sha256:38dce93980230700c9e572b5701af535539293788a52b82b301117f55a0eea8b
 source_transcript_hash: sha256:9a9d83548b259270e646c425266f1ca48ba43face33a9062575239704ca50b0c
-fill_id: 63663e3c-859d-4bf7-8ae8-2cc6c656de79
-published_at: '2026-05-22T03:18:09.210716'
+fill_id: 3924846e-aac8-46a2-9741-7f1b5cd8b763
+published_at: '2026-05-22T04:17:07.854212'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Prompt engineering has become table stakes, necessitating a shift to a 'questioning' methodology for advanced AI agents. By treating AI as a senior partner rather than a junior assistant, users can leverage complex agentic workflows more effectively. This approach involves framing interactions through strategic questions that define intent, explore boundaries, and synthesize diverse data inputs.
+Prompt engineering has become table stakes, rendering traditional task-based prompting obsolete for advanced agents. The new paradigm treats AI as a senior partner, leveraging a 'questioning methodology' to define intent, explore boundaries, and synthesize complex data. This shift unlocks higher-leverage outcomes in heavy knowledge work by focusing on strategic inquiry rather than rigid instruction.
 
 ## The argument
 
 ### Define the Senior Partner Mental Model
 - **Anchor Timestamps**: ['00:03:41']
-- **Claim**: The core shift is treating AI as a senior partner, not a junior assistant. This requires moving away from specific task definitions toward strategic questioning that invites deep partnership thinking.
+- **Claim**: AI has evolved from a junior assistant requiring specific, careful instructions to a senior partner capable of complex agentic workflows. This shift, accelerated by models like 4.7 and 5.5, demands a new interaction model where users frame work as strategic partnerships rather than task assignments.
 - **Role**: definition
 
-### Principle 1: Flashlight Intent
+### Apply the Flashlight Intent Principle
 - **Anchor Timestamps**: ['00:12:23']
-- **Claim**: Questions must convey a 'center of the flashlight' intent with clear directionality and hard edges, preventing overly open or closed-ended responses by defining the scope of exploration.
+- **Claim**: Effective questioning requires defining a 'center of the flashlight' intent—a clear thesis or perspective—while simultaneously establishing hard edges or boundaries for what to exclude. This provides the AI with a target to explore without being overly open-ended or narrowly constrained.
 - **Role**: evidence
 
-### Principle 2: Synthesis Over Eval
-- **Anchor Timestamps**: ['00:13:28']
-- **Claim**: Instead of rigid evals, ask open-ended questions that force the AI to contend with complex outcomes and synthesize across multiple difficult directions, leveraging its ability to explore what 'good' looks like.
+### Synthesize Across Complex Data Inputs
+- **Anchor Timestamps**: ['00:19:35']
+- **Claim**: Users must ask questions that force the AI to wrestle with both formal data artifacts and implicit opinions across a broad context window. By inviting the AI to examine all inputs and push back on the user's thesis, the interaction becomes a true synthesis of diverse evidence rather than a simple mirroring of instructions.
 - **Role**: evidence
 
-### Principle 3: Data and Opinion Integration
-- **Anchor Timestamps**: ['00:18:31']
-- **Claim**: Effective questioning invokes both hard data artifacts and implicit opinions, ensuring the AI engages with the entire breadth of inputs rather than just one, allowing for genuine counter-thesis generation.
-- **Role**: evidence
-
-### Synthesis: The End of Prompt Engineering
+### Synthesis: The Question Method
 - **Anchor Timestamps**: ['00:23:49']
-- **Claim**: Prompt engineering is dead as a differentiator; the future lies in the 'AI question method' where intent is expressed through sharp questions that enable meaningful creative work with senior-level AI agents.
+- **Claim**: The 'AI Question Method' replaces prompt engineering by using a series of sharp, open-ended questions to guide the AI's exploration. This approach leverages the agent's increased power to perform meaningful creative work and strategic thinking, marking a definitive break from 2025-era prompting habits.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The host cites updates in agentic workflows with '4.7 and 5.5' (Opus and OpenAI) as the catalyst for this shift. He notes that while prompt engineering is 'table stakes,' it no longer yields credit. The method is specifically for 'heavy knowledge work' with frontier models; it may not work for free accounts, older models, or those running out of tokens quickly. The host also distinguishes this from 'agentic pipelines' (e.g., customer service ticket handling), which are defined workflows rather than deep partnership thinking. He references a Substack for quick-start guides and emphasizes that this approach teaches good management practices simultaneously.
+The host illustrates the method with examples like analyzing marketing attribution data, writing a PR FAQ for a fictional Prime Video launch, and investigating MRR problems via product-led growth. He notes that this approach works best with cutting-edge models (e.g., 5.5 in CodeEx) and heavy knowledge work. Caveats include that it may not work for free accounts, those who run out of tokens quickly, or users of older models. The host also distinguishes this from 'agentic pipelines' (e.g., customer service ticket handling), which are defined workflows rather than deep partnership thinking.
 
 ## Concepts surfaced
 
-[[agentic-workflows]] · [[prompt-engineering]] · [[senior-partner-model]] · [[heavy-knowledge-work]] · [[ai-question-method]] · [[agentic-pipelines]]
+[[agentic-workflows]] · [[heavy-knowledge-work]] · [[model-capabilities]] · [[human-ai-collaboration]] · [[prompt-engineering-dead]] · [[context-window-management]]
