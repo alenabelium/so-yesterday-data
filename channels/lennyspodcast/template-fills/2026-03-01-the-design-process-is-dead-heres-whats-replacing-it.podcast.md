@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-01-the-design-process-is-dead-heres-whats-r
 source_transcript: ../transcripts/2026-03-01-the-design-process-is-dead-heres-whats-replacing-it.md
 source_summary_hash: sha256:4fc31a009a3e8a5016161d2f1058f61826482ea5b5fd955c7c4b606e66638851
 source_transcript_hash: sha256:933589d13c36043256f33c3578e411c7d5d7c9fab66ee3804c219f34f50678b4
-fill_id: a2fc3426-9edf-4a81-a2a2-b3292bd04246
-published_at: '2026-05-19T04:42:44.998512'
+fill_id: 19d593b9-c2de-4ccd-97d3-5f44e5bfdf1d
+published_at: '2026-05-21T23:51:47.418267'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Jenny Wen
 - **Title**: Head of Design for Claude Co-work at Anthropic
 - **Org**: Anthropic
-- **Bio Oneliner**: Former director of design at Figma, leading design for Claude Co-work.
+- **Bio Oneliner**: Former director of design at Figma, now leading design for Claude Co-work, focusing on the intersection of AI and product design.
 - **Platform**: duo
 
 ## Cold open
@@ -30,34 +30,33 @@ provenance: agent:template-fill-v1
 - **Attribution**: Jenny Wen
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=0)
 
-### At the end of the day, someone has to decide what is actually going to get built and what actually matters.
+### How do we keep up with all our agents? There are seven agents who are constantly running.
 - **Attribution**: Jenny Wen
-- **Timestamp**: [00:42](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=42)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=0)
 
 ## Key arguments
 
 ### The Death of Traditional Design Process
 - **Timestamp**: [05:50](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=350)
-- **Summary**: Jenny argues the traditional research-diverge-converge process is dead because AI coding tools allow engineers to ship features instantly. Design work has stratified into supporting fast execution and creating short-horizon (3-6 month) visions rather than multi-year design decks.
+- **Summary**: Jenny argues that the traditional research-diverge-converge design process is dead, forced by AI coding tools that allow engineers to execute features rapidly. Design work has stratified into supporting fast execution and creating short-horizon (3-6 month) product visions rather than multi-year design decks.
 - **Anchor Quotes**: [0, 1]
 
 ### Stratification of Design Work
 - **Timestamp**: [06:48](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=408)
-- **Summary**: Design time has shifted from 60-70% mocking/prototyping to 30-40%, with the rest split between pairing with engineers and writing code. Designers must now help teams execute and maintain cohesion as engineers build rapidly with AI agents.
+- **Summary**: Design roles now split between supporting implementation alongside engineers using AI agents and creating short-term visions. Jenny’s time allocation shifted from 60-70% mocking/prototyping to 30-40%, with the rest spent pairing with engineers and writing code.
 - **Anchor Quotes**: [2]
 
-### Human Judgment and Accountability
+### Human Value in Judgment and Taste
 - **Timestamp**: [28:30](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=1710)
-- **Summary**: While AI will improve at taste and judgment, humans remain essential for accountability and deciding what gets built. AI can weigh in on disputes, but someone must still be liable for the final decision, similar to radiology.
-- **Anchor Quotes**: [2]
+- **Summary**: While AI will improve at taste and judgment, humans remain accountable for deciding what gets built. The hardest parts of software are often disagreements on features, which AI cannot fully resolve, requiring human oversight and liability.
 
 ### Hiring Archetypes for the AI Era
 - **Timestamp**: [46:26](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=2786)
-- **Summary**: Jenny identifies three valuable designer archetypes: strong generalists (block-shaped skills), deep specialists (deep T-shape), and craft new grads who are eager learners without baked-in process biases.
+- **Summary**: Jenny identifies three key archetypes for hiring: strong generalists (block-shaped skills), deep specialists (deep T-shape), and craft new grads who are eager learners without baked-in process biases, emphasizing resilience and adaptability.
 
 ### Management and the Legibility Framework
-- **Timestamp**: [56:00](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=3360)
-- **Summary**: Managers should embrace low-leverage tasks to build trust and use the Legibility Framework to spot promising but unclear ideas. Jenny also advocates for psychological safety that allows for roasting and high standards.
+- **Timestamp**: [55:00](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=3300)
+- **Summary**: Jenny discusses the value of managers doing low-leverage tasks to build empathy and trust. She also introduces the Legibility Framework, suggesting designers should spot illegible ideas with high energy and transform them into understandable products.
 
 ## Quotes to remember
 
@@ -65,36 +64,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Jenny Wen
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=0)
 
-### At the end of the day, someone has to decide what is actually going to get built and what actually matters.
+### We used to go off and make this 2 year 5 year 10 year vision even. Now it becomes a vision that's 3 to 6 months out.
 - **Speaker**: Jenny Wen
 - **Timestamp**: [00:42](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=42)
 
-### We're building trust through speed, but also just like making people feel like they've been heard.
+### Someone still needs to be accountable for the decision.
 - **Speaker**: Jenny Wen
-- **Timestamp**: [26:55](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=1615)
+- **Timestamp**: [00:42](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=42)
 
-### It is what it is. I think just given how much stuff is going on... you can't control everything.
+### It is what it is. It sounds super defeatist, but I promise it's not. It brings the levity you need to move forward.
 - **Speaker**: Jenny Wen
 - **Timestamp**: [01:13:28](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=4408)
 
 ## Predictions
 
-### AI sense of taste and judgment will get significantly better, potentially deciding what to build.
-- **Hedge**: We might be holding on to the idea that humans always know the best thing to ship too much.
+### AI sense of taste and judgment will get significantly better, potentially surpassing human designers in aesthetic decisions.
+- **Hedge**: We might be holding on to the idea that designers will always know the best thing to ship a little too much.
 - **Timestamp**: [28:30](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=1710)
 
-### Design tooling will change significantly in the next year or so as it trails engineering tooling.
-- **Hedge**: Currently, design tooling is trailing behind the rapid changes in engineering.
-- **Timestamp**: [11:28](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=688)
+### Design tooling will change significantly in the next year as it trails engineering tooling.
+- **Hedge**: Currently, design tooling is trailing behind the rapid changes in engineering tools.
+- **Timestamp**: [10:28](https://www.youtube.com/watch?v=eh8bcBIAAFo&t=628)
 
 ## Lightning round
 
 - **Books**: ['The Power Broker by Robert Caro', 'Insomniac City by Bill Hayes']
-- **Media**: ['A Sentimental Value (Norwegian film)', 'The Pitt (TV show)']
-- **Products**: ['Retro (photo sharing app)']
+- **Media**: ['A Sentimental Value (Norwegian film)', 'The Pitt (TV Show)']
+- **Products**: ['Retro (community photo sharing app)']
 - **Motto**: It is what it is.
-- **Advice**: Build actual things, share them, and find a community. Don't feel limited by experience.
+- **Advice**: Build actual things, share them, and find a community. For new grads, being unburdened by industry expectations allows you to feel like anything is possible.
 
 ## Concepts surfaced
 
-[[design-process]] · [[ai-coding-tools]] · [[human-judgment]] · [[design-hiring]] · [[management-style]] · [[claude-code]] · [[claude-co-work]] · [[legibility-framework]]
+[[ai-coding-tools]] · [[design-process-evolution]] · [[human-in-the-loop]] · [[product-vision]] · [[hiring-archetypes]] · [[managerial-empathy]] · [[legibility-framework]] · [[ai-taste-judgment]]
