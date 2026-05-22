@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-01-14-85-of-people-will-be-unemployable.md
 source_transcript: ../transcripts/2026-01-14-85-of-people-will-be-unemployable.md
 source_summary_hash: sha256:bb070aa4cefb9d1c6b7867530e4025bb8b98d3d4cd0b70ac4eeaee81c7804c9e
 source_transcript_hash: sha256:047266796959d02baa8aca9d72e3a7841ce4ae2372e6ba2c637af1255c9cee2f
-fill_id: a871e20a-c2d4-4d75-b147-03b3d6681962
-published_at: '2026-05-22T05:17:06.940319'
+fill_id: 987b5326-fcaf-4d7c-b1e4-21572604f0be
+published_at: '2026-05-22T06:17:07.853368'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Labor force participation will collapse to 10-15% because infinite AI production capacity is capped by finite human attention, turning employment into a lottery rather than a market.
+Labor force participation will collapse to 10-15% because human demand for goods is infinite but demand for human labor is capped by the physics of attention.
 
 ## Argument
 
-The model rests on three stipulations: machines surpass humans on all functional dimensions, aggregate demand is stabilized via UBI or capital distribution, and human demand persists only where 'humanness' is a product feature. This leaves a statutory floor of 1.5-2.3% (legal/liability roles) and an authenticity premium of 6-10% (craft, status, care). Even in an optimistic demand-side expansion scenario where free time drives consumption of human-centric experiences, the hard physics of the 24-hour day prevents infinite scaling. The economy shifts from labor scarcity to attention scarcity, governed by extreme power laws where the top 1% of creators capture the lion's share of attention. With AI erasing skill barriers, supply floods the market, causing rent dissipation and driving earnings toward the reservation wage. The residual labor force participation rate collapses to 10-15%, distributed as part-time work or concentrated in the top tier of the attention economy. The remaining 85% face a meaning crisis, decoupling activity from market validation and relying on voluntary local labor or leisure.
+The argument rests on three stipulations: machines surpass humans in all functional tasks, aggregate demand is stabilized via mechanisms like UBI, and employment persists only where 'humanness' is a product feature. This residual employment splits into a statutory floor (1.5-2.3% LFPR) for legally accountable roles and an authenticity premium (6-10% LFPR) for artisans, entertainers, and caregivers. Even in an optimistic demand-side expansion scenario where increased leisure time drives consumption of human-centric services, the labor force participation rate (LFPR) peaks at 23-40%. However, this optimistic model fails because it assumes infinite consumption capacity. The hard constraint is the 24-hour day; efficiency gains in production do not expand the finite hours available for consumption. This creates an attention economy governed by extreme power laws, where the top 1% of creators capture the majority of attention, turning the market into a lottery rather than a viable labor pool. Consequently, the economy shifts from labor scarcity to attention scarcity, making wage labor obsolete for the vast majority.
 
 ## Counterpoints
 
-- Demand-side expansion: Increased free time could theoretically create 23-40% LFPR through hobby-to-market and relational density, but this ignores the 24-hour attention cap.
-- Statutory floor erosion: Legal requirements for human oversight (e.g., licensed professionals) may dissolve if liability shifts to manufacturers or waivers, shrinking the 1.5-2.3% floor.
-- Longevity reversal: AI solving aging could expand the working-age population, further intensifying competition for the finite pool of human-centric roles.
-- Skill arbitrage: Lowering the skill floor via AI tools allows anyone to compete, but this floods the market and eliminates the ability to arbitrage skill differences.
-- Substitution preference: In care roles, users may prefer AI for its availability and lack of shame, reducing demand for human therapists and caregivers.
+- Machines might not surpass humans in all tasks, particularly complex cognitive or physical work.
+- Regulatory frameworks could be rewritten to mandate human involvement in areas currently open to automation.
+- New, unforeseen job categories may emerge that rely on human preference for inefficiency.
+- Universal Basic Income or similar wealth distribution models could sustain demand without requiring employment.
+- The 'authenticity premium' might expand beyond current estimates if cultural values shift toward human-made goods.
 
 ## Concepts surfaced
 
-[[post-labor-economics]] · [[attention-scarcity]] · [[universal-basic-income]] · [[power-law-distribution]] · [[rent-dissipation]] · [[human-premium]]
+[[post-labor-economics]] · [[attention-scarcity]] · [[labor-force-participation]] · [[universal-basic-income]] · [[power-law-distribution]] · [[statutory-floor]]

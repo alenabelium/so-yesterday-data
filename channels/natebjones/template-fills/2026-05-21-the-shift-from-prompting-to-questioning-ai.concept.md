@@ -6,47 +6,47 @@ source_summary: ../summaries/2026-05-21-the-shift-from-prompting-to-questioning-
 source_transcript: ../transcripts/2026-05-21-the-shift-from-prompting-to-questioning-ai.md
 source_summary_hash: sha256:38dce93980230700c9e572b5701af535539293788a52b82b301117f55a0eea8b
 source_transcript_hash: sha256:9a9d83548b259270e646c425266f1ca48ba43face33a9062575239704ca50b0c
-fill_id: 9e7b05c8-9dd0-43cf-8347-d3f84d971033
-published_at: '2026-05-22T05:17:05.573837'
+fill_id: 2ea9b5ab-ccca-47a9-a1f6-60009e8294cf
+published_at: '2026-05-22T06:17:06.472212'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Prompt engineering has become table stakes, necessitating a shift to a 'questioning' methodology for advanced AI agents. By treating AI as a senior partner rather than a junior assistant, users can leverage complex agentic workflows more effectively. This approach involves framing interactions through strategic questions that define intent, explore boundaries, and synthesize diverse data inputs. Adopting this mental model allows for deeper collaboration and higher-leverage outcomes in heavy knowledge work.
+Prompt engineering has become table stakes, rendering traditional task-based prompting obsolete for advanced AI agents. The speaker introduces a 'questioning methodology' that treats AI as a senior partner rather than a junior assistant. This shift enables higher-leverage outcomes in heavy knowledge work by focusing on strategic intent, boundary setting, and data synthesis.
 
 ## The argument
 
-### Define the Mental Model Shift
+### Define the Senior Partner Mental Model
 - **Anchor Timestamps**: ['00:03:41']
-- **Claim**: The core shift is treating AI as a senior partner, not a junior assistant. This requires moving from specific task definitions to strategic questioning that enables deep partnership thinking.
+- **Claim**: The core shift is treating AI as a senior partner, not a junior assistant. Unlike past prompting which required specific task definitions for less capable models, this new model invites deep partnership thinking with frontier models like Claude Code and CodeEx.
 - **Role**: definition
 
-### Principle 1: Flashlight Intent
+### Principle 1: Flashlight Intent and Boundaries
 - **Anchor Timestamps**: ['00:12:23']
-- **Claim**: Questions must convey a 'center of the flashlight' intent with clear directionality, while also defining hard edges or boundaries for what to exclude, preventing overly open or closed-ended responses.
+- **Claim**: Questions must convey a 'center of the flashlight' intent—a specific thesis or angle—while also defining hard edges or exclusions. This prevents overly open-ended or closed-ended responses by giving the AI a target and clear constraints.
 - **Role**: evidence
 
-### Principle 2: Open-Ended Synthesis
+### Principle 2: Synthesis Over Evaluation
 - **Anchor Timestamps**: ['00:13:28']
-- **Claim**: Instead of rigid evals, ask questions that invite the AI to explore what 'good' looks like across complex outcomes, forcing it to synthesize multiple difficult question types and perspectives.
+- **Claim**: Instead of writing rigid evals, ask open-ended questions that invite the AI to explore what 'good' looks like. This leverages the AI's ability to synthesize complex outcomes, such as weaving customer experience narratives into a PR FAQ.
 - **Role**: evidence
 
-### Principle 3: Data & Opinion Wrestling
+### Principle 3: Data and Opinion Integration
 - **Anchor Timestamps**: ['00:18:31']
-- **Claim**: Invoke questions that force the AI to engage with both hard data inputs and the user's implicit opinions/thesis, ensuring it examines all sources rather than just mirroring a single angle.
+- **Claim**: Questions must invoke both hard data artifacts (files, transcripts) and the user's implicit opinions or theses. This forces the AI to examine the entire context window rather than cherry-picking data, enabling it to push back as a true partner.
 - **Role**: evidence
 
-### Synthesize the New Standard
+### Synthesis: The End of Prompt Engineering
 - **Anchor Timestamps**: ['00:23:49']
-- **Claim**: Prompt engineering is dead as a differentiator; the new standard is using sharp series of questions to help AI explore problem spaces, marking the end of the 2025 prompting era.
+- **Claim**: Prompt engineering is dead as a differentiator; it is now table stakes. The future lies in the 'AI question method,' where intent is expressed through sharp questions that enable meaningful creative collaboration with 100x more powerful agents.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The host cites updates in AI agents (4.7 and 5.5) as the catalyst for this shift, noting agents are now 100x more powerful. He distinguishes 'heavy knowledge work' from 'agentic pipelines' (like customer service automation). Caveats include: this method requires cutting-edge models and sufficient context windows; it may not work on free accounts or older models. The host also notes that while prompt engineering is 'table stakes,' it no longer earns credit. He references his Substack for quick-start guides and specific prompt examples.
+The speaker cites specific model updates (4.7 from Opus, 5.5 from Open AI) as the catalyst for this shift, noting agents are now 100x more powerful. He uses examples like marketing attribution analysis, PR FAQ writing, and MRR problem solving to illustrate the method. Caveats include that this approach requires cutting-edge models and heavy knowledge work contexts; it does not apply to defined agentic pipelines like customer service ticket processing. The speaker also notes that users on free accounts or with older models may not see the same benefits.
 
 ## Concepts surfaced
 
-[[agentic-pipelines]] · [[heavy-knowledge-work]] · [[prompt-engineering-dead]] · [[senior-partner-model]] · [[ai-question-method]] · [[context-window-strategy]]
+[[agentic-workflows]] · [[heavy-knowledge-work]] · [[ai-strategy]] · [[prompt-engineering]] · [[frontier-models]]
