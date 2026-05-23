@@ -7,7 +7,7 @@ channel: NateBJones
 tags:
   - ai-agents
   - ai-strategy
-  - cybersecurity
+  - ai-safety
   - industry-news
 transcript: ../transcripts/2026-05-16-aisi-ran-mythos-against-gpt-55-your-patch-cycle-just-got-sho.md
 relevant: true
