@@ -63,6 +63,17 @@
     }
   },
   {
+    "id": "houseofel-ai",
+    "name": "House of El-AI",
+    "url": "https://www.youtube.com/@HouseofEl-AI",
+    "description": "Structural critique of AI deployment — labor impact, data centers, sovereign AI, lab strategy. Loyal-opposition voice; balances the site's pro-engagement narrative with credible skepticism.",
+    "preferences": {
+      "index": "Only videos on structural analysis of AI deployment — labor displacement, data center politics, sovereign AI policy, frontier-lab strategy, surveillance/regulation. SKIP pure ideology, speculative monarchy/economy hypotheticals, and clickbait outrage titles without substance.",
+      "knowledge": "all",
+      "highlight": false
+    }
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
