@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-25-the-limiting-factorhow-to-design-an-ai-s
 source_transcript: ../transcripts/2026-09-25-the-limiting-factorhow-to-design-an-ai-software-factory-for.md
 source_summary_hash: sha256:1234f36f409b4716c5f6ee083c4393d7f20e678e5884a64503a299010fd6fe69
 source_transcript_hash: sha256:33ad395997f2d34739b7184afad91379fda0babc72da6cfa747edf65b9b77967
-fill_id: 149661ef-cf6c-4b0a-8674-3f581ca27f50
-published_at: '2026-09-29T20:18:53.857724'
+fill_id: d853304d-b484-4aed-a258-44f8d00be4eb
+published_at: '2026-09-29T21:18:42.602533'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,35 +18,35 @@ In the race for AI-driven speed, the primary bottleneck has shifted from coding 
 
 ## The argument
 
-### Shift Bottleneck to Product Definition
-- **Anchor Timestamps**: ['00:03:15']
-- **Claim**: Coding is automated; the new bottleneck is defining, collaborating, and coordinating. The factory must start by filtering noise from scattered data sources using a customer insights agent.
+### Define the Core Substrate
+- **Anchor Timestamps**: ['00:00:54']
+- **Claim**: Winning is not just about driving fast. The best drivers in the world can only operate at the system level. Winning a race is about eliminating bottlenecks around driving.
 - **Role**: definition
 
-### Connect AI to Systems for Specificity
-- **Anchor Timestamps**: ['00:06:30']
-- **Claim**: Generic AI is insufficient. Agents like 'Glass' must connect to internal systems (Snowflake, user research) to provide specificity, technical requirements, and working prototypes that serve as the new contract for engineering.
+### Identify the New Bottleneck
+- **Anchor Timestamps**: ['00:03:15']
+- **Claim**: Engineers have automated coding, shifting the bottleneck to product definition and coordination. We need to define more, collaborate more, coordinate more, release more, test more, release more.
 - **Role**: evidence
 
-### Automate Creation and Verification
-- **Anchor Timestamps**: ['00:08:24']
-- **Claim**: Programming agents like 'Inspect' generate most merge requests, while verification agents like 'Review Buddy' and testing agents like 'Testo' handle code review and QA, allowing engineers to focus on high-value tasks.
+### Build the Factory Agents
+- **Anchor Timestamps**: ['00:04:17']
+- **Claim**: We created a customer insights agent to filter noise, an AI agent called Glass for product definition, Inspect for coding, Review Buddy for verification, and Testo for testing. This creates a solid foundation.
 - **Role**: evidence
 
-### Coordinate via Agent Interfaces
+### Coordinate with Gadget
 - **Anchor Timestamps**: ['00:11:53']
-- **Claim**: Human attention becomes the bottleneck. Agents like 'Gadget' act as interfaces to roadmaps and tickets, answering status questions, updating records, and handling launch communications automatically.
+- **Claim**: Human attention becomes the bottleneck. We built Gadget to understand intent and connect to formal records like roadmaps and tickets, handling status updates and sales questions automatically.
 - **Role**: evidence
 
-### Product Managers Evolve Roles
+### Evolve the PM Role
 - **Anchor Timestamps**: ['00:16:56']
-- **Claim**: PMs must shift from reactive tasks to three roles: technical architects building the factory, tastemakers holding product quality standards, and general managers overseeing business results.
+- **Claim**: Product managers will develop in three directions: technical (building the factory), tastemaker (holding the bar for quality), and general manager (leading business results).
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Ramp built specific agents: 'Glass' for insights, 'Inspect' for coding (75% of PRs), 'Review Buddy' (93% of PRs auto-processed), and 'Testo' (425 errors in 30 days). 'Gadget' handles coordination. Constraints force focus on fuel efficiency (speed) rather than just raw power. The speaker notes that everything shown is already outdated; the factory must continuously evolve.
+Ramp's 'hate channel' revealed customer pain points. Glass connects to Snowflake and user research. Inspect generates 75% of PRs, with 1,000 by non-engineers. Review Buddy handles 93% of PRs automatically. Testo detected 425 errors in 30 days. Gadget covers 85% of questions asked to PMs. 60% of UX issues are resolved within 24 hours. Constraints force you to choose a dimension in which you can become the best in the world. Embrace limitations, but not bottlenecks.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[product-management]] · [[automation]] · [[software-development-lifecycle]] · [[bottleneck-analysis]]
+[[ai-agents]] · [[product-management]] · [[software-factory]] · [[bottleneck-analysis]] · [[automation-strategy]]
