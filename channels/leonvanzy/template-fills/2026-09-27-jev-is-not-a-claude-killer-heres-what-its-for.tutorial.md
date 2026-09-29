@@ -6,94 +6,95 @@ source_summary: ../summaries/2026-09-27-jev-is-not-a-claude-killer-heres-what-it
 source_transcript: ../transcripts/2026-09-27-jev-is-not-a-claude-killer-heres-what-its-for.md
 source_summary_hash: sha256:be9131c6a3d3473d99b2c3d18098b95a0d3603547e12a88862f64287815a165b
 source_transcript_hash: sha256:3e37f6733280849fb62d12ae3eadff992c912652b2adc44edb3fc54672782492
-fill_id: fe1f321e-fe15-4bb1-8fab-8a0fb94162b5
-published_at: '2026-09-29T20:11:55.139043'
+fill_id: fca32c05-c083-4e29-a2da-5cffa61b2049
+published_at: '2026-09-29T21:11:54.851595'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Use TypeSafe AI's Jeff model for low-cost, high-speed classification tasks like routing GitHub issues to specific coding agents.
+Use Jeff from TypeSafe AI for instant, low-cost classification tasks like routing GitHub issues to coding agents.
 
 ## Prerequisites
 
-### TypeSafe AI Account
-- **Kind**: account
-- **Note**: Sign up at typesafe.ai; may require waiting list or use OpenRouter as alternative access.
-
 ### OpenRouter Account
 - **Kind**: account
-- **Note**: Alternative provider to access Jeff if TypeSafe waitlist is active.
+- **Note**: Sign up to bypass TypeSafe's waiting list and access the Jeff API.
 
 ### GitHub Repository
 - **Kind**: tool
-- **Note**: A repository with issues to classify; clone existing or create new private repo.
+- **Note**: A repo with issues to classify, such as a web app or test project.
 
 ### Claude Code Agent
 - **Kind**: tool
-- **Note**: Used in demo to generate code and GitHub Actions for the classification workflow.
+- **Note**: Used to clone repos and generate GitHub Actions workflows for automation.
 
 ## Steps
 
 ### Understand Jeff's Use Case
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=0)
-- **Action**: Recognize that Jeff is a System 1 model for instant, low-cost classification (choice, score, zero), not a reasoning model like Claude.
-- **Command Or Clicks**: None
+- **Timestamp**: [00:54](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=54)
+- **Action**: Recognize that Jeff is a 'System 1' model designed for instant, deterministic classification (choice, score, or zero) rather than complex reasoning.
+- **Command Or Clicks**: N/A
 
 ### Access Jeff via OpenRouter
 - **Timestamp**: [08:02](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=482)
-- **Action**: Bypass TypeSafe's waiting list by registering on OpenRouter to get access to the latest version of Jeff.
-- **Command Or Clicks**: Visit typesafe.ai or OpenRouter and register an account.
+- **Action**: Register on OpenRouter to bypass the TypeSafe waiting list and obtain API access.
+- **Command Or Clicks**: N/A
 
 ### Generate API Key
 - **Timestamp**: [09:01](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=541)
-- **Action**: Navigate to the API keys section in the TypeSafe dashboard, create a new key named 'tutorial', and save it securely.
-- **Command Or Clicks**: Dashboard > API Keys > Create New Key > Copy Key
+- **Action**: Navigate to the TypeSafe dashboard, go to API keys, create a new key named 'tutorial', and save it securely.
+- **Command Or Clicks**: N/A
 
-### Clone Repository
+### Clone Project Repository
 - **Timestamp**: [10:01](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=601)
-- **Action**: Open your coding agent (e.g., Claude Code), install Opus 5.5, and clone the demo repository into the project root.
-- **Command Or Clicks**: git clone <GitHub_URL>
+- **Action**: Use Claude Code to clone a GitHub repository into the project root folder.
+- **Command Or Clicks**: I will install Opus 5.5 and a high level of logical reasoning. Please clone this repository into the root folder of the project and I will just paste this GitHub URL there.
 
-### Create GitHub Repo & Labels
-- **Timestamp**: [11:02](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=662)
-- **Action**: Instruct the agent to create a new private GitHub repository and add specific labels like 'error', 'documentation', 'enhancement', 'Claude Opus', 'Codex Astra', and 'Claude Haiku'.
-- **Command Or Clicks**: Agent Command: "Create a new private GitHub repository... Add tags: error, documentation, enhancement, Claude Opus, Codex Astra, Claude Haiku"
+### Create Private Repo
+- **Timestamp**: [10:45](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=645)
+- **Action**: Instruct Claude Code to create a new private GitHub repository for the project.
+- **Command Or Clicks**: "Create a new private GitHub repository for this project."
+
+### Define Custom Tags
+- **Timestamp**: [11:20](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=680)
+- **Action**: Ask the agent to add specific tags to the repo, such as agent names (Fable, Codex, Haiku).
+- **Command Or Clicks**: "Please add these tags to the GitHub repository. And let it be Claude from Fable, Codex from Astra, and maybe Claude from Haiku for very simple tasks."
 
 ### Install TypeSafe Skill
 - **Timestamp**: [12:48](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=768)
-- **Action**: Copy the URL for the official TypeSafe agent skill repository and install it in your project folder to teach the agent how to use Jeff's API.
-- **Command Or Clicks**: Clone TypeSafe skill repo into project folder
+- **Action**: Copy the URL for the official TypeSafe agent skill and install it in the project folder.
+- **Command Or Clicks**: N/A
 
 ### Configure GitHub Action
 - **Timestamp**: [13:36](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=816)
-- **Action**: Instruct the agent to create a GitHub Action that calls Jeff on new issues to classify them as bug/docs/enhancement and assign an agent (Opus/Astra/Haiku) based on confidence scores.
-- **Command Or Clicks**: Agent Command: "Create GitHub Action to call TypeSafe API... Add comment with input/response/confidence"
+- **Action**: Instruct Claude Code to push a GitHub Action that calls Jeff on new issues for classification and agent assignment.
+- **Command Or Clicks**: "Every time we add a new task... Jive needs to be called via a GitHub Action... Add a comment showing Jev's input and response, as well as the confidence score... And then we can just settle on a type-safe API key."
 
-### Test the Workflow
+### Test Classification
 - **Timestamp**: [14:30](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=870)
-- **Action**: Create a new issue in the repository to verify that Jeff classifies it correctly, assigns an agent, and posts a comment with the confidence score.
-- **Command Or Clicks**: GitHub > New Issue > Write description > Create
+- **Action**: Create a new issue to verify Jeff's classification and agent routing logic.
+- **Command Or Clicks**: "add a new emotion— frightened."
 
 ## Gotchas
 
-### Jeff cannot write complete sentences or reason; it is strictly for classification, scoring, or boolean decisions.
+### Jeff cannot reason or write complete sentences; it is strictly for fast, deterministic classification tasks like choice, score, or zero.
 - **Severity**: blocking
 - **Timestamp**: [02:38](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=158)
 
-### Jeff has a tiny context window of about 32,000 tokens and cannot handle complex science/math tasks.
-- **Severity**: serious
-- **Timestamp**: [02:38](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=158)
-
-### If confidence score is below 0.75, logic should pass the task to a human for review rather than auto-routing.
+### TypeSafe currently has a waiting list; use OpenRouter as an alternative access point if you cannot join immediately.
 - **Severity**: heads_up
+- **Timestamp**: [08:02](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=482)
+
+### If the confidence score is below 0.75, implement logic to pass the task to a human for review rather than auto-routing.
+- **Severity**: serious
 - **Timestamp**: [05:35](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=335)
 
 ## Where to go next
 
-Join Agentyc Labs for the coding masterclass and live sessions on building software factories with AI agents. Next Thursday features a deep dive into JFAI.
+Join Agentyc Labs for the coding masterclass and live sessions. Next Thursday features a deep dive into JFA I. Links are in the description.
 
 ## Concepts surfaced
 
-[[system-1-vs-system-2-ai]] · [[github-actions-automation]] · [[llm-cost-optimization]] · [[agent-routing-workflows]]
+[[system-1-vs-system-2]] · [[deterministic-output]] · [[github-actions-automation]] · [[cost-efficient-ai]]
