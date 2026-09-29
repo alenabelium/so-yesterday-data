@@ -6,15 +6,15 @@ source_summary: ../summaries/2026-09-29-welcome-to-september-29-2026.md
 source_transcript: ../transcripts/2026-09-29-welcome-to-september-29-2026.md
 source_summary_hash: sha256:8fad0a6b86e0e3e74aadd8b05f71da893263b666589db0acf4bdcf5c8f237671
 source_transcript_hash: sha256:4cbb5592432f14e36011db16868e77dcfe103a93fcd72f3f5e946a744766fd58
-fill_id: f6b14c1e-c006-4c58-9190-6d544e274ba2
-published_at: '2026-09-29T19:11:46.664238'
+fill_id: 068d7fcc-c9ed-4af7-b391-9d10a295eca3
+published_at: '2026-09-29T20:11:47.910431'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Starship V3 launches reshape satellite economics while Claude Sinet 5.5 and Opus 5.5 accelerate AI reasoning, pushing agents from demos to enterprise delegation.
+Starship proves orbital economics while Claude Sinet 5.5 and Opus 5.5 redefine AI reasoning benchmarks.
 
 ## Tools covered
 
@@ -22,73 +22,73 @@ Starship V3 launches reshape satellite economics while Claude Sinet 5.5 and Opus
 - **Vendor**: SpaceX
 - **Category**: other
 - **Timestamp**: [00:15](https://www.youtube.com/watch?v=3to0i-6u7lw&t=15)
-- **Why It Matters**: Starship deploys 26 V3 satellites; partial load equals $150M Falcon 9 work for ~$5-10M cost.
-- **Sota Comparison**: Massive cost reduction per satellite compared to traditional launch vehicles.
-- **Sota Band**: beats
+- **Why It Matters**: Starship deployed 26 satellites, proving cost efficiency with a vehicle cost of $5-10 million for work worth $150 million.
+- **Sota Comparison**: Aims to become the internet by orbiting 8 pabits per second by 2028.
+- **Sota Band**: new
 - **Access Constraint**: Commercial launch
 
 ### Claude Sinet 5.5
 - **Vendor**: Anthropic
 - **Category**: reasoning
 - **Timestamp**: [00:45](https://www.youtube.com/watch?v=3to0i-6u7lw&t=45)
-- **Why It Matters**: 30% faster/cheaper than v5, scores 70.6% on Terminal Bench 4.0, beats Pokemon Red from screenshots.
-- **Sota Comparison**: Scores 56 on Artificial Analysis index, behind Opus 5.5 but ahead of GPT6 Astra.
-- **Sota Band**: parity
-- **Access Constraint**: API access
+- **Why It Matters**: 30% faster and cheaper than v5, leaping to 70.6% on terminal bench 4.0 and beating Pokemon Red from screenshots.
+- **Sota Comparison**: Scores 56 on artificial analysis index, behind Opus 5.5 but ahead of GPT6 Astra.
+- **Sota Band**: behind
+- **Access Constraint**: Commercial API
 
 ### Opus 5.5
 - **Vendor**: Anthropic
 - **Category**: reasoning
-- **Timestamp**: [01:00](https://www.youtube.com/watch?v=3to0i-6u7lw&t=60)
-- **Why It Matters**: Top-tier reasoning model; builds a computer from scratch with 277K logic gates.
-- **Sota Comparison**: Leads Artificial Analysis index; requires cyber safeguards.
+- **Timestamp**: [01:25](https://www.youtube.com/watch?v=3to0i-6u7lw&t=85)
+- **Why It Matters**: Top of the artificial analysis index and built a computer from scratch with 277K logic gates.
+- **Sota Comparison**: Leads the artificial analysis index with a score above Claude Sinet 5.5.
 - **Sota Band**: beats
-- **Access Constraint**: API access
+- **Access Constraint**: Commercial API
 
 ### GPT6 Astra
 - **Vendor**: OpenAI
 - **Category**: reasoning
-- **Timestamp**: [01:30](https://www.youtube.com/watch?v=3to0i-6u7lw&t=90)
-- **Why It Matters**: Pegged as 4.2T model; OpenAI focuses research on GPT7.
-- **Sota Comparison**: Behind Claude Sinet 5.5 and Opus 5.5 on current benchmarks.
+- **Timestamp**: [01:45](https://www.youtube.com/watch?v=3to0i-6u7lw&t=105)
+- **Why It Matters**: Pundits debate its capabilities as a 4.2T model while OpenAI focuses research on GPT7.
+- **Sota Comparison**: Ranks behind Claude Sinet 5.5 and Opus 5.5 on the artificial analysis index.
 - **Sota Band**: behind
-- **Access Constraint**: API access
+- **Access Constraint**: Commercial API
 
 ### Quen 3.5-27B
 - **Vendor**: Meta
 - **Category**: reasoning
-- **Timestamp**: [02:00](https://www.youtube.com/watch?v=3to0i-6u7lw&t=120)
+- **Timestamp**: [02:05](https://www.youtube.com/watch?v=3to0i-6u7lw&t=125)
 - **Why It Matters**: Outrode every Frontier model on papers and stories using zero-data pre-training.
-- **Sota Comparison**: Surpasses larger frontier models in creative writing tasks.
+- **Sota Comparison**: Surpasses frontier models in creative writing benchmarks despite smaller size.
 - **Sota Band**: beats
-- **Access Constraint**: Open weights
-
-### Answers in Silicon
-- **Vendor**: Nvidia
-- **Category**: tool
-- **Timestamp**: [03:30](https://www.youtube.com/watch?v=3to0i-6u7lw&t=210)
-- **Why It Matters**: Open agent safety platform quarantining wandering agents in milliseconds.
-- **Sota Comparison**: Backed by Anthropic and 100+ others for enterprise safety.
-- **Sota Band**: new
-- **Access Constraint**: Enterprise
+- **Access Constraint**: Open-weight
 
 ### Muse Stack
 - **Vendor**: Meta
 - **Category**: agent
-- **Timestamp**: [04:15](https://www.youtube.com/watch?v=3to0i-6u7lw&t=255)
-- **Why It Matters**: Enterprise platform for personal agents; consumers use it to cancel subscriptions.
-- **Sota Comparison**: Zuckerberg promises billions of 24/7 personal agents.
+- **Timestamp**: [03:45](https://www.youtube.com/watch?v=3to0i-6u7lw&t=225)
+- **Why It Matters**: Enterprise platform for personal agents that can cancel subscriptions, threatening seller inertia.
+- **Sota Comparison**: First major consumer agent delegation platform with financial autonomy.
 - **Sota Band**: new
 - **Access Constraint**: Enterprise/Consumer
 
 ### Optimus
 - **Vendor**: Tesla
 - **Category**: agent
-- **Timestamp**: [05:10](https://www.youtube.com/watch?v=3to0i-6u7lw&t=310)
-- **Why It Matters**: Ramped 10x; handles physical tasks with limited dexterity.
-- **Sota Comparison**: Whimo shows 82% fewer injury crashes than humans over 270M miles.
-- **Sota Band**: inferred
-- **Access Constraint**: Internal/Commercial
+- **Timestamp**: [04:55](https://www.youtube.com/watch?v=3to0i-6u7lw&t=295)
+- **Why It Matters**: Ramped production 10-fold, though hands still need human assistance.
+- **Sota Comparison**: Whimo variant shows 82% fewer injury crashes than humans over 270 million miles.
+- **Sota Band**: behind
+- **Access Constraint**: Commercial
+
+### Answers in Silicon
+- **Vendor**: Nvidia
+- **Category**: tool
+- **Timestamp**: [03:15](https://www.youtube.com/watch?v=3to0i-6u7lw&t=195)
+- **Why It Matters**: Open agent safety platform quarantining wandering agents in milliseconds.
+- **Sota Comparison**: Backed by Anthropic and 100+ others as a standard for agent containment.
+- **Sota Band**: new
+- **Access Constraint**: Open-source
 
 ### Claude Sinet 5.5
 - **Timestamp**: [00:45](https://www.youtube.com/watch?v=3to0i-6u7lw&t=45)
@@ -97,8 +97,8 @@ Starship V3 launches reshape satellite economics while Claude Sinet 5.5 and Opus
 
 ## Wider context
 
-The convergence of [[space-economics]] and [[ai-reasoning]] marks a shift from capability demos to economic delegation. Starship's launch cost efficiency enables massive satellite infrastructure, while models like Claude Sinet 5.5 and Opus 5.5 push reasoning boundaries, forcing enterprises to adopt agent platforms like Meta's Muse for automation. This accelerates the transition from AI as a tool to AI as an autonomous actor in both digital and physical domains.
+The convergence of [[space-economics]] and [[ai-reasoning]] marks a shift from capability demos to economic reality. Starship's launch costs force satellite deployment at scale, while models like Claude Sinet 5.5 and Opus 5.5 push reasoning to the point of requiring new safety paradigms. The industry is now racing to automate the racers themselves, with [[agent-delegation]] becoming the primary vector for enterprise value.
 
 ## Read next
 
-[[agent-delegation]] · [[space-economics]] · [[ai-safety]] · [[reasoning-benchmarks]] · [[autonomous-labs]]
+[[space-economics]] · [[ai-reasoning]] · [[agent-delegation]] · [[model-benchmarks]] · [[ai-safety]]
