@@ -4,12 +4,12 @@ slug: parallel-agents
 description: Referenced by template fill b7a257f8-eebd-4cf9-9c6d-142a28876286 for video tJVUAzLZUyI; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [claude-code-agent-view]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Parallel Agents

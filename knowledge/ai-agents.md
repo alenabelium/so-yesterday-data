@@ -6,16 +6,22 @@ tags:
   - ai-agents
   - llm-fundamentals
 related:
+  - agent
   - agent-orchestration
   - agentic
   - ai-native-economics
+  - ai-tools
   - anthropic
+  - coding
   - constraint-encoding
   - context-engineering
   - emergent-behavior
   - evals
+  - infrastructure
   - mcp
+  - security
   - tool-use
+  - video
 sources:
   - {type: "video", id: "WEEKBlQfGt8", date: "2026-02-03", title: "OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real."}
   - {type: "video", id: "2EXyj_fHU48", date: "2026-01-26", title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"}
@@ -24,7 +30,7 @@ sources:
   - {type: "digest", date: "2026-03-18", title: "Daily Digest — March 18, 2026"}
   - {type: "video", id: "vqnAOV8NMZ4", date: "2026-03-20", title: "Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk."}
 created: "2026-03-19"
-updated: "2026-05-09"
+updated: "2026-05-27"
 confidence: high
 ---
 

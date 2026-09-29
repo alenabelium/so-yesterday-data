@@ -4,12 +4,12 @@ slug: world-models
 description: Referenced by template fill caccc5e3-c146-48cb-bbcb-ca3527cb138c for video G8fqduzB5lc; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [chatgpt]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # World Models

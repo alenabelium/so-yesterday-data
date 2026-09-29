@@ -7,17 +7,19 @@ tags:
   - coding
   - llm-fundamentals
 related:
-  - claude-code
-  - vibe-coding
+  - agent
   - ai-coding-levels
+  - claude
+  - claude-code
   - openai
   - tool-use
+  - vibe-coding
 sources: []
 # sources: insufficient links in body — TODO manual
 # sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-05-01"
-updated: "2026-05-01"
+updated: "2026-05-27"
 ---
 
 Codex is a specialized large language model developed by OpenAI, derived from the GPT-3 architecture and fine-tuned on a massive dataset of public GitHub code. Released in 2021, it was the first model to demonstrate the ability to translate natural language descriptions directly into functional code across multiple programming languages. This breakthrough marked a paradigm shift in software engineering, moving from manual coding to AI-assisted generation and significantly lowering the barrier to entry for building software applications.

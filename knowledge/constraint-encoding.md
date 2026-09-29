@@ -6,6 +6,7 @@ tags:
   - ai-agents
   - ai-strategy
 related:
+  - agent
   - agent-orchestration
   - ai-agents
   - anthropic
@@ -17,7 +18,7 @@ sources:
   - {type: "video", id: "hDpjMJw3flk", date: "2026-01-21", title: "The Skill That Separates AI Power Users From Everyone Else (Why \"Clear\" Specs Produce Broken Output)"}
   - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
 created: "2026-03-19"
-updated: "2026-05-09"
+updated: "2026-05-27"
 confidence: high
 ---
 

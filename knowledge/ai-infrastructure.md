@@ -6,11 +6,12 @@ tags:
   - industry-news
   - ai-strategy
 related:
-  - token-economics
-  - open-source-ai
-  - inference
-  - scaling-laws
   - frontier-labs
+  - inference
+  - infrastructure
+  - open-source-ai
+  - scaling-laws
+  - token-economics
 sources:
   - {type: "video", id: "pSgy2P2q790", date: "2026-02-08", title: "Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here"}
   - {type: "video", id: "O-0poNv2jD4", date: "2026-02-21", title: "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger."}
@@ -18,7 +19,7 @@ sources:
   - {type: "digest", date: "2026-03-18", title: "Daily Digest — March 18, 2026"}
   - {type: "digest", date: "2026-03-19", title: "Daily Digest — March 19, 2026"}
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-27"
 confidence: high
 ---
 

@@ -6,11 +6,12 @@ tags:
   - ai-agents
   - coding
 related:
+  - agent
   - ai-agents
-  - task-decomposition
   - blast-radius
-  - sniff-checking
   - constraint-encoding
+  - sniff-checking
+  - task-decomposition
 sources:
   - {type: "video", id: "-bQcWs1Z9a0", date: "2026-02-20", title: "$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output."}
   - {type: "video", id: "2EXyj_fHU48", date: "2026-01-26", title: "Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work"}
@@ -18,7 +19,7 @@ sources:
   - {type: "essay", slug: "2026-03-17-01-the-last-hands-on-keyboard", date: "2026-03-17", title: "The Last Hands on the Keyboard: How Software Development Became Agent Orchestration"}
   - {type: "digest", date: "2026-03-17", title: "Daily Digest — March 17, 2026"}
 created: "2026-03-19"
-updated: "2026-03-19"
+updated: "2026-05-27"
 confidence: high
 ---
 

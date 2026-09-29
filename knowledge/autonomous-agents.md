@@ -6,11 +6,12 @@ tags:
   - ai-agents
   - ai-strategy
 related:
-  - ai-agents
   - agent-orchestration
-  - multi-agent-systems
+  - ai-agents
   - blast-radius
+  - multi-agent-systems
   - tool-use
+  - video
 sources:
   - {type: "essay", slug: "2026-03-13-03-72-days-that-rewrote-the-rules", date: "2026-03-13", title: "72 Days That Rewrote the Rules: What Actually Happened in AI Since January 2026"}
   - {type: "video", id: "iY7BDpZWJbE", date: "2026-03-09", title: "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet."}
@@ -19,7 +20,7 @@ sources:
   - {type: "digest", date: "2026-03-30", title: "Daily Digest — March 30, 2026"}
 confidence: high
 created: "2026-04-15"
-updated: "2026-04-15"
+updated: "2026-05-27"
 ---
 
 Autonomous agents represent the next frontier beyond tool-using [AI agents](/knowledge/ai-agents): systems that operate independently for hours, days, or weeks, making decisions, executing multi-step plans, and recovering from errors without human approval at each step. While standard AI agents require human oversight at checkpoints, fully autonomous agents are given a goal and constraints, then left to figure out the execution path entirely on their own. The shift from assisted to autonomous operation is one of the defining transitions of 2026.

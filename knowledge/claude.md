@@ -4,12 +4,12 @@ slug: claude
 description: Referenced by template fill 2efe54fb-e389-4359-a08d-14cfec320202 for video fMf69VMQp8k; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [agent, anthropic, codex, infrastructure, openai, reasoning, video]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Claude

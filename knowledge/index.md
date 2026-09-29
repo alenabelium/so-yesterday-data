@@ -1,15 +1,19 @@
 ---
 title: "Knowledge Base Index"
-generated: "2026-05-23"
-total_concepts: 74
+generated: "2026-09-29"
+total_concepts: 78
 ---
 
 # Knowledge Base Index
 
-Master catalog of 74 concepts. One-line summaries for LLM navigation.
+Master catalog of 78 concepts. One-line summaries for LLM navigation.
 
 ## LLM Fundamentals
 
+- **['Google DeepMind: Pioneer in AI Research'](/knowledge/google-deepmind)** [medium] — Overview of Google DeepMind's foundational contributions to AI, including AlphaGo and Gemini.
+- **['Grok: xAI''s Reasoning-Centric LLM'](/knowledge/grok)** [medium] — Elon Musk's xAI model focused on real-time data access and direct, unfiltered responses.
+- **['Hugging Face: The Open Source AI Hub'](/knowledge/huggingface)** [medium] — The central hub for open-source AI models, datasets, and community-driven development.
+- **['Qwen: Open-Source Multimodal AI Models'](/knowledge/qwen)** [medium] — Alibaba's family of high-performance open-weight LLMs and multimodal models, offering strong reasoning and coding capabilities.
 - **[AI Agents](/knowledge/ai-agents)** [high] — Autonomous AI systems that can plan, use tools, and take actions to accomplish goals.
 - **[AI Alignment](/knowledge/alignment)** [high] — The challenge of ensuring AI systems act according to human values, intentions, and safety requirements.
 - **[AI Model Training](/knowledge/training)** [medium] — The process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.
@@ -108,4 +112,4 @@ Master catalog of 74 concepts. One-line summaries for LLM navigation.
 
 ## All Slugs (quick lookup)
 
-`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agent`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `chatgpt`, `claude-code`, `codex`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `copilot`, `cursor`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `hallucination`, `high-agency`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`
+`agent-orchestration`, `agentic`, `agentic-ai`, `agentic-workflows`, `agi`, `ai-agents`, `ai-coding-levels`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-video-generation`, `alignment`, `anthropic`, `autonomous-agent`, `autonomous-agents`, `benchmarks`, `blast-radius`, `chain-of-thought`, `chatgpt`, `claude-code`, `codex`, `compounding-gap`, `constraint-encoding`, `context-engineering`, `context-window`, `copilot`, `cursor`, `dark-code`, `disposable-software`, `domain-translation`, `emergent-behavior`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `google-deepmind`, `grok`, `hallucination`, `high-agency`, `huggingface`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `mcp`, `model-distillation`, `multi-agent-systems`, `multimodal-ai`, `open-source-ai`, `openai`, `openclaw`, `permission-gap`, `post-labor-economics`, `prompt-engineering`, `qwen`, `rag`, `rejection-competency`, `scaling-laws`, `second-brain`, `sniff-checking`, `solo-operator`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`

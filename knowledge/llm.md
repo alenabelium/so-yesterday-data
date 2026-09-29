@@ -4,12 +4,12 @@ slug: llm
 description: Referenced by template fill 06e91f11-b731-41c2-ad09-5844cea903b9 for video G-oNwbngkt0; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [agent]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Llm

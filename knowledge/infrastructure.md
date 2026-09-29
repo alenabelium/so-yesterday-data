@@ -4,12 +4,12 @@ slug: infrastructure
 description: Referenced by template fill 3b5ef471-23e6-4fc6-a383-ba1ec5f00bf1 for video fMf69VMQp8k; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [agent, ai-agents, ai-infrastructure, anthropic, benchmarks, claude, coding, data-centers, hardware, openai, robotics, video]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Infrastructure

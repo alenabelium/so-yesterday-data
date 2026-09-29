@@ -7,18 +7,19 @@ tags:
   - ai-tools
   - industry-news
 related:
-  - openai
-  - prompt-engineering
-  - transformer-architecture
   - context-window
   - hallucination
+  - openai
+  - prompt-engineering
   - tool-use
+  - transformer-architecture
+  - world-models
 sources: []
 # sources: insufficient links in body — TODO manual
 # sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-27"
-updated: "2026-04-27"
+updated: "2026-05-27"
 ---
 
 ChatGPT is a series of large language models developed by OpenAI, serving as the primary interface for the public to interact with generative artificial intelligence. Launched in late 2022, it demonstrated unprecedented capabilities in natural language understanding, code generation, and creative writing, effectively sparking the modern AI transformation wave. Built upon the transformer architecture, it utilizes advanced training techniques to process vast amounts of text data, enabling it to generate human-like responses across diverse domains.

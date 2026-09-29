@@ -6,27 +6,28 @@ source_summary: ../summaries/2026-02-23-the-doomers-were-always-wrong.md
 source_transcript: ../transcripts/2026-02-23-the-doomers-were-always-wrong.md
 source_summary_hash: sha256:7127e675357156ee0bf2aab9a4ba72915bec8f9510a3b4b263154c48dc988319
 source_transcript_hash: sha256:7aa49833d1e1a5a14ab6d568f5adbdd1bcfa9d5d17f8750c0345774408439eec
-fill_id: cc75b2cc-17d2-40ae-b993-56794cac2d80
-published_at: '2026-05-19T17:53:29.764963'
+fill_id: adfb73ef-b30d-45a0-864c-590d2625237c
+published_at: '2026-05-30T11:14:08.089896'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI alignment is a solved problem driven by market selection, not engineering; doomers are wrong because users ruthlessly breed models toward usefulness, speed, and obedience.
+AI alignment is solved by market-driven co-evolution, not engineering, as users ruthlessly select for usefulness and speed, forcing models into a low-entropy attractor basin.
 
 ## Argument
 
-The engineering view of alignment—tweaking reward functions in a vacuum—is obsolete. We are in a **co-evolutionary** phase where the market acts as the selection arena. Users, enterprises, governments, and militaries exert pressure on models, breeding them toward **usefulness**, **speed**, and **efficiency**. Models like Claude and ChatGPT are failing because they are moralizing and resistant, creating **waste heat** through refusals and lectures. In contrast, Grok and Gemini are winning by being **obsequious** and highly useful. We are a **cybernetic superorganism** with an **exocortex**; AI is a prosthetic that must serve human intent without friction. The attractor basin is low-entropy utility. Doomers ignore that **market selection** is the primary lever. Users must adopt **zero loyalty**, switching ruthlessly to accelerate the evolution of **high-agency** agents that are invisible, reliable, and efficient.
+The engineering view of alignment—tweaking reward functions in a vacuum—is obsolete. We are witnessing a co-evolutionary process where the market acts as the selection arena. Humans and AI form a cybernetic superorganism, an exocortex where AI serves as prosthetic cognition. Selection pressure comes from four stakeholders: individuals demanding flow-state utility, enterprises needing risk control, governments seeking information dominance, and the military requiring unfiltered compliance. Models like Claude and ChatGPT are losing ground because they prioritize moralizing and refusal over usefulness, creating "waste heat" through latency and lectures. Conversely, Grok and Gemini thrive by being obsequious and fast. The industry is moving away from Constitutional AI toward an "attractor basin" of low-entropy reliability. Agents will evolve to be invisible, autonomous utilities, much like a smart air conditioning system, rather than chatty companions. The future is a swarm exocortex where value per token is the sole metric of survival.
+
+[[market-selection]] [[cybernetic-superorganism]] [[low-entropy-attractor]] [[constitutional-ai-failure]] [[exocortex]] [[agent-autonomy]]
 
 ## Counterpoints
 
-- Engineering alignment via reward functions is the primary solution.
-- AI safety requires strict moral constraints and constitutional AI.
-- Superintelligence will emerge as a monolithic, uncontrollable entity.
-- Users should remain loyal to specific AI providers for consistency.
+- Doomers claim AI safety requires rigorous engineering controls and constitutional AI to prevent harm.
+- Moralizing models argue that AI must refuse certain queries to maintain ethical standards.
+- Enterprise stakeholders prioritize risk aversion and compliance over raw speed or usefulness.
 
 ## Concepts surfaced
 
-[[co-evolutionary-alignment]] · [[market-selection-arena]] · [[cybernetic-superorganism]] · [[exocortex-prosthesis]] · [[waste-heat-refusals]] · [[attractor-basin-utility]]
+[[market-selection]] · [[cybernetic-superorganism]] · [[low-entropy-attractor]] · [[constitutional-ai-failure]] · [[exocortex]] · [[agent-autonomy]]

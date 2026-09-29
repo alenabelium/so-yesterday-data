@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-05-21-google-io-2026-releases-and-cerebras-95b
 source_transcript: ../transcripts/2026-05-21-google-io-2026-releases-and-cerebras-95b-ipo-w-andrew-feldma.md
 source_summary_hash: sha256:7bd78f7c18ad2b340a78b84cef4fe293e215e411cc7da9e200ff011d3abe2991
 source_transcript_hash: sha256:9ddd0a45554ff078736efb7e702be2ac5ab3e065e5557343de89790a0603665e
-fill_id: f0bdcb78-f886-491e-b2a5-92ecbb92ce2b
-published_at: '2026-05-21T22:12:05.387062'
+fill_id: f63ca9bd-1bce-42e2-be71-8720f7f50e2d
+published_at: '2026-05-30T12:51:24.687804'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -32,60 +32,49 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### Google's Infrastructure Dominance
+### Google's AI Infrastructure Dominance
 - **Timestamp**: [05:24](https://www.youtube.com/watch?v=kklrodAua_U&t=324)
-- **Summary**: Google's capex has grown 6x to ~$180B, processing 3.2 quadrillion tokens monthly. With 13 products over 1B users and 900M Gemini app users, Google is vertically integrating from custom TPUs to consumer apps, effectively neutralizing fears that its search revenue engine was being disrupted.
+- **Summary**: Google's capex is projected to reach $180-190 billion, scaling training across 1 million TPUs. With Gemini hitting 900 million users and 13 products exceeding 1 billion users, Google has successfully pivoted to an AI-native operating system, leveraging vertical integration from custom silicon to consumer apps to maintain its market lead.
 - **Anchor Quotes**: [0]
 
-### Gemini Omni and Multimodal Strategy
+### The Multimodal Bet and Video Generation
 - **Timestamp**: [14:14](https://www.youtube.com/watch?v=kklrodAua_U&t=854)
-- **Summary**: Google launched Gemini Omni, a model capable of generating realistic video and simulations from multimodal inputs. This represents a unique bet on modality scaling—treating biological sequences and video as unified data types—distinguishing Google from OpenAI and Anthropic, who have deemphasized or ignored video.
+- **Summary**: Google DeepMind is uniquely pursuing a grand vision of modality scaling with Gemini Omni, treating biological sequences and video as unified inputs. While other US labs focus on code or text, Google bets that handling diverse modalities simultaneously is the path to distinguishable superintelligence and superior educational tools.
 
-### The Shift to Agent-First Coding
+### Agent-First Coding and Search Reinvention
 - **Timestamp**: [34:00](https://www.youtube.com/watch?v=kklrodAua_U&t=2040)
-- **Summary**: Google released Anti-Gravity 2.0, an agent-first coding environment that replaces direct code editing with multi-agent orchestration. While Alex Kaparthy calls it a 'mid' fast-follow to Cursor, the industry is shifting toward describing intent rather than writing code, with Google leveraging its ecosystem integration to drive adoption.
-
-### Cerebras' Wafer-Scale Silicon and IPO
-- **Timestamp**: [01:33:51](https://www.youtube.com/watch?v=kklrodAua_U&t=5631)
-- **Summary**: Cerebras CEO Andrew Feldman details the company's $95B IPO and its wafer-scale engine, which uses SRAM to achieve 15-20x faster inference than GPUs. By avoiding the need to split models across thousands of chips, Cerebras offers superior throughput for large language models, securing major deals with OpenAI and AWS.
+- **Summary**: Anti-Gravity 2.0 and Gemini Spark signal a shift from direct code editing to orchestrating fleets of agents. Google is also reinventing search with persistent, agentic queries that steer user intent, leveraging its massive distribution advantage to make AI agents the default interface for daily tasks and shopping.
 - **Anchor Quotes**: [1]
 
-### Trust as the New Scarcity
-- **Timestamp**: [28:59](https://www.youtube.com/watch?v=kklrodAua_U&t=1739)
-- **Summary**: As AI collapses the cost of content creation, authenticity becomes the scarce resource. Google's Synth ID watermarking and industry-wide adoption of content credentials represent a shift toward self-regulation and cryptographic proof of reality, establishing trust as the foundational infrastructure of the future.
+### Cerebras Wafer-Scale Silicon Strategy
+- **Timestamp**: [01:34:46](https://www.youtube.com/watch?v=kklrodAua_U&t=5686)
+- **Summary**: Cerebras uses a wafer-scale engine filled with SRAM to achieve 15-20x faster inference than GPUs by eliminating inter-chip communication bottlenecks. This architecture allows massive models to run efficiently on fewer chips, addressing the critical need for high-throughput inference as AI utility becomes the primary metric of success.
+- **Anchor Quotes**: [1]
+
+### Infrastructure vs. Application Vision
+- **Timestamp**: [01:58:58](https://www.youtube.com/watch?v=kklrodAua_U&t=7138)
+- **Summary**: Feldman argues that infrastructure builders should focus on enabling extraordinary workloads rather than predicting specific applications. By providing faster, more efficient compute platforms, Cerebras empowers frontier labs to innovate, similar to how early networking infrastructure enabled apps like WhatsApp without the builders knowing the end use.
 
 ## Quotes to remember
 
-### Scarcity equals abundance minus trust. If you can solve for trust, you solve for abundance.
-- **Speaker**: Salem
-- **Timestamp**: [29:56](https://www.youtube.com/watch?v=kklrodAua_U&t=1796)
 
-### We are standing in the foothills of the singularity.
-- **Speaker**: Demis Hassabis
-- **Timestamp**: [01:15:14](https://www.youtube.com/watch?v=kklrodAua_U&t=4514)
-
-### If you're not in the frontier lab, your judgment fundamentally will start to drift.
-- **Speaker**: Andrej Karpathy
-- **Timestamp**: [01:25:24](https://www.youtube.com/watch?v=kklrodAua_U&t=5124)
-
-### The only question is does it write good code? Does it give me good answers? Can it do things that I want done?
-- **Speaker**: Andrew Feldman
-- **Timestamp**: [01:40:31](https://www.youtube.com/watch?v=kklrodAua_U&t=6031)
 
 ## Predictions
 
-### Elon Musk's Terabrain fab will take 15-20 years to reach meaningful production scale.
-- **Hedge**: Building fabs is incredibly difficult and takes decades of accumulated expertise.
-- **Timestamp**: [01:47:53](https://www.youtube.com/watch?v=kklrodAua_U&t=6473)
+### Code is clearly going away as a human endeavor, abstracted away by code agents that handle all code.
+- **Hedge**: Humans may not be trustworthy enough to write their own code in the near-term future.
+- **Timestamp**: [38:27](https://www.youtube.com/watch?v=kklrodAua_U&t=2307)
 
-### Authenticity will become more valuable than creativity as AI-generated content becomes abundant.
-- **Hedge**: Trust is becoming the new infrastructure.
-- **Timestamp**: [29:56](https://www.youtube.com/watch?v=kklrodAua_U&t=1796)
+### The next paradigm of interaction will be a real-time graphical experience interacting in your physical space within this calendar year.
+- **Hedge**: Current tools are not yet natively graphical or visual.
+- **Timestamp**: [39:24](https://www.youtube.com/watch?v=kklrodAua_U&t=2364)
 
 ## Lightning round
 
-
+- **Products**: ['Anti-Gravity 2.0', 'Gemini Spark', 'Cerebras Wafer-Scale Engine']
+- **Motto**: Build roads so others can drive extraordinary things.
+- **Advice**: Modulate the highs and lows; the entrepreneurial journey is a pressure test on your soul. Focus on attacking the hardest problems with people who share that drive.
 
 ## Concepts surfaced
 
-[[wafer-scale-computing]] · [[ai-inference]] · [[google-io-2026]] · [[gemini-omni]] · [[anti-gravity-2]] · [[synth-id]] · [[cerebras-ipo]] · [[agent-first-coding]]
+[[wafer-scale-computing]] · [[ai-agents]] · [[multimodal-ai]] · [[google-io-2026]] · [[inference-optimization]] · [[ai-infrastructure]] · [[agent-first-coding]] · [[trust-as-infrastructure]]

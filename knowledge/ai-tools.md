@@ -4,12 +4,12 @@ slug: ai-tools
 description: Referenced by template fill 6d9a00d8-ef99-4112-961b-a3ee9150b5e3 for video n2LB096r1Wo; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [ai-agents]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Ai Tools

@@ -262,5 +262,131 @@
     "upload_date": "20260520",
     "title": "I'm worried about where things are going",
     "duration": 540
+  },
+  {
+    "id": "Y6kz0eUxbaE",
+    "upload_date": "20260531",
+    "title": "The last 300 days of work? (No, but...)",
+    "duration": 1067
+  },
+  {
+    "id": "35f5MDHJq10",
+    "upload_date": "20260603",
+    "title": "Microsoft and Uber slam on the brakes of AI",
+    "duration": 485
+  },
+  {
+    "id": "-wQ8TM8CD3c",
+    "upload_date": "20260605",
+    "title": "Bernie's plan sucks, actually",
+    "duration": 1582
+  },
+  {
+    "id": "XjIU6tv7ipw",
+    "upload_date": "20260607",
+    "title": "Nobody gets this right",
+    "duration": 936
+  },
+  {
+    "id": "VJn37REPTPM",
+    "upload_date": "20260611",
+    "title": "This is my next big work",
+    "duration": 1533
+  },
+  {
+    "id": "bDaMHyEIoZo",
+    "upload_date": "20260614",
+    "title": "They think FOOM is near",
+    "duration": 385
+  },
+  {
+    "id": "jc9PbKtKlvc",
+    "upload_date": "20260615",
+    "title": "\"The window has closed\"",
+    "duration": 315
+  },
+  {
+    "id": "mGG-1ofCXuI",
+    "upload_date": "20260622",
+    "title": "Let's end wage slavery",
+    "duration": 177
+  },
+  {
+    "id": "61dz7Fh0ozg",
+    "upload_date": "20260626",
+    "title": "We're frozen out (for good?)",
+    "duration": 1136
+  },
+  {
+    "id": "yTolO_nxJiU",
+    "upload_date": "20260710",
+    "title": "Playing with Grok Build and whinging about Anthropic",
+    "duration": 2582
+  },
+  {
+    "id": "x8lhQdbyYNg",
+    "upload_date": "20260729",
+    "title": "Critical Path #1 - Why everyone lies about AI",
+    "duration": 2201
+  },
+  {
+    "id": "yFDmmlZ1xGA",
+    "upload_date": "20260807",
+    "title": "AI Hacking Spree, Kimi K3, Claude, and ChatGPT all break out!",
+    "duration": 3528
+  },
+  {
+    "id": "O5N8VGWG20I",
+    "upload_date": "20260811",
+    "title": "CEOs are falling behind",
+    "duration": 3344
+  },
+  {
+    "id": "tNgj9-GMilw",
+    "upload_date": "20260825",
+    "title": "Elon Musk says robots and AI will end money",
+    "duration": 5538
+  },
+  {
+    "id": "ekimKKpDRPE",
+    "upload_date": "20260827",
+    "title": "The OpenAI HuggingFace attack is pure stupidity",
+    "duration": 404
+  },
+  {
+    "id": "vjaj7ccQe9A",
+    "upload_date": "20260906",
+    "title": "Unpacking what Astra means",
+    "duration": 3870
+  },
+  {
+    "id": "cpqC9ib0-Kw",
+    "upload_date": "20260911",
+    "title": "Opening act of the Singularity",
+    "duration": 3783
+  },
+  {
+    "id": "kBZNi8zPUTQ",
+    "upload_date": "20260920",
+    "title": "Most jobs are going away",
+    "duration": 2157
+  },
+  {
+    "id": "Tffb5I8_xic",
+    "upload_date": "20260923",
+    "title": "Acceleration is 100% inevitable",
+    "duration": 336
+  },
+  {
+    "id": "_Ey6fWliRXc",
+    "upload_date": "20260927",
+    "title": "Post-Labor Economics explained in 10 minutes",
+    "duration": 657
+  },
+  {
+    "id": "w1qb3fMiE7s",
+    "upload_date": "20260928",
+    "title": "This will keep happening",
+    "duration": 521
   }
 ]

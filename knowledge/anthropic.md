@@ -7,23 +7,27 @@ tags:
   - ai-tools
   - ethics-safety
 related:
+  - agent
   - agent-orchestration
   - agentic
   - ai-agents
   - alignment
   - chain-of-thought
+  - claude
   - constraint-encoding
   - context-window
   - frontier-labs
   - hallucination
+  - infrastructure
   - openai
   - scaling-laws
+  - video
 sources: []
 # sources: insufficient links in body — TODO manual
 # sources: insufficient links in body — TODO manual
 confidence: medium
 created: "2026-04-15"
-updated: "2026-05-09"
+updated: "2026-05-27"
 ---
 
 Anthropic is a leading AI safety and research company founded in 2021 by former OpenAI researchers Dario Amodei and Daniela Amodei. The organization is best known for developing the Claude family of large language models, which are distinguished by their focus on safety, interpretability, and helpfulness. Unlike competitors that prioritize rapid scaling alone, Anthropic integrates safety research directly into the model development lifecycle, aiming to create systems that are robust against misuse and aligned with human values.

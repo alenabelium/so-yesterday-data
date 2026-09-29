@@ -4,12 +4,12 @@ slug: hardware
 description: Referenced by template fill 71d2c1d4-32dc-49bc-88c6-58c13fdd45c3 for video nCAkkvk1K7E; awaiting author.
 tags:
   - ai-strategy
-related: []
+related: [infrastructure, video]
 confidence: low
 draft: true
 provenance: agent:template-fill-v1
 created: '2026-05-19'
-updated: '2026-05-19'
+updated: "2026-05-27"
 ---
 
 # Hardware
