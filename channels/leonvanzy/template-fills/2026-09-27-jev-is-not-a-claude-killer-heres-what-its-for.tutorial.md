@@ -6,85 +6,82 @@ source_summary: ../summaries/2026-09-27-jev-is-not-a-claude-killer-heres-what-it
 source_transcript: ../transcripts/2026-09-27-jev-is-not-a-claude-killer-heres-what-its-for.md
 source_summary_hash: sha256:be9131c6a3d3473d99b2c3d18098b95a0d3603547e12a88862f64287815a165b
 source_transcript_hash: sha256:3e37f6733280849fb62d12ae3eadff992c912652b2adc44edb3fc54672782492
-fill_id: 817228ce-8121-4c51-bcf0-a5def87b4d5e
-published_at: '2026-09-29T17:11:36.358849'
+fill_id: bfeba2fb-9cc6-4cb2-85fa-653ee66d7603
+published_at: '2026-09-29T18:11:45.524420'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Use Jeff from TypeSafe AI for instant, low-cost classification tasks like routing GitHub issues to coding agents.
+Use Jeff from TypeSafe AI for instant, low-cost classification and routing tasks instead of expensive reasoning models.
 
 ## Prerequisites
 
 ### OpenRouter Account
 - **Kind**: account
-- **Note**: Sign up at OpenRouter to bypass TypeSafe's waiting list and access Jeff via API.
+- **Note**: Required to bypass TypeSafe's waiting list and access the Jeff API.
 
 ### GitHub Repository
 - **Kind**: tool
-- **Note**: A repo to connect to the software factory workflow for automated issue tagging.
+- **Note**: A repo is needed to test the automated issue classification workflow.
 
 ### Claude Code Agent
 - **Kind**: tool
-- **Note**: Used in the demo to clone repos and generate GitHub Actions workflows.
+- **Note**: Used in the demo to generate code and manage repository changes.
 
 ## Steps
 
+### Understand Jeff's Use Case
+- **Timestamp**: [00:54](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=54)
+- **Action**: Recognize that Jeff is a 'System 1' model designed for instant, deterministic classification (choice, score, or zero) rather than complex reasoning.
+
 ### Access Jeff via OpenRouter
 - **Timestamp**: [08:02](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=482)
-- **Action**: Bypass the TypeSafe waiting list by registering at OpenRouter, which provides access to the latest version of Jeff.
-- **Command Or Clicks**: Go to OpenRouter and register an account.
+- **Action**: Sign up for OpenRouter to bypass TypeSafe's waiting list and gain access to the latest version of Jeff.
 
-### Create API Key in TypeSafe
+### Generate API Key in Playground
 - **Timestamp**: [09:01](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=541)
-- **Action**: Navigate to the API keys section in the TypeSafe dashboard, create a new key named 'tutorial', and save it securely.
-- **Command Or Clicks**: Go to API keys -> Create new key -> Copy and save.
+- **Action**: Navigate to the TypeSafe AI dashboard playground, test a query, switch to JSON view to see the deterministic structure, and create a new API key.
 
-### Clone Repository
+### Clone Project Repository
 - **Timestamp**: [10:01](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=601)
-- **Action**: Use Claude Code to clone a test GitHub repository into the project root folder for the demo.
-- **Command Or Clicks**: Open agent (Claude Code) -> Paste GitHub URL -> Clone to root folder.
+- **Action**: Copy the command from the demo code and paste it into your coding agent to clone the repository.
 
-### Define Agent Labels
+### Define Custom Tags
 - **Timestamp**: [11:20](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=680)
-- **Action**: Ask the coding agent to add specific tags to the repository for routing, such as 'Claude Opus', 'Codex Astra', and 'Claude Haiku'.
-- **Command Or Clicks**: Prompt agent: 'Please add these tags: Claude Opus, Codex Astra, Claude Haiku.'
+- **Action**: Ask your agent to add specific tags to the GitHub repository for routing, such as 'Claude Opus', 'Codex Astra', and 'Claude Haiku'.
 
-### Install TypeSafe Skill
+### Install TypeSafe Agent Skill
 - **Timestamp**: [12:48](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=768)
-- **Action**: Copy the URL for the official TypeSafe agent skill from GitHub and install it in the project folder to teach the agent how to use Jeff.
-- **Command Or Clicks**: Copy URL -> Return to agent -> Install skill in project folder.
+- **Action**: Copy the URL for the official TypeSafe agent skill and install it in your project folder to teach the agent how to use Jeff.
 
-### Configure GitHub Action
+### Configure GitHub Action Logic
 - **Timestamp**: [13:36](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=816)
-- **Action**: Instruct the agent to create a GitHub Action that calls Jeff on new issues to classify them and assign agents based on confidence scores.
-- **Command Or Clicks**: Prompt agent: 'Create GitHub Action to call Jeff, tag issues, assign agents, and add comments with confidence scores.'
+- **Action**: Instruct your agent to create a GitHub Action that calls Jeff on new issues to classify them and assign agents based on confidence scores.
 
 ### Test the Workflow
 - **Timestamp**: [14:30](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=870)
-- **Action**: Create a new GitHub issue to verify that Jeff correctly classifies the task, assigns an agent, and posts a comment with the response.
-- **Command Or Clicks**: Create new issue -> Check comments for Jeff's classification and confidence score.
+- **Action**: Create a new issue in the repository to verify that Jeff correctly classifies the task, assigns an agent, and posts a comment with the response.
 
 ## Gotchas
 
-### Jeff is a 'System 1' model; it cannot reason or write complete sentences, making it unsuitable for complex tasks like science or math.
-- **Severity**: serious
+### Jeff cannot reason or write complete sentences; it is strictly for classification tasks like choice, score, or zero.
+- **Severity**: blocking
 - **Timestamp**: [02:38](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=158)
 
-### Jeff has a tiny context window of about 32,000 tokens and is not a chatbot; use it only for choice, score, or zero tasks.
-- **Severity**: serious
-- **Timestamp**: [03:35](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=215)
-
-### If the confidence score is below 0.75, add logic to pass the request to a human for review rather than automating it blindly.
+### TypeSafe currently has a waiting list; use OpenRouter as an alternative access method if you cannot join immediately.
 - **Severity**: heads_up
+- **Timestamp**: [08:02](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=482)
+
+### If the confidence score is below 0.75, implement logic to pass the request to a human for review rather than auto-processing.
+- **Severity**: serious
 - **Timestamp**: [05:35](https://www.youtube.com/watch?v=iyIAdmeKeMM&t=335)
 
 ## Where to go next
 
-Join Agentyc Labs for the coding masterclass and next Thursday's deep dive into JFA I. Check the description for links to the software factory tutorial and Decodr sponsor.
+Connect this repository to a real 'software factory' workflow. Join Agentyc Labs for the masterclass on building agent swarms and automating coding pipelines.
 
 ## Concepts surfaced
 
-[[system-1-vs-system-2]] · [[github-actions-automation]] · [[llm-cost-optimization]] · [[software-factory-workflow]]
+[[system-1-vs-system-2]] · [[deterministic-output]] · [[github-actions-automation]] · [[cost-efficient-ai]]

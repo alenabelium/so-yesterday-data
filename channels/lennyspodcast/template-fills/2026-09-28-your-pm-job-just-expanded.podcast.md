@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-28-your-pm-job-just-expanded.md
 source_transcript: ../transcripts/2026-09-28-your-pm-job-just-expanded.md
 source_summary_hash: sha256:3d106f408db33afa17a16814169d907ac9af41c1803a0aee15444f044db14efa
 source_transcript_hash: sha256:a6f1c712c55365f2b9a224165644e4e9f5026dc915f544ddcf30236bf86270bb
-fill_id: 41815772-1869-4b02-b9d5-7d6e1cb93efa
-published_at: '2026-09-29T17:11:33.310892'
+fill_id: a87803f1-ebed-4c19-b7b9-ee933b7e8e01
+published_at: '2026-09-29T18:11:42.491966'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,59 +15,56 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Atlassian Product Leader
-- **Title**: Speaker on AI-Driven PM Expansion
+- **Title**: Product Management Executive at Atlassian
 - **Org**: Atlassian
-- **Bio Oneliner**: Product leader discussing how Atlassian PMs leverage AI to accelerate delivery and expand their technical fluency.
+- **Bio Oneliner**: Leader driving the expansion of product management roles through AI integration and structured skill development frameworks.
 - **Platform**: solo
 
 ## Cold open
 
-### What do we actually see in practice? If you remember, a year or two ago... everyone was pointing at other people's work and saying, 'Your work is going to disappear.'
-- **Attribution**: Speaker
+### A year or two ago, everyone was pointing at other people's work and saying, 'Your work is going to disappear.' Fortunately, we don't hear that anymore.
+- **Attribution**: Atlassian Product Leader
 - **Timestamp**: [00:15](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=15)
 
-### Fortunately, we don't hear that anymore. What are we hearing today? Well, actually every job intersects. And a new era of artificial intelligence developers has arrived.
-- **Attribution**: Speaker
-- **Timestamp**: [00:57](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=57)
+### The job of a project manager is really the same as it always has been... Only the way we do it has changed.
+- **Attribution**: Atlassian Product Leader
+- **Timestamp**: [02:35](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=155)
 
 ## Key arguments
 
-### PM roles expand via AI automation
-- **Timestamp**: [01:30](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=90)
-- **Summary**: AI tools automate routine tasks like note-taking and status updates, allowing PMs to focus on high-value activities such as strategy, customer insight, and accelerating team delivery rather than disappearing.
+### PM Roles Expand Through AI Automation
+- **Timestamp**: [01:00](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=60)
+- **Summary**: AI tools automate routine tasks like note-taking and status updates, allowing PMs to focus on high-value activities such as strategy, customer insight, and rapid prototyping rather than disappearing.
+- **Anchor Quotes**: [0]
+
+### Three Atlassian Case Studies in Acceleration
+- **Timestamp**: [05:34](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=334)
+- **Summary**: Atlassian demonstrates PM expansion through three examples: Confluence PMs reviewing code and automating design fixes; Robo Claw PMs shifting from coding to steering; and Jira PMs using AI for prototyping and feedback triage.
 - **Anchor Quotes**: [1]
 
-### Atlassian case studies in AI integration
-- **Timestamp**: [06:26](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=386)
-- **Summary**: Three Atlassian examples show PMs reviewing code for Confluence, building Robo Claw from scratch with 'vibes', and triaging Jira feedback via Slack agents, significantly reducing time-to-market.
-
-### Shifting from rowing to steering
-- **Timestamp**: [11:34](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=694)
-- **Summary**: PMs must know when to code ('row') to understand obstacles and when to step back ('steer') to prioritize and unblock. Josh from Robo Claw coded initially but shifted to management once engineers deviated, speeding up progress.
-
-### AI Freedom Index and training
+### Structured Training via the AI Freedom Index
 - **Timestamp**: [17:22](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1042)
-- **Summary**: Atlassian uses the AI Freedom Index (levels 1-5) to guide PM skill development in prototyping, evals, and agent creation. Quarterly 'Builders Weeks' help over a thousand employees master these new workflows.
+- **Summary**: Atlassian uses the 'AI Freedom Index' (levels 1-5) to guide PMs toward technical fluency and prototyping skills, supported by quarterly 'Builders Weeks' where over a thousand attendees create new workflows.
 
-### Measuring outcomes over inputs
+### Measuring Outcomes Over Input Metrics
 - **Timestamp**: [19:48](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1188)
-- **Summary**: Success is measured by deployed PRs, features delivered to customers, and overall throughput rather than traditional input metrics. Organizations must track both team-level and organizational speed.
+- **Summary**: Success is measured by deployed features, throughput, and time-to-delivery rather than traditional input metrics like written PRs or manual research hours, ensuring teams work faster both individually and organizationally.
 
 ## Quotes to remember
 
 ### I think now is the best time in the world to be a project manager. I think it's extremely exciting.
-- **Speaker**: Speaker
-- **Timestamp**: [21:05](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1265)
+- **Speaker**: Atlassian Product Leader
+- **Timestamp**: [21:00](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1260)
 
-### The ladder is about results and what you create for your client. This helps project managers understand what skills they need to achieve.
-- **Speaker**: Speaker
-- **Timestamp**: [18:00](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1080)
+### We measure deployed PRs, not written PRs, but PRs deployed in production. We measure the provided functions.
+- **Speaker**: Atlassian Product Leader
+- **Timestamp**: [20:05](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1205)
 
 ## Predictions
 
-### We'll all be here in 10 years, but PMs will have expanded roles providing more value to customers.
-- **Hedge**: I'm an optimist
-- **Timestamp**: [21:00](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1260)
+### Project managers will continue to expand their roles, mastering skills like prototyping and evaluation to provide more value to customers.
+- **Hedge**: I'm an optimist, and I think we'll all be here in 10 years.
+- **Timestamp**: [21:05](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1265)
 
 ## Lightning round
 
@@ -75,4 +72,4 @@ provenance: agent:template-fill-v1
 
 ## Concepts surfaced
 
-[[product-management-evolution]] · [[ai-augmented-workflows]] · [[atlassian-case-study]] · [[pm-skill-frameworks]] · [[developer-velocity-metrics]]
+[[ai-product-management]] · [[atlassian-ai-strategy]] · [[pm-role-expansion]] · [[ai-freedom-index]] · [[developer-velocity-metrics]] · [[rapid-prototyping]] · [[code-review-augmentation]]
