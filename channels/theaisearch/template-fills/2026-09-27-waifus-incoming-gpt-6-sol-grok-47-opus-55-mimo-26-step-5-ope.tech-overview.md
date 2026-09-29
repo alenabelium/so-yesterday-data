@@ -6,234 +6,185 @@ source_summary: ../summaries/2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-5
 source_transcript: ../transcripts/2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-55-mimo-26-step-5-ope.md
 source_summary_hash: sha256:71a98d2312ba2832ad2e1db313f3e8f75847f2c0770678d974bb2e4f6407c475
 source_transcript_hash: sha256:c0d51cddc09c3fe6a651a06f9dddba1715bf0bb78802ebd2e11d6e90695c6f6e
-fill_id: 9aacb27b-816c-4cf4-857e-2b46004cd4f0
-published_at: '2026-09-29T17:19:34.141328'
+fill_id: 38bd009c-38b4-4b2f-8cc9-3f2969298672
+published_at: '2026-09-29T18:19:44.304357'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Mimo 2.6 leads open-weight intelligence while GPT-6 Soul offers a cost-effective frontier alternative, alongside breakthroughs in consistent world modeling and ultra-efficient robotics.
+Mimo 2.6 leads open weights while GPT-6 Soul/Luna, Opus 5.5, Grok 4.7, Gemini 3.8 Flash TTS, and Flux 3 Action ship.
 
 ## Tools covered
 
 ### World Crafter
 - **Vendor**: Tencent
 - **Category**: world-model
-- **Timestamp**: [00:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=45)
-- **Why It Matters**: Generates interactive 3D worlds with implicit memory for consistency across viewpoints.
-- **Sota Comparison**: New class of world models with persistent 3D state rather than just video generation.
+- **Timestamp**: [01:29](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=89)
+- **Why It Matters**: Interactive 3D world generator with implicit memory for consistency.
+- **Sota Comparison**: New class of consistent interactive world models.
 - **Sota Band**: new
 - **Access Constraint**: Open-source
 
-### Ming Image Design
+### Ming Image 0.1 Design
 - **Vendor**: Ming
 - **Category**: image
-- **Timestamp**: [02:15](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=135)
-- **Why It Matters**: Specialized 6B parameter model for UI, infographics, and designs with text/elements.
-- **Sota Comparison**: Ranked #1 in open weights for visual design tasks by Artificial Analysis.
+- **Timestamp**: [02:42](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=162)
+- **Why It Matters**: Open visual design model with transparency support.
+- **Sota Comparison**: Ranked #1 open weights for UI/infographic generation.
 - **Sota Band**: beats
 - **Access Constraint**: MIT License
 
 ### Mirror Scene
 - **Vendor**: Mirror Scene
 - **Category**: image
-- **Timestamp**: [03:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=225)
-- **Why It Matters**: Reconstructs 2D images into editable 3D scenes with separate object geometry.
-- **Sota Comparison**: Compact 6.1GB model for rapid 3D reconstruction from single images.
+- **Timestamp**: [04:23](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=263)
+- **Why It Matters**: Reconstructs 3D scenes from single images for editing.
+- **Sota Comparison**: Tiny 6.1GB model for consumer GPUs.
 - **Sota Band**: new
 - **Access Constraint**: Open-source
 
 ### Flux 3 Action
 - **Vendor**: Flux
-- **Timestamp**: [05:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=300)
-- **Why It Matters**: 7B parameter world action model for real-time robot control and video game agents.
-- **Sota Comparison**: Beats Cosmos 3 Nano in success rate with half the parameters and faster speed.
+- **Category**: agent
+- **Timestamp**: [05:21](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=321)
+- **Why It Matters**: 7B parameter robot control and video game agent.
+- **Sota Comparison**: Beats Cosmos 3 Nano in speed and success rate with half params.
 - **Sota Band**: beats
-- **Access Constraint**: Open-weight
+- **Access Constraint**: Open-source
 
 ### Gemini 3.8 Flash TTS
 - **Vendor**: Google
 - **Category**: audio
-- **Timestamp**: [06:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=405)
-- **Why It Matters**: Text-to-speech model allowing voice design via text prompts and metatags for expression.
-- **Sota Comparison**: Beats 11 Labs in quality benchmarks; #2 in pronunciation robustness on Voice Arena.
+- **Timestamp**: [07:52](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=472)
+- **Why It Matters**: Text-to-speech with custom voice design via prompts.
+- **Sota Comparison**: Beats 11 Labs on quality; #2 in Voice Arena for pronunciation.
 - **Sota Band**: beats
 - **Access Constraint**: API/Studio
 
 ### Mimo 2.6 Pro
 - **Vendor**: Xiaomi
 - **Category**: reasoning
-- **Timestamp**: [10:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=630)
-- **Why It Matters**: Trillion-parameter open model leading open-weight intelligence and cost-efficiency.
-- **Sota Comparison**: Leads open models in intelligence index; beats Fable 5 on Deep Suite Pro.
+- **Timestamp**: [11:11](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=671)
+- **Why It Matters**: Leading open weights model with ultra-low cost.
+- **Sota Comparison**: Beats GLM 5.3 in intelligence index; beats Fable 5 on Deep Suite.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
 ### Step 5 Preview
 - **Vendor**: Stepfun
 - **Category**: multimodal
-- **Timestamp**: [13:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=780)
-- **Why It Matters**: 600B MoE multimodal agent with 1M token context for coding and research.
-- **Sota Comparison**: Parity with GLM 5.3 on benchmarks but significantly cheaper.
+- **Timestamp**: [12:12](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=732)
+- **Why It Matters**: 600B MoE agent with 1M context window.
+- **Sota Comparison**: Parity with GLM 5.3; 3x cheaper than GLM.
 - **Sota Band**: parity
 - **Access Constraint**: API/Preview
-
-### GAE
-- **Vendor**: GAE
-- **Category**: world-model
-- **Timestamp**: [15:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=930)
-- **Why It Matters**: Generates consistent 3D worlds with depth maps and camera trajectories.
-- **Sota Comparison**: Compact <12GB model for consistent 3D scene generation.
-- **Sota Band**: new
-- **Access Constraint**: Open-source
-
-### Open Muse
-- **Vendor**: Open Source Community
-- **Category**: agent
-- **Timestamp**: [17:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1020)
-- **Why It Matters**: Open-source alternative to Meta's Muse for autonomous personal tasks.
-- **Sota Comparison**: MIT licensed agentic framework compatible with any backend model.
-- **Sota Band**: new
-- **Access Constraint**: MIT License
-
-### CLM
-- **Vendor**: CLM Team
-- **Category**: agent
-- **Timestamp**: [18:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1110)
-- **Why It Matters**: Ultra-fast system one model using contrastive learning for immediate action scoring.
-- **Sota Comparison**: 9x faster than Jev while matching performance on most tasks.
-- **Sota Band**: beats
-- **Access Constraint**: Open-source
 
 ### Grok 4.7
 - **Vendor**: XAI
 - **Category**: reasoning
-- **Timestamp**: [19:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1170)
-- **Why It Matters**: New frontier model focusing on cost-efficiency for professional knowledge work.
-- **Sota Comparison**: Tied with Mimo 2.6 Pro in intelligence; less efficient than GPT-6 per task.
-- **Sota Band**: behind
-- **Access Constraint**: API/Build
+- **Timestamp**: [20:10](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1210)
+- **Why It Matters**: Cost-focused frontier model.
+- **Sota Comparison**: Tied with Mimo 2.6 Pro; behind GPT-6 in intelligence.
+- **Sota Band**: parity
+- **Access Constraint**: API/Cursor
 
 ### GPT-6 Soul/Luna
 - **Vendor**: OpenAI
 - **Category**: reasoning
-- **Timestamp**: [21:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1290)
-- **Why It Matters**: New tiered GPT-6 family offering cost-effective variants for different reasoning needs.
-- **Sota Comparison**: Soul Max trails GPT-6 Astra; Luna is highly cost-efficient but lower intelligence.
+- **Timestamp**: [21:55](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1315)
+- **Why It Matters**: Tiered GPT-6 family for cost/performance balance.
+- **Sota Comparison**: Soul below Astra; Luna is ultra-cheap but lower IQ.
 - **Sota Band**: parity
 - **Access Constraint**: API/App
 
 ### Claude Opus 5.5
 - **Vendor**: Anthropic
 - **Category**: reasoning
-- **Timestamp**: [23:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1380)
-- **Why It Matters**: Latest frontier model excelling in coding, design, and interface navigation.
-- **Sota Comparison**: Intelligence parity with GPT-6 Astra but significantly higher cost.
+- **Timestamp**: [23:32](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1412)
+- **Why It Matters**: Top-tier frontier model for complex tasks.
+- **Sota Comparison**: Close to GPT-6 Astra but much more expensive.
 - **Sota Band**: parity
 - **Access Constraint**: API
 
-### Primebot T1
-- **Vendor**: Primebot
-- **Timestamp**: [25:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1530)
-- **Why It Matters**: Transformable personal robot switching between quadruped and bipedal modes.
-- **Sota Comparison**: New form factor for personal robotics at ~$2,800 price point.
-- **Sota Band**: new
-- **Access Constraint**: Pre-order
+### Open Muse
+- **Vendor**: Open Source
+- **Category**: agent
+- **Timestamp**: [16:41](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1001)
+- **Why It Matters**: Open-source alternative to Meta's personal agent.
+- **Sota Comparison**: Parity with Meta Muse for personal task automation.
+- **Sota Band**: parity
+- **Access Constraint**: MIT License
 
-### UBTE U1 Series
-- **Vendor**: UBTE Robotics
-- **Timestamp**: [26:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1560)
-- **Why It Matters**: First batch of super-realistic humanoid robots shipping to consumers.
-- **Sota Comparison**: New entrant in realistic humanoids with advanced facial/hair rendering.
-- **Sota Band**: new
-- **Access Constraint**: Shipping
-
-### Unitree Dex 5S
-- **Vendor**: Unitree
-- **Timestamp**: [26:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1605)
-- **Why It Matters**: Highly dextrous human-sized robot hand with 22 degrees of freedom.
-- **Sota Comparison**: New standard for dexterous manipulation in humanoid robots.
-- **Sota Band**: new
-- **Access Constraint**: Commercial
-
-### Skilled AI S1
-- **Vendor**: Skilled AI
-- **Timestamp**: [27:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1665)
-- **Why It Matters**: Humanoid robot trained via self-play simulation to autonomously play soccer.
-- **Sota Comparison**: Demonstrates advanced reinforcement learning for complex physical tasks.
-- **Sota Band**: new
-- **Access Constraint**: Demo
+### CLM (Contrastive Language Model)
+- **Vendor**: Open Source
+- **Category**: agent
+- **Timestamp**: [18:59](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1139)
+- **Why It Matters**: Ultra-fast system one model for quick decisions.
+- **Sota Comparison**: 9x faster than Jev with matching performance.
+- **Sota Band**: beats
+- **Access Constraint**: Open-source
 
 ### Dots 3 Note
 - **Vendor**: Red Note
 - **Category**: multimodal
-- **Timestamp**: [29:15](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1755)
-- **Why It Matters**: 28B MoE model excelling in ARC-AGI benchmarks and coding for its size.
-- **Sota Comparison**: Best open model on ARC-AGI2; outperforms much larger models.
+- **Timestamp**: [29:03](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1743)
+- **Why It Matters**: Efficient MoE model for coding and ARC-AGI.
+- **Sota Comparison**: Best open model on ARC-AGI; close to Kimik 3.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
 ### OUS VL Embedding
-- **Vendor**: OUS
+- **Vendor**: Open Source
 - **Category**: multimodal
-- **Timestamp**: [31:00](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1860)
-- **Why It Matters**: Unified embedding model for text, image, video, and audio search.
-- **Sota Comparison**: State-of-the-art performance among similarly sized embedding models.
+- **Timestamp**: [31:12](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1872)
+- **Why It Matters**: Unified embedding model for text, image, and audio.
+- **Sota Comparison**: SOTA performance for similarly sized embedding models.
 - **Sota Band**: beats
 - **Access Constraint**: Apache 2.0
 
-### Limite 1B Violto
-- **Vendor**: Limite
+### Liite 1B Violto
+- **Vendor**: Open Source
 - **Category**: reasoning
-- **Timestamp**: [32:15](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1935)
-- **Why It Matters**: Tiny 1B parameter model specialized for solving hard competitive math problems.
-- **Sota Comparison**: Clobbers larger models on competitive math benchmarks.
+- **Timestamp**: [32:53](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1973)
+- **Why It Matters**: Tiny specialized model for competitive math.
+- **Sota Comparison**: Beats much larger models on math benchmarks.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
-### Iikido Alter
-- **Vendor**: Iikido
-- **Category**: coding
-- **Timestamp**: [32:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1965)
-- **Why It Matters**: Compressed open-weight model specialized for cybersecurity vulnerability discovery.
-- **Sota Comparison**: Retains most reasoning quality of GLM 5.3 in a smaller footprint.
+### Ikido Alter
+- **Vendor**: Open Source
+- **Category**: tool
+- **Timestamp**: [32:53](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=1973)
+- **Why It Matters**: Compressed cybersecurity model for vulnerability scanning.
+- **Sota Comparison**: Near-parity with full GLM 5.3 on vuln discovery.
 - **Sota Band**: parity
 - **Access Constraint**: Open-weight
-
-### Project Suncatcher
-- **Vendor**: Google
-- **Category**: tool
-- **Timestamp**: [34:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=2070)
-- **Why It Matters**: Prototype for space-based data centers using solar power and radiation-hardened TPUs.
-- **Sota Comparison**: New infrastructure concept; early testing shows TPU survival in space conditions.
-- **Sota Band**: new
-- **Access Constraint**: Research
 
 ### Supra Image
 - **Vendor**: Supra
 - **Category**: image
-- **Timestamp**: [36:15](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=2175)
-- **Why It Matters**: Ultra-tiny 100M parameter image model runnable on mobile devices.
-- **Sota Comparison**: Lowest parameter count for viable image generation; lower quality than billion-param models.
+- **Timestamp**: [35:59](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=2159)
+- **Why It Matters**: 100M parameter image model for mobile devices.
+- **Sota Comparison**: Low quality but unique mobile capability.
 - **Sota Band**: behind
 - **Access Constraint**: Open-source
 
 ### Mimo 2.6 Pro
-- **Timestamp**: [10:30](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=630)
-- **One Liner**: Host highlights it as the new leader in open-weight intelligence and cost-effectiveness.
+- **Timestamp**: [11:11](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=671)
+- **One Liner**: Host highlights it as the new frontier in cost-effectiveness and open-weight intelligence.
 - **Sota Band**: beats
 
 ### Gemini 3.8 Flash TTS
-- **Timestamp**: [06:45](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=405)
+- **Timestamp**: [07:52](https://www.youtube.com/watch?v=nX0fgBL3sIM&t=472)
 - **One Liner**: Described as one of the best and cheapest text-to-speech models available.
 - **Sota Band**: beats
 
 ## Wider context
 
-The open-source ecosystem is rapidly closing the gap on frontier intelligence, with Mimo 2.6 leading the pack in both capability and cost efficiency. Simultaneously, closed providers like OpenAI and Anthropic are refining their tiered pricing strategies to compete, while hardware innovations in robotics and space infrastructure signal a shift toward physical AI deployment.
+The open-weight stack is rapidly closing the gap with frontier closed models, led by Xiaomi's Mimo 2.6 Pro which now leads the intelligence index. Simultaneously, cost efficiency has become a primary differentiator, with GPT-6 Luna and Grok 4.7 competing on price rather than raw capability. In robotics, consistency in 3D generation (World Crafter) and efficient control (Flux 3 Action) are shifting focus from static generation to interactive, persistent environments.
 
 ## Read next
 
-[[open-source-ai]] · [[world-models]] · [[cost-efficiency]] · [[robotics-advances]] · [[text-to-speech]] · [[multimodal-agents]]
+[[open-source-ai]] · [[cost-efficiency]] · [[robotic-control]] · [[text-to-speech]] · [[world-models]] · [[model-compression]]
