@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-we
 source_transcript: ../transcripts/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find.md
 source_summary_hash: sha256:65b6033987a2b26bff168cf17f9df924da2bfe468870598a41bfaa0995f87841
 source_transcript_hash: sha256:ed08047db889a80306678e3027f2660865418f3f05d3af97bd19443b16750c4a
-fill_id: de438808-6acb-4379-b0e0-b0aff5844c60
-published_at: '2026-09-29T13:19:21.440843'
+fill_id: e15e07e5-204b-4cea-bed5-5003f0e5b00b
+published_at: '2026-09-29T14:20:14.153578'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Min Yu Liu
 - **Title**: Vice President of Cosmos Labs at NVIDIA
 - **Org**: NVIDIA
-- **Bio Oneliner**: Leads the development of the Cosmos platform for world models and physical AI.
+- **Bio Oneliner**: Leads the development of the Cosmos platform for physical AI and world modeling.
 - **Platform**: duo
 
 ## Cold open
@@ -26,25 +26,30 @@ provenance: agent:template-fill-v1
 - **Attribution**: Nate Jones
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=ry9J1i3krIY&t=0)
 
+### A world model is a model that creates actions in the same way that LLMs create text.
+- **Attribution**: Nate Jones
+- **Timestamp**: [00:30](https://www.youtube.com/watch?v=ry9J1i3krIY&t=30)
+
 ## Key arguments
 
 ### World Models Enable Physical AI Simulation
 - **Timestamp**: [07:53](https://www.youtube.com/watch?v=ry9J1i3krIY&t=473)
-- **Summary**: Min Yu Liu explains that world models are critical for physical AI because they allow developers to test policies, safety, and accuracy in simulation before deploying robots or autonomous vehicles in the real world, avoiding lengthy and incomplete physical testing fleets.
+- **Summary**: Min Yu explains that world models are critical for physical AI because they allow developers to test policies in simulation before real-world deployment. By integrating a policy with a world model, engineers can verify safety and accuracy without the lengthy process of physical fleet testing, addressing scenarios that are hard to reproduce in reality.
 - **Anchor Quotes**: [0]
 
 ### Scaling Laws Extend Beyond Data and Parameters
 - **Timestamp**: [13:15](https://www.youtube.com/watch?v=ry9J1i3krIY&t=795)
-- **Summary**: Scaling for world models occurs across data volume, model size, and 'text scaling'—where more detailed textual descriptions of visual content lead to higher quality generation. This allows agents to decompose complex tasks into manageable sub-problems via reasoning.
+- **Summary**: Liu identifies four scaling dimensions for world models: data, model size, task complexity, and agent capability. He highlights 'text scaling,' where more detailed textual descriptions of visual content lead to higher quality generation, allowing agents to decompose complex tasks into manageable sub-problems similar to software agents.
+- **Anchor Quotes**: [1]
 
 ### Verifiable Rewards Accelerate Physical AI Development
 - **Timestamp**: [39:22](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2362)
-- **Summary**: Tasks with verifiable rewards in simulation, such as folding laundry or inserting cables, will mature faster than subjective tasks like cooking. The ability to verify success in a simulated environment allows developers to trade computing power for rapid development speed.
+- **Summary**: The guest argues that tasks with verifiable rewards in simulation, like folding laundry or coding, will mature faster than subjective ones like cooking. Because physical verification is difficult, the ability to test outcomes in a simulated world model provides the necessary feedback loop to accelerate development.
 - **Anchor Quotes**: [0]
 
-### Specialization Will Drive Future Model Architectures
+### Specialization Will Drive Future Architecture
 - **Timestamp**: [33:25](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2005)
-- **Summary**: While general intelligence is advancing, efficiency and cost will drive a shift toward specialized model architectures for physical AI. Different tasks will require different computational resources, making programmable hardware like GPUs essential for diverse applications.
+- **Summary**: While general intelligence is advancing, Liu predicts that cost and efficiency will drive a shift toward specialized model architectures. Just as software agents use 'recipe cards' for skills, physical robots will likely combine general models with specialized tools and architectures optimized for specific tasks rather than relying on a single monolithic supercomputer.
 
 ## Quotes to remember
 
@@ -52,28 +57,30 @@ provenance: agent:template-fill-v1
 - **Speaker**: Min Yu Liu
 - **Timestamp**: [02:53](https://www.youtube.com/watch?v=ry9J1i3krIY&t=173)
 
-### If we have the ability to verify the reward, then development will go very quickly... In physical AI, the challenge is data, it's a complex task. Getting a verifiable reward is another big challenge.
+### We see that as the amount of data increases, the coverage and ability to model physical processes improves... but often we find that we need to use physics simulators like Nvidia Omniverse or Isaac.
 - **Speaker**: Min Yu Liu
-- **Timestamp**: [39:22](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2362)
+- **Timestamp**: [19:26](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1166)
 
-### We still believe we need specialization... If your job never requires you to solve Olympiad math problems, this might be good in the early stages for learning, but later on, you probably won't want to waste your resource.
+### In physical AI, you face complex problems. And it makes sense to solve them through subtasks and through a certain kind of graph execution specific to the task.
 - **Speaker**: Min Yu Liu
-- **Timestamp**: [33:25](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2005)
+- **Timestamp**: [30:50](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1850)
 
 ## Predictions
 
-### Tasks with verifiable rewards in simulation, such as folding laundry, will mature faster than subjective ones like cooking scrambled eggs.
-- **Hedge**: I think you're right. I think you're right.
-- **Timestamp**: [40:28](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2428)
+### The line between software agents and physical robots will blur, with physical agents making tool calls and controlling robots using specialized skills.
+- **Hedge**: This transition is gradual; specialization will remain important for efficiency in the near term.
+- **Timestamp**: [32:37](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1957)
 
-### The line between software agents and physical robots will gradually blur as models become more powerful.
-- **Hedge**: It will happen. Yes.
-- **Timestamp**: [33:05](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1985)
+### Within 12 months, we will see a surprising breakthrough where a use case previously thought impossible becomes available due to scaling laws working better than expected.
+- **Hedge**: The specific use case is unknown but likely involves combining verifiable rewards with physical AI.
+- **Timestamp**: [43:11](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2591)
 
 ## Lightning round
 
-
+- **Products**: ['NVIDIA Omniverse', 'Isaac Sim', 'Cosmos Suite']
+- **Motto**: Innovation is made possible by openness.
+- **Advice**: Support open source and open models so developers can understand what's going on inside, absorb new ideas, and create better models.
 
 ## Concepts surfaced
 
-[[world-models]] · [[physical-ai]] · [[scaling-laws]] · [[verifiable-rewards]] · [[cosmos-platform]] · [[robotic-agents]]
+[[world-models]] · [[physical-ai]] · [[scaling-laws]] · [[robotics-agents]] · [[simulation-testing]] · [[verifiable-rewards]] · [[model-specialization]] · [[open-source-ai]]
