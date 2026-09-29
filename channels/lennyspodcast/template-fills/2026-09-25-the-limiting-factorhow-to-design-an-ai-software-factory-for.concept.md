@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-25-the-limiting-factorhow-to-design-an-ai-s
 source_transcript: ../transcripts/2026-09-25-the-limiting-factorhow-to-design-an-ai-software-factory-for.md
 source_summary_hash: sha256:1234f36f409b4716c5f6ee083c4393d7f20e678e5884a64503a299010fd6fe69
 source_transcript_hash: sha256:33ad395997f2d34739b7184afad91379fda0babc72da6cfa747edf65b9b77967
-fill_id: b28ec211-35a9-43a6-96bf-10fba27ab016
-published_at: '2026-09-29T15:19:02.923926'
+fill_id: 92ad42cd-09e8-486e-be30-456d87db2f8d
+published_at: '2026-09-29T16:19:00.475309'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -19,34 +19,34 @@ In the race for AI-driven speed, the primary bottleneck has shifted from coding 
 ## The argument
 
 ### Define the Core Substrate
-- **Anchor Timestamps**: ['00:02:06']
-- **Claim**: Speed is determined by eliminating bottlenecks in the system, not just individual effort. The bottleneck has shifted from coding to product definition and coordination.
+- **Anchor Timestamps**: ['00:00:54']
+- **Claim**: Winning is not just about driving fast but eliminating bottlenecks around driving. The best drivers operate at the system level, finding and removing bottlenecks to move to the next one.
 - **Role**: definition
 
-### Automate Insight Collection
-- **Anchor Timestamps**: ['00:04:17']
-- **Claim**: Create a customer insights agent that aggregates scattered data from Gong, Zendesk, and surveys to filter noise and identify true pain points.
+### Identify the New Bottleneck
+- **Anchor Timestamps**: ['00:03:15']
+- **Claim**: Engineers have automated coding, shifting the bottleneck to product definition and coordination. The first step is identifying pain via scattered data and creating a customer insights agent.
 - **Role**: evidence
 
-### Connect AI to Systems
-- **Anchor Timestamps**: ['00:06:30']
-- **Claim**: Build an agent like 'Glass' connected to Snowflake, user research, and codebase to provide specificity for product definition and prototyping.
+### Automate Creation and Verification
+- **Anchor Timestamps**: ['00:07:32']
+- **Claim**: Creation is no longer the bottleneck; verification is. Agents like Inspect for coding and Review Buddy for PRs automate 75-93% of work, allowing engineers to focus on high-value tasks.
 - **Role**: evidence
 
-### Automate Coding & Review
-- **Anchor Timestamps**: ['00:08:24']
-- **Claim**: Use agents like 'Inspect' for code generation and 'Review Buddy' for PR verification, allowing non-engineers to contribute and engineers to focus on complex issues.
+### Coordinate via Agent Architecture
+- **Anchor Timestamps**: ['00:10:47']
+- **Claim**: Human attention becomes the bottleneck. The solution is an agent architecture (Gadget) that understands organizational intent, updates roadmaps, and handles queries, covering 85% of PM questions.
 - **Role**: evidence
 
 ### Synthesize the Factory Model
-- **Anchor Timestamps**: ['00:17:52']
-- **Claim**: The best product is the next one released; focus on building the 'factory' that builds products faster, not just the product itself.
+- **Anchor Timestamps**: ['00:16:56']
+- **Claim**: Product managers evolve into technical architects, tastemakers, and general managers. The focus shifts from delivering products to building the 'factory' that builds products faster.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Ramp built specific agents: 'Glass' for insights, 'Inspect' for coding (75% of PRs), 'Review Buddy' (93% auto-processed), and 'Testo' for QA. Constraints like limited resources force focus on efficiency (like Audi's Le Mans win). Product managers evolve into technical architects or general managers. Caveat: Everything shown is already outdated; teams must copy and surpass these methods.
+Ramp built specific agents: a customer insights agent for data aggregation, 'Glass' for product definition with system context, 'Inspect' for coding (75% of PRs), 'Review Buddy' for verification (93% of PRs), and 'Testo' for QA. They also use 'Gadget' for coordination. A caveat is that programming agents require a strong architecture and quality code base to be effective. Another caveat is that constraints (like limited budget) force choices on dimensions where one can become the best, such as fuel efficiency in racing.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[product-management]] · [[automation]] · [[bottleneck-analysis]] · [[software-factory]]
+[[ai-agents]] · [[product-management]] · [[automation-strategy]] · [[bottleneck-analysis]] · [[software-factory]]

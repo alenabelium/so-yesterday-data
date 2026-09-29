@@ -6,68 +6,59 @@ source_summary: ../summaries/2026-09-25-exciting-ai-updates-weekly-september-25-
 source_transcript: ../transcripts/2026-09-25-exciting-ai-updates-weekly-september-25-2026.md
 source_summary_hash: sha256:1f96f272d5e95393118e731a29806c6870f38a40563d65338b35d575adec6b5d
 source_transcript_hash: sha256:a117fad2b1ee3ac46c1808d7bdca54f88e72c5af7e7853aa1ff478c36344d416
-fill_id: 6c95c643-1fa7-44e8-9876-ab68517412f0
-published_at: '2026-09-29T15:19:05.103666'
+fill_id: 007a0c11-c7f6-48c5-81b3-38dbb328d0ae
+published_at: '2026-09-29T16:19:02.639494'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Grog 4.7 and Somo Mimo drive a massive cost shift in AI, while Meta Muse and AWS agent harnesses push agentic workflows into production.
+Grog 4.7 and Somo Mimo drive a massive cost drop in AI agents, while Meta Muse and AWS Agent Harness enable specialized agentic workflows.
 
 ## Tools covered
 
 ### Grog 4.7
-- **Vendor**: Unknown
+- **Vendor**: Grog
 - **Category**: coding
-- **Timestamp**: [05:12](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=312)
-- **Why It Matters**: Low-cost coding model with half-million token context and function calling support.
-- **Sota Comparison**: Ties Grog 4.7 on intelligence index, exceeding DeepSeek.
+- **Timestamp**: [05:32](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=332)
+- **Why It Matters**: Low-cost coding agent with half-million context window and function calling support.
+- **Sota Comparison**: Ties Grog 4.7 on intelligence index and exceeds DeepSeek in parameter efficiency.
 - **Sota Band**: parity
 - **Access Constraint**: Low cost
 
 ### Somo Mimo
-- **Vendor**: Unknown
-- **Category**: multimodal
-- **Timestamp**: [06:45](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=405)
-- **Why It Matters**: Open-weight MIT model with 1M token context and anti-cheating controls.
-- **Sota Comparison**: Ties Grog 4.7 on intelligence index, exceeding DeepSeek.
+- **Vendor**: Somo
+- **Category**: coding
+- **Timestamp**: [06:22](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=382)
+- **Why It Matters**: Open-weight MIT model with 1M context, trained on agent trajectories.
+- **Sota Comparison**: Ties Grog 4.7 and exceeds DeepSeek in intelligence index.
 - **Sota Band**: parity
-- **Access Constraint**: Open weight MIT
+- **Access Constraint**: Open weight
 
 ### Meta Muse
 - **Vendor**: Meta
 - **Category**: agent
 - **Timestamp**: [04:13](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=253)
 - **Why It Matters**: Free personal AI agent for Mac with browsing and marketplace research.
-- **Sota Comparison**: New category of free personal agents competing with paid models.
+- **Sota Comparison**: New entrant in consumer-facing personal agents.
 - **Sota Band**: new
 - **Access Constraint**: Free
 
 ### AWS Agent Harness
 - **Vendor**: AWS
-- **Category**: tool
+- **Category**: agent
 - **Timestamp**: [06:22](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=382)
 - **Why It Matters**: Production harness for agent orchestration, tool use, and observability.
 - **Sota Comparison**: Better task accuracy than DeepSeek harness at higher cost.
-- **Sota Band**: beats
+- **Sota Band**: behind
 - **Access Constraint**: AWS Platform
-
-### Claude Opus 55
-- **Vendor**: Anthropic
-- **Category**: multimodal
-- **Timestamp**: [02:57](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=177)
-- **Why It Matters**: New model with 1M token context, cheaper than prior versions.
-- **Sota Comparison**: Approaches Fable 51 performance at 40% less cost.
-- **Sota Band**: beats
-- **Access Constraint**: Paid
 
 ### Bolt New Forge
 - **Vendor**: Bolt
 - **Category**: coding
 - **Timestamp**: [11:00](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=660)
-- **Why It Matters**: Allows open models in Bolt's coding agent mode.
+- **Why It Matters**: Allows open models inside Bolt's coding agent mode.
 - **Sota Comparison**: Addresses usage limits with 50x more monthly usage.
 - **Sota Band**: new
 - **Access Constraint**: Platform
@@ -76,65 +67,56 @@ Grog 4.7 and Somo Mimo drive a massive cost shift in AI, while Meta Muse and AWS
 - **Vendor**: Cactus Compute
 - **Category**: agent
 - **Timestamp**: [11:34](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=694)
-- **Why It Matters**: Tiny 8-29MB model for offline action and tool calls.
-- **Sota Comparison**: Smallest local agent model, runs without internet.
+- **Why It Matters**: Tiny 8-29MB model for offline action and tool calls on edge devices.
+- **Sota Comparison**: New category of ultra-low-footprint local agents.
 - **Sota Band**: new
 - **Access Constraint**: Open source
-
-### Quen 3 Omni Flash
-- **Vendor**: Quen
-- **Category**: multimodal
-- **Timestamp**: [10:04](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=604)
-- **Why It Matters**: Omni model processing text, images, audio, video with low cost.
-- **Sota Comparison**: Retains 98% benchmark retention despite size reduction.
-- **Sota Band**: parity
-- **Access Constraint**: Open Apache
-
-### Nvidia FP4
-- **Vendor**: Nvidia
-- **Category**: tool
-- **Timestamp**: [19:01](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=1141)
-- **Why It Matters**: 4-bit format using ternary values for effective quantization.
-- **Sota Comparison**: New quantization standard reducing memory usage significantly.
-- **Sota Band**: new
-- **Access Constraint**: Hardware/Software
 
 ### Google Family Agent
 - **Vendor**: Google
 - **Category**: agent
 - **Timestamp**: [13:09](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=789)
-- **Why It Matters**: Household agent running on cloud computer for daily briefings.
-- **Sota Comparison**: New consumer-facing agentic application from Google.
+- **Why It Matters**: Household agent running on cloud computer for shared briefings.
+- **Sota Comparison**: New approach to domestic agentic interfaces.
 - **Sota Band**: new
 - **Access Constraint**: Google Account
 
-### Clo Code Parallel
+### Claude Code
 - **Vendor**: Anthropic
 - **Category**: coding
 - **Timestamp**: [16:22](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=982)
-- **Why It Matters**: Runs parallel agents in cloud to split tasks and merge results.
-- **Sota Comparison**: New workflow for complex coding tasks via conversation.
+- **Why It Matters**: Cloud-based parallel agent execution for software development.
+- **Sota Comparison**: New paradigm for cloud-native SDLC workflows.
 - **Sota Band**: new
-- **Access Constraint**: Paid
+- **Access Constraint**: Subscription
 
 ### Meta Segment Anything
 - **Vendor**: Meta
 - **Category**: image
 - **Timestamp**: [30:45](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=1845)
-- **Why It Matters**: Model to detect, segment, and track objects in images/video.
-- **Sota Comparison**: Affordable API for segmentation tasks.
+- **Why It Matters**: API for detecting, segmenting, and tracking objects in images/video.
+- **Sota Comparison**: Affordable segmentation at $2.50 per 1k images.
 - **Sota Band**: parity
 - **Access Constraint**: API
 
+### Nvidia Soul Pi
+- **Vendor**: Nvidia
+- **Category**: coding
+- **Timestamp**: [30:45](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=1845)
+- **Why It Matters**: Terminal coding agent extension reducing token costs by 2x.
+- **Sota Comparison**: Significant cost reduction with maintained score quality.
+- **Sota Band**: beats
+- **Access Constraint**: MIT License
+
 ### Needle
 - **Timestamp**: [11:34](https://www.youtube.com/watch?v=iyZHPCNd8jI&t=694)
-- **One Liner**: Tiny 8-29MB local model for offline agent actions.
+- **One Liner**: Ultra-small open model for offline edge agents.
 - **Sota Band**: new
 
 ## Wider context
 
-The industry is pivoting from raw capability to cost efficiency, with models like Grog 4.7 and Somo Mimo offering parity at a fraction of the price. This economic pressure is accelerating agentic workflows, as seen in AWS's harness and Bolt's Forge, while safety concerns remain divided between Anthropic's constitutional approach and Nvidia's rapid engineering stance.
+The industry is pivoting from raw parameter wars to [[cost-efficiency]] and [[agentic-orchestration]]. Models like Grog 4.7 and Somo Mimo prove that specialized, low-cost agents can match larger competitors, while tools like AWS Agent Harness and Bolt New Forge focus on the infrastructure of managing swarms. This shift reduces the barrier to entry for complex AI workflows.
 
 ## Read next
 
-[[cost-efficiency]] · [[agentic-workflows]] · [[open-source-ai]] · [[ai-safety]] · [[quantization]]
+[[cost-efficiency]] · [[agentic-orchestration]] · [[open-weight-models]] · [[edge-computing]] · [[ai-safety]]

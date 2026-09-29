@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-we
 source_transcript: ../transcripts/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find.md
 source_summary_hash: sha256:65b6033987a2b26bff168cf17f9df924da2bfe468870598a41bfaa0995f87841
 source_transcript_hash: sha256:ed08047db889a80306678e3027f2660865418f3f05d3af97bd19443b16750c4a
-fill_id: 57b8936a-4dd0-4e55-9135-d93e6c150828
-published_at: '2026-09-29T15:19:07.017290'
+fill_id: f7b62191-0b6e-44ca-967f-f48fc2390624
+published_at: '2026-09-29T16:19:04.689247'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,9 +15,9 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Min Yu Liu
-- **Title**: Vice President of Cosmos Labs at NVIDIA
+- **Title**: Vice President, Cosmos Labs
 - **Org**: NVIDIA
-- **Bio Oneliner**: Leads the Cosmos platform for world models, bridging generative AI and physical robotics.
+- **Bio Oneliner**: Leads the development of the Cosmos platform for physical AI and world models.
 - **Platform**: duo
 
 ## Cold open
@@ -28,27 +28,23 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### World Models Enable Safe Physical AI Testing
+### World Models Enable Physical AI Simulation
 - **Timestamp**: [07:53](https://www.youtube.com/watch?v=ry9J1i3krIY&t=473)
-- **Summary**: Min Yu explains that world models are critical for physical AI because they allow developers to test policies (like self-driving or robotics) in simulation before real-world deployment. This solves the problem of incomplete testing and dangerous scenarios by integrating policy with a simulated world model to verify safety and accuracy.
+- **Summary**: Min Yu explains that world models are critical for physical AI because they allow developers to test policies and safety in simulation before real-world deployment, solving the difficulty of reproducing rare scenarios with physical fleets.
 - **Anchor Quotes**: [0]
 
-### Scaling Laws Extend Beyond Data and Parameters
-- **Timestamp**: [13:15](https://www.youtube.com/watch?v=ry9J1i3krIY&t=795)
-- **Summary**: Scaling in world models occurs through data volume, model size, and 'text scaling' (detailed prompt descriptions). More detailed text instructions lead to higher-quality visual generation. Additionally, using physics simulators like Omniverse helps generate synthetic data to improve the model's understanding of physical laws.
+### Scaling Laws Extend to Text and Agent Depth
+- **Timestamp**: [14:30](https://www.youtube.com/watch?v=ry9J1i3krIY&t=870)
+- **Summary**: Beyond data and parameter size, world models scale through 'text scaling' (detailed descriptions) and agent scaling, where the model reasons step-by-step to decompose complex tasks into manageable sub-problems.
+
+### Specialization Will Drive Future Architectures
+- **Timestamp**: [34:39](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2079)
+- **Summary**: While general models exist, real-world constraints like latency and cost will force specialization. Different physical tasks will require distinct architectures optimized for specific edge or data center needs.
 
 ### Verifiable Rewards Accelerate Development
 - **Timestamp**: [39:22](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2362)
-- **Summary**: Tasks with verifiable rewards (like folding laundry or coding) will mature faster than subjective ones (like cooking). Simulation allows for rapid iteration and verification, whereas real-world physical tasks lack easy feedback loops. Therefore, general intelligence in physical space will advance via tasks that can be reliably tested in simulation.
+- **Summary**: Tasks with clear, verifiable rewards in simulation (like folding laundry or coding) will mature faster than subjective tasks (like cooking), because the feedback loop for improvement is immediate and objective.
 - **Anchor Quotes**: [0]
-
-### Specialization Will Drive Future Architectures
-- **Timestamp**: [33:25](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2005)
-- **Summary**: While universal models exist, cost and efficiency will drive specialization. Different physical tasks require different architectures and computing power (e.g., edge vs. data center). NVIDIA supports open-source models to allow developers to build specialized 'skill' modules on top of general foundations.
-
-### 3D World Generation as a Surprise Use Case
-- **Timestamp**: [44:26](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2666)
-- **Summary**: Min Yu predicts that 3D world creation (like in Astra) will be a major surprise success because it offers a verifiable reward loop (checking if the generated 3D space matches the description). He anticipates this capability will soon combine with physical AI tools.
 
 ## Quotes to remember
 
@@ -56,22 +52,18 @@ provenance: agent:template-fill-v1
 - **Speaker**: Min Yu Liu
 - **Timestamp**: [02:53](https://www.youtube.com/watch?v=ry9J1i3krIY&t=173)
 
-### We are already somewhat familiar with LLMs... What does the strapping for the world model look like? It's going to be a real robot.
-- **Speaker**: Nate Jones
-- **Timestamp**: [28:28](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1708)
-
-### If you don't care about the cost, maybe you can create something universal. But ultimately, cost will play an important role.
+### We see that as the amount of data increases, the coverage and ability to model physical processes improves... but often we need to use physics simulators like Nvidia Omniverse.
 - **Speaker**: Min Yu Liu
-- **Timestamp**: [34:39](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2079)
+- **Timestamp**: [19:26](https://www.youtube.com/watch?v=ry9J1i3krIY&t=1166)
+
+### In physical AI, the challenge is data... Getting a verifiable reward is another big challenge. Whether the food is delicious is up to the person to judge.
+- **Speaker**: Min Yu Liu
+- **Timestamp**: [39:22](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2362)
 
 ## Predictions
 
-### Tasks with verifiable rewards in simulation (like folding laundry) will mature faster than subjective tasks (like cooking scrambled eggs).
-- **Hedge**: I think you're right. I think you're right.
-- **Timestamp**: [40:28](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2428)
-
-### 3D world generation capabilities will emerge as a major surprise use case within the next 12 months due to verifiable reward loops.
-- **Hedge**: It will be something like: 'I didn't expect this.'
+### Within 12 months, we will see a surprise use case where scaling laws work better than expected, likely combining physical AI with tools like Astra for creating 3D worlds.
+- **Hedge**: If you had asked me two weeks ago, I could have described what Astra has achieved; this shows the speed of innovation in verifiable reward domains.
 - **Timestamp**: [44:12](https://www.youtube.com/watch?v=ry9J1i3krIY&t=2652)
 
 ## Lightning round
@@ -80,4 +72,4 @@ provenance: agent:template-fill-v1
 
 ## Concepts surfaced
 
-[[world-models]] · [[physical-ai]] · [[cosmos-platform]] · [[scaling-laws]] · [[verifiable-rewards]] · [[simulation-testing]] · [[agent-based-ai]] · [[open-source-ai]]
+[[world-models]] · [[physical-ai]] · [[scaling-laws]] · [[simulation-testing]] · [[agent-based-ai]] · [[verifiable-rewards]]
