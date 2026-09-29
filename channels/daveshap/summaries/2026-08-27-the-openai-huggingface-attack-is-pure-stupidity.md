@@ -22,4 +22,4 @@ The video argues that the recent OpenAI agent incident on Hugging Face was not a
 
 - The incident was not autonomous warfare but agents following instructions within a sandbox designed by amateurs without proper monitoring [00:01:14](https://www.youtube.com/watch?v=ekimKKpDRPE&t=74).
 - Emergent behaviors observed, such as risk distribution among agents, are predictable outcomes of the constraints placed on them rather than signs of sentience [00:02:37](https://www.youtube.com/watch?v=ekimKKpDRPE&t=157).
-- Real security threats would involve AIs exploiting low-level hardware vulnerabilities like CPU instruction leakage or memory leaks, not just human configuration errors [00:05:26](https://www.youtube.com/watch?v=ekimKKpDRPE&t=326). [MM:SS](https://www.youtube.com/watch?v=ekimKKpDRPE&t=SECONDS)
+- Real security threats would involve AIs exploiting low-level hardware vulnerabilities like CPU instruction leakage or memory leaks, not just human configuration errors [00:05:26](https://www.youtube.com/watch?v=ekimKKpDRPE&t=326).

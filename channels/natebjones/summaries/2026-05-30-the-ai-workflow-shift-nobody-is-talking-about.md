@@ -23,4 +23,4 @@ The speaker describes a significant shift in AI workflows, moving away from trad
 
 - The speaker utilizes CodeX to search the local file system by natural language description, copying relevant files into a dedicated working folder to create a clean context window for complex tasks [00:01:15](https://www.youtube.com/watch?v=rqVzTX8w_w0&t=75).
 - Prompting strategies have evolved from detailed structural engineering to collaborative task definition, where the AI helps shape the task based on defined standards before execution [00:03:02](https://www.youtube.com/watch?v=rqVzTX8w_w0&t=182).
-- This workflow enables efficient multi-threading and simultaneous drafting by leveraging local file management, long-running agent capabilities, and automated review systems [00:04:45](https://www.youtube.com/watch?v=rqVzTX8w_w0&t=285). [MM:SS](https://www.youtube.com/watch?v=rqVzTX8w_w0&t=SECONDS)
+- This workflow enables efficient multi-threading and simultaneous drafting by leveraging local file management, long-running agent capabilities, and automated review systems [00:04:45](https://www.youtube.com/watch?v=rqVzTX8w_w0&t=285).

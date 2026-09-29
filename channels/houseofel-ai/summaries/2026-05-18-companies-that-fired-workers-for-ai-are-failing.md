@@ -24,4 +24,4 @@ A recent Gartner study reveals that while 80% of large companies have laid off w
 
 - Gartner data shows no correlation between AI-driven layoffs and higher ROI, as companies achieving success are instead using AI to make existing employees more productive [00:00:00](https://www.youtube.com/watch?v=5EvIY_2TWN8&t=0).
 - The Jevons paradox suggests that as AI makes work cheaper and faster, demand for that work will expand, creating new roles rather than eliminating them [00:03:53](https://www.youtube.com/watch?v=5EvIY_2TWN8&t=233).
-- Replacing human salaries with AI agents introduces unpredictable operational costs and vendor lock-in, making the financial calculus far more complex than initial pitch decks suggest [00:08:24](https://www.youtube.com/watch?v=5EvIY_2TWN8&t=504). [MM:SS](https://www.youtube.com/watch?v=5EvIY_2TWN8&t=SECONDS)
+- Replacing human salaries with AI agents introduces unpredictable operational costs and vendor lock-in, making the financial calculus far more complex than initial pitch decks suggest [00:08:24](https://www.youtube.com/watch?v=5EvIY_2TWN8&t=504).

@@ -23,4 +23,4 @@ Peter Diamandis announces Moonshots LIVE 2026, a major event in Los Angeles dedi
 
 - The event features two major X Prizes with a combined $5.5 million in purses, including a $3.5 million prize for optimistic science fiction and a $2 million prize for AI business solutions [00:00:25](https://www.youtube.com/watch?v=pU2T0N9NWYo&t=25).
 - Industry leaders such as Ben Lam, Astro Teller, and Palmer Luckey will participate, highlighting the convergence of biotechnology, aerospace, and advanced hardware [00:00:55](https://www.youtube.com/watch?v=pU2T0N9NWYo&t=55).
-- The gathering invites 1,200 attendees to vote on finalists and celebrate optimism alongside entrepreneurs pushing the boundaries of reality and science fiction [00:01:28](https://www.youtube.com/watch?v=pU2T0N9NWYo&t=88). [MM:SS](https://www.youtube.com/watch?v=pU2T0N9NWYo&t=SECONDS)
+- The gathering invites 1,200 attendees to vote on finalists and celebrate optimism alongside entrepreneurs pushing the boundaries of reality and science fiction [00:01:28](https://www.youtube.com/watch?v=pU2T0N9NWYo&t=88).

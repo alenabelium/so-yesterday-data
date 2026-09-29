@@ -24,4 +24,4 @@ The video analyzes a critical infrastructure conflict where Envy Energy is diver
 
 - Envy Energy has notified Liberty Utilities that it will stop supplying power to Lake Tahoe after May 2027 to prioritize capacity for data centers operated by tech giants like Google and Apple [00:00:57].
 - The regulatory framework involves overlapping jurisdictions between California, Nevada, and federal bodies, creating a accountability vacuum where no agency can effectively protect the affected residents [00:04:57].
-- The crisis disproportionately impacts low-income essential workers who are excluded from socioeconomic planning, while new transmission infrastructure costs are shifted to southern Nevada customers [00:06:51]. [MM:SS](https://www.youtube.com/watch?v=WeKAjZU-JsE&t=SECONDS)
+- The crisis disproportionately impacts low-income essential workers who are excluded from socioeconomic planning, while new transmission infrastructure costs are shifted to southern Nevada customers [00:06:51].

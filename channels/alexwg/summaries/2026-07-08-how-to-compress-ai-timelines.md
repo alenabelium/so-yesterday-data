@@ -23,4 +23,4 @@ The video argues that intelligence is fundamentally a process of compression, al
 
 - Intelligence is defined as compression, where prediction and data compression are mathematically equivalent operations, turning AI arrival dates into engineering challenges [00:00:00](https://www.youtube.com/watch?v=P8LUm0DNxIQ&t=0).
 - Analysis of model derivatives reveals that complex reasoning and 'thought' occur silently in the Jacobian of intermediate layers, similar to how steam condenses into water during a phase transition [00:01:01](https://www.youtube.com/watch?v=P8LUm0DNxIQ&t=61).
-- The speaker proposes a 'Carnot moment' for AI where researchers map these condensed thought droplets to feed into next-generation models, creating a loop of recursive self-improvement [00:03:23](https://www.youtube.com/watch?v=P8LUm0DNxIQ&t=203). [MM:SS](https://www.youtube.com/watch?v=P8LUm0DNxIQ&t=SECONDS)
+- The speaker proposes a 'Carnot moment' for AI where researchers map these condensed thought droplets to feed into next-generation models, creating a loop of recursive self-improvement [00:03:23](https://www.youtube.com/watch?v=P8LUm0DNxIQ&t=203).

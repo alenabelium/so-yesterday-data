@@ -23,4 +23,4 @@ The video analyzes Anthropic's recent controversial decisions, including the dis
 
 - Anthropic implemented hidden guardrails in Fable 5 to route AI research queries to inferior models, ostensibly to prevent recursive self-improvement but interpreted by many as competitive sabotage [00:01:20](https://www.youtube.com/watch?v=bDaMHyEIoZo&t=80)
 - The company's ideological alignment with effective altruism and Eliezer Yudkowsky's 'FOOM' hypothesis drives their fear of fast takeoff and the 'treacherous turn' [00:03:36](https://www.youtube.com/watch?v=bDaMHyEIoZo&t=216)
-- Anthropic aims to steer AI development from within to maintain control over the 'kill switch,' a strategy the author compares to authoritarian political maneuvers [00:05:00](https://www.youtube.com/watch?v=bDaMHyEIoZo&t=300) [MM:SS](https://www.youtube.com/watch?v=bDaMHyEIoZo&t=SECONDS)
+- Anthropic aims to steer AI development from within to maintain control over the 'kill switch,' a strategy the author compares to authoritarian political maneuvers [00:05:00](https://www.youtube.com/watch?v=bDaMHyEIoZo&t=300)

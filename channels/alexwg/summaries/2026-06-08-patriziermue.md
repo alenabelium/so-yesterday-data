@@ -22,4 +22,4 @@ The video presents a satirical musical critique of the 'Patrician' lifestyle, de
 
 - The protagonist embodies a life of 'Patrician Muße' (leisure), characterized by the absence of work, financial anxiety, or the need to prove one's worth through labor [00:00:43](https://www.youtube.com/watch?v=yka5FtmULLE&t=43).
 - The lyrics describe a sterile, upper-class existence defined by 'aesthetic uselessness' and a detachment from the 'servile stare' of the working world [00:01:24](https://www.youtube.com/watch?v=yka5FtmULLE&t=84).
-- The core argument concludes that a life can be 'beautifully bland' and still feel elite, highlighting the paradox of finding divine style in a state of being 'lavishly unneeded' [00:02:48](https://www.youtube.com/watch?v=yka5FtmULLE&t=168). [MM:SS](https://www.youtube.com/watch?v=yka5FtmULLE&t=SECONDS)
+- The core argument concludes that a life can be 'beautifully bland' and still feel elite, highlighting the paradox of finding divine style in a state of being 'lavishly unneeded' [00:02:48](https://www.youtube.com/watch?v=yka5FtmULLE&t=168).

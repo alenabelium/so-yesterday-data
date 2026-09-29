@@ -22,4 +22,4 @@ The video analyzes the convergence of AI, energy infrastructure, and capital flo
 
 - Compute efficiency is reshaping energy markets, with buyers stripping engines off private jets to power data centers as megawatts become scarcer than money [00:01:16](https://www.youtube.com/watch?v=qSQq5Z5tIro&t=76).
 - Open-source models are dominating the ecosystem, particularly in China, while US efforts shift toward hardware and agent-based applications where data becomes the primary asset [00:03:03](https://www.youtube.com/watch?v=qSQq5Z5tIro&t=183).
-- Trust and regulatory frameworks are becoming the new bottlenecks as AI capabilities expand into scientific discovery, robotics, and biological testing [00:04:16](https://www.youtube.com/watch?v=qSQq5Z5tIro&t=256). [MM:SS](https://www.youtube.com/watch?v=qSQq5Z5tIro&t=SECONDS)
+- Trust and regulatory frameworks are becoming the new bottlenecks as AI capabilities expand into scientific discovery, robotics, and biological testing [00:04:16](https://www.youtube.com/watch?v=qSQq5Z5tIro&t=256).

@@ -23,4 +23,4 @@ The video analyzes a pivotal moment where major AI figures like Sam Altman and E
 
 - Top AI leaders proposed a 'safety cartel' to pace frontier development, but critics labeled it an 'alignment aristocracy' designed to stifle competition under the guise of altruism [00:01:08](https://www.youtube.com/watch?v=DjST8VsyV60&t=68)
 - Technical progress continues independently via recurrent transformers and open benchmarks like ARC AAGI4, challenging the feasibility of coordinated pacing [00:02:59](https://www.youtube.com/watch?v=DjST8VsyV60&t=179)
-- The geopolitical and economic landscape is shifting as Nvidia becomes the 'central bank of AI,' while nations grapple with data center infrastructure, AI rights, and regulatory bans [00:05:01](https://www.youtube.com/watch?v=DjST8VsyV60&t=301) [MM:SS](https://www.youtube.com/watch?v=DjST8VsyV60&t=SECONDS)
+- The geopolitical and economic landscape is shifting as Nvidia becomes the 'central bank of AI,' while nations grapple with data center infrastructure, AI rights, and regulatory bans [00:05:01](https://www.youtube.com/watch?v=DjST8VsyV60&t=301)

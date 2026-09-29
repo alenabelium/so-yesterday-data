@@ -25,4 +25,4 @@ The video introduces GLM 5.2, a new open-source AI model by ZAI that reportedly 
 
 - GLM 5.2 demonstrates exceptional agentic capabilities by autonomously building complex projects, such as an interactive 3D Earth digital twin and a ray tracing simulation, often requiring minimal user intervention [00:02:08](https://www.youtube.com/watch?v=6d__WOpZswY&t=128).
 - The model supports a 1-million-token context window and holds an MIT license, allowing for permissive use, local hosting, and fine-tuning by the community [00:25:10](https://www.youtube.com/watch?v=6d__WOpZswY&t=1510).
-- Benchmark results show GLM 5.2 surpassing GPT and Gemini on coding and reasoning tasks, while offering privacy and sovereignty benefits that closed-source models cannot provide [00:27:22](https://www.youtube.com/watch?v=6d__WOpZswY&t=1642). [MM:SS](https://www.youtube.com/watch?v=6d__WOpZswY&t=SECONDS)
+- Benchmark results show GLM 5.2 surpassing GPT and Gemini on coding and reasoning tasks, while offering privacy and sovereignty benefits that closed-source models cannot provide [00:27:22](https://www.youtube.com/watch?v=6d__WOpZswY&t=1642).

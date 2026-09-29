@@ -22,4 +22,4 @@ The video explores the emerging infrastructure required for AI agents to functio
 
 - Stripe is transitioning its trust infrastructure from transaction-level scoring to pre-transaction customer identity verification to combat token theft and abuse before payments occur [00:10:13](https://www.youtube.com/watch?v=YTG0rdHPTDE&t=613).
 - The industry is grappling with complex pricing models, moving away from static subscriptions toward usage-based and outcome-based billing to align incentives between AI providers and consumers [00:24:58](https://www.youtube.com/watch?v=YTG0rdHPTDE&t=1498).
-- New protocols like Stripe's Machine Payments Protocol and Link wallet are essential for enabling agents to discover, negotiate, and execute microtransactions autonomously [00:17:13](https://www.youtube.com/watch?v=YTG0rdHPTDE&t=1033). [MM:SS](https://www.youtube.com/watch?v=YTG0rdHPTDE&t=SECONDS)
+- New protocols like Stripe's Machine Payments Protocol and Link wallet are essential for enabling agents to discover, negotiate, and execute microtransactions autonomously [00:17:13](https://www.youtube.com/watch?v=YTG0rdHPTDE&t=1033).

@@ -23,4 +23,4 @@ The video analyzes Moonshot's Kimmy K3, an open-source model that challenges the
 
 - Kimmy K3 requires 64 accelerator cores and is not cost-efficient, debunking the myth that Chinese models are inherently cheaper to run than US frontier models [00:03:32](https://www.youtube.com/watch?v=2ZpZhsjoUK4&t=212).
 - Open-source models like Kimmy K3 now pose significant cyber threats, requiring individuals and companies to implement multi-layered security defenses against AI-driven fraud [00:08:05](https://www.youtube.com/watch?v=2ZpZhsjoUK4&t=485).
-- Future competitive advantage lies in human imagination and the ability to ask complex questions, as models become commoditized and government regulation increases [00:14:03](https://www.youtube.com/watch?v=2ZpZhsjoUK4&t=843). [MM:SS](https://www.youtube.com/watch?v=2ZpZhsjoUK4&t=SECONDS)
+- Future competitive advantage lies in human imagination and the ability to ask complex questions, as models become commoditized and government regulation increases [00:14:03](https://www.youtube.com/watch?v=2ZpZhsjoUK4&t=843).

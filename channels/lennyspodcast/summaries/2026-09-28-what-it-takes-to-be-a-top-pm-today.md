@@ -24,4 +24,4 @@ The speaker argues that in the age of AI, a product manager's primary value shif
 
 - The core skill of a PM is decision-making based on deep user empathy, illustrated by identifying 'motion transfer' as the critical need in bed purchases rather than cooling or price [00:04:37](https://www.youtube.com/watch?v=sTgM_sbLMNg&t=277).
 - Product success relies on diagnosing root causes through rigorous feedback loops, such as Instagram's development of 'Close Friends' to address privacy concerns and Reels to satisfy creators' desire for permanence [00:11:19](https://www.youtube.com/watch?v=sTgM_sbLMNg&t=679).
-- AI enables scalable quality assurance and user insight gathering, but craftsmanship ultimately depends on designing tactile details that evoke joy, such as the animated Google Search bar [00:16:49](https://www.youtube.com/watch?v=sTgM_sbLMNg&t=1009). [MM:SS](https://www.youtube.com/watch?v=sTgM_sbLMNg&t=SECONDS)
+- AI enables scalable quality assurance and user insight gathering, but craftsmanship ultimately depends on designing tactile details that evoke joy, such as the animated Google Search bar [00:16:49](https://www.youtube.com/watch?v=sTgM_sbLMNg&t=1009).

@@ -23,4 +23,4 @@ The video presents an advanced workflow for building real-world applications usi
 
 - Create reusable 'skills' to define tech stacks and design systems, enabling one-command project scaffolding and consistent UI standards across projects [00:01:03](https://www.youtube.com/watch?v=zVZotTk6ZWU&t=63).
 - Break down implementation plans into parallel waves using the 'goal' command to allow sub-agents to work simultaneously, significantly speeding up development [00:12:01](https://www.youtube.com/watch?v=zVZotTk6ZWU&t=721).
-- Automate quality assurance by setting up 'loop' commands for recurring security audits and UI improvements while the main implementation runs [00:16:52](https://www.youtube.com/watch?v=zVZotTk6ZWU&t=1012). [MM:SS](https://www.youtube.com/watch?v=zVZotTk6ZWU&t=SECONDS)
+- Automate quality assurance by setting up 'loop' commands for recurring security audits and UI improvements while the main implementation runs [00:16:52](https://www.youtube.com/watch?v=zVZotTk6ZWU&t=1012).

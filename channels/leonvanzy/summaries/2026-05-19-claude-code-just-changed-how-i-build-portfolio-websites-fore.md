@@ -23,4 +23,4 @@ The video demonstrates how to build a unique, terminal-style portfolio website u
 
 - Initialize a Next.js project and install specialized skills in Claude Code to generate a terminal-style UI that mimics AI tool calls and response streaming [00:01:31](https://www.youtube.com/watch?v=DwvZ9f0RYzA&t=91).
 - Implement interactive features by using regex-based Q&A logic and animated prompts to create a simulated chat experience without real-time inference [00:04:32](https://www.youtube.com/watch?v=DwvZ9f0RYzA&t=272).
-- Deploy the application to Hostinger by connecting a GitHub repository, enabling automatic deployments for any code changes pushed to the main branch [00:07:27](https://www.youtube.com/watch?v=DwvZ9f0RYzA&t=447). [MM:SS](https://www.youtube.com/watch?v=DwvZ9f0RYzA&t=SECONDS)
+- Deploy the application to Hostinger by connecting a GitHub repository, enabling automatic deployments for any code changes pushed to the main branch [00:07:27](https://www.youtube.com/watch?v=DwvZ9f0RYzA&t=447).

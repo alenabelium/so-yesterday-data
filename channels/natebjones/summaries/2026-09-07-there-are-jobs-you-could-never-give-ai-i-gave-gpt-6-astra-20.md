@@ -22,4 +22,4 @@ The video argues that GPT-6 Astra represents a qualitative shift in AI capabilit
 
 - Astra enables autonomous handling of massive, multi-day administrative tasks by bridging gaps between systems without constant user prompting, marking a shift from 'chatbot' interaction to 'agent supervision'.
 - The 'manager loop' technique allows humans to delegate complex goals to a chief-of-staff agent that interviews the user for context and then coordinates execution agents, keeping the human in charge of high-level decisions.
-- Recipe cards serve as a new prompt format that outlines task scope, required information, approval gates, and error-handling protocols, enabling reliable execution of jobs too complex for standard prompts. [MM:SS](https://www.youtube.com/watch?v=ix8SsXjBc7M&t=SECONDS)
+- Recipe cards serve as a new prompt format that outlines task scope, required information, approval gates, and error-handling protocols, enabling reliable execution of jobs too complex for standard prompts.

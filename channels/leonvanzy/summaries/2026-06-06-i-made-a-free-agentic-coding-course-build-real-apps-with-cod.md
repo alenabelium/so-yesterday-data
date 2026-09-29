@@ -23,4 +23,4 @@ The creator introduces a completely free agentic coding course designed to teach
 
 - The RAMP framework (Rules, Augment, Map, Prove) provides a structured approach to agentic coding, ensuring agents are properly configured, augmented with tools, mapped to tasks, and verified for success [00:00:45](https://www.youtube.com/watch?v=BYazAplOiNA&t=45).
 - The course is tool-agnostic, allowing users to apply the framework with any coding agent such as Claude Code, Codex, or Open Code, rather than forcing a specific tool [00:02:10](https://www.youtube.com/watch?v=BYazAplOiNA&t=130).
-- The seven-day builder challenge guides learners through daily concepts and practical application, culminating in building a personal application and sharing results with the community [00:02:30](https://www.youtube.com/watch?v=BYazAplOiNA&t=150). [MM:SS](https://www.youtube.com/watch?v=BYazAplOiNA&t=SECONDS)
+- The seven-day builder challenge guides learners through daily concepts and practical application, culminating in building a personal application and sharing results with the community [00:02:30](https://www.youtube.com/watch?v=BYazAplOiNA&t=150).

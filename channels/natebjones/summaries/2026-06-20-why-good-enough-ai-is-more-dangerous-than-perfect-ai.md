@@ -23,4 +23,4 @@ The video argues that 'good enough' AI is more dangerous than perfect AI because
 
 - Voice cloning technology is already advanced enough to fool casual viewers in low-attention contexts, making the 'uncanny valley' a structural issue of trust rather than just visual fidelity [00:02:21](https://www.youtube.com/watch?v=lWbtvC0Hn18&t=141)
 - The 'creator trust stack' framework requires clear disclosure, provenance of source material, human control, judgment, and accountability to distinguish ethical AI use from deception [00:04:33](https://www.youtube.com/watch?v=lWbtvC0Hn18&t=273)
-- Creators and companies must prioritize legible transparency and policy creation over binary AI adoption, as trust and accountability are becoming scarcer resources than content itself [00:07:16](https://www.youtube.com/watch?v=lWbtvC0Hn18&t=436) [MM:SS](https://www.youtube.com/watch?v=lWbtvC0Hn18&t=SECONDS)
+- Creators and companies must prioritize legible transparency and policy creation over binary AI adoption, as trust and accountability are becoming scarcer resources than content itself [00:07:16](https://www.youtube.com/watch?v=lWbtvC0Hn18&t=436)

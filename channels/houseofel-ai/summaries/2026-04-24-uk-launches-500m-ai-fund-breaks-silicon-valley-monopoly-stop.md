@@ -24,4 +24,4 @@ The UK government has launched a £500M sovereign AI fund to prevent British AI 
 
 - The fund operates as a venture capital firm with up to £20M equity stakes and 1M GPU hours to target 'pick and shovel' niches like AI agents and drug discovery [00:01:00](https://www.youtube.com/watch?v=yZDt19EuT3Y&t=60)
 - The primary goal is economic sovereignty, ensuring expertise and decision-making remain in the UK to avoid dependency on American tech giants [00:03:50](https://www.youtube.com/watch?v=yZDt19EuT3Y&t=230)
-- Structural incentives like high corporate taxes and capital gains taxes continue to drive founders abroad, posing a significant risk to the fund's long-term success [00:06:16](https://www.youtube.com/watch?v=yZDt19EuT3Y&t=376) [MM:SS](https://www.youtube.com/watch?v=yZDt19EuT3Y&t=SECONDS)
+- Structural incentives like high corporate taxes and capital gains taxes continue to drive founders abroad, posing a significant risk to the fund's long-term success [00:06:16](https://www.youtube.com/watch?v=yZDt19EuT3Y&t=376)

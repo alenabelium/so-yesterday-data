@@ -23,4 +23,4 @@ The video demonstrates how Fable 5.1 can be used to build a specialized coding h
 
 - Standard coding harnesses like Claude Code consume too much context window for local models; Fable 5.1 built 'Small Coder' with a minimal system prompt and limited tools to optimize for smaller context windows (00:02:00).
 - The creator guided the AI through multiple sessions to build a web-based version of the harness, add memory files, implement a task planning feature, and audit/fix bugs, costing approximately $300 in API usage (00:05:46).
-- Fable 5.1 handled the entire distribution process, including recommending an npm approach, generating access tokens, publishing the package, and deploying a landing page to Vercel for public access (00:08:49). [MM:SS](https://www.youtube.com/watch?v=WjOcStPCbgk&t=SECONDS)
+- Fable 5.1 handled the entire distribution process, including recommending an npm approach, generating access tokens, publishing the package, and deploying a landing page to Vercel for public access (00:08:49).

@@ -23,4 +23,4 @@ The recent IPOs of major AI companies like OpenAI and Anthropic signal a shift i
 
 - The IPOs of SpaceX, OpenAI, and Anthropic mark the normalization of AI, transitioning it from secretive startups to public market entities [00:01:25].
 - Satya Nadella argues that selling tokens is no longer a viable business model because the cost per token is plummeting while demand rises, making it a utility rather than a product [00:02:43].
-- The true value lies in the applications and ecosystems built on top of AI, much like how electricity is valuable for what it powers, not for its own sake [00:04:00]. [MM:SS](https://www.youtube.com/watch?v=jc9PbKtKlvc&t=SECONDS)
+- The true value lies in the applications and ecosystems built on top of AI, much like how electricity is valuable for what it powers, not for its own sake [00:04:00].

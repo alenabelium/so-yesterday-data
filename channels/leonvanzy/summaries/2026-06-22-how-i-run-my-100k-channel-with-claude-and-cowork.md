@@ -23,4 +23,4 @@ Leon van Zyl shares the behind-the-scenes workflow of his 100K subscriber YouTub
 
 - Leon uses Cowork agents to automate daily research and email negotiations, integrating the VidIQ MCP server to analyze channel health and competitor performance for data-driven video ideas [00:08:30](https://www.youtube.com/watch?v=cT1zhqtrDSk&t=510).
 - He demonstrates a content creation workflow where Claude uses VidIQ connectors to retrieve high-volume keywords and score title ideas, moving away from guesswork to factual SEO strategies [00:15:52](https://www.youtube.com/watch?v=cT1zhqtrDSk&t=952).
-- The production pipeline includes generating thumbnails with ChatGPT Image 2, recording with OBS, and editing with DaVinci Resolve's AI tools for auto-subtitles and audio mixing [00:22:59](https://www.youtube.com/watch?v=cT1zhqtrDSk&t=1379). [MM:SS](https://www.youtube.com/watch?v=cT1zhqtrDSk&t=SECONDS)
+- The production pipeline includes generating thumbnails with ChatGPT Image 2, recording with OBS, and editing with DaVinci Resolve's AI tools for auto-subtitles and audio mixing [00:22:59](https://www.youtube.com/watch?v=cT1zhqtrDSk&t=1379).

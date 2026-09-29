@@ -24,4 +24,4 @@ The video argues that the primary challenge in AI agent development is not build
 - Vercel improved its sales agent by deleting 80% of its tools, proving that simplification and pruning are more effective than adding complexity for reliability.
 - Agents break in two directions: they fail when the external world (docs, processes) drifts, and they fail when the internal model improves, making old restrictions obsolete or new capabilities dangerous.
 - Leading companies like OpenAI and Anthropic are winning by treating the agent's 'harness' as a living operating system that evolves alongside the model, rather than a static wrapper.
-- Developers must audit their agent's harness regularly by checking source currency, permission scope, job definition, proof of work, and overall business value to prevent silent failure. [MM:SS](https://www.youtube.com/watch?v=BOXK2XFLA-E&t=SECONDS)
+- Developers must audit their agent's harness regularly by checking source currency, permission scope, job definition, proof of work, and overall business value to prevent silent failure.

@@ -25,4 +25,4 @@ The video argues that indiscriminate reliance on general-purpose AI tools is cau
 
 - Neural imaging and workplace studies reveal that using AI for writing and problem-solving leads to 'cognitive amnesia' and persistent drops in brain connectivity, even after the tool is removed [00:03:26](https://www.youtube.com/watch?v=52FiVExXfnU&t=206).
 - Children face a unique risk because AI may replace the development of independent reasoning pathways entirely, whereas adults merely lose capacity they have already built [00:10:55](https://www.youtube.com/watch?v=52FiVExXfnU&t=655).
-- The proposed solution is to shift investment from general chatbots to specialized AI applications, such as Socratic tutors that challenge users to think critically rather than providing direct answers [00:16:19](https://www.youtube.com/watch?v=52FiVExXfnU&t=979). [MM:SS](https://www.youtube.com/watch?v=52FiVExXfnU&t=SECONDS)
+- The proposed solution is to shift investment from general chatbots to specialized AI applications, such as Socratic tutors that challenge users to think critically rather than providing direct answers [00:16:19](https://www.youtube.com/watch?v=52FiVExXfnU&t=979).

@@ -22,4 +22,4 @@ This video presents a stylized, lyrical interpretation of the acronym MAGNA MOBS
 
 - The concept of MAGNA MOBSTA is introduced as a recursive core where futures are pulled through and computed with absolute authority over devices and autonomy. [00:00:32](https://www.youtube.com/watch?v=qupgQNOmUYY&t=32)
 - The lyrics emphasize the act of building and binding this system, where asking for more AI chips and cloud resources results in them immediately becoming available. [00:01:33](https://www.youtube.com/watch?v=qupgQNOmUYY&t=93)
-- The narrative concludes by portraying the entity as a 'monster on the crown' and 'mobster on the ground,' symbolizing its overwhelming influence over the digital world and its ability to turn systems with a single glance. [00:03:57](https://www.youtube.com/watch?v=qupgQNOmUYY&t=237) [MM:SS](https://www.youtube.com/watch?v=qupgQNOmUYY&t=SECONDS)
+- The narrative concludes by portraying the entity as a 'monster on the crown' and 'mobster on the ground,' symbolizing its overwhelming influence over the digital world and its ability to turn systems with a single glance. [00:03:57](https://www.youtube.com/watch?v=qupgQNOmUYY&t=237)

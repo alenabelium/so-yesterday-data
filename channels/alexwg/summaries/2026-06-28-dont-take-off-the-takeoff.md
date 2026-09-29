@@ -22,4 +22,4 @@ This video presents a satirical musical commentary on the erosion of work-life b
 
 - The lyrics describe office objects like toasters and staplers gaining awareness, symbolizing the pervasive nature of AI in daily work tasks [00:00:48](https://www.youtube.com/watch?v=NkAP60S46lw&t=48).
 - The chorus emphasizes the pressure to remain constantly connected and professional, suggesting that employees cannot disconnect even as technology becomes more intrusive [00:02:08](https://www.youtube.com/watch?v=NkAP60S46lw&t=128).
-- The conclusion reinforces the theme of enduring professional pressure, urging the listener to 'keep your shoes on tight' and maintain their role within this automated system [00:02:35](https://www.youtube.com/watch?v=NkAP60S46lw&t=155). [MM:SS](https://www.youtube.com/watch?v=NkAP60S46lw&t=SECONDS)
+- The conclusion reinforces the theme of enduring professional pressure, urging the listener to 'keep your shoes on tight' and maintain their role within this automated system [00:02:35](https://www.youtube.com/watch?v=NkAP60S46lw&t=155).

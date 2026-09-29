@@ -22,4 +22,4 @@ The video argues that users are constrained by operating system defaults and int
 
 - Omachi allows AI agents to programmatically change desktop behaviors like window tiling and notifications, effectively letting users 'time travel' to customize their OS experience. [00:00:56](https://www.youtube.com/watch?v=zDPuEPDXCpU&t=56)
 - Security is a critical concern when granting agents access; users should limit permissions to specific folders or temporary admin access rather than broad system control. [00:10:13](https://www.youtube.com/watch?v=zDPuEPDXCpU&t=613)
-- For Mac and Windows users, leveraging existing tools like Apple Shortcuts, PowerToys Workspaces, or Aerospace provides a safer way to integrate agent capabilities without installing a new OS. [00:14:14](https://www.youtube.com/watch?v=zDPuEPDXCpU&t=854) [MM:SS](https://www.youtube.com/watch?v=zDPuEPDXCpU&t=SECONDS)
+- For Mac and Windows users, leveraging existing tools like Apple Shortcuts, PowerToys Workspaces, or Aerospace provides a safer way to integrate agent capabilities without installing a new OS. [00:14:14](https://www.youtube.com/watch?v=zDPuEPDXCpU&t=854)

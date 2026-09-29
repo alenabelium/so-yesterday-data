@@ -23,4 +23,4 @@ This video demonstrates how to enhance static landing pages by integrating anima
 
 - Install the Higgsfield AI skill in Claude Code to enable native image and video generation capabilities within the development environment [00:01:56](https://www.youtube.com/watch?v=a4p6ykdRmzc&t=116).
 - Generate a high-resolution avatar image and subsequently animate it using Sea Dance 2, ensuring a clean white background and correct aspect ratio [00:03:06](https://www.youtube.com/watch?v=a4p6ykdRmzc&t=186).
-- Refine the animated video by removing audio, fixing orientation, and integrating the result into the landing page's hero section with responsive design checks [00:05:27](https://www.youtube.com/watch?v=a4p6ykdRmzc&t=327). [MM:SS](https://www.youtube.com/watch?v=a4p6ykdRmzc&t=SECONDS)
+- Refine the animated video by removing audio, fixing orientation, and integrating the result into the landing page's hero section with responsive design checks [00:05:27](https://www.youtube.com/watch?v=a4p6ykdRmzc&t=327).

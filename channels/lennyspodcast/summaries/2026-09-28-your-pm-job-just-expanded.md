@@ -24,4 +24,4 @@ The role of the Product Manager is expanding rather than disappearing due to the
 
 - PMs at Atlassian are taking on technical tasks like code review and automated testing, which reduced feature development time from six months to six weeks in the Confluence team [00:07:20](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=440).
 - The appropriate level of PM involvement shifts between 'rowing' (coding/prototyping) and 'steering' (strategy/unblocking) depending on the project phase and product maturity [00:10:28](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=628).
-- Atlassian uses an 'AI Freedom Index' to assess PM proficiency across six key areas, guiding targeted training during quarterly AI Developer Weeks [00:17:22](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1042). [MM:SS](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=SECONDS)
+- Atlassian uses an 'AI Freedom Index' to assess PM proficiency across six key areas, guiding targeted training during quarterly AI Developer Weeks [00:17:22](https://www.youtube.com/watch?v=BtK4kFI1LNo&t=1042).

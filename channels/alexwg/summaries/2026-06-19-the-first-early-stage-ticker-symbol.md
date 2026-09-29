@@ -22,4 +22,4 @@ The video argues that the trend of startups remaining private for extended perio
 
 - Historical context shows that ticker symbols democratized market access, but recent regulations and mega-rounds have pushed companies to stay private longer, leaving retail investors out of early growth phases [00:00:28](https://www.youtube.com/watch?v=H3yvgq3-XyI&t=28).
 - OR has reserved the ticker symbol 'ONN' on the NYSE to declare its intention to become a public company, signaling a counter-narrative to the 'stay private' trend in venture capital [00:02:57](https://www.youtube.com/watch?v=H3yvgq3-XyI&t=177).
-- This reservation aligns with SEC Chairman Paul Atkins' agenda to revive IPOs for non-unicorn companies and supports the mission of building transparent financial infrastructure for compute [00:04:21](https://www.youtube.com/watch?v=H3yvgq3-XyI&t=261). [MM:SS](https://www.youtube.com/watch?v=H3yvgq3-XyI&t=SECONDS)
+- This reservation aligns with SEC Chairman Paul Atkins' agenda to revive IPOs for non-unicorn companies and supports the mission of building transparent financial infrastructure for compute [00:04:21](https://www.youtube.com/watch?v=H3yvgq3-XyI&t=261).

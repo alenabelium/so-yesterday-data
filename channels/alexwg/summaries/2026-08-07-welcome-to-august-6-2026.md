@@ -23,4 +23,4 @@ This transcript outlines a speculative future in August 2026 where AI infrastruc
 
 - SpaceX breaks ground on a massive AI compute and memory plant in Texas, addressing hardware scarcity and scaling to terawatt-level output for both AI and spacecraft applications [00:01:38](https://www.youtube.com/watch?v=QKIzXAZIE5I&t=98).
 - AI model competition intensifies with Meta's Muse Spark and OpenAI's Astra leading the charge, while agentic work becomes standardized through vendor-neutral plugin specifications [00:01:38](https://www.youtube.com/watch?v=QKIzXAZIE5I&t=98).
-- Biotechnology and energy sectors undergo radical changes, including genome-designed phages for bacteria, mRNA flu shots, and SpaceX's plan to build a tower-free global network using Starlink dishes [00:03:03](https://www.youtube.com/watch?v=QKIzXAZIE5I&t=183). [MM:SS](https://www.youtube.com/watch?v=QKIzXAZIE5I&t=SECONDS)
+- Biotechnology and energy sectors undergo radical changes, including genome-designed phages for bacteria, mRNA flu shots, and SpaceX's plan to build a tower-free global network using Starlink dishes [00:03:03](https://www.youtube.com/watch?v=QKIzXAZIE5I&t=183).

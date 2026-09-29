@@ -23,4 +23,4 @@ The video outlines a transformative period in August 2026 where local AI models 
 
 - Local models like Alibaba's Quen 3.8-27B achieve frontier capability in a small file size, while forecasters predict automated coding convergence around late 2027.[00:00](https://www.youtube.com/watch?v=mjTyQHU8xOA&t=0)
 - Tech giants are investing over $250 billion in chip startups and securing massive data troves, including Spirit Airlines records, to fuel model training and ensure silicon sovereignty.[00:01](https://www.youtube.com/watch?v=mjTyQHU8xOA&t=114)
-- AI's rapid integration into healthcare, logistics, and finance is reshaping the economy, while new surveillance technologies and geopolitical tensions highlight growing security and ethical risks.[00:03](https://www.youtube.com/watch?v=mjTyQHU8xOA&t=203) [MM:SS](https://www.youtube.com/watch?v=mjTyQHU8xOA&t=SECONDS)
+- AI's rapid integration into healthcare, logistics, and finance is reshaping the economy, while new surveillance technologies and geopolitical tensions highlight growing security and ethical risks.[00:03](https://www.youtube.com/watch?v=mjTyQHU8xOA&t=203)

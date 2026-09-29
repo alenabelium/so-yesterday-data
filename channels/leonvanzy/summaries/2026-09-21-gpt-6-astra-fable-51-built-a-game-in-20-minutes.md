@@ -22,4 +22,4 @@ The video demonstrates how Abacus AI Supercomputer's new 'max reasoning effort' 
 
 - Abacus AI Supercomputer's max reasoning mode merges Fable 5.1 and GPT-6 Astra to combine spatial reasoning with computer use capabilities for autonomous development.[00:01:20](https://www.youtube.com/watch?v=1bfeWX1z6TE&t=80)
 - The agent utilizes a virtual PC environment to write code, install dependencies, test the game in a browser, and debug issues without human oversight.[00:02:44](https://www.youtube.com/watch?v=1bfeWX1z6TE&t=164)
-- The final output is a deployed multiplayer survival game where users can join via URL, gather resources, and interact with other players in real-time.[00:05:39](https://www.youtube.com/watch?v=1bfeWX1z6TE&t=339) [MM:SS](https://www.youtube.com/watch?v=1bfeWX1z6TE&t=SECONDS)
+- The final output is a deployed multiplayer survival game where users can join via URL, gather resources, and interact with other players in real-time.[00:05:39](https://www.youtube.com/watch?v=1bfeWX1z6TE&t=339)

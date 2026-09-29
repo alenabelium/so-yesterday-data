@@ -23,4 +23,4 @@ This video provides a comprehensive tutorial on setting up Buzz, an open-source,
 
 - Buzz allows users to self-host a secure, Slack-style interface for managing AI agents, supporting diverse providers like Claude, OpenAI, and local models via Open Code. [00:03:24](https://www.youtube.com/watch?v=xJEFjE88wdw&t=204)
 - Users can customize agents by assigning specific harnesses (e.g., Claude Code, CodeEx) and models, and extend capabilities by installing skills and MCP servers through CLI tools. [00:07:45](https://www.youtube.com/watch?v=xJEFjE88wdw&t=465)
-- The platform supports mobile pairing for remote access and enables complex multi-agent workflows where a coordinator agent delegates tasks to specialized team members. [00:10:19](https://www.youtube.com/watch?v=xJEFjE88wdw&t=619) [MM:SS](https://www.youtube.com/watch?v=xJEFjE88wdw&t=SECONDS)
+- The platform supports mobile pairing for remote access and enables complex multi-agent workflows where a coordinator agent delegates tasks to specialized team members. [00:10:19](https://www.youtube.com/watch?v=xJEFjE88wdw&t=619)

@@ -25,4 +25,4 @@ This video provides a comprehensive overview of recent breakthroughs in open-sou
 
 - Bite Dance releases Lance, a 3B parameter unified model capable of generating and editing videos and images, while Apple introduces LTO for view-dependent 3D reconstruction. [00:01:15](https://www.youtube.com/watch?v=pC6KHflGye0&t=75)
 - Alibaba launches Qwen 3.7 Max for complex agentic coding tasks and introduces a DNA foundation model called Carbon that processes 400,000 base pairs rapidly. [00:12:00](https://www.youtube.com/watch?v=pC6KHflGye0&t=720)
-- Google DeepMind unveils an AI co-scientist system for collaborative research, while Hugging Face releases an open-source humanoid robot platform to lower barriers for robotics experimentation. [00:23:46](https://www.youtube.com/watch?v=pC6KHflGye0&t=1426) [MM:SS](https://www.youtube.com/watch?v=pC6KHflGye0&t=SECONDS)
+- Google DeepMind unveils an AI co-scientist system for collaborative research, while Hugging Face releases an open-source humanoid robot platform to lower barriers for robotics experimentation. [00:23:46](https://www.youtube.com/watch?v=pC6KHflGye0&t=1426)

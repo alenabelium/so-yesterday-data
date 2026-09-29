@@ -25,4 +25,4 @@ The video argues that the US government's decision to shut down Anthropic's Clau
 
 - The shutdown was triggered by a 'fix this code' jailbreak that experts deem a structural property of defensive AI, not a unique or fixable design failure [00:06:00](https://www.youtube.com/watch?v=R4nFEQb7kZo&t=360).
 - Anthropic faced political retaliation after refusing Pentagon demands for autonomous weapons access, while competitor OpenAI secured government contracts [00:12:19](https://www.youtube.com/watch?v=R4nFEQb7kZo&t=739).
-- The incident serves as a warning against prioritizing minor technical quirks over major societal challenges like job loss and cognitive impacts [00:19:32](https://www.youtube.com/watch?v=R4nFEQb7kZo&t=1172). [MM:SS](https://www.youtube.com/watch?v=R4nFEQb7kZo&t=SECONDS)
+- The incident serves as a warning against prioritizing minor technical quirks over major societal challenges like job loss and cognitive impacts [00:19:32](https://www.youtube.com/watch?v=R4nFEQb7kZo&t=1172).

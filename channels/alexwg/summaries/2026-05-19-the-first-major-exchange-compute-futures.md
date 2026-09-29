@@ -23,4 +23,4 @@ The video announces the launch of the first major exchange-listed compute future
 - The OR Compute Price Index (OCPI) has been established on Bloomberg terminals to provide a clear, cash-settled benchmark for GPU prices, serving as the necessary foundation for derivatives.
 - The Intercontinental Exchange (ICE), which manages the NYSE and clears major commodity contracts, is launching US dollar-denominated futures for H100, H200, B200, and RTX 59090 GPUs.
 - This regulatory infrastructure enables hyperscalers to lock in forward costs, lenders to hedge exposure, and pension funds to participate in the compute buildout using established risk management tools.
-- The timeline for compute financialization is drastically shorter than historical commodities because the financial 'plumbing' for oil and gas was already built, allowing capital to follow the technology rapidly. [MM:SS](https://www.youtube.com/watch?v=Gva8udvZbyE&t=SECONDS)
+- The timeline for compute financialization is drastically shorter than historical commodities because the financial 'plumbing' for oil and gas was already built, allowing capital to follow the technology rapidly.

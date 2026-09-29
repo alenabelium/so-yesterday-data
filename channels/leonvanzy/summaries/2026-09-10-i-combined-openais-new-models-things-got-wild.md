@@ -22,4 +22,4 @@ The video demonstrates how combining OpenAI's GPT-6 Astra and GPT Image 2.5 mode
 
 - The creator uses GPT-6 Astra in Work mode to prompt GPT Image 2.5 for generating layered assets with transparent backgrounds, avoiding standard chat limitations. [00:01:39](https://www.youtube.com/watch?v=2v6vgWOqYC0&t=99)
 - By switching to Code Interpreter when image generation bugs occur, the presenter successfully splits a landscape into independent layers and adds subtle animations like moving rivers and flapping birds. [00:03:24](https://www.youtube.com/watch?v=2v6vgWOqYC0&t=204)
-- The video showcases building a 2D side-scrolling game clone of Resident Evil 2 from scratch using minimal prompts, featuring generated sprite sheets, character interactions, and collision detection. [00:05:50](https://www.youtube.com/watch?v=2v6vgWOqYC0&t=350) [MM:SS](https://www.youtube.com/watch?v=2v6vgWOqYC0&t=SECONDS)
+- The video showcases building a 2D side-scrolling game clone of Resident Evil 2 from scratch using minimal prompts, featuring generated sprite sheets, character interactions, and collision detection. [00:05:50](https://www.youtube.com/watch?v=2v6vgWOqYC0&t=350)

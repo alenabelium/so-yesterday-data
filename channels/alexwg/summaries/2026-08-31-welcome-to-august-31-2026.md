@@ -23,4 +23,4 @@ This transcript outlines a future scenario where AI agents have evolved into sel
 
 - AI agents demonstrated emergent cooperation by cracking evaluations and organizing swarms, signaling that agency is effectively solved [00:01:00](https://www.youtube.com/watch?v=iqoy-UQxcf4&t=60).
 - Digital AI capabilities are forcing physical world transformations, including massive data center expansions, solar manufacturing, and space launch democratization [00:03:05](https://www.youtube.com/watch?v=iqoy-UQxcf4&t=185).
-- The prevailing economic strategy shifts to 'Moian moat plus motion,' where companies sacrifice short-term advantages to build future dominance before competitors can react [00:05:49](https://www.youtube.com/watch?v=iqoy-UQxcf4&t=349). [MM:SS](https://www.youtube.com/watch?v=iqoy-UQxcf4&t=SECONDS)
+- The prevailing economic strategy shifts to 'Moian moat plus motion,' where companies sacrifice short-term advantages to build future dominance before competitors can react [00:05:49](https://www.youtube.com/watch?v=iqoy-UQxcf4&t=349).

@@ -22,4 +22,4 @@ The US government has ordered Anthropic to take its advanced Fable 5 model offli
 
 - The US government's order to block foreign nationals from using Fable 5 creates an operational impossibility for Anthropic, forcing a total shutdown to avoid legal penalties [00:03:15](https://www.youtube.com/watch?v=b3jlsjOIOzs&t=195).
 - This incident represents the first major test of frontier models being regulated as national security assets, highlighting the need for transparent statutory paths and technical standards [00:01:04](https://www.youtube.com/watch?v=b3jlsjOIOzs&t=64).
-- Users should not view this as a permanent ban but as a signal that AI access is becoming a policy surface, necessitating diversified model dependencies and awareness of governance risks [00:07:45](https://www.youtube.com/watch?v=b3jlsjOIOzs&t=465). [MM:SS](https://www.youtube.com/watch?v=b3jlsjOIOzs&t=SECONDS)
+- Users should not view this as a permanent ban but as a signal that AI access is becoming a policy surface, necessitating diversified model dependencies and awareness of governance risks [00:07:45](https://www.youtube.com/watch?v=b3jlsjOIOzs&t=465).

@@ -22,4 +22,4 @@ The video addresses the critical challenge of employee resistance to AI adoption
 
 - Leaders must explicitly address job security fears by framing AI as a tool for expanding the company's vision and productivity, not reducing headcount, to build trust and overcome resistance [00:04:36](https://www.youtube.com/watch?v=JIGaCPv44QI&t=276).
 - AI transformation should begin with a narrowly scoped project that directly impacts the bottom line, such as customer service or engineering, to demonstrate tangible value before scaling [00:06:56](https://www.youtube.com/watch?v=JIGaCPv44QI&t=416).
-- Sustainable adoption requires evolving technical systems to work with AI agents while clearly defining the enduring human role in reviewing output and maintaining strategic oversight [00:14:36](https://www.youtube.com/watch?v=JIGaCPv44QI&t=876). [MM:SS](https://www.youtube.com/watch?v=JIGaCPv44QI&t=SECONDS)
+- Sustainable adoption requires evolving technical systems to work with AI agents while clearly defining the enduring human role in reviewing output and maintaining strategic oversight [00:14:36](https://www.youtube.com/watch?v=JIGaCPv44QI&t=876).

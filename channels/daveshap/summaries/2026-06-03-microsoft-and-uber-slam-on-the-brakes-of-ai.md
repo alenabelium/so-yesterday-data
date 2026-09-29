@@ -22,4 +22,4 @@ The video challenges the narrative that recent corporate cost-cutting measures b
 
 - Recent news of Microsoft canceling internal Claude usage and Uber overspending on AI tokens is interpreted by some as evidence of an AI bubble, but the speaker argues these are isolated cost-management issues rather than a fundamental shift in AI's viability.
 - Even if AI company valuations were to crash, the underlying technological buildout will persist because major enterprise leaders and investors remain fully committed to AI as the decade's most transformative technology.
-- The creator details how a suspended secondary YouTube channel triggered a chain reaction that permanently demonetized his main channel, and announces upcoming releases for his book 'Labor Zero' and new educational courses. [MM:SS](https://www.youtube.com/watch?v=35f5MDHJq10&t=SECONDS)
+- The creator details how a suspended secondary YouTube channel triggered a chain reaction that permanently demonetized his main channel, and announces upcoming releases for his book 'Labor Zero' and new educational courses.

@@ -25,4 +25,4 @@ The video analyzes the internal crisis at Palantir, where employees have begun d
 
 - Palantir employees are questioning the company's role in enabling harm, such as ICE deportation leads and military targeting, leading to internal dissent and accusations of fascism [00:01:11]
 - Management responded to this dissent by auto-deleting Slack channels and requiring NDAs for one-on-one briefings, effectively silencing internal criticism [00:02:29]
-- The company's $340 billion valuation is disconnected from its revenue and faces existential risk if it loses talent to competitors or becomes an ideological filter that stifles innovation [00:05:42] [MM:SS](https://www.youtube.com/watch?v=9Ihcp6xywpQ&t=SECONDS)
+- The company's $340 billion valuation is disconnected from its revenue and faces existential risk if it loses talent to competitors or becomes an ideological filter that stifles innovation [00:05:42]

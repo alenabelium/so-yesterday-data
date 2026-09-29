@@ -25,4 +25,4 @@ Google's recent IO event unveiled a comprehensive suite of AI updates, centering
 
 - Gemini Omni enables multimodal video generation and editing, while Gemini 3.5 Flash offers high-speed performance for agentic coding and multi-step workflows [00:01:32](https://www.youtube.com/watch?v=J02-39xtlt4&t=92).
 - Google Search and Workspace are evolving into proactive assistants with features like dynamic AI search boxes, 24/7 background agents, and voice-powered document creation [00:13:35](https://www.youtube.com/watch?v=J02-39xtlt4&t=815).
-- Google unveiled its eighth-generation TPUs for specialized training and inference tasks, alongside new Android XR smart glasses for real-world AI interaction [00:25:29](https://www.youtube.com/watch?v=J02-39xtlt4&t=1529). [MM:SS](https://www.youtube.com/watch?v=J02-39xtlt4&t=SECONDS)
+- Google unveiled its eighth-generation TPUs for specialized training and inference tasks, alongside new Android XR smart glasses for real-world AI interaction [00:25:29](https://www.youtube.com/watch?v=J02-39xtlt4&t=1529).

@@ -23,4 +23,4 @@ The video demonstrates how to integrate AI agents like ChatGPT or Claude with Bl
 
 - Setting up the Blender MCP server allows AI agents to directly control Blender via computer use features in apps like ChatGPT Desktop or Claude.
 - AI models can autonomously generate detailed 3D assets and animate them with realistic physics, such as a donut dropping with a wobble effect and falling sprinkles.
-- The generated assets can be exported as interactive HTML/JS files for web use, where the AI automatically detects and fixes alignment errors during testing. [MM:SS](https://www.youtube.com/watch?v=vr_iCHPY8yI&t=SECONDS)
+- The generated assets can be exported as interactive HTML/JS files for web use, where the AI automatically detects and fixes alignment errors during testing.
