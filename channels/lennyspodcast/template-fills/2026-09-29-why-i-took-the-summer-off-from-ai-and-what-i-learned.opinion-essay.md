@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-29-why-i-took-the-summer-off-from-ai-and-wh
 source_transcript: ../transcripts/2026-09-29-why-i-took-the-summer-off-from-ai-and-what-i-learned.md
 source_summary_hash: sha256:2982bff235e4a3851b815d6a400f851d77a69bb8515adcbed1bebce3c7841168
 source_transcript_hash: sha256:404fcd1cb0128548922b5335fdff390d522e49800ba0b122e8c8c7143b083088
-fill_id: 107ea6cf-b632-4880-a0bb-dc6b15a53616
-published_at: '2026-09-30T02:11:19.747723'
+fill_id: 303a28c4-5164-4e5c-9c09-0e2123ca433d
+published_at: '2026-09-30T03:10:48.481093'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,18 @@ Context becomes the product: companies must use AI to automate routine tasks so 
 
 ## Argument
 
-[00:01:25] The industry is obsessed with 'software factories'—scaling organizations through specialization, processes, and data-driven experiments to optimize performance. But more results do not mean better products; customers buy value, not lines of code or efficiency metrics. [00:04:09] Great companies are respected for their teams' taste, judgment, and cumulative learning, not just their output speed. The danger of AI is that it creates a gap between execution and learning. If we automate everything, we lose the 'struggle' that teaches us what customers actually want. [00:06:22] Instead of outsourcing thinking, use AI to save time on repetitive bugs (like using Linear Loop with Sentry) so engineers can engage deeper with customers. At Linear, we encourage all team members to join Slack channels and answer questions to build intuition. [00:09:14] We also use AI agents to monitor customer feedback and create daily digests of workflows, keeping leadership close to the signal. To combat isolation, we implement a 'quality environment' where everyone fixes small defects weekly to train their eye, and hold 'function analysis' meetings for critique. [00:12:44] The goal is to spend saved time on abstract thinking, shared context, and understanding the work itself, rather than just executing more code. Intuition is not magic; it is training your brain through accumulated context.
+The industry is obsessed with scaling "software factories" through automation and specialized roles, but this focus on efficiency obscures the real driver of value: team intuition and customer understanding. When organizations prioritize execution speed over learning, they risk losing the cumulative knowledge that defines great products.
 
-[00:15:23] Ultimately, hiring is about trajectory and judgment, not just productivity. We must manage context, relearn from it, and ensure the team comes together to learn, because the people who make
+AI should not replace the struggle of creation, which builds judgment. Instead, it should handle repetitive work—like bug investigation or data collection—freeing engineers to engage directly with customers. At Linear, we use AI agents to monitor customer feedback and workflows, creating a shared context repository rather than just automating output. This allows teams to spend less time on execution and more on abstract thinking, critique, and quality assessment.
+
+We enforce this through practices like weekly "quality environment" fixes and public "function analysis" meetings, where the team collectively refines its taste and understanding of user problems. Intuition is not magic; it is trained by deep exposure to customer context. Therefore, the primary goal of product organizations must be sustaining this learning cycle, ensuring that hiring and AI tools serve to deepen collective judgment rather than merely increasing velocity.
 
 ## Counterpoints
 
-- The industry's obsession with 'software factories' and scaling through specialization and processes is a valid historical approach to getting more results from large organizations.
-- Automating repetitive tasks like bug fixes saves time and allows engineers to focus on higher-value work without losing technical competence entirely.
+- Automation saves time but creates a gap between execution and learning if teams don't redirect that time to customer engagement.
+- Working in isolation with agents reduces peer learning; shared critique practices are needed to maintain quality standards.
+- Scaling organizations often lose touch with customers due to volume; AI agents can bridge this by synthesizing feedback signals.
 
 ## Concepts surfaced
 
-[[context-becomes-the-product]] · [[software-factory-critique]] · [[team-intuition-training]] · [[ai-augmented-learning]] · [[customer-engagement-strategy]]
+[[context-becomes-the-product]] · [[ai-automation-strategy]] · [[team-intuition]] · [[customer-engagement]] · [[software-factory-critique]] · [[collective-learning]]
