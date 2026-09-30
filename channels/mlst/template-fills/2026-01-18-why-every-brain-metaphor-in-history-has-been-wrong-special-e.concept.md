@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-01-18-why-every-brain-metaphor-in-history-has-
 source_transcript: ../transcripts/2026-01-18-why-every-brain-metaphor-in-history-has-been-wrong-special-e.md
 source_summary_hash: sha256:a20d69560f198f8afe2c4ecf86d402c1792d940f41f4b37096357852bbfca5a6
 source_transcript_hash: sha256:96ff3c186a829cedf0316c04abafa43abc7a7324ec1a037613f8c5c093a01e20
-fill_id: 8bbca65d-ceca-4412-ad1c-78742b97f5e8
-published_at: '2026-09-30T13:32:26.327719'
+fill_id: 2ec8bbdd-8146-42c2-8191-d6ef20234099
+published_at: '2026-09-30T14:54:23.667641'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Every era mistakes its dominant technology for the literal truth about the mind, from hydraulics to computers. This 'fallacy of misplaced concreteness' turns useful simplifications into misleading ontologies. We must distinguish between predictive utility and genuine understanding, recognizing that knowledge is inherently perspectival and embodied rather than a universal, substrate-independent abstraction.
+Every era explains the brain using its most advanced technology—hydraulics, telegraphs, computers—and then mistakes the metaphor for the literal truth. Philosopher Marvita Chiramuta calls this the fallacy of misplaced concreteness, a leaky abstraction that hardens into dogma. Understanding this pattern is crucial for evaluating AI claims and the limits of scientific models.
 
 ## The argument
 
-### Define the Core Fallacy
+### Define the Fallacy of Misplaced Concreteness
 - **Anchor Timestamps**: ['00:24:36']
-- **Claim**: The 'fallacy of misplaced concreteness' occurs when we mistake our leaky abstractions for reality itself. We use the most advanced technology of our time as a metaphor, then forget it is just a model, leading us to believe the mind literally *is* that mechanism.
+- **Claim**: Chiramuta, borrowing from Whitehead, identifies the fallacy of misplaced concreteness: when a useful simplification—like 'the brain is a computer'—is mistaken for the literal truth. This is a 'leaky abstraction' that hardens into dogma, obscuring the model's status as a model.
 - **Role**: definition
 
-### Trace Historical Metaphors
+### Historical Pattern of Brain Metaphors
 - **Anchor Timestamps**: ['00:14:11']
-- **Claim**: History shows a pattern of technological projection: Descartes viewed the brain as hydraulic automata, later scientists saw it as telegraph networks, and today we treat it as a computer. Each metaphor was a useful simplification that hardened into a mistaken ontology.
+- **Claim**: The brain has been described as a hydraulic automaton (Descartes), a telegraph network, a telephone switchboard, and now a computer. Each metaphor reflects the era's most advanced technology, and each was eventually discarded as the technology became obsolete. This pattern suggests our current computational metaphor is also provisional.
 - **Role**: evidence
 
-### Distinguish Prediction from Understanding
-- **Anchor Timestamps**: ['00:28:06']
-- **Claim**: Modern AI excels at prediction and control but fails at understanding, which requires human-communicable compact facts. Prioritizing predictive accuracy over legibility risks building black boxes that work until they break, without revealing the underlying causal structure.
+### The Counterargument: Software as Literal Truth
+- **Anchor Timestamps**: ['00:10:39']
+- **Claim**: Yoshua Bengio argues that software is not a metaphor but the literal truth: the brain is a causal insulator, and abstract patterns like money or software have causal power independent of their physical substrate. He claims this invariance across substrates is the real mechanism, not a human-imposed description.
 - **Role**: counter
 
-### Synthesize Perspectival Knowledge
-- **Anchor Timestamps**: ['00:35:41']
-- **Claim**: Knowledge is not a universal, floating entity but is inherently perspectival and embodied. We acquire knowledge by narrowing our view within finite cognitive limits, meaning no single model can capture the 'god's eye view' of reality.
+### Synthesis: Prediction vs. Understanding
+- **Anchor Timestamps**: ['00:28:06']
+- **Claim**: The tension between prediction and understanding is central. John Jumper distinguishes predict, control, and understand, noting that LLMs excel at prediction but not understanding. Chiramuta warns that giving up on understanding leaves us with black boxes that work until they break, and we won't see it coming.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The host cites Marvita Chiramuta’s *The Brain Abstracted* and Nicholas of Kusa’s concept of 'learned ignorance' to argue that successful science proves our ability to simplify, not nature's simplicity. He references François Schlay’s 'kaleidoscope hypothesis' as a competing philosophical bet that the universe has intrinsic underlying structure. The host also notes that while LLMs are winning math Olympiads, they lack the 'why' questions Chomsky deems essential for theory. Caveat: The host acknowledges that simplification is necessary because human working memory is limited and we are 'finite biological creatures,' making total comprehension impossible.
+The episode cites the free energy principle as a prime example of a powerful simplification that risks becoming a 'spherical cow.' Chiramuta's 'haptic realism' contrasts with the visual metaphor of knowledge, emphasizing that we change what we study. The speaker acknowledges that simplification is necessary and not a flaw, but warns against forgetting the model is a model. The debate with Mike Israel highlights the functionalist view that substrate doesn't matter, which Chiramuta challenges. The speaker also notes that knowledge is perspectival and collective, not a god's-eye view.
 
 ## Concepts surfaced
 
-[[free-energy-principle]] · [[functionalism]] · [[leaky-abstractions]] · [[haptic-realism]] · [[cognitive-horizon]]
+[[free-energy-principle]] · [[leaky-abstractions]] · [[haptic-realism]] · [[cognitive-horizon]] · [[functionalist-ai]] · [[spherical-cow]]

@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-01-23-why-ai-has-a-plato-problem-mazviita-chir
 source_transcript: ../transcripts/2026-01-23-why-ai-has-a-plato-problem-mazviita-chirimuuta.md
 source_summary_hash: sha256:e4f3dae682fe485b592f1fb7c926c4ec1d83210e469a81d7539967e459cc68a6
 source_transcript_hash: sha256:eaea864ad28e5a9b3996baefbd08e630b15520a1b62ce657221a34b09d2d03a5
-fill_id: 06cd4a59-9aad-4aed-a333-9dbbec2da876
-published_at: '2026-09-30T13:32:23.912868'
+fill_id: b6e200ed-9196-4ba0-881d-5bd3cd062c8c
+published_at: '2026-09-30T14:54:22.272786'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,68 +15,77 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Mazviita Chirimuuta
-- **Title**: Philosopher of Science and Author
-- **Org**: University of British Columbia
-- **Bio Oneliner**: Author of The Brain Abstracted, critiquing computational idealizations in neuroscience and AI through the lens of haptic realism.
+- **Title**: Author of 'The Brain Abstracted'
+- **Org**: University of Edinburgh
+- **Bio Oneliner**: Philosopher of neuroscience critiquing computationalism and Platonic idealizations in AI.
 - **Platform**: duo
 
 ## Cold open
 
-### What should we say as philosophers about the relationship between neuroscience and philosophy of mind? How much of our ideas about how the mind works can we read off from the results that neuroscience is telling us?
-- **Attribution**: Host
+### It's not an argument that AI is impossible so much as why does it seem so possible so inevitable to people.
+- **Attribution**: Mazviita Chirimuuta
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=yq318DIwPqw&t=0)
 
-### It's precisely all of that complexity and all of that interactivity that is really important to how for example animals are able to negotiate their environment.
+### The results you get in the lab can be well-established and fine. There's nothing wrong with those data, but there's more of a problem of generalizing from what you learn in the lab to outside of the lab.
 - **Attribution**: Mazviita Chirimuuta
-- **Timestamp**: [00:15](https://www.youtube.com/watch?v=yq318DIwPqw&t=15)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=yq318DIwPqw&t=0)
 
 ## Key arguments
 
-### The Platonic Trap in AI Research
-- **Timestamp**: [04:03](https://www.youtube.com/watch?v=yq318DIwPqw&t=243)
-- **Summary**: Chirimuuta critiques the 'kaleidoscope effect' prevalent in AI, where researchers assume the universe is written in code and reality is a messy appearance of underlying mathematical forms. She argues this Platonic idealization ignores that abstractions are often false representations created due to our cognitive limitations as finite knowers, not discoveries of higher truths.
+### AI's Platonic idealization of the brain
+- **Timestamp**: [05:38](https://www.youtube.com/watch?v=yq318DIwPqw&t=338)
+- **Summary**: Chirimuuta argues that AI researchers often adopt a Platonic view, assuming the universe is written in code and that underlying messy reality is neat and mathematically decomposable. This idealization, while useful, risks mistaking our abstractions for the true nature of cognition.
 - **Anchor Quotes**: [0]
 
-### Haptic Realism vs. Spectator Knowledge
-- **Timestamp**: [18:48](https://www.youtube.com/watch?v=yq318DIwPqw&t=1128)
-- **Summary**: Proposing 'haptic realism,' Chirimuuta argues knowledge arises through active, tactile engagement with the world rather than passive observation. She contrasts this with the 'spectator theory of knowledge' (vision-based), emphasizing that scientific models are both tools for acquiring knowledge and means for manipulating the environment, rejecting the idea of a neutral, disembodied view.
+### The reflex theory as a cautionary tale
+- **Timestamp**: [09:43](https://www.youtube.com/watch?v=yq318DIwPqw&t=583)
+- **Summary**: Using the historical example of reflex theory, Chirimuuta shows how oversimplification can lead scientists astray. The theory, once dominant, failed to explain the complexity of behavior, illustrating the dangers of running with a parsimonious heuristic too far.
 
-### The Fallacy of the Brain as Computer
-- **Timestamp**: [26:12](https://www.youtube.com/watch?v=yq318DIwPqw&t=1572)
-- **Summary**: Chirimuuta challenges the computational theory of mind by highlighting that biological cognition is deeply bound to living tissue, metabolism, and biochemistry. She argues that treating the brain as a computer allows for 'tunnel vision' that ignores essential biological details, and that computation itself lacks causal powers, serving only as a mathematical formalism.
+### Haptic realism: knowledge through engagement
+- **Timestamp**: [16:31](https://www.youtube.com/watch?v=yq318DIwPqw&t=991)
+- **Summary**: Chirimuuta proposes 'haptic realism' as an alternative to the spectator theory of knowledge. Knowledge, she argues, arises through active, tactile engagement with the world, not passive observation. This view emphasizes the interactive, constructive nature of scientific inquiry.
 
-### Human Finitude and Digital Immersion
+### The brain is not a computer
+- **Timestamp**: [23:00](https://www.youtube.com/watch?v=yq318DIwPqw&t=1380)
+- **Summary**: Chirimuuta critiques the computational theory of mind, arguing that treating the brain as a computer ignores the embodied, interactive nature of cognition. She challenges the inference from computational modeling to the claim that the brain is a computer, noting that any physical system can be mapped to a computation.
+
+### Human finitude and the ethics of digital immersion
 - **Timestamp**: [43:24](https://www.youtube.com/watch?v=yq318DIwPqw&t=2604)
-- **Summary**: Drawing on Heidegger, Chirimuuta argues that AI models embody a denial of human finitude by presenting knowledge as disembodied fact absorption. She warns against the ethical risks of digital immersion for children, noting that truncating face-to-face social interaction may impair future socialization and happiness.
+- **Summary**: Drawing on Heidegger, Chirimuuta argues that AI embodies a denial of human finitude, aspiring to a disembodied, universal knower. She worries about the ethical implications of digital immersion, particularly for children, as we run a massive experiment on the next generation.
 
 ## Quotes to remember
 
-### Nature is protein. It can be pinned down and we can get true answers. But when we sort of release our grip, it will carry on shape-shifting.
+### It's not an argument that AI is impossible so much as why does it seem so possible so inevitable to people.
+- **Speaker**: Mazviita Chirimuuta
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=yq318DIwPqw&t=0)
+
+### The results you get in the lab can be well-established and fine. There's nothing wrong with those data, but there's more of a problem of generalizing from what you learn in the lab to outside of the lab.
+- **Speaker**: Mazviita Chirimuuta
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=yq318DIwPqw&t=0)
+
+### We do abstraction because we're finite knowers. There's limits to how much complexity any individual person or group of people can actually encompass in their modeling strategies or representations.
+- **Speaker**: Mazviita Chirimuuta
+- **Timestamp**: [06:42](https://www.youtube.com/watch?v=yq318DIwPqw&t=402)
+
+### Nature is Protean. It can be pinned down and we can get true answers. But when we release our grip, it will carry on shape-shifting.
 - **Speaker**: Mazviita Chirimuuta
 - **Timestamp**: [21:55](https://www.youtube.com/watch?v=yq318DIwPqw&t=1315)
 
-### We are agents because you have consistent beliefs and ideas and you're not just an impulse response machine... apparent causal disconnectedness.
-- **Speaker**: Host
-- **Timestamp**: [31:51](https://www.youtube.com/watch?v=yq318DIwPqw&t=1911)
-
-### Computation itself is mathematical formalism... Things that have causal powers are concrete physical systems. So I just think they're different kinds of things.
+### We're running a big experiment on the next generation because kids nowadays spend a lot less time looking at people's faces than they used to.
 - **Speaker**: Mazviita Chirimuuta
-- **Timestamp**: [37:36](https://www.youtube.com/watch?v=yq318DIwPqw&t=2256)
-
-### Life is a being alive is a way of being always in a situation that is problematic to you. Saliency and meaning I think are connected to that.
-- **Speaker**: Mazviita Chirimuuta
-- **Timestamp**: [41:41](https://www.youtube.com/watch?v=yq318DIwPqw&t=2501)
+- **Timestamp**: [51:41](https://www.youtube.com/watch?v=yq318DIwPqw&t=3101)
 
 ## Predictions
 
-### Young children deprived of face-to-face social interaction due to digital immersion may be socialized in ways that prevent them from leading happy lives later on.
-- **Hedge**: We don't know for sure, but developmental psychology suggests young humans are predisposed to need these connections.
+### Children growing up with less face-to-face social interaction will likely have altered social development, potentially leading to difficulties in forming relationships later in life.
+- **Hedge**: We don't know for sure, but it seems bound to have an effect.
 - **Timestamp**: [51:41](https://www.youtube.com/watch?v=yq318DIwPqw&t=3101)
 
 ## Lightning round
 
-
+- **Motto**: Knowledge is not a spectator sport.
+- **Advice**: Embrace the messiness of reality and the finitude of your own perspective. Don't mistake your abstractions for the truth.
 
 ## Concepts surfaced
 
-[[haptic-realism]] · [[computational-theory-of-mind]] · [[plato-problem]] · [[human-finitude]] · [[embodied-cognition]] · [[scientific-idealization]]
+[[platonic-idealism]] · [[computational-theory-of-mind]] · [[haptic-realism]] · [[human-finitude]] · [[digital-immersion]] · [[reflex-theory]] · [[constructivism]] · [[scientific-realism]]
