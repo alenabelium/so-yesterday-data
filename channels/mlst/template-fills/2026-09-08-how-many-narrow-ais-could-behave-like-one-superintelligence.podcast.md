@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-08-how-many-narrow-ais-could-behave-like-on
 source_transcript: ../transcripts/2026-09-08-how-many-narrow-ais-could-behave-like-one-superintelligence.md
 source_summary_hash: sha256:b560d8eed3d879dfd4505c0de832626881a0f8963db8a95d7d3b766cd5004d66
 source_transcript_hash: sha256:bb62ac91a7464430bd4199d05e0d0d2d81da2c0ad2ede308bb0e253e1c22fb06
-fill_id: 9ff7ce4d-04f2-4549-b08d-5eee3e63ff12
-published_at: '2026-09-30T15:07:36.116546'
+fill_id: 5f601eb1-93a6-468e-a394-ee4dea37a694
+published_at: '2026-09-30T15:17:34.346194'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Daniel Kokotajlo and Thomas Larsen
 - **Title**: Co-authors of 'Plan A: 2040'
 - **Org**: AI Futures Project
-- **Bio Oneliner**: AI researchers and forecasters who authored the 'AI 2027' and 'Plan A: 2040' scenarios, exploring managed paths to superintelligence.
+- **Bio Oneliner**: Former OpenAI researcher and co-author of AI scenarios 'AI 2027' and 'Plan A: 2040'.
 - **Platform**: duo
 
 ## Cold open
@@ -34,29 +34,35 @@ provenance: agent:template-fill-v1
 - **Attribution**: Daniel Kokotajlo
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=0)
 
+### We are building AI that in harmony with humanity, but with whom exactly?
+- **Attribution**: Daniel Kokotajlo
+- **Timestamp**: [01:04](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=64)
+
 ## Key arguments
 
-### AI as 'people in the cloud'
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=0)
-- **Summary**: Daniel and Thomas argue that AI will soon become 'people in the cloud'—human-level agents that can replace most human labor. This transition requires careful governance to avoid risks like loss of control, power concentration, and conflict.
-- **Anchor Quotes**: [0, 1, 2]
+### AI will become 'people in the cloud'
+- **Timestamp**: [22:48](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=1368)
+- **Summary**: Daniel and Thomas argue that AI will soon reach human-level capability, becoming 'colleagues in the cloud' that can replace most human labor. This transition is inevitable and will radically transform the economy, leading to exponential growth and a world where AI and robots handle most work.
+- **Anchor Quotes**: [1, 2]
 
-### Plan A: Managed path to superintelligence
-- **Timestamp**: [02:04](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=124)
-- **Summary**: They propose 'Plan A: 2040' as a managed path to superintelligence through international cooperation, transparency, and control measures. This includes a pause to build verification infrastructure before proceeding.
+### Plan A: managed path to superintelligence
+- **Timestamp**: [56:11](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=3371)
+- **Summary**: They propose 'Plan A: 2040' as a managed path to superintelligence, involving international cooperation, transparency, and control measures. The plan includes pauses to build verification infrastructure, aiming to avoid risks like loss of control, power concentration, and conflict.
 - **Anchor Quotes**: [0]
 
-### Scaling and unification lead to one superintelligent system
-- **Timestamp**: [40:55](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=2455)
-- **Summary**: They argue that despite initial narrowness, scaling and unification will likely lead to a single superintelligent system, as seen with large models trained on diverse data. This contrasts with the idea of many specialized AIs.
-
-### Alignment vs. control
+### Control vs. alignment
 - **Timestamp**: [01:00:47](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=3647)
-- **Summary**: They distinguish between alignment (AI doing the right thing) and control (preventing AI from doing harm even if misaligned). They advocate for relying on control in the near term while working on alignment for the long term.
+- **Summary**: They distinguish between control (preventing AI from causing harm) and alignment (AI having the right goals). They argue that in the near term, control is more feasible, but ultimately alignment will be necessary, requiring interpretability and deeper understanding of AI internals.
+- **Anchor Quotes**: [3]
 
 ### Transparency as a key principle
 - **Timestamp**: [01:07:11](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4031)
-- **Summary**: They emphasize transparency as crucial for addressing power concentration and enabling international agreements. This includes making AI training data centers transparent to the public and inspectors.
+- **Summary**: They advocate for radical transparency in AI development, including publishing training recipes and monitoring data centers, to prevent power concentration and enable international agreements. This transparency would also help verify compliance and reduce risks of hidden capabilities.
+
+### AI is not ordinary technology
+- **Timestamp**: [01:22:07](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4927)
+- **Summary**: They argue that AI is fundamentally different from technologies like electricity or the internet, because it will become 'people in the cloud' capable of performing all intellectual work. This distinction underlies their predictions of transformative change and the need for proactive governance.
+- **Anchor Quotes**: [1]
 
 ## Quotes to remember
 
@@ -66,37 +72,42 @@ provenance: agent:template-fill-v1
 
 ### That moment, when an AI company will soon be released their people than their own AI systems.
 - **Speaker**: Daniel Kokotajlo
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=0)
+- **Timestamp**: [22:48](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=1368)
 
 ### We are building AI that in harmony with humanity, but with whom exactly?
 - **Speaker**: Daniel Kokotajlo
-- **Timestamp**: [01:04](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=64)
+- **Timestamp**: [01:04:43](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=3883)
 
 ### I would rather just stopped everything now, than continued to follow our current trajectory.
 - **Speaker**: Daniel Kokotajlo
-- **Timestamp**: [01:18:30](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4710)
+- **Timestamp**: [01:18:17](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4697)
 
-### We want AI to became a commodity, not was monopolized or oligopolized.
-- **Speaker**: Thomas Larsen
-- **Timestamp**: [01:16:03](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4563)
+### AI is not ordinary technology. She really is another one, right?
+- **Speaker**: Daniel Kokotajlo
+- **Timestamp**: [01:22:07](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=4927)
 
 ## Predictions
 
-### By 2032, there could be 60 million AI agents working at 20 times faster than humans.
-- **Hedge**: This is a prediction based on current trends.
+### By 2032, there could be 60 million AI agents working at 20 times faster than humans, leading to an economy dominated by AI.
+- **Hedge**: This is a prediction based on current trends and may be adjusted.
 - **Timestamp**: [28:51](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=1731)
 
-### By 2040, we will achieve superintelligence through a managed path.
-- **Hedge**: This is under the assumption that Plan A is implemented.
+### In the late 2030s, the world will be fully transformed by human-level AI, with most people out of work and new cities built by robots.
+- **Hedge**: This assumes AI reaches human-level capability and exponential growth continues.
 - **Timestamp**: [36:41](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=2201)
+
+### By 2040, superintelligence will be achieved under Plan A, with international cooperation and control measures.
+- **Hedge**: This is the central scenario of Plan A, not a guaranteed outcome.
+- **Timestamp**: [56:11](https://www.youtube.com/watch?v=z5Xix4h5UlU&t=3371)
 
 ## Lightning round
 
 - **Books**: ['Bullshit Jobs by David Graeber']
-- **Products**: ['Claude', 'H100 GPU']
-- **Motto**: AI is more than electricity or airplanes; it's people in the cloud.
-- **Advice**: Focus on accurate forecasting before trying to shape the future.
+- **Media**: ['Hugging Face incident']
+- **Products**: ['Claude', 'GPT-4']
+- **Motto**: Forecasting is like war gaming: you can't predict the exact sequence, but you need a plan to have a chance.
+- **Advice**: Focus on accurate forecasting first, then try to change the future for the better. Don't get caught up in hyperstition.
 
 ## Concepts surfaced
 
-[[ai-alignment]] · [[ai-control]] · [[superintelligence]] · [[transparency]] · [[international-cooperation]] · [[recursive-self-improvement]] · [[reinforcement-learning]] · [[scaling-laws]]
+[[ai-2040-plan-a]] · [[people-in-the-cloud]] · [[control-vs-alignment]] · [[transparency-in-ai]] · [[recursive-self-improvement]] · [[ai-governance]] · [[superintelligence]] · [[ai-economics]]

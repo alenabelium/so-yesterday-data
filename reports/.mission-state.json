@@ -1,1 +1,4 @@
-{}
+{
+  "orphan-scan-degraded": 2,
+  "scheduler-stale": 1
+}
