@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-27-post-labor-economics-explained-in-10-min
 source_transcript: ../transcripts/2026-09-27-post-labor-economics-explained-in-10-minutes.md
 source_summary_hash: sha256:e6d96bdec488df1de84fccab619c6ab03e74c6866d740ac8c7075091d3b2a015
 source_transcript_hash: sha256:6c33af6d6d9c118765619e1ad6fb32ae89a68ef37239c692df77988764d1bf1c
-fill_id: 45dfb6af-50a8-48cd-88c6-681e5fa740e8
-published_at: '2026-09-30T07:16:09.937068'
+fill_id: 55080634-1001-4732-8e00-e1b432a9fb9a
+published_at: '2026-09-30T08:16:21.119208'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -20,27 +20,27 @@ The social contract of trading time for money is collapsing as machines outperfo
 
 ### Define the Breaking Deal
 - **Anchor Timestamps**: ['00:00:19']
-- **Claim**: Post-labor economics describes a world where every task faces a test of being better, faster, cheaper, and safer. When machines win on all four, human labor loses its economic justification.
+- **Claim**: Post-labor economics begins when machines win on better, faster, cheaper, safer metrics. The old deal of trading time for money breaks down because humans must justify a premium that gets harder to maintain every year.
 - **Role**: definition
 
 ### Distinguish Demand Types
 - **Anchor Timestamps**: ['00:03:03']
-- **Claim**: Derived demand buys a result (like a house), while essential demand buys the person (like a massage). Automation eliminates derived demand, leaving only narrow essential demand that cannot employ everyone.
+- **Claim**: Derived demand seeks a result (a house, software), making the human just a means. Essential demand requires the person (massage, children). While essential demand exists, it is narrow and won't employ everyone.
+- **Role**: definition
+
+### Identify the Wealth Gap
+- **Anchor Timestamps**: ['00:05:07']
+- **Claim**: Since 1979, productivity grew ~94% while typical pay grew only ~33%. Household income comes from doing, receiving, or owning. Transfers create dependence; ownership is the remaining link to wealth.
 - **Role**: evidence
 
-### Identify the Power Gap
-- **Anchor Timestamps**: ['00:07:56']
-- **Claim**: Historical worker power came from the world needing their labor. As machines replace that need, income alone is insufficient; citizens must build leverage that does not depend on a job to maintain control.
-- **Role**: counter
-
-### Synthesize the Solution
-- **Anchor Timestamps**: ['00:09:52']
-- **Claim**: The solution is building ownership and political leverage. Without this, societies risk becoming like petrostates where comfort replaces control, or clients of the state dependent on permanent transfers.
+### Synthesize Power Shift
+- **Anchor Timestamps**: ['00:09:07']
+- **Claim**: When states stop needing labor (like petrostates), they trade wealth for quiet. To avoid becoming clients of the state, we must build leverage that doesn't depend on a job—power that can say no and make it stick.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker notes that automation takes jobs one task at a time, with AI handling thinking and robots physical work. While productivity grew 94% since 1979, typical pay only grew 33%. The host hedges that essential demand for people in massage or childcare still exists, but it is narrow. He warns that permanent dependence on state transfers makes citizens clients of the government rather than owners.
+Automation takes jobs one task at a time: AI handles thinking, robots handle physical work. The speaker notes that while essential demand for people exists (massage, children), it is narrow. Caveat: Transfers can bridge the income gap temporarily, but permanent dependence makes citizens clients of the state rather than owners.
 
 ## Concepts surfaced
 
