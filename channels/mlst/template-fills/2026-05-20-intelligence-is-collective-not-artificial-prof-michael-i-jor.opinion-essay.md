@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-05-20-intelligence-is-collective-not-artificia
 source_transcript: ../transcripts/2026-05-20-intelligence-is-collective-not-artificial-prof-michael-i-jor.md
 source_summary_hash: sha256:4035759ab2bf85a91ee3d37121abb532a9618a901714534653a633ab47ac107e
 source_transcript_hash: sha256:0cbc0afed67c044bcdc3de6857346f787e77c0b62e705aaf3c4ee898fa9564db
-fill_id: aa72b85f-6719-43a4-9fdc-e3cd45b5fc99
-published_at: '2026-09-30T14:54:20.511412'
+fill_id: 2c3809f2-fa3a-4382-bf34-0b3877ebe3e7
+published_at: '2026-09-30T16:32:44.216815'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Intelligence is collective and economic, not artificial, and the AGI hype as science fiction is demoralizing young researchers and distorting the field.
+Intelligence is collective and economic, not artificial, and the AGI hype is science fiction that demoralizes young researchers and distracts from building trustworthy, human-centered AI ecosystems.
 
 ## Argument
 
-The mechanism is economic. Jordan argues that intelligence emerges from collective, social, and economic interactions, not from a single artificial system. He criticizes the current AI narrative as science fiction that demoralizes young researchers, who are told that superintelligence or extinction are their only options. Instead, he advocates for a systems-level view that integrates machine learning with economics, statistics, and game theory to build trustworthy, human-centered AI ecosystems. He emphasizes the need for uncertainty quantification, incentive alignment, and data markets that respect human value, rather than pursuing superintelligence or extinction narratives. He points to concrete examples like the three-layer data market and the use of prediction-powered inference to robustify AlphaFold's predictions, showing that a statistical and economic approach can improve AI systems in practice. He calls for a new academic paradigm—the 'liberal arts of this era'—that combines computational, inferential, and economic thinking to address the real challenges of AI in society.
+The core problem is that the current AI discourse is dominated by a cognitive science metaphor—gradient descent as the brain—that has no economic thinking behind it. This metaphor leads to a focus on building ever-larger models without asking what they are for or who they serve. The result is a business model that is a 'dumb' secretary whispering in your ear, which people will turn off. The real opportunity lies in systems-level thinking that integrates machine learning with economics, statistics, and game theory. This means designing data markets that respect human value, using uncertainty quantification to make predictions trustworthy, and aligning incentives so that systems like drug approval or data sharing actually work. The future is not a few big LLMs consulted like search engines, but a distributed ecosystem of local data, prediction-powered inference, and market mechanisms that allow bottom-up preferences to be expressed. This is not science fiction; it is actionable mathematics and engineering.
 
 ## Counterpoints
 
-- Silicon Valley types claim that multi-agent LLMs will get economic behavior for free; Jordan dismisses this as not good engineering, comparing it to chemical engineering without thermodynamics.
-- Some argue that AI is recursively self-improving and poses existential risk; Jordan calls this science fiction that demoralizes young researchers and distracts from real issues.
-- Others believe that understanding the internals of neural nets is necessary; Jordan argues that we don't need to understand all details, just input-output behavior and constraints, like in chemical engineering.
-- Some think that more data will solve bias issues; Jordan counters that foundation models are most biased on new questions at the edge of knowledge, requiring methods like prediction-powered inference.
-- The idea that data alone captures all human behavior is naive; Jordan argues that social knowledge is ephemeral and contextual, requiring economic mechanisms to handle uncertainty and incentives.
+- Silicon Valley types argue that multi-agent LLMs will give you all the economic stuff for free, but that's not a good way to think about engineering—it's like a chemical engineer throwing stuff together and getting explosions.
+- Some say we have so much data that all behavioral context is already built in, but that's too naive; data is ephemeral and contextual, and you can't gather enough to cover everything.
+- The extinction and superintelligence narratives are the only two options presented, but there are many positive things to be done at human scale.
+- Some argue that building systems you don't understand is bad, but it's not—you just need to put things around it, like prediction-powered inference to correct bias.
+- The claim that LLMs are recursively self-improving and will take over is science fiction; we should worry more about labor and capital relationships.
 
 ## Concepts surfaced
 
-[[collective-intelligence]] · [[economic-thinking]] · [[uncertainty-quantification]] · [[incentive-alignment]] · [[data-markets]] · [[agi-hype]]
+[[collective-intelligence]] · [[mechanism-design]] · [[uncertainty-quantification]] · [[data-markets]] · [[prediction-powered-inference]] · [[agi-hype]]

@@ -1,4 +1,5 @@
 {
   "orphan-scan-degraded": 2,
-  "scheduler-stale": 2
+  "scheduler-stale": 3,
+  "todo-summaries": 1
 }
