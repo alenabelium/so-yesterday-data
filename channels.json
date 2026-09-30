@@ -74,6 +74,39 @@
     }
   },
   {
+    "id": "robertmiles",
+    "name": "Robert Miles AI Safety",
+    "url": "https://www.youtube.com/@RobertMilesAI",
+    "description": "AI alignment and safety research communication — translates dense safety literature into accessible video essays",
+    "preferences": {
+      "index": "all",
+      "knowledge": "all",
+      "highlight": "all"
+    }
+  },
+  {
+    "id": "mlst",
+    "name": "Machine Learning Street Talk",
+    "url": "https://www.youtube.com/@MachineLearningStreetTalk",
+    "description": "Long-form interviews and debates with AI researchers — capabilities, alignment, AI skepticism, hype critique",
+    "preferences": {
+      "index": "Only full episodes and interviews with researchers about AI capabilities, safety, economics, or critique of AI hype. Skip short clips, livestream announcements, and channel promos.",
+      "knowledge": "all",
+      "highlight": "Only full-length interviews and panel debates — skip shorts, clips, and announcements."
+    }
+  },
+  {
+    "id": "aiexplained",
+    "name": "AI Explained",
+    "url": "https://www.youtube.com/@aiexplained-official",
+    "description": "Nuanced analysis of AI capabilities, benchmarks, model releases, and AGI arguments — neither hype nor doom",
+    "preferences": {
+      "index": "all",
+      "knowledge": "all",
+      "highlight": "Only analyses of major model releases, capability evaluations, and AI economy or AGI arguments. Skip short news reactions."
+    }
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
