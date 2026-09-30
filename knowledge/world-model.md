@@ -1,17 +1,20 @@
 ---
-title: World Model
-slug: world-model
-description: Referenced by template fill caccc5e3-c146-48cb-bbcb-ca3527cb138c for video G8fqduzB5lc; awaiting author.
+title: "World Model"
+slug: "world-model"
+description: "A learned internal simulator of environment dynamics that lets an AI plan and predict outcomes — the bridge from language models to physical and interactive AI."
 tags:
-  - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - llm-fundamentals
+  - ai-agents
+related:
+  - multimodal-ai
+  - emergent-behavior
+  - benchmarks
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# World Model
+A world model is a network that has internalized how an environment evolves: given a state and an action, it predicts the next state — visually, physically, or symbolically. The concept moved from research curiosity to strategic axis as video-generation and game-style models turned out to be learnable world simulators, which in turn became the training ground for robot control and interactive agents. The corpus tracks "world models" as one of the recurring frontier bets alongside [scaling laws](/knowledge/scaling-laws).
 
-This concept stub was opened from [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](/videos/G8fqduzB5lc) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+Two consequences matter for practice. First, planning: an agent with a good world model can simulate before acting, trading compute for risk — the same trade [evals](/knowledge/evals) make explicit for software agents. Second, the simulation-to-real transfer loop: policies trained inside learned simulators (plus [synthetic data](/knowledge/synthetic-data)) are what made general-purpose robotics credible. When a summary says a model "understands" a domain, the precise claim is usually that it carries an implicit world model of that domain's dynamics.

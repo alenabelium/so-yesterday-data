@@ -1,17 +1,22 @@
 ---
-title: Computer Use
-slug: computer-use
-description: Referenced by template fill 8a8d0765-2820-4de4-8fc0-208d570cc6a7 for video BCzYZVTnk-8; awaiting author.
+title: "Computer Use (Agents)"
+slug: "computer-use"
+description: "Agents that operate software through the same visual interface humans use — clicking, typing, reading screens — instead of through APIs."
 tags:
-  - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - ai-agents
+  - ai-tools
+related:
+  - tool-use
+  - mcp
+  - agent
+  - claude
+  - evals
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Computer Use
+Computer-use agents control a machine the way a person does: they see the screen, move the pointer, type, and read the result. Where [tool use](/knowledge/tool-use) gives an agent a designed API, computer use gives it the *universal* interface — every application a human can operate becomes agent-operable, no integration required. The corpus tracked the inflection carefully: once these agents crossed reliability thresholds, they became the fallback path for long-tail automation (legacy apps, arbitrary websites) that no one will ever build an [MCP](/knowledge/mcp) connector for.
 
-This concept stub was opened from [Welcome to March 6, 2026](/videos/BCzYZVTnk-8) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The discipline around them is the standard agentic one, intensified: a computer-use agent holds real credentials, so scoped environments, session isolation, screenshot-level audit logs, and human gating for consequential actions are the deployment pattern (see [evals](/knowledge/evals)). Strategically, computer use reframes "integration" as a spectrum — API where available, UI where not — and shifts the value question from "can it operate my software" to "can I specify and verify what it should do" ([specification quality](/knowledge/specification-quality)).
