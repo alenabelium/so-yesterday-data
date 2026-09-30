@@ -6,28 +6,30 @@ source_summary: ../summaries/2026-06-13-the-ai-industry-is-spending-10-million-a
 source_transcript: ../transcripts/2026-06-13-the-ai-industry-is-spending-10-million-against-one-guy.md
 source_summary_hash: sha256:346f76b7dc9e216e679ecd1b7a8bd7f14d626d680a231e41d4fbaa6d9b536cb9
 source_transcript_hash: sha256:282a99a0fceeb1c1d8eeb8c26e497bd4d59e9f5bbb49709f2b23cc3b5046a5aa
-fill_id: 6ca81378-a43b-4ea9-9211-08e5a94c13e6
-published_at: '2026-09-30T11:34:54.330233'
+fill_id: 2cc94f62-1b3a-4622-8970-1a268bcb933a
+published_at: '2026-09-30T12:34:46.882979'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The AI industry's $10 million campaign against NY candidate Alex Bores reveals a desperate attempt to intimidate lawmakers into rejecting even minimal safety regulations.
+The AI industry's $10 million campaign to defeat Alex Bores reveals a desperate attempt to intimidate lawmakers and suppress basic safety regulation through financial bullying rather than policy debate.
 
 ## Argument
 
-The core mechanism is economic intimidation rather than policy debate. The AI sector pledged $10 million to defeat Alex Bores, who sponsored the RAISE Act—a law requiring basic safety tests and reporting for models capable of causing mass casualties or massive financial damage. This legislation was already gutted by lobbying, reducing it to a nominal fine of $1 million for companies with over $500 million in revenue, effectively binding only five major entities like OpenAI and Anthropic. The industry's reaction proves that even this weak framework is unacceptable to them.
+The central mechanism is economic intimidation disguised as political opposition. The AI industry pledged $10 million specifically to prevent the election of Alex Bores, a congressional candidate with a computer science background who sponsored New York's RAISE Act. This legislation was remarkably tame: it merely required safety tests and reporting for models capable of causing over 50 deaths or $1 billion in damages, with a maximum fine of just $1 million—a negligible sum for companies like OpenAI, Anthropic, and xAI that have revenues exceeding $500 million.
 
-The irony lies in the tactics used. Instead of arguing against AI safety, the super PAC funded by Palantir co-founders attacked Bores’s past employment at Palantir, ignoring that he left due to ethical concerns about ICE contracts. This tarring-by-association highlights their fear of public scrutiny. Furthermore, the spending is failing; rival firms like Anthropic have countered with funding, leaving the race neck-and-neck. The outcome will set a precedent: if this intimidation works, future lawmakers will face similar pressure to ignore AI risks.
+Despite the law being neutered by lobbying to remove actual blocking powers, the industry escalated to personal attacks. The super PAC funding these efforts includes Greg Brockman (OpenAI president) and a Palantir co-founder. The irony is palpable: they are attacking Bores for his past work at Palantir while simultaneously being funded by Palantir’s own co-founder. They avoid discussing AI safety because public opinion favors regulation; instead, they leverage fear of Palantir’s ICE contracts to tar Bores by association.
+
+This strategy highlights a critical precedent: if wealthy tech actors can successfully bully lawmakers into silence through massive financial outlays, the democratic process for regulating dangerous technologies is effectively broken. The fact that the race remains neck-and-neck suggests this intimidation may fail, but the attempt itself exposes the industry's refusal to accept any constraints on its power.
 
 ## Counterpoints
 
-- The ads avoid discussing AI because public sentiment is currently against AI safety regulation.
-- Bores previously worked for Palantir, which has controversial ties to ICE and government surveillance.
-- The RAISE Act was already weakened by lobbying before the election spending began.
+- The RAISE Act was already gutted by lobbying, removing the ability to block releases and reducing fines to $1 million.
+- Bores left Palantir due to ethical concerns over ICE contracts, making the attack ad's framing misleading.
+- Public opinion on AI is currently negative, forcing the industry to use indirect attacks rather than policy debates.
 
 ## Concepts surfaced
 
-[[ai-safety-regulation]] · [[political-intimidation]] · [[super-pac-spending]] · [[industry-lobbying]] · [[ai-governance]]
+[[ai-regulation]] · [[tech-lobbying]] · [[super-pac-spending]] · [[ai-safety]] · [[political-intimidation]]
