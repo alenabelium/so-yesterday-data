@@ -1,17 +1,21 @@
 ---
-title: Software Engineering
-slug: software-engineering
-description: Referenced by template fill 63f977ed-55f1-4e69-bef6-a9fbcd6a0df0 for video We7BZVKbCVw; awaiting author.
+title: "Software Engineering (AI era)"
+slug: "software-engineering"
+description: "The restructured engineering discipline: specification and verification become the core skills as generation commoditizes."
 tags:
+  - coding
   - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+related:
+  - agentic-coding
+  - specification-quality
+  - dark-code
+  - evals
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Software Engineering
+Software engineering in the AI era is the profession reorganized around what agents can't do: deciding what to build, specifying it precisely, and verifying the result. The corpus's consistent finding is that [agentic coding](/knowledge/agentic-coding) reliably produces the first 70% of well-specified work, which relocates engineering value to the boundaries — specifications, test design, review, and the accountability for shipped behavior (see [the 70% problem](/knowledge/the-70-percent-problem)).
 
-This concept stub was opened from [Head of Claude Code: What happens after coding is solved ](/videos/We7BZVKbCVw) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The failure catalog defines the discipline's new core: unreviewed accumulation ([dark code](/knowledge/dark-code)), permission overreach, and evals that test the demo instead of the edge cases. The healthy pattern the corpus documents — regenerate-from-spec as the recoverability test, scoped environments, senior review of junior-agent output — is traditional engineering discipline, reapplied at machine speed (see [specification quality](/knowledge/specification-quality)).

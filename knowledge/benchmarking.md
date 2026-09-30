@@ -1,17 +1,19 @@
 ---
-title: Benchmarking
-slug: benchmarking
-description: Referenced by template fill 309b73cb-7ec6-4b8d-b109-fc26ce0f4d72 for video YRyjkmmW5Ek; awaiting author.
+title: "Benchmarking (AI)"
+slug: "benchmarking"
+description: "The practice of measuring model capability — and its ongoing crisis as benchmarks saturate, leak and game."
 tags:
-  - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - llm-fundamentals
+related:
+  - benchmarks
+  - evals
+  - scaling-laws
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Benchmarking
+Benchmarking is the measurement layer of the model economy: standardized suites that rank capability and drive release narratives. The corpus's own concept inventory marks the tension — [benchmarks](/knowledge/benchmarks) as load-bearing infrastructure for tracking progress, and simultaneously the growing skepticism wave ("downfall of benchmarks", vibe-era evaluation) as suites saturate, contaminate into training data, and diverge from real task performance.
 
-This concept stub was opened from [GPT 5.4 is so cracked](/videos/YRyjkmmW5Ek) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The working doctrine that emerges: use benchmarks as coarse screening, but trust task-specific [evals](/knowledge/evals) — organization-owned tests on real workloads — for any consequential decision. That mirrors the platform's own split: public leaderboards for the discourse, embedded evaluation suites for the pipeline (see [scaling laws](/knowledge/scaling-laws) for what aggregate scores can and can't project).

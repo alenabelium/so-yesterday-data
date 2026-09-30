@@ -1,17 +1,20 @@
 ---
-title: Sovereign Wealth Fund
-slug: sovereign-wealth-fund
-description: Referenced by template fill e62f7b1d-bd75-42b9-85cd-44d26852779e for video LP4eUjgTmBI; awaiting author.
+title: "Sovereign Wealth Funds (AI)"
+slug: "sovereign-wealth-fund"
+description: "State-controlled capital as themega-investor class of the AI buildout — infrastructure, chips, and lab stakes."
 tags:
   - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - industry-news
+related:
+  - ai-native-economics
+  - data-center
+  - post-labor-economics
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Sovereign Wealth Fund
+Sovereign wealth funds have emerged in the corpus as the scale investors of the AI buildout: multi-billion positions in accelerators, [data centers](/knowledge/data-center) and frontier-lab equity, driven by both return logic and national-capability strategy. The coverage treats them as the financial expression of "AI sovereignty" — states securing compute, models and influence the way earlier eras secured energy or shipping lanes.
 
-This concept stub was opened from [Welcome to February 27, 2026](/videos/LP4eUjgTmBI) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The analytical angles the corpus returns to: SWF patience tolerates longer payback than market funds (stabilizing the capex wave); their geographic choices redraw the [infrastructure](/knowledge/ai-infrastructure) map; and the pairing of sovereign capital with export controls makes compute access an instrument of industrial policy. For operators, the practical consequence is contractual: capacity and partnership terms increasingly route through state-linked vehicles.

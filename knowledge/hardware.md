@@ -1,17 +1,22 @@
 ---
-title: Hardware
-slug: hardware
-description: Referenced by template fill 71d2c1d4-32dc-49bc-88c6-58c13fdd45c3 for video nCAkkvk1K7E; awaiting author.
+title: "Hardware (AI)"
+slug: "hardware"
+description: "AI hardware — accelerators, interconnect and memory systems — the physical layer whose economics constrain every model above it."
 tags:
-  - ai-strategy
-related: [infrastructure, video]
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: "2026-05-27"
+  - ai-infrastructure
+  - data-center
+  - inference
+  - benchmarks
+related:
+  - data-center
+  - inference
+  - model-efficiency
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Hardware
+The AI hardware layer is where capability meets physics: GPU/accelerator fleets, high-bandwidth memory, and interconnects whose throughput and availability gate both training runs and [inference](/knowledge/inference) serving. The corpus treats hardware as the discipline that turns Moore's-law-style scaling into the empirical curves tracked as [scaling laws](/knowledge/scaling-laws) — and as the strategic chokepoint: accelerator supply, export controls, and power delivery now shape lab roadmaps as much as algorithms do (see [AI infrastructure](/knowledge/ai-infrastructure), [data centers](/knowledge/data-center)).
 
-This concept stub was opened from [Welcome to March 5, 2026](/videos/nCAkkvk1K7E) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The practical readings: cost-per-token trends track hardware generations plus utilization engineering, which is why [model efficiency](/knowledge/model-efficiency) and routing designs pay directly; and hardware scarcity periods favor players with committed capacity — the recurring "compute scarcity" theme in market analysis.

@@ -1,17 +1,21 @@
 ---
-title: Compute Scarcity
-slug: compute-scarcity
-description: Referenced by template fill c89cab99-0e42-4693-b11b-24e5b6cdd1db for video oVDfoWer_M4; awaiting author.
+title: "Compute Scarcity"
+slug: "compute-scarcity"
+description: "Periods when demand for AI compute exceeds accelerator supply — the strategic wildcard behind capacity, pricing and capability roadmaps."
 tags:
+  - ai-infrastructure
   - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+related:
+  - data-center
+  - inference
+  - scaling-laws
+  - ai-native-economics
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Compute Scarcity
+Compute scarcity is the recurring condition where demand for training and [inference](/knowledge/inference) capacity outstrips the [hardware](/knowledge/hardware) and [data-center](/knowledge/data-center) supply built so far. The corpus tracks it as the market's boom-bust engine: scarcity concentrates advantage in players with committed capacity, inflates the value of efficiency techniques, and periodically forces rationing of the very workloads (long-context, high-volume agents) the product roadmaps assume.
 
-This concept stub was opened from [Exciting AI Updates Weekly - April 24, 2026 - Part 2](/videos/oVDfoWer_M4) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+Strategically, scarcity rewards two postures: engineering frugality — smaller routed models, distillation, caching — and contractual capacity ahead of need. The honest counterpoint in the corpus: every scarcity wave to date has been followed by a supply response that crashes effective prices, so scarcity bets carry duration risk (see [token economics](/knowledge/token-economics)).

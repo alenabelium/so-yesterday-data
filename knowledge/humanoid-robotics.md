@@ -1,17 +1,20 @@
 ---
-title: Humanoid Robotics
-slug: humanoid-robotics
-description: Referenced by template fill 3b5ef471-23e6-4fc6-a383-ba1ec5f00bf1 for video fMf69VMQp8k; awaiting author.
+title: "Humanoid Robotics"
+slug: "humanoid-robotics"
+description: "The humanoid-form-factor bet: general-purpose robot bodies as the universal interface to human-built environments."
 tags:
-  - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - ai-agents
+  - industry-news
+related:
+  - robotics
+  - world-model
+  - physical-ai
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Humanoid Robotics
+Humanoid robotics is the thesis that general-purpose robots in human form capture the largest addressable base — every warehouse, factory and vehicle shaped for human bodies. The corpus covers it as a capex-heavy race where the AI side (world models, vision-language-action control — see [robotics](/knowledge/robotics), [physical AI](/knowledge/physical-ai)) is advancing faster than the actuation economics; the genuine bottlenecks are cost, reliability hours, and insurance-grade safety cases.
 
-This concept stub was opened from [Welcome to March 13, 2026](/videos/fMf69VMQp8k) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The sober read: humanoid form is a choice, not a law — specialized form factors win wherever environments can be redesigned, and the humanoid premium only pays in mixed human environments. Timeline expectations in the corpus cluster on late-decade volume deployment, gated by unit economics rather than demonstrations.

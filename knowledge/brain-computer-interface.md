@@ -1,17 +1,19 @@
 ---
-title: Brain Computer Interface
-slug: brain-computer-interface
-description: Referenced by template fill 3b5ef471-23e6-4fc6-a383-ba1ec5f00bf1 for video fMf69VMQp8k; awaiting author.
+title: "Brain-Computer Interface"
+slug: "brain-computer-interface"
+description: "Direct neural links between brains and machines — the longest-horizon item adjacent to the AI discourse."
 tags:
-  - ai-strategy
-related: []
-confidence: low
-draft: true
-provenance: agent:template-fill-v1
-created: '2026-05-19'
-updated: '2026-05-19'
+  - future-tech
+  - industry-news
+related:
+  - agi
+  - physical-ai
+provenance: agent:stub-authoring-v1
+created: "2026-05-19"
+updated: "2026-09-30"
+confidence: medium
 ---
 
-# Brain Computer Interface
+Brain-computer interfaces (BCI) connect neural tissue directly to digital systems — the corpus covers the medical-first arc (restoring communication and motion for impaired patients) with consumer ambitions trailing far behind. Its presence in the AI discourse is as the extreme endpoint of the human-AI integration curve: if agents externalize cognition, BCIs internalize the connection.
 
-This concept stub was opened from [Welcome to March 13, 2026](/videos/fMf69VMQp8k) and awaits an author. A future expansion will replace this placeholder with a definition, examples from the corpus, and links to related concepts.
+The honest corpus treatment: medical BCI is real and progressing on conservative clinical timelines; consumer "bandwidth" claims are speculative; and the field's binding constraints are biocompatibility and decoding quality, not model capability — meaning AI progress accelerates the decoding side without shortening the biology. Relevant to strategy mainly as a watch item for the human-augmentation thesis (see [AGI](/knowledge/agi) discourse).
