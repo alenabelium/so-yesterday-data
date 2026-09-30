@@ -6,36 +6,28 @@ source_summary: ../summaries/2026-09-29-why-i-took-the-summer-off-from-ai-and-wh
 source_transcript: ../transcripts/2026-09-29-why-i-took-the-summer-off-from-ai-and-what-i-learned.md
 source_summary_hash: sha256:2982bff235e4a3851b815d6a400f851d77a69bb8515adcbed1bebce3c7841168
 source_transcript_hash: sha256:404fcd1cb0128548922b5335fdff390d522e49800ba0b122e8c8c7143b083088
-fill_id: 802a2c95-1151-49df-9e2a-2c65938dee0f
-published_at: '2026-09-29T23:11:34.016834'
+fill_id: f66fbeaa-406e-42e0-862c-dccca7a603e5
+published_at: '2026-09-30T00:11:27.415608'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Context becomes the product: organizations must use AI to automate routine execution so teams can dedicate freed-up time to deep customer engagement and collective learning, rather than chasing efficiency.
+Context becomes the product: companies must use AI to automate routine tasks so teams can dedicate more time to deep customer engagement and collective learning.
 
 ## Argument
 
-[00:01:25] The industry is obsessed with 'software factories'—scaling through specialized roles and processes to optimize output. But more results do not mean better products; customers don't buy lines of code or speed, they buy value.
+The industry is obsessed with 'software factories,' optimizing for scale and speed, but this approach creates a dangerous gap between execution and learning. When we automate everything, we lose the direct connection to customers that builds intuition. Intuition isn't magic; it's training your brain through struggle and engagement.
 
-[00:04:09] Great products are created by teams with strong context: shared taste, judgment, and deep understanding of the customer space. The danger of AI is that it creates a gap between execution and learning. If you automate everything, you lose the intuition gained from struggling with problems.
-
-[00:06:22] Instead of outsourcing thinking, use AI to save time on repetitive tasks (like bug fixes) so engineers can engage deeper with customers. At Linear, we encourage team members to join Slack channels and answer questions to build intuition.
-
-[00:09:14] We use agents to monitor customer feedback and create a 'watcher' that sends daily digests of interesting workflows. This keeps leadership close to the problem space without manual effort.
-
-[00:10:26] To combat isolation, we implement a 'quality environment.' Everyone fixes one small defect weekly and shares it in meetings. We also hold 'function analysis' meetings where anyone can critique new features. These practices train the team's eye for quality and disseminate judgment across the organization.
-
-[00:14:07] Context must be stored in a shared space accessible to both humans and agents. Intuition is not magic; it is training your brain through accumulated context. Hiring is about bringing in people with good taste and judgment who can contribute to this trajectory, not just
+At Linear, we use AI agents to handle repetitive bug fixes and monitor customer feedback, freeing up time for deeper work. We implemented a 'quality environment' where everyone fixes small defects weekly and participates in 'function analysis' meetings to share judgment and taste. This collective learning ensures the team understands what matters. The goal is not just efficiency but sustaining the learning cycle. As AI handles execution, product organizations must revolve around managing context—storing customer insights and shared history—so that hiring and decision-making are driven by deep understanding rather than just output volume.
 
 ## Counterpoints
 
-- AI tools are getting better and faster, so companies might feel pressured to adopt them for pure efficiency gains.
-- People working alone with agents may find it effective, but it reduces collective learning and shared standards.
-- Large organizations often struggle to maintain direct customer connection due to volume of requests and distance.
+- Automation saves time but risks isolating workers, reducing peer-to-peer learning.
+- Scale requires processes, but too many processes obscure what people are actually doing.
+- Results don't equal quality; customers buy value, not lines of code.
 
 ## Concepts surfaced
 
-[[context-becomes-the-product]] · [[software-factory-critique]] · [[ai-for-learning-not-just-execution]] · [[team-intuition-training]] · [[quality-environment-practices]] · [[customer-feedback-agents]]
+[[context-becomes-the-product]] · [[ai-automation-strategy]] · [[team-intuition-building]] · [[software-factory-critique]] · [[customer-engagement-focus]]
