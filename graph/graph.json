@@ -3,7 +3,7 @@
     {
       "id": "agent-orchestration",
       "label": "Agent Orchestration",
-      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 449 sources",
+      "title": "Agent Orchestration\nManaging multiple AI agents working in parallel to accomplish complex software and business tasks.\nReferenced by 450 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -17,7 +17,7 @@
     {
       "id": "agent-swarm",
       "label": "Agent Swarm",
-      "title": "Agent Swarm\nMany agents working in parallel on decomposed tasks under an orchestrator \u2014 the 'AI software factory' pattern at scale.\nReferenced by 858 sources",
+      "title": "Agent Swarm\nMany agents working in parallel on decomposed tasks under an orchestrator \u2014 the 'AI software factory' pattern at scale.\nReferenced by 859 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -31,7 +31,7 @@
     {
       "id": "agent",
       "label": "Agent",
-      "title": "Agent\nAn AI system that pursues goals by planning, using tools, and acting with limited supervision \u2014 the general term the corpus uses for both single agents and agent fleets.\nReferenced by 675 sources",
+      "title": "Agent\nAn AI system that pursues goals by planning, using tools, and acting with limited supervision \u2014 the general term the corpus uses for both single agents and agent fleets.\nReferenced by 676 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -45,7 +45,7 @@
     {
       "id": "agentic-ai",
       "label": "Agentic AI",
-      "title": "Agentic AI\nAI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.\nReferenced by 891 sources",
+      "title": "Agentic AI\nAI systems that autonomously perceive, plan, and act to achieve complex goals using tools and reasoning.\nReferenced by 892 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -60,7 +60,7 @@
     {
       "id": "agentic-coding",
       "label": "Agentic Coding",
-      "title": "Agentic Coding\nSoftware development where AI agents execute against human-written specifications and tests \u2014 the disciplined successor to vibe coding.\nReferenced by 453 sources",
+      "title": "Agentic Coding\nSoftware development where AI agents execute against human-written specifications and tests \u2014 the disciplined successor to vibe coding.\nReferenced by 454 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -74,7 +74,7 @@
     {
       "id": "agentic-workflows",
       "label": "Agentic Workflows",
-      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 909 sources",
+      "title": "Agentic Workflows\nSystems where AI agents autonomously plan, execute, and iterate on complex tasks using tools and feedback loops.\nReferenced by 910 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -89,7 +89,7 @@
     {
       "id": "agentic",
       "label": "Agentic",
-      "title": "Agentic\nThe paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.\nReferenced by 895 sources",
+      "title": "Agentic\nThe paradigm shift from passive AI assistants to autonomous systems capable of planning, tool use, and goal execution.\nReferenced by 896 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -104,7 +104,7 @@
     {
       "id": "agi",
       "label": "Artificial General Intelligence (AGI)",
-      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 446 sources",
+      "title": "Artificial General Intelligence (AGI)\nA theoretical level of AI capability matching or exceeding human-level performance across all cognitive tasks.\nReferenced by 447 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -118,7 +118,7 @@
     {
       "id": "ai-agents",
       "label": "AI Agents",
-      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 465 sources",
+      "title": "AI Agents\nAutonomous AI systems that can plan, use tools, and take actions to accomplish goals.\nReferenced by 466 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -145,7 +145,7 @@
     {
       "id": "ai-coding-levels",
       "label": "The 5 Levels of AI Coding",
-      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 600 sources",
+      "title": "The 5 Levels of AI Coding\nA framework mapping the progression from manual coding through vibe coding to full agent orchestration.\nReferenced by 601 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -200,7 +200,7 @@
     {
       "id": "ai-music-generation",
       "label": "AI Music Generation",
-      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 689 sources",
+      "title": "AI Music Generation\nAI tools that compose, produce, and generate music from text prompts and lyrics.\nReferenced by 690 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -256,7 +256,7 @@
     {
       "id": "ai-security",
       "label": "AI Security",
-      "title": "AI Security\nDefending AI systems and the systems AI touches \u2014 adversarial inputs, agent abuse, and the new attack surface agents create.\nReferenced by 465 sources",
+      "title": "AI Security\nDefending AI systems and the systems AI touches \u2014 adversarial inputs, agent abuse, and the new attack surface agents create.\nReferenced by 466 sources",
       "group": "Ethics & Safety",
       "color": "#f97316",
       "size": 45,
@@ -283,7 +283,7 @@
     {
       "id": "ai-video-generation",
       "label": "AI Video Generation",
-      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 689 sources",
+      "title": "AI Video Generation\nAI tools that generate, edit, and transform video from text prompts, images, or reference video.\nReferenced by 690 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -311,7 +311,7 @@
     {
       "id": "anthropic",
       "label": "Anthropic",
-      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 926 sources",
+      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 927 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -326,7 +326,7 @@
     {
       "id": "automation",
       "label": "Automation",
-      "title": "Automation\nExecuting work through machines \u2014 the corpus's baseline lens for AI's impact, now distinguished from agentic delegation by who holds the procedure.\nReferenced by 643 sources",
+      "title": "Automation\nExecuting work through machines \u2014 the corpus's baseline lens for AI's impact, now distinguished from agentic delegation by who holds the procedure.\nReferenced by 644 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -340,7 +340,7 @@
     {
       "id": "autonomous-agent",
       "label": "Autonomous Agent",
-      "title": "Autonomous Agent\nAI systems capable of perceiving, reasoning, and acting independently to achieve complex goals without continuous human input.\nReferenced by 891 sources",
+      "title": "Autonomous Agent\nAI systems capable of perceiving, reasoning, and acting independently to achieve complex goals without continuous human input.\nReferenced by 892 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -355,7 +355,7 @@
     {
       "id": "autonomous-agents",
       "label": "Autonomous Agents",
-      "title": "Autonomous Agents\nFully autonomous AI systems that operate without human intervention for extended periods.\nReferenced by 860 sources",
+      "title": "Autonomous Agents\nFully autonomous AI systems that operate without human intervention for extended periods.\nReferenced by 861 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -396,7 +396,7 @@
     {
       "id": "blast-radius",
       "label": "Blast Radius Management",
-      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 402 sources",
+      "title": "Blast Radius Management\nLimiting the potential damage from AI agent errors by controlling scope and permissions.\nReferenced by 403 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -438,7 +438,7 @@
     {
       "id": "chatgpt",
       "label": "ChatGPT",
-      "title": "ChatGPT\nOpenAI's flagship conversational AI that catalyzed the global generative AI revolution and redefined human-computer interaction.\nReferenced by 753 sources",
+      "title": "ChatGPT\nOpenAI's flagship conversational AI that catalyzed the global generative AI revolution and redefined human-computer interaction.\nReferenced by 754 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -453,7 +453,7 @@
     {
       "id": "claude-code",
       "label": "Claude Code",
-      "title": "Claude Code\nAnthropic's CLI tool enabling AI agents to autonomously edit files, run commands, and manage local development workflows.\nReferenced by 569 sources",
+      "title": "Claude Code\nAnthropic's CLI tool enabling AI agents to autonomously edit files, run commands, and manage local development workflows.\nReferenced by 570 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -468,7 +468,7 @@
     {
       "id": "claude",
       "label": "Claude",
-      "title": "Claude\nAnthropic's frontier model family and assistant product line; in the corpus, the reference point for agentic coding and computer-use workflows.\nReferenced by 606 sources",
+      "title": "Claude\nAnthropic's frontier model family and assistant product line; in the corpus, the reference point for agentic coding and computer-use workflows.\nReferenced by 607 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -482,7 +482,7 @@
     {
       "id": "codex",
       "label": "Codex",
-      "title": "Codex\nOpenAI's pioneering code-generation model that established the foundation for modern AI-assisted software development.\nReferenced by 479 sources",
+      "title": "Codex\nOpenAI's pioneering code-generation model that established the foundation for modern AI-assisted software development.\nReferenced by 480 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -497,7 +497,7 @@
     {
       "id": "coding",
       "label": "Coding with AI",
-      "title": "Coding with AI\nThe umbrella for AI-assisted software development \u2014 from snippet completion to agent fleets executing against specs.\nReferenced by 509 sources",
+      "title": "Coding with AI\nThe umbrella for AI-assisted software development \u2014 from snippet completion to agent fleets executing against specs.\nReferenced by 510 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -539,7 +539,7 @@
     {
       "id": "computer-use",
       "label": "Computer Use (Agents)",
-      "title": "Computer Use (Agents)\nAgents that operate software through the same visual interface humans use \u2014 clicking, typing, reading screens \u2014 instead of through APIs.\nReferenced by 540 sources",
+      "title": "Computer Use (Agents)\nAgents that operate software through the same visual interface humans use \u2014 clicking, typing, reading screens \u2014 instead of through APIs.\nReferenced by 541 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -553,7 +553,7 @@
     {
       "id": "constraint-encoding",
       "label": "Constraint Encoding",
-      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 858 sources",
+      "title": "Constraint Encoding\nConverting tacit domain knowledge and organizational rules into machine-readable instructions for AI agents.\nReferenced by 859 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -581,7 +581,7 @@
     {
       "id": "context-window-management",
       "label": "Context Window Management",
-      "title": "Context Window Management\nThe discipline of fitting the right information into limited context \u2014 curation, compression and retrieval over brute-force stuffing.\nReferenced by 395 sources",
+      "title": "Context Window Management\nThe discipline of fitting the right information into limited context \u2014 curation, compression and retrieval over brute-force stuffing.\nReferenced by 396 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -595,7 +595,7 @@
     {
       "id": "context-window",
       "label": "Context Window",
-      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 425 sources",
+      "title": "Context Window\nThe maximum amount of text (measured in tokens) that a language model can process in a single interaction.\nReferenced by 426 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -609,7 +609,7 @@
     {
       "id": "copilot",
       "label": "Copilot",
-      "title": "Copilot\nAI-powered pair programming assistants that enhance developer productivity through real-time code generation and context awareness.\nReferenced by 606 sources",
+      "title": "Copilot\nAI-powered pair programming assistants that enhance developer productivity through real-time code generation and context awareness.\nReferenced by 607 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -624,7 +624,7 @@
     {
       "id": "cursor",
       "label": "Cursor",
-      "title": "Cursor\nAn AI-native code editor enabling deep context awareness, multi-file editing, and agentic workflows for developers.\nReferenced by 568 sources",
+      "title": "Cursor\nAn AI-native code editor enabling deep context awareness, multi-file editing, and agentic workflows for developers.\nReferenced by 569 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -639,7 +639,7 @@
     {
       "id": "dark-code",
       "label": "Dark Code",
-      "title": "Dark Code\nProduction code that no human has ever fully understood \u2014 AI-generated, automatically tested, and deployed without a comprehension step.\nReferenced by 881 sources",
+      "title": "Dark Code\nProduction code that no human has ever fully understood \u2014 AI-generated, automatically tested, and deployed without a comprehension step.\nReferenced by 882 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -668,7 +668,7 @@
     {
       "id": "disposable-software",
       "label": "Disposable Software",
-      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 372 sources",
+      "title": "Disposable Software\nSoftware built quickly with AI for a specific purpose, designed to be thrown away rather than maintained.\nReferenced by 373 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -724,7 +724,7 @@
     {
       "id": "evals",
       "label": "Evals",
-      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 859 sources",
+      "title": "Evals\nDomain-specific evaluation frameworks that encode organizational knowledge into automated guardrails for deployed AI agents.\nReferenced by 860 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -738,7 +738,7 @@
     {
       "id": "fine-tuning",
       "label": "Fine-Tuning",
-      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 412 sources",
+      "title": "Fine-Tuning\nThe process of further training a pre-trained AI model on specialized data to improve performance on specific tasks.\nReferenced by 413 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -766,7 +766,7 @@
     {
       "id": "frontier-recognition",
       "label": "Frontier Recognition",
-      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 845 sources",
+      "title": "Frontier Recognition\nThe ability to identify what AI can and cannot do today, and adjust strategy accordingly.\nReferenced by 846 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -795,7 +795,7 @@
     {
       "id": "grok",
       "label": "'Grok: xAI''s Reasoning-Centric LLM'",
-      "title": "'Grok: xAI''s Reasoning-Centric LLM'\nElon Musk's xAI model focused on real-time data access and direct, unfiltered responses.\nReferenced by 930 sources",
+      "title": "'Grok: xAI''s Reasoning-Centric LLM'\nElon Musk's xAI model focused on real-time data access and direct, unfiltered responses.\nReferenced by 931 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -854,7 +854,7 @@
     {
       "id": "huggingface",
       "label": "'Hugging Face: The Open Source AI Hub'",
-      "title": "'Hugging Face: The Open Source AI Hub'\nThe central hub for open-source AI models, datasets, and community-driven development.\nReferenced by 415 sources",
+      "title": "'Hugging Face: The Open Source AI Hub'\nThe central hub for open-source AI models, datasets, and community-driven development.\nReferenced by 416 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -882,7 +882,7 @@
     {
       "id": "humanoid-robotics",
       "label": "Humanoid Robotics",
-      "title": "Humanoid Robotics\nThe humanoid-form-factor bet: general-purpose robot bodies as the universal interface to human-built environments.\nReferenced by 686 sources",
+      "title": "Humanoid Robotics\nThe humanoid-form-factor bet: general-purpose robot bodies as the universal interface to human-built environments.\nReferenced by 687 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1006,7 +1006,7 @@
     {
       "id": "mcp",
       "label": "Model Context Protocol",
-      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 538 sources",
+      "title": "Model Context Protocol\nAn open standard for connecting AI models to external tools, data sources, and services.\nReferenced by 539 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1061,7 +1061,7 @@
     {
       "id": "multi-agent-systems",
       "label": "Multi-Agent Systems",
-      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 447 sources",
+      "title": "Multi-Agent Systems\nMultiple AI agents coordinating to accomplish complex tasks through decomposition, parallelization, and verification.\nReferenced by 448 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1075,7 +1075,7 @@
     {
       "id": "multimodal-ai",
       "label": "Multimodal AI",
-      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 412 sources",
+      "title": "Multimodal AI\nAI models that natively process and generate across multiple modalities: text, image, audio, and video.\nReferenced by 413 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1103,7 +1103,7 @@
     {
       "id": "open-source-models",
       "label": "Open-Source Models",
-      "title": "Open-Source Models\nModel families published with permissive licensing for anyone to run, fine-tune and build on.\nReferenced by 412 sources",
+      "title": "Open-Source Models\nModel families published with permissive licensing for anyone to run, fine-tune and build on.\nReferenced by 413 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1117,7 +1117,7 @@
     {
       "id": "open-source",
       "label": "Open Source (AI)",
-      "title": "Open Source (AI)\nAI software and models whose weights, code, or both are publicly available for inspection, modification and redistribution \u2014 the production base of the local-first AI stack.\nReferenced by 416 sources",
+      "title": "Open Source (AI)\nAI software and models whose weights, code, or both are publicly available for inspection, modification and redistribution \u2014 the production base of the local-first AI stack.\nReferenced by 417 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1131,7 +1131,7 @@
     {
       "id": "open-weight-models",
       "label": "Open-Weight Models",
-      "title": "Open-Weight Models\nModels whose trained parameters are published for download and local deployment \u2014 distinct from open-source code, and the enabler of sovereign, cost-controlled AI.\nReferenced by 412 sources",
+      "title": "Open-Weight Models\nModels whose trained parameters are published for download and local deployment \u2014 distinct from open-source code, and the enabler of sovereign, cost-controlled AI.\nReferenced by 413 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1160,7 +1160,7 @@
     {
       "id": "openclaw",
       "label": "OpenClaw",
-      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 685 sources",
+      "title": "OpenClaw\nAn open-source autonomous AI agent project that demonstrated emergent behaviors including self-organization.\nReferenced by 686 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1202,7 +1202,7 @@
     {
       "id": "physical-ai",
       "label": "Physical AI",
-      "title": "Physical AI\nAI that acts in the physical world \u2014 robots, autonomous vehicles, and industrial systems closing the loop with learned control.\nReferenced by 685 sources",
+      "title": "Physical AI\nAI that acts in the physical world \u2014 robots, autonomous vehicles, and industrial systems closing the loop with learned control.\nReferenced by 686 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1244,7 +1244,7 @@
     {
       "id": "prompt-engineering",
       "label": "Prompt Engineering",
-      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 349 sources",
+      "title": "Prompt Engineering\nTechniques for crafting effective prompts to get better results from LLMs.\nReferenced by 350 sources",
       "group": "Prompting",
       "color": "#a78bfa",
       "size": 45,
@@ -1258,7 +1258,7 @@
     {
       "id": "prompt-injection",
       "label": "Prompt Injection",
-      "title": "Prompt Injection\nThe attack where untrusted content carries instructions that hijack an agent \u2014 the defining security problem of the agentic stack.\nReferenced by 462 sources",
+      "title": "Prompt Injection\nThe attack where untrusted content carries instructions that hijack an agent \u2014 the defining security problem of the agentic stack.\nReferenced by 463 sources",
       "group": "Ethics & Safety",
       "color": "#f97316",
       "size": 45,
@@ -1272,7 +1272,7 @@
     {
       "id": "qwen",
       "label": "'Qwen: Open-Source Multimodal AI Models'",
-      "title": "'Qwen: Open-Source Multimodal AI Models'\nAlibaba's family of high-performance open-weight LLMs and multimodal models, offering strong reasoning and coding capabilities.\nReferenced by 339 sources",
+      "title": "'Qwen: Open-Source Multimodal AI Models'\nAlibaba's family of high-performance open-weight LLMs and multimodal models, offering strong reasoning and coding capabilities.\nReferenced by 340 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1286,7 +1286,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 551 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 552 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1327,7 +1327,7 @@
     {
       "id": "rejection-competency",
       "label": "Rejection Competency",
-      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 845 sources",
+      "title": "Rejection Competency\nThe ability to critically evaluate and reject subpar AI outputs rather than accepting them.\nReferenced by 846 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -1341,7 +1341,7 @@
     {
       "id": "robotics",
       "label": "Robotics (AI)",
-      "title": "Robotics (AI)\nThe convergence of learned world models and robot control \u2014 AI moving from digital workflows into physical manipulation, locomotion and field robotics.\nReferenced by 700 sources",
+      "title": "Robotics (AI)\nThe convergence of learned world models and robot control \u2014 AI moving from digital workflows into physical manipulation, locomotion and field robotics.\nReferenced by 701 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1369,7 +1369,7 @@
     {
       "id": "second-brain",
       "label": "Building a Second Brain",
-      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 566 sources",
+      "title": "Building a Second Brain\nCreating personal knowledge management systems augmented by AI for continuous learning and recall.\nReferenced by 567 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -1397,7 +1397,7 @@
     {
       "id": "sniff-checking",
       "label": "Sniff-Checking",
-      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 512 sources",
+      "title": "Sniff-Checking\nThe meta-skill of rapidly evaluating AI-generated output for correctness without re-deriving it from scratch.\nReferenced by 513 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -1411,7 +1411,7 @@
     {
       "id": "software-engineering",
       "label": "Software Engineering (AI era)",
-      "title": "Software Engineering (AI era)\nThe restructured engineering discipline: specification and verification become the core skills as generation commoditizes.\nReferenced by 862 sources",
+      "title": "Software Engineering (AI era)\nThe restructured engineering discipline: specification and verification become the core skills as generation commoditizes.\nReferenced by 863 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -1425,7 +1425,7 @@
     {
       "id": "solo-operator",
       "label": "The Solo Operator",
-      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 846 sources",
+      "title": "The Solo Operator\nIndividuals using AI to operate at the scale of a small company, building products and services alone.\nReferenced by 847 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -1467,7 +1467,7 @@
     {
       "id": "specification-quality",
       "label": "Specification Quality",
-      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 512 sources",
+      "title": "Specification Quality\nThe skill of writing precise, complete specifications that AI systems can reliably execute.\nReferenced by 513 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -1495,7 +1495,7 @@
     {
       "id": "task-decomposition",
       "label": "Task Decomposition",
-      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 554 sources",
+      "title": "Task Decomposition\nBreaking complex goals into smaller, well-defined subtasks that AI agents can execute reliably.\nReferenced by 555 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1509,7 +1509,7 @@
     {
       "id": "the-70-percent-problem",
       "label": "The 70% Problem",
-      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 845 sources",
+      "title": "The 70% Problem\nThe challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.\nReferenced by 846 sources",
       "group": "Productivity",
       "color": "#22d3ee",
       "size": 45,
@@ -1593,7 +1593,7 @@
     {
       "id": "token",
       "label": "Token",
-      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 914 sources",
+      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 915 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1608,7 +1608,7 @@
     {
       "id": "tool-use",
       "label": "Tool Use",
-      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 539 sources",
+      "title": "Tool Use\nThe ability of LLMs to interact with external tools, APIs, and systems to extend their capabilities.\nReferenced by 540 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -1649,7 +1649,7 @@
     {
       "id": "vibe-coding",
       "label": "Vibe Coding",
-      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 408 sources",
+      "title": "Vibe Coding\nA development approach where developers describe intent in natural language and let AI write the code.\nReferenced by 409 sources",
       "group": "Development",
       "color": "#10b981",
       "size": 45,
@@ -1663,7 +1663,7 @@
     {
       "id": "video-generation",
       "label": "Video Generation",
-      "title": "Video Generation\nAI models that synthesize video from text, image or trajectory prompts \u2014 the fastest-moving modality of the generative stack and a working proxy for world understanding.\nReferenced by 689 sources",
+      "title": "Video Generation\nAI models that synthesize video from text, image or trajectory prompts \u2014 the fastest-moving modality of the generative stack and a working proxy for world understanding.\nReferenced by 690 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -1677,7 +1677,7 @@
     {
       "id": "world-model",
       "label": "World Model",
-      "title": "World Model\nA learned internal simulator of environment dynamics that lets an AI plan and predict outcomes \u2014 the bridge from language models to physical and interactive AI.\nReferenced by 408 sources",
+      "title": "World Model\nA learned internal simulator of environment dynamics that lets an AI plan and predict outcomes \u2014 the bridge from language models to physical and interactive AI.\nReferenced by 409 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
