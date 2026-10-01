@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-13-when-ai-discovers-the-next-transformer-r
 source_transcript: ../transcripts/2026-03-13-when-ai-discovers-the-next-transformer-robert-lange.md
 source_summary_hash: sha256:0937605e2feb0af109735c0c388b9ee6cdb4cf1885f26ae177217a4032214062
 source_transcript_hash: sha256:b823afc5ebcb912b311c1558e867cbe1b3f929907191ff10107b710fd701bf0d
-fill_id: fffb1dd3-121a-48e9-a021-3cca540bb3d2
-published_at: '2026-10-01T01:39:02.167020'
+fill_id: acf9ba0a-7f32-4e16-bd3d-2559a86749b5
+published_at: '2026-10-01T02:40:04.958726'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -36,30 +36,43 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### Sample-efficient evolution with LLMs
+### Sample efficiency is key for LLM-driven evolution
 - **Timestamp**: [04:07](https://www.youtube.com/watch?v=EInEmGaMRLc&t=247)
-- **Summary**: Shinka Evolve reduces the cost of LLM-driven evolutionary search by introducing technical innovations that allow improving canonical results with very few program evaluations, making scientific discovery more democratically accessible.
+- **Summary**: Shinka Evolve reduces the cost of LLM-driven evolutionary search by introducing technical innovations that allow it to improve on AlphaEvolve's circle packing result with very few program evaluations, making scientific discovery more democratically accessible.
 - **Anchor Quotes**: [0]
 
-### Co-evolve problems and solutions
+### Co-evolving problems and solutions is the next frontier
 - **Timestamp**: [08:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=480)
-- **Summary**: Innovation often requires inventing a different problem first. Current systems lack the recursive problem-solving nature, so future systems must co-evolve problems and solutions to achieve open-endedness and diverse insights.
+- **Summary**: Current systems optimize for a fixed problem, but true open-endedness requires co-evolving the problem and solution together, as in POET, to discover diverse stepping stones and achieve long-term innovation.
+- **Anchor Quotes**: [0]
 
-### Human oversight remains essential
+### Model assembly with UCB adaptively selects the best LLM
+- **Timestamp**: [27:31](https://www.youtube.com/watch?v=EInEmGaMRLc&t=1651)
+- **Summary**: Shinka Evolve uses a multi-armed bandit (UCB) to adaptively choose which frontier LLM to use for mutations, as no single model dominates across all contexts, improving efficiency and serendipity.
+
+### AI will amplify human creativity, not replace it
 - **Timestamp**: [56:33](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3393)
-- **Summary**: Despite advances, humans are still needed to seed and guide exploration, verify results, and transfer ideas. AI will amplify human creativity rather than replace it, acting as a co-evolutionary partner.
+- **Summary**: Despite advances like AI Scientist v2, humans remain essential for seeding, guiding, and verifying scientific discoveries; AI acts as an amplifier of human capabilities, not a substitute.
 - **Anchor Quotes**: [1]
 
-### AI will discover major architectures
+### The first major AI-discovered architecture will be a defining moment
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
-- **Summary**: A defining moment will be when AI discovers a new Transformer-like architecture that becomes widely adopted. This will mark a shift in how scientific and architectural innovations are made.
+- **Summary**: A defining moment will be when AI discovers a new Transformer-like architecture that we all use, highlighting the need for open and accessible AI-driven discovery to prevent monopolization by large labs.
 - **Anchor Quotes**: [2]
 
 ## Quotes to remember
 
-### Often, innovation for a specific problem might require first inventing a different problem, right? Automatically finding this reduction or the recursive nature of problem-solving is something that these systems now don't necessarily have intrinsically built in.
+### I think many analogies from evolution transfer to scientific research, right? In the sense that we explore a tree of different ideas or experiments and then in an article we report a path through that tree.
 - **Speaker**: Robert Lange
-- **Timestamp**: [08:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=480)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
+
+### The reason I'm not yet overly concerned about labor market disruption is that I still deeply believe that humans are the source of deep understanding and creativity in the world. If I didn't believe that, I would be very worried.
+- **Speaker**: Robert Lange
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
+
+### I think one of the defining moments will be when the new Transformers architecture, or something massive, is discovered by AI and we're all using it.
+- **Speaker**: Robert Lange
+- **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
 
 ### It's often easier to generate a lot of solutions than to actually verify them thoroughly, isn't it?
 - **Speaker**: Robert Lange
@@ -69,28 +82,24 @@ provenance: agent:template-fill-v1
 - **Speaker**: Robert Lange
 - **Timestamp**: [56:33](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3393)
 
-### We need many more complete tree datasets to train these LLM systems and for them to really learn how to perform this exploration and search.
-- **Speaker**: Robert Lange
-- **Timestamp**: [59:26](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3566)
-
 ## Predictions
 
-### In the next 5-10 years, the way we conduct research and science will fundamentally change, potentially tackling problems that currently seem unsolvable.
-- **Hedge**: I hope that we can tackle some of the biggest problems that still seem unsolvable now.
+### In the next 5, 10, and 20 years, the way we conduct research and science will fundamentally change, potentially tackling problems that seem unsolvable now.
+- **Hedge**: I am extremely sure that it will change, but the exact nature is uncertain.
 - **Timestamp**: [01:03:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3780)
 
-### AI will discover a new Transformer-like architecture that becomes widely adopted.
-- **Hedge**: I think one of the defining moments will be when...
+### A defining moment will be when AI discovers a new Transformer-like architecture that we all use.
+- **Hedge**: I think it will happen, but no timeline is given.
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
 
 ## Lightning round
 
 - **Books**: ['Why Greatness Cannot Be Planned', 'The Book of Why']
 - **Media**: ['Science fiction', 'Cracking the Cryptic']
-- **Products**: ['Cursor', 'Claude Code', 'Aider']
-- **Motto**: Humans are the source of deep understanding and creativity.
+- **Products**: ['Cursor', 'Aider', 'Claude Code']
+- **Motto**: Humans are the source of deep understanding and creativity; AI is an amplifier.
 - **Advice**: Interact with AI technology as much as you can, and use that experience to find new research ideas.
 
 ## Concepts surfaced
 
-[[open-endedness]] · [[evolutionary-algorithms]] · [[llm-driven-evolution]] · [[sample-efficiency]] · [[problem-co-evolution]] · [[ai-scientist]] · [[arc-agi]] · [[model-assembly]]
+[[open-endedness]] · [[evolutionary-algorithms]] · [[llm-driven-evolution]] · [[sample-efficiency]] · [[co-evolution]] · [[model-assembly]] · [[multi-armed-bandit]] · [[ai-scientist]]
