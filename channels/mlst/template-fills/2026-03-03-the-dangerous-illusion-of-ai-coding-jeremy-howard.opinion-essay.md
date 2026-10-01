@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-03-03-the-dangerous-illusion-of-ai-coding-jere
 source_transcript: ../transcripts/2026-03-03-the-dangerous-illusion-of-ai-coding-jeremy-howard.md
 source_summary_hash: sha256:172dff424af660d04167c7834c855b41e6216c530782a4e85c804d234d749198
 source_transcript_hash: sha256:a04636468f66de421048936a074d366e567aae651ce29ecc4f9cdf062a52b86c
-fill_id: 6c67ef81-e9df-474c-8b39-4f6eae2454e8
-published_at: '2026-10-01T06:41:07.876594'
+fill_id: 7de2c7d7-367a-4e0b-ae95-1ab002919e8f
+published_at: '2026-10-01T07:38:04.729303'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI coding tools are a dangerous illusion that degrade human skills and organizational knowledge, and true software engineering requires deep intuition that LLMs cannot provide.
+AI coding tools create a dangerous illusion of control that degrades human skills and organizational knowledge, and they will never replace the deep intuition required for true software engineering.
 
 ## Argument
 
-The core problem is that LLMs are fundamentally different from software engineers. They are excellent at style transfer—taking a specification and interpolating between parts of their training data to produce code that looks right. But software engineering is not coding; it is the deep, intuitive understanding of systems, the ability to design components, and the wisdom to know how they fit together. This is why the hype around tools like Claude Code is misplaced. The productivity gains are real for individuals like me, but they don't scale to organizations. When you delegate cognitive tasks to AI, you blur knowledge inside the organization, creating a bottleneck in knowledge accumulation. The result is that people in the middle—those with 2 to 20 years of experience—risk becoming obsolete because they stop developing the very skills that make them valuable. The solution is not to abandon AI but to create rich, interactive environments like notebooks where humans and AI can work together, maintaining and even enhancing understanding. This is what my work with nbdev and Solve is about. We need to design tools that naturally help people become more knowledgeable and happier, not tools that turn them into slot machine players pulling a lever for code they don't understand.
+The core problem is that AI coding tools are fundamentally different from software engineering. Coding is a style-transfer task that LLMs can perform by interpolating from training data, but engineering requires deep intuition and interaction with the system being built. This is why LLMs are terrible at engineering: they cannot go beyond their training distribution, and they fail when asked to design novel solutions. The illusion of control comes from the slot-machine-like interaction: you tweak prompts and pull the lever, but you don't understand the code that comes out. This leads to a fatal loss of control, as seen when AI-generated code becomes a black box that no one can debug or maintain. The solution is not to abandon AI but to create rich, interactive environments like notebooks where humans and AI can collaborate, with the human maintaining understanding and control. This is the only way to avoid the degradation of skills and the erosion of organizational knowledge that comes from over-reliance on AI.
 
 ## Counterpoints
 
-- Some argue that AI-generated code is fine as long as it works, but this ignores the loss of control and the inability to debug or extend code that no one understands.
-- Dario Amodei and others claim AI will lead to mass unemployment, but this extrapolates from a few elite engineers to the average developer, which is a flawed assumption.
-- The optimistic view is that we don't need to understand the code if we have tests and deployment, but this fails when the code is too large and complex, as seen with the IPython kernel.
-- There is a belief that AI can be creative, but it only performs combinatorial creativity within its training distribution; it cannot extrapolate beyond it.
-- Some argue that AI tools can be used for learning, but they often lead to a gradual decrease in competence due to the lack of desirable difficulties.
+- Some argue that AI coding makes developers more productive, but studies show productivity gains are minimal and often illusory.
+- The optimistic view of functionalism suggests that if AI-generated code works, it doesn't matter if no one understands it, but this ignores the long-term risks of unmaintainable code.
+- Proponents of AI coding point to successes like the C compiler written by Claude, but this is just interpolation from existing code, not true creativity.
+- There's a belief that AI can handle all coding tasks, but it fails when asked to design solutions that are outside its training data.
+- Some think that AI will lead to mass unemployment, but this ignores the fact that software engineering is more than just writing code.
 
 ## Concepts surfaced
 
-[[ai-coding-hype]] · [[software-engineering-vs-coding]] · [[knowledge-degradation]] · [[interactive-computing]] · [[llm-limitations]] · [[organizational-knowledge]]
+[[ai-coding]] · [[software-engineering]] · [[human-ai-collaboration]] · [[interactive-computing]] · [[knowledge-degradation]]
