@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-30T22:31:28Z",
+  "generated_at": "2026-10-01T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-07-03",
-      "2026-09-30"
+      "2026-07-04",
+      "2026-10-01"
     ],
     "prior": [
-      "2026-04-04",
-      "2026-07-02"
+      "2026-04-05",
+      "2026-07-03"
     ]
   },
   "tags": [
@@ -22,15 +22,15 @@
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 55.9,
-      "delta": 30.2,
+      "current_per_100": 55.7,
+      "delta": 30.0,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 44.9,
-      "current_per_100": 20.2,
-      "delta": -24.7,
+      "current_per_100": 20.3,
+      "delta": -24.6,
       "direction": "fading"
     },
     {
@@ -43,15 +43,15 @@
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.1,
-      "delta": 23.7,
+      "current_per_100": 24.0,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 26.6,
-      "current_per_100": 6.7,
-      "delta": -19.9,
+      "current_per_100": 6.8,
+      "delta": -19.8,
       "direction": "fading"
     },
     {
@@ -64,29 +64,29 @@
     {
       "tag": "industry-news",
       "prior_per_100": 39.4,
-      "current_per_100": 56.9,
-      "delta": 17.5,
+      "current_per_100": 57.0,
+      "delta": 17.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 44.1,
-      "delta": 12.7,
+      "current_per_100": 43.9,
+      "delta": 12.5,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 27.5,
-      "current_per_100": 19.2,
-      "delta": -8.3,
+      "current_per_100": 19.1,
+      "delta": -8.4,
       "direction": "fading"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 16.6,
-      "current_per_100": 21.2,
-      "delta": 4.6,
+      "current_per_100": 21.3,
+      "delta": 4.7,
       "direction": "stable"
     },
     {
@@ -164,29 +164,29 @@
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 55.9,
-      "delta": 30.2,
+      "current_per_100": 55.7,
+      "delta": 30.0,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.1,
-      "delta": 23.7,
+      "current_per_100": 24.0,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 39.4,
-      "current_per_100": 56.9,
-      "delta": 17.5,
+      "current_per_100": 57.0,
+      "delta": 17.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 44.1,
-      "delta": 12.7,
+      "current_per_100": 43.9,
+      "delta": 12.5,
       "direction": "rising"
     }
   ],
@@ -194,8 +194,8 @@
     {
       "tag": "ai-agents",
       "prior_per_100": 44.9,
-      "current_per_100": 20.2,
-      "delta": -24.7,
+      "current_per_100": 20.3,
+      "delta": -24.6,
       "direction": "fading"
     },
     {
@@ -208,8 +208,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 26.6,
-      "current_per_100": 6.7,
-      "delta": -19.9,
+      "current_per_100": 6.8,
+      "delta": -19.8,
       "direction": "fading"
     },
     {
@@ -222,14 +222,14 @@
     {
       "tag": "coding",
       "prior_per_100": 27.5,
-      "current_per_100": 19.2,
-      "delta": -8.3,
+      "current_per_100": 19.1,
+      "delta": -8.4,
       "direction": "fading"
     }
   ],
   "concepts": {
-    "published_total": 99,
-    "current_window": 25,
+    "published_total": 120,
+    "current_window": 46,
     "prior_window": 74
   }
 }
