@@ -6,32 +6,27 @@ source_summary: ../summaries/2026-09-30-opus-55-vs-the-rest-is-this-the-new-indu
 source_transcript: ../transcripts/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard.md
 source_summary_hash: sha256:a75b1c72c3ed6bfede185829dc7a2203e1a78d015323d7335040690e75dd2c45
 source_transcript_hash: sha256:578f7c89c13850ebe7be01285c5fec3e1158bec60a05c8088e61868d45da9127
-fill_id: 45da89ea-116f-4df6-a61b-6460b2d40a57
-published_at: '2026-10-01T06:12:47.447226'
+fill_id: 2bb40edb-ac23-4c47-b981-20085f65ccb1
+published_at: '2026-10-01T06:53:18.362552'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Opus 5.5 is the new industry standard because it delivers task-level efficiency that makes advanced AI both cheaper and more controllable, and this efficiency is what users should measure to decide which model gets their money.
+Opus 5.5 is the new industry standard because it delivers task-level efficiency that makes complex work affordable and responsive, not just because it's cheaper per token.
 
 ## Argument
 
-The real cost of a model isn't the token price—it's how many tokens it takes to finish a task. My LEGO logo build, a 514-piece model with 63-page instructions, consumed 89 million tokens, which at API rates would cost $44, but it used only 1% of my weekly Claude subscription. That's the efficiency gain: the model does more with less, and that's what makes it a new standard.
-
-Anthropic's pricing reinforces this: Opus 5.5 is 20% cheaper than Opus 5 and 60% cheaper than Fable 5.1, and they claim typical workloads cost 40% less. But the real proof is in task-level tracking—measuring total tokens, API cost, and weekly usage. When I did that, Opus 5.5 outperformed previous models on my real work, not just LEGO.
-
-The other pillar is controllability. Opus 5.5 responds to direction in writing and visual work without fighting back. I can ask for a top hat instead of a cap, or more assembly steps, and it adjusts surgically. This is a return to the feel of Opus 4.6, but with far more intelligence. And for long-running tasks, defining a clear 'done' condition prevents the model from overworking and wasting tokens.
-
-This efficiency isn't just a consumer win—it's a feedback loop. Anthropic uses AI to develop AI, with Claude authoring over 80% of merged code. That's why they can respond to user complaints about writing and release improvements faster. The result is a model that's not just smarter, but more useful, and that's what makes it the new standard.
+The real metric isn't token price—it's task efficiency. Opus 5.5 turned my logo into a 514-piece LEGO model with 89 million tokens, costing just 1% of my weekly Claude usage, versus $44 at API rates. That's the whole job: model file, parts list, Bricklink order, 63-page instructions, and an inspection file. Anthropic's own numbers back this up: typical workloads cost 40% less, and partners like GitHub, Lovable, and Spotify report fewer steps and faster results. This efficiency comes from the model using code for visual work—like Three.js—to create, animate, and iterate on scenes surgically, preserving my intent. Writing control is equally improved: Opus 5.5 follows instructions like 'leave out the ambiguity' without fighting back, a fix Anthropic made after public complaints about Opus 5's stubbornness. The broader story is that labs now use AI to build AI—Anthropic says Claude writes 80% of its merged code—which shortens the feedback loop from users to fixes. My advice: run your own tasks on the new model, track total tokens and weekly usage, and compare. That's how you know if a release is a breakthrough for you.
 
 ## Counterpoints
 
-- Some users report that Opus 5.5 still ignores writing instructions, as seen on Anthropic's GitHub issue tracker.
-- A complex scene like Lower Manhattan will use far more tokens than my LEGO build, so efficiency gains aren't universal.
-- Long-running tasks can go on without stopping, wasting tokens unless you define clear stopping conditions.
+- Your tasks are not my tasks; a model can be efficient for one job and inefficient for another.
+- Counting tokens too early is a mistake—a great screenshot isn't the whole task; you need to measure the entire workflow.
+- Long autonomous runs can waste tokens without clear stopping conditions and a defined 'done' state.
+- Writing improvements are subjective; some edits sound polished but lose your intended meaning.
 
 ## Concepts surfaced
 
-[[task-efficiency]] · [[token-cost]] · [[ai-feedback-loop]] · [[recursive-self-improvement]] · [[controllability]]
+[[task-efficiency]] · [[token-cost]] · [[ai-assisted-development]] · [[recursive-self-improvement]] · [[writing-controllability]] · [[visual-coding]]
