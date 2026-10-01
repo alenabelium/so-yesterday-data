@@ -6,36 +6,32 @@ source_summary: ../summaries/2026-09-30-opus-55-vs-the-rest-is-this-the-new-indu
 source_transcript: ../transcripts/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard.md
 source_summary_hash: sha256:a75b1c72c3ed6bfede185829dc7a2203e1a78d015323d7335040690e75dd2c45
 source_transcript_hash: sha256:578f7c89c13850ebe7be01285c5fec3e1158bec60a05c8088e61868d45da9127
-fill_id: 6f1c89e9-97f9-423c-8e5f-3d75c0dd810c
-published_at: '2026-10-01T05:12:44.092729'
+fill_id: 45da89ea-116f-4df6-a61b-6460b2d40a57
+published_at: '2026-10-01T06:12:47.447226'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Opus 5.5 is the new industry standard because it delivers task-level efficiency—completing complex work with far fewer tokens and lower cost—while restoring the controllability that earlier models lost.
+Opus 5.5 is the new industry standard because it delivers task-level efficiency that makes advanced AI both cheaper and more controllable, and this efficiency is what users should measure to decide which model gets their money.
 
 ## Argument
 
-The real metric isn't token count; it's task efficiency. My LEGO build—a 514-piece model with full instructions, parts list, and inspection files—consumed only 1% of my weekly Claude usage, equivalent to about 50 cents of my subscription. At API prices, those 89 million tokens would have cost $44. This is the shift: measuring what a model actually accomplishes per dollar, not just raw token throughput.
+The real cost of a model isn't the token price—it's how many tokens it takes to finish a task. My LEGO logo build, a 514-piece model with 63-page instructions, consumed 89 million tokens, which at API rates would cost $44, but it used only 1% of my weekly Claude subscription. That's the efficiency gain: the model does more with less, and that's what makes it a new standard.
 
-Anthropic's pricing reinforces this: Opus 5.5 is 20% cheaper than Opus 5 and 60% cheaper than Fable 5.1, and they claim typical workloads cost 40% less due to fewer tokens. This isn't just marketing—users on X and companies like GitHub, Lovable, and Spotify report similar savings. The model is simply more efficient at getting the job done.
+Anthropic's pricing reinforces this: Opus 5.5 is 20% cheaper than Opus 5 and 60% cheaper than Fable 5.1, and they claim typical workloads cost 40% less. But the real proof is in task-level tracking—measuring total tokens, API cost, and weekly usage. When I did that, Opus 5.5 outperformed previous models on my real work, not just LEGO.
 
-But efficiency isn't just about cost; it's about controllability. Opus 5.5 restores the writing quality of 4.6, which had degraded through 4.7, 4.8, and Fable. Community complaints—like Bram Cohen's public rant and GitHub issues about ignored instructions—were heard. Anthropic explicitly cites feedback on Opus 5 as a driver for 5.5's improvements. Now, I can ask for a specific change—like making the hat a top hat—and it happens immediately, without fighting the model.
+The other pillar is controllability. Opus 5.5 responds to direction in writing and visual work without fighting back. I can ask for a top hat instead of a cap, or more assembly steps, and it adjusts surgically. This is a return to the feel of Opus 4.6, but with far more intelligence. And for long-running tasks, defining a clear 'done' condition prevents the model from overworking and wasting tokens.
 
-This efficiency also enables autonomous work. Sean Hans at Cleo ran Opus 5.5 unattended for 18 hours across six repos. My own overnight runs succeeded when I gave clear stopping conditions and a defined 'done' state. The model wants to keep going, so it's up to us to bound the task.
-
-Finally, this is part of a larger loop: Anthropic says Claude writes 80% of its merged
+This efficiency isn't just a consumer win—it's a feedback loop. Anthropic uses AI to develop AI, with Claude authoring over 80% of merged code. That's why they can respond to user complaints about writing and release improvements faster. The result is a model that's not just smarter, but more useful, and that's what makes it the new standard.
 
 ## Counterpoints
 
-- Your tasks are not my tasks; efficiency varies by use case, so you need to measure your own workloads.
-- Some scenes are inherently complex and will use more tokens, like building Lower Manhattan, not just a simple logo.
-- Writing with AI can be sloppy, losing your intent—but good AI preserves it, and controllability is the key differentiator.
-- Long autonomous runs risk wasting tokens without clear stopping conditions; you must define 'done' explicitly.
-- Labs have different paths and internal models; OpenAI and Anthropic are not identical, which is good for consumers.
+- Some users report that Opus 5.5 still ignores writing instructions, as seen on Anthropic's GitHub issue tracker.
+- A complex scene like Lower Manhattan will use far more tokens than my LEGO build, so efficiency gains aren't universal.
+- Long-running tasks can go on without stopping, wasting tokens unless you define clear stopping conditions.
 
 ## Concepts surfaced
 
-[[task-efficiency]] · [[token-cost]] · [[controllability]] · [[ai-feedback-loop]] · [[autonomous-agents]] · [[recursive-self-improvement]]
+[[task-efficiency]] · [[token-cost]] · [[ai-feedback-loop]] · [[recursive-self-improvement]] · [[controllability]]
