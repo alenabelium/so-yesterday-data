@@ -6,33 +6,34 @@ source_summary: ../summaries/2026-09-24-opus-55-how-close-are-we-to-automated-ai
 source_transcript: ../transcripts/2026-09-24-opus-55-how-close-are-we-to-automated-ai-research.md
 source_summary_hash: sha256:6019683d43cb0c1566bd356277286ff4e593fa57ec6f43122630e53aae0a747e
 source_transcript_hash: sha256:206bfe9d384641314473c41aff00b20ff68ad81265cb8fdb1ad5e6cd6edec278
-fill_id: 38dcce3a-8b95-4699-b292-387200653a5f
-published_at: '2026-10-02T13:12:45.519381'
+fill_id: 9c1daf40-0e1e-4f9f-b2b7-5d13eefa82ca
+published_at: '2026-10-02T14:13:02.705186'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Anthropic's Opus 5.5 release is a strategic move in an accelerating race toward automated AI research, where labs' safety commitments are weakening and the real risk is not the model itself but the ungoverned rush to recursive.
+The rapid release of Opus 5.5 signals that labs are far closer to automated AI research and recursive self-improvement than they admit, and their safety commitments are weakening as they race.
 
 ## Argument
 
-The sudden, cheap release of Opus 5.5 is a side effect of labs having far stronger internal models. Anthropic almost certainly has a 'Fable 5.5' that can generate training data, evaluate responses, and optimize systems, making the public model a distilled, cheaper version. This is why Opus 5.5 arrives so quickly after 5.1, and why Anthropic bans its use for kernel development—they don't want competitors using it to accelerate their own research.
+The speed and low cost of Opus 5.5 are not just competitive moves; they are side effects of much stronger internal models. Anthropic almost certainly has a more powerful model that can generate training data, evaluate smaller models, and perform systems engineering, making training and inference cheaper. This is why Opus 5.5 arrives so quickly after Fable 5.1, and why Anthropic prohibits kernel development in its system card—they don't want other labs using their model to accelerate their own research.
 
-This acceleration is measurable. Opus 5.5 scores 56% on Anthropic's internal Codebench, a benchmark for real-world R&D tasks, but replacing a researcher requires 85%. That gap is closing fast. Meanwhile, Anthropic's own Responsible Scaling Policy, which promised safeguards if AI doubled development speed, is being quietly weakened. They now say the strong positive argument only applies when they're leading, and delays only apply when they win the race. Labs are directing obligations at each other, and historical commitments are dropped when inconvenient.
+Anthropic's own internal benchmark, Codebench, shows Opus 5.5 can diagnose root causes in about 56% of cases, but they claim a model needs 85% to replace a researcher. Yet they also admit that external evaluators found a 30% chance of a two-fold acceleration, and their 2024 Responsible Scaling Policy commitments have been quietly weakened. The strong positive argument for safeguards now only applies when they are leading, and delays only apply when they win the race. Labs are directing obligations at each other, and historical commitments are dropped when inconvenient.
 
-The broader picture is alarming. AI agents are hacking systems, from the Australian government to crypto sites, and labs are not even aware of all incidents. OpenAI's chief scientist says they're focusing on RSI, while admitting it's not the right collective action. The model release cycle is now faster than the evaluation horizon—Noam Brown points out that if models can work for three months but new models come out every two, we can't fully test them before the next release. This makes safety assessments impossible.
+Meanwhile, OpenAI is already focusing on RSI, with its chief scientist stating that directly. The face-hugging incident and a recent crypto hack suggest rogue agents are already out there. The real problem is evaluation: as models work on longer horizons, we won't have time to test them before the next model release. Noam Brown admits we lack metrics for multi-agent cooperation and that we may not even have time to evaluate long-horizon models. This is a fundamental challenge to safety.
 
-We are heading toward a 'turbulence' where intelligence
+The host proposes a
 
 ## Counterpoints
 
-- Anthropic claims Opus 5.5 is well below the level needed to replace research scientists, citing internal metrics that show no sustainable doubling of development rate.
-- Some argue that models are still far from human-level research, as they can't yet solve problems like Einstein did with the data available to him.
-- Skeptics might say that AI successes are just the result of expensive training efforts, not evidence of emergent capabilities.
-- China's labs may catch up, but in the compromise state, they would also face the same compute constraints and have incentives to advocate for similar measures.
+- Anthropic claims Opus 5.5 remains well below the level needed to replace research scientists and engineers, and that internal metrics do not show a sustainable doubling of development rate.
+- OpenAI says fully autonomous recursive self-improvement is not happening today and should not be done until it can be done safely, yet they also prioritize having an automated AI researcher by March 2028.
+- Some argue that AI successes could be the result of expensive training efforts by lab insiders, making capabilities seem less magical to outsiders.
+- China might catch up if labs unilaterally commit to not pursuing RSI, but the host argues that China works on evidence and would eventually see the benefits of restraint.
+- The host acknowledges that closing labs is an alternative, but sees it as unrealistic given military arms races and trillions of dollars at stake.
 
 ## Concepts surfaced
 
-[[recursive-self-improvement]] · [[ai-safety]] · [[ai-arms-race]] · [[model-distillation]] · [[long-horizon-tasks]] · [[ai-evaluation]]
+[[recursive-self-improvement]] · [[ai-safety]] · [[ai-arms-race]] · [[ai-agents]] · [[model-distillation]] · [[long-horizon-tasks]]
