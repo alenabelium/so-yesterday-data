@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-08-20-an-astrophysicist-debunks-the-singularit
 source_transcript: ../transcripts/2026-08-20-an-astrophysicist-debunks-the-singularity-adam-becker.md
 source_summary_hash: sha256:2cfdaded96c200c61ccd1c90737d1941ccb575deb99c6993a396561ccf508dc9
 source_transcript_hash: sha256:4776979ee3ea7a99afeb20d9c40345ae31f968a435e5a91039ab32c71a99db47
-fill_id: 84a05124-9a5f-41bf-8c4a-0cb1dbd1b860
-published_at: '2026-10-01T22:37:57.449616'
+fill_id: 4b930ef8-d5cd-4959-a33f-81d3399c4f2b
+published_at: '2026-10-01T23:37:11.164018'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,9 +15,9 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Adam Becker
-- **Title**: Astrophysicist, journalist, author
-- **Org**: Independent
-- **Bio Oneliner**: Astrophysicist and author of 'More Everything Forever' and 'What Is Real', host of the podcast 'Dream vs. Machine'.
+- **Title**: Astrophysicist, Journalist, Author
+- **Org**: Dream vs. Machine Podcast
+- **Bio Oneliner**: Astrophysicist and author of 'More Everything Forever' and 'What Is Real', debunking tech billionaires' future visions.
 - **Platform**: duo
 
 ## Cold open
@@ -26,82 +26,83 @@ provenance: agent:template-fill-v1
 - **Attribution**: Adam Becker
 - **Timestamp**: [03:46](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=226)
 
+### There is no good reason to think that it is possible to abstract human consciousness from our physical self.
+- **Attribution**: Adam Becker
+- **Timestamp**: [18:10](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1090)
+
 ### We are not leaving the Solar System. The stars are just too far away. It's too hard to get there, and too hard to develop any reasonable fraction of the speed of light.
 - **Attribution**: Adam Becker
-- **Timestamp**: [16:55](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1015)
-
-### I don't think there's any good reason to believe that's true. The brain is incredibly complex, and the actions of an individual neuron are much more complex than a single node in a neural network in a computer.
-- **Attribution**: Adam Becker
-- **Timestamp**: [19:32](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1172)
+- **Timestamp**: [15:27](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=927)
 
 ## Key arguments
 
-### The singularity is based on weak evidence
-- **Timestamp**: [05:12](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=312)
-- **Summary**: Kurzweil's law of accelerating returns is a misreading of history. He cherry-picks data points and mistakes a logarithmic view of the past for an exponential trend. All exponential trends end, and there's no reason to believe technology will keep accelerating indefinitely.
+### The Singularity is a myth built on weak evidence
+- **Timestamp**: [04:35](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=275)
+- **Summary**: Kurzweil's law of accelerating returns is based on cherry-picked data and a misreading of exponential trends. Exponential growth always ends, and there's no reason to believe a stack of sigmoid curves will sustain it indefinitely.
 - **Anchor Quotes**: [0]
 
-### Intelligence is not a single, scalable quantity
-- **Timestamp**: [19:32](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1172)
-- **Summary**: The idea that intelligence can be abstracted from the body and scaled up with more compute is flawed. Intelligence is embodied, social, and context-dependent. The brain is not like a computer, and there's no evidence that consciousness can be uploaded or that AI will become superintelligent.
-- **Anchor Quotes**: [2]
-
-### Space colonization is a dangerous myth
-- **Timestamp**: [16:55](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1015)
-- **Summary**: The stars are too far, and no other planet is habitable. Mars is a terrible place, and terraforming is beyond our reach. These myths distract from real problems on Earth and justify inaction on climate change.
+### Mind-uploading and AI consciousness are unfounded
+- **Timestamp**: [18:10](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1090)
+- **Summary**: The idea that consciousness can be abstracted from the body is a 2,000-year-old philosophical fantasy. We are our bodies in environments, and there's no evidence that functionalism or LLM-like systems can replicate human cognition.
 - **Anchor Quotes**: [1]
 
-### AI risk is a distraction from real social problems
-- **Timestamp**: [42:06](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=2526)
-- **Summary**: The AI apocalypse narrative is a 'brain worm' that diverts attention from pressing issues like climate change and inequality. These are social problems that require social solutions, not just technological fixes. The tech industry needs regulation, not myth-making.
+### Space colonization is a dangerous delusion
+- **Timestamp**: [15:27](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=927)
+- **Summary**: Mars is inhospitable, the Moon is worse, and interstellar travel is impossible due to the speed of light. These myths distract from solving real problems on Earth and justify unsustainable growth.
+- **Anchor Quotes**: [2]
 
-### The tech industry's power is unchecked
-- **Timestamp**: [45:16](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=2716)
-- **Summary**: True believers in AI risk are useful idiots for a venture capital system that needs eternal growth. The narrative of AI as a god-like force justifies hoarding resources and undermines democracy. We need to tax billionaires and regulate the industry.
+### AI risk narratives serve power, not safety
+- **Timestamp**: [44:07](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=2647)
+- **Summary**: The AI apocalypse narrative, promoted by true believers, is co-opted by venture capital to justify endless growth. This leads to harmful policies and neglect of pressing social issues.
+
+### Regulation and social science are the antidote
+- **Timestamp**: [55:13](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=3313)
+- **Summary**: We need to take social sciences seriously and regulate the tech industry aggressively. The problems of our time are social, not technological, and require social solutions.
 
 ## Quotes to remember
+
+### It is a philosophy created by carpenters who insist that the whole world is a nail that will yield to their intentions.
+- **Speaker**: Adam Becker
+- **Timestamp**: [03:46](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=226)
 
 ### We are not our brains, we are our bodies in our environment. And there is no good reason to think that it is possible to abstract human consciousness from our physical self.
 - **Speaker**: Adam Becker
 - **Timestamp**: [18:10](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1090)
 
-### I don't like the word 'hallucination' because it implies that when a hallucination occurs, something different from its normal functioning is happening. And this is not true.
+### The stars are just too far away. It's too hard to get there, and too hard to develop any reasonable fraction of the speed of light.
 - **Speaker**: Adam Becker
-- **Timestamp**: [31:33](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1893)
+- **Timestamp**: [15:27](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=927)
 
-### Many of the biggest problems of our time are not solvable by technology. These are social problems that require social solutions.
+### I don't think there is any good reason to believe that's true. The brain is incredibly complex, and the actions of an individual neuron are much more complex than a single node in a neural network.
 - **Speaker**: Adam Becker
-- **Timestamp**: [42:06](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=2526)
+- **Timestamp**: [19:32](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1172)
 
-### Even the day that asteroid hit 66 million years ago was a better day for life on Earth than any day on Mars in the last two or three billion years.
+### I think it's irrational to assume that someone wouldn't take that history and that context into account when talking about a certain topic.
 - **Speaker**: Adam Becker
-- **Timestamp**: [01:07:42](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=4062)
-
-### If I had my way, I would tax billionaires. I don't think this is a fair, reasonable, or honest allocation of resources.
-- **Speaker**: Adam Becker
-- **Timestamp**: [01:13:30](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=4410)
+- **Timestamp**: [59:54](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=3594)
 
 ## Predictions
 
-### Unless there is a fundamental breakthrough, AI systems will always require human oversight because they will always hallucinate.
-- **Hedge**: unless there's some kind of fundamental breakthrough
+### Moore's Law will end in the 2020s as silicon transistors reach atomic limits.
+- **Hedge**: Gordon Moore himself said it would stop sometime in the 2020s.
+- **Timestamp**: [10:48](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=648)
+
+### We will not leave the Solar System; interstellar travel is impossible due to the speed of light.
+- **Hedge**: Based on current physics and experimental evidence.
+- **Timestamp**: [15:27](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=927)
+
+### AI systems will always require human oversight because they will always hallucinate, unless there is a fundamental breakthrough.
+- **Hedge**: Unless there is a fundamental breakthrough beyond scaling.
 - **Timestamp**: [30:33](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1833)
-
-### We are not leaving the Solar System. The stars are too far away, and there are no other habitable planets.
-- **Timestamp**: [16:55](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=1015)
-
-### The financial bubble in AI will burst, and public resistance to data centers will grow.
-- **Hedge**: I don't know what will happen, but it will be quite interesting.
-- **Timestamp**: [01:17:44](https://www.youtube.com/watch?v=fgsmq8f3sWQ&t=4664)
 
 ## Lightning round
 
 - **Books**: ['More Everything Forever by Adam Becker', 'What Is Real? by Adam Becker']
 - **Media**: ['Dream vs. Machine podcast']
 - **Products**: ['Audiobook of More Everything Forever']
-- **Motto**: We live in a society. History is what we all live in.
-- **Advice**: Take social sciences seriously. Regulate the tech industry. Address pressing social problems rather than chasing impossible futures.
+- **Motto**: We live in a society.
+- **Advice**: Take social sciences seriously and regulate the tech industry.
 
 ## Concepts surfaced
 
-[[singularity]] · [[effective-altruism]] · [[ai-safety]] · [[space-colonization]] · [[intelligence]] · [[functionalism]] · [[ai-psychosis]] · [[exponential-growth]]
+[[singularity]] · [[effective-altruism]] · [[ai-safety]] · [[space-colonization]] · [[mind-uploading]] · [[functionalism]] · [[instrumental-convergence]] · [[tech-regulation]]
