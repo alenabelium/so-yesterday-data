@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-13-when-ai-discovers-the-next-transformer-r
 source_transcript: ../transcripts/2026-03-13-when-ai-discovers-the-next-transformer-robert-lange.md
 source_summary_hash: sha256:0937605e2feb0af109735c0c388b9ee6cdb4cf1885f26ae177217a4032214062
 source_transcript_hash: sha256:b823afc5ebcb912b311c1558e867cbe1b3f929907191ff10107b710fd701bf0d
-fill_id: 1ca15dfe-a811-40f2-a5b9-b13fac8f7fdd
-published_at: '2026-10-02T00:37:21.624640'
+fill_id: cad9bd19-9e84-40fe-87c7-0951add07b00
+published_at: '2026-10-02T01:37:17.201160'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Robert Lange
 - **Title**: Founding Researcher
 - **Org**: Sakana AI
-- **Bio Oneliner**: Robert Lange is a founding researcher at Sakana AI, exploring evolutionary computation and LLM-driven scientific discovery.
+- **Bio Oneliner**: Robert Lange is a founding researcher at Sakana AI, working on evolutionary computation and LLM-driven scientific discovery.
 - **Platform**: duo
 
 ## Cold open
@@ -26,47 +26,50 @@ provenance: agent:template-fill-v1
 - **Attribution**: Robert Lange
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
-### The reason I'm not yet overly concerned about labor market disruption is that I still deeply believe that humans are the source of deep understanding and creativity in the world. If I didn't believe that, I would be very worried.
+### Often, innovation for a specific problem might require first inventing a different problem, right?
 - **Attribution**: Robert Lange
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
-### I think one of the defining moments will be when the new Transformers architecture, or something massive, is discovered by AI and we're all using it.
+### The reason I'm not yet overly concerned about labor market disruption is that I still deeply believe that humans are the source of deep understanding and creativity in the world.
 - **Attribution**: Robert Lange
-- **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
 ## Key arguments
 
-### Sample-efficient LLM-driven evolution
+### Sample-efficient LLM evolution
 - **Timestamp**: [04:07](https://www.youtube.com/watch?v=EInEmGaMRLc&t=247)
-- **Summary**: Shinka Evolve reduces the cost of LLM-driven evolutionary search by introducing technical innovations like model assembly and adaptive prioritization, achieving canonical results like circle packing with very few program evaluations, making scientific discovery more democratically accessible.
+- **Summary**: Shinka Evolve reduces the cost of LLM-driven evolutionary search by introducing technical innovations like model assembly and adaptive prioritization, achieving canonical results with very few program evaluations, making scientific discovery more democratically accessible.
 - **Anchor Quotes**: [0]
 
 ### Co-evolve problems and solutions
 - **Timestamp**: [08:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=480)
-- **Summary**: Current systems optimize for a fixed problem, but true innovation often requires inventing a different problem first. Robert argues for co-evolving problems and solutions, drawing on POET and Power Play, to achieve open-endedness and discover more diverse stepping stones.
-- **Anchor Quotes**: [0]
+- **Summary**: Current systems optimize for a fixed problem, but true innovation often requires inventing a different problem. Co-evolving problems and solutions, as in POET, could lead to more diverse insights and open-ended discovery.
+- **Anchor Quotes**: [1]
 
 ### Humans as shepherds, not replaced
 - **Timestamp**: [36:46](https://www.youtube.com/watch?v=EInEmGaMRLc&t=2206)
-- **Summary**: Robert envisions a future where researchers steer AI systems like Shinka Evolve or AI Scientist, running experiments overnight and analyzing results in the morning. He believes AI will amplify human creativity rather than replace it, emphasizing the need for human oversight and verification.
-- **Anchor Quotes**: [1]
+- **Summary**: The future of research is a human-AI collaboration where humans steer the ship while AI runs experiments in parallel. Humans remain the source of deep understanding and creativity, and AI amplifies these latent dimensions.
+- **Anchor Quotes**: [2]
+
+### Verification is the bottleneck
+- **Timestamp**: [37:57](https://www.youtube.com/watch?v=EInEmGaMRLc&t=2277)
+- **Summary**: Generating solutions is easy, but verifying them thoroughly is hard. Language models can do soft verification, but we need better mechanisms for automatic verification to ensure progress is real.
 
 ### AI Scientist v2: agentic tree search
 - **Timestamp**: [01:08:18](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4098)
-- **Summary**: AI Scientist v2 moves beyond template-based generation to a parallelizable agentic tree search, incorporating falsificationism and adaptive experimentation. It can produce workshop-level papers, but Robert acknowledges it lacks deep epistemological grounding and requires human verification.
-
-### The next Transformer will be AI-discovered
-- **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
-- **Summary**: Robert predicts a defining moment when AI discovers a major architecture like the next Transformer. He stresses the importance of open and accessible AI scientist systems to prevent concentration of such discoveries in large corporations.
-- **Anchor Quotes**: [2]
+- **Summary**: AI Scientist v2 replaces the template-based approach with a parallelizable agentic tree search, allowing the system to adapt its experiments based on evidence, embodying Popper's falsificationism.
 
 ## Quotes to remember
 
-### I think many analogies from evolution transfer to scientific research, right? In the sense that we explore a tree of different ideas or experiments and then in an article we report a path through that tree.
+### We explore a tree of different ideas or experiments and then in an article we report a path through that tree.
 - **Speaker**: Robert Lange
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
-### The reason I'm not yet overly concerned about labor market disruption is that I still deeply believe that humans are the source of deep understanding and creativity in the world. If I didn't believe that, I would be very worried.
+### Often, innovation for a specific problem might require first inventing a different problem.
+- **Speaker**: Robert Lange
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
+
+### Humans are the source of deep understanding and creativity in the world. If I didn't believe that, I would be very worried.
 - **Speaker**: Robert Lange
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
@@ -74,40 +77,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Robert Lange
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
 
-### It's often easier to generate a lot of solutions than to actually verify them thoroughly, isn't it?
+### It's often easier to generate a lot of solutions than to actually verify them thoroughly.
 - **Speaker**: Robert Lange
-- **Timestamp**: [37:57](https://www.youtube.com/watch?v=EInEmGaMRLc&t=2277)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
-### I think it's going to be an amplifier of these kinds of latent dimensions that humans excel at, right?
+### I think it's going to be an amplifier of these kinds of latent dimensions that humans excel at.
 - **Speaker**: Robert Lange
-- **Timestamp**: [56:33](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3393)
-
-### I think that, ultimately, the way we train these systems is coupled with human data, right? And going forward, it will also be coupled with human data collected by verifiers, right?
-- **Speaker**: Robert Lange
-- **Timestamp**: [01:02:05](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3725)
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=0)
 
 ## Predictions
 
-### In the next 5, 10, and 20 years, the way we conduct research and science will fundamentally change, potentially tackling some of the biggest problems that seem unsolvable now.
-- **Hedge**: I hope that we can tackle some of the biggest problems that still seem unsolvable now, with and through AI.
-- **Timestamp**: [01:03:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3780)
+### In 10 years, scientific research will look very different, with AI scientists capable of making major discoveries.
+- **Hedge**: Provided the necessary infrastructure is built.
+- **Timestamp**: [57:55](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3475)
 
-### AI will discover a new Transformer-like architecture, and we will all be using it.
-- **Hedge**: I think one of the defining moments will be when...
+### AI will discover a new Transformer-like architecture that becomes widely adopted.
+- **Hedge**: It's a defining moment we will see.
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
 
-### AI Scientist v2 can already produce workshop-level papers, and with scaling and further development, it could achieve major scientific breakthroughs within a decade.
-- **Hedge**: potentially, in 10 years, this will look very, very different once the necessary infrastructure has also been built.
-- **Timestamp**: [57:55](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3475)
+### The way we conduct research and science will fundamentally change in the next 5, 10, and 20 years.
+- **Hedge**: I am extremely sure.
+- **Timestamp**: [01:03:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3780)
 
 ## Lightning round
 
 - **Books**: ['Why Greatness Cannot Be Planned', 'The Book of Why']
-- **Media**: ['Cracking the Cryptic', 'Science fiction']
-- **Products**: ['Shinka Evolve', 'AI Scientist v2', 'Aider']
-- **Motto**: Humans are the source of deep understanding and creativity; AI is an amplifier.
-- **Advice**: Interact with AI technology as much as you can, and use that experience to find new research ideas. Be disciplined about what you accept from these systems, and educate the next generation to question AI outputs.
+- **Media**: ['Science fiction']
+- **Products**: ['Shinka Evolve', 'AI Scientist v2']
+- **Motto**: Humans are the source of deep understanding and creativity.
+- **Advice**: Interact with AI technology as much as you can, and find new research ideas from that experience.
 
 ## Concepts surfaced
 
-[[evolutionary-algorithms]] · [[open-endedness]] · [[llm-driven-search]] · [[scientific-discovery]] · [[ai-scientist]] · [[problem-co-evolution]] · [[sample-efficiency]] · [[human-ai-collaboration]]
+[[open-endedness]] · [[evolutionary-algorithms]] · [[llm-driven-discovery]] · [[sample-efficiency]] · [[co-evolution]] · [[agentic-tree-search]] · [[ai-scientist]] · [[verification]]
