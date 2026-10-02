@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-03-13-when-ai-discovers-the-next-transformer-r
 source_transcript: ../transcripts/2026-03-13-when-ai-discovers-the-next-transformer-robert-lange.md
 source_summary_hash: sha256:0937605e2feb0af109735c0c388b9ee6cdb4cf1885f26ae177217a4032214062
 source_transcript_hash: sha256:b823afc5ebcb912b311c1558e867cbe1b3f929907191ff10107b710fd701bf0d
-fill_id: 68ede3b2-1863-4ed2-b9ee-f88364be7d49
-published_at: '2026-10-01T23:37:14.960967'
+fill_id: 1ca15dfe-a811-40f2-a5b9-b13fac8f7fdd
+published_at: '2026-10-02T00:37:21.624640'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Robert Lange
 - **Title**: Founding Researcher
 - **Org**: Sakana AI
-- **Bio Oneliner**: Founding researcher at Sakana AI exploring open-endedness and LLM-driven evolutionary algorithms for scientific discovery.
+- **Bio Oneliner**: Robert Lange is a founding researcher at Sakana AI, exploring evolutionary computation and LLM-driven scientific discovery.
 - **Platform**: duo
 
 ## Cold open
@@ -36,26 +36,28 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### Sample efficiency is key for LLM-driven evolution
+### Sample-efficient LLM-driven evolution
 - **Timestamp**: [04:07](https://www.youtube.com/watch?v=EInEmGaMRLc&t=247)
-- **Summary**: Shinka Evolve reduces the cost of evolutionary search by introducing technical innovations that allow it to improve on canonical results like circle packing with very few program evaluations, making scientific discovery more democratically accessible.
+- **Summary**: Shinka Evolve reduces the cost of LLM-driven evolutionary search by introducing technical innovations like model assembly and adaptive prioritization, achieving canonical results like circle packing with very few program evaluations, making scientific discovery more democratically accessible.
+- **Anchor Quotes**: [0]
 
-### Co-evolving problems and solutions is the next frontier
+### Co-evolve problems and solutions
 - **Timestamp**: [08:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=480)
-- **Summary**: Current systems take the problem as fixed, but true open-endedness requires inventing new problems or surrogate problems that can lead to more diverse insights and longer-running discovery processes.
+- **Summary**: Current systems optimize for a fixed problem, but true innovation often requires inventing a different problem first. Robert argues for co-evolving problems and solutions, drawing on POET and Power Play, to achieve open-endedness and discover more diverse stepping stones.
+- **Anchor Quotes**: [0]
 
-### Model assembly with UCB adaptively selects the best LLM
-- **Timestamp**: [27:31](https://www.youtube.com/watch?v=EInEmGaMRLc&t=1651)
-- **Summary**: Instead of using a single frontier model, Shinka Evolve uses a bandit-based approach to dynamically choose which LLM to use for mutations, improving efficiency and allowing for serendipity.
-
-### AI will amplify human creativity, not replace it
-- **Timestamp**: [56:33](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3393)
-- **Summary**: While AI Scientist v2 can produce workshop-level papers, humans are still needed to seed, guide, and verify scientific exploration. The future is a co-evolution where AI amplifies human capabilities.
+### Humans as shepherds, not replaced
+- **Timestamp**: [36:46](https://www.youtube.com/watch?v=EInEmGaMRLc&t=2206)
+- **Summary**: Robert envisions a future where researchers steer AI systems like Shinka Evolve or AI Scientist, running experiments overnight and analyzing results in the morning. He believes AI will amplify human creativity rather than replace it, emphasizing the need for human oversight and verification.
 - **Anchor Quotes**: [1]
 
-### The defining moment will be an AI-discovered architecture
+### AI Scientist v2: agentic tree search
+- **Timestamp**: [01:08:18](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4098)
+- **Summary**: AI Scientist v2 moves beyond template-based generation to a parallelizable agentic tree search, incorporating falsificationism and adaptive experimentation. It can produce workshop-level papers, but Robert acknowledges it lacks deep epistemological grounding and requires human verification.
+
+### The next Transformer will be AI-discovered
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
-- **Summary**: The next major architecture like the Transformer will likely be discovered by AI, and it's crucial to have open and accessible systems like Sakana's to ensure these discoveries benefit everyone, not just large corporations.
+- **Summary**: Robert predicts a defining moment when AI discovers a major architecture like the next Transformer. He stresses the importance of open and accessible AI scientist systems to prevent concentration of such discoveries in large corporations.
 - **Anchor Quotes**: [2]
 
 ## Quotes to remember
@@ -80,24 +82,32 @@ provenance: agent:template-fill-v1
 - **Speaker**: Robert Lange
 - **Timestamp**: [56:33](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3393)
 
+### I think that, ultimately, the way we train these systems is coupled with human data, right? And going forward, it will also be coupled with human data collected by verifiers, right?
+- **Speaker**: Robert Lange
+- **Timestamp**: [01:02:05](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3725)
+
 ## Predictions
 
-### In the next 5, 10, and 20 years, the way we conduct research and science will fundamentally change, and we will tackle some of the biggest problems that still seem unsolvable now, with and through AI.
+### In the next 5, 10, and 20 years, the way we conduct research and science will fundamentally change, potentially tackling some of the biggest problems that seem unsolvable now.
 - **Hedge**: I hope that we can tackle some of the biggest problems that still seem unsolvable now, with and through AI.
 - **Timestamp**: [01:03:00](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3780)
 
-### The next major architecture like the Transformer will be discovered by AI, and we will all be using it.
-- **Hedge**: I think one of the defining moments will be when the new Transformers architecture, or something massive, is discovered by AI and we're all using it.
+### AI will discover a new Transformer-like architecture, and we will all be using it.
+- **Hedge**: I think one of the defining moments will be when...
 - **Timestamp**: [01:17:04](https://www.youtube.com/watch?v=EInEmGaMRLc&t=4624)
+
+### AI Scientist v2 can already produce workshop-level papers, and with scaling and further development, it could achieve major scientific breakthroughs within a decade.
+- **Hedge**: potentially, in 10 years, this will look very, very different once the necessary infrastructure has also been built.
+- **Timestamp**: [57:55](https://www.youtube.com/watch?v=EInEmGaMRLc&t=3475)
 
 ## Lightning round
 
 - **Books**: ['Why Greatness Cannot Be Planned', 'The Book of Why']
-- **Media**: ['The AI Scientist papers', 'AlphaEvolve paper']
-- **Products**: ['Shinka Evolve', 'AI Scientist v2', 'Cursor']
-- **Motto**: Humans are the source of deep understanding and creativity.
-- **Advice**: Interact with AI technology as much as you can, and find new research ideas from that experience.
+- **Media**: ['Cracking the Cryptic', 'Science fiction']
+- **Products**: ['Shinka Evolve', 'AI Scientist v2', 'Aider']
+- **Motto**: Humans are the source of deep understanding and creativity; AI is an amplifier.
+- **Advice**: Interact with AI technology as much as you can, and use that experience to find new research ideas. Be disciplined about what you accept from these systems, and educate the next generation to question AI outputs.
 
 ## Concepts surfaced
 
-[[open-endedness]] · [[evolutionary-algorithms]] · [[llm-driven-evolution]] · [[sample-efficiency]] · [[co-evolution]] · [[model-assembly]] · [[ai-scientist]] · [[arc-agi]]
+[[evolutionary-algorithms]] · [[open-endedness]] · [[llm-driven-search]] · [[scientific-discovery]] · [[ai-scientist]] · [[problem-co-evolution]] · [[sample-efficiency]] · [[human-ai-collaboration]]
