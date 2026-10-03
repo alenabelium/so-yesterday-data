@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: cc3ed965-f164-475d-ad6e-050ab8838853
-published_at: '2026-10-03T15:10:57.398550'
+fill_id: 09a99976-eb9c-41a1-8e10-2c9aa4746f1f
+published_at: '2026-10-03T16:07:56.549429'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,14 +18,14 @@ As AI models become more capable, the true bottleneck shifts from model intellig
 
 ## Argument
 
-The mechanism is psychological and practical. With models like Opus 5.5, the option space explodes—you can write a book, animate a manga, or research anything. But the constraint isn't the model; it's your own metabolic and cognitive limits. You can delegate generation, but verification and enjoyment require non-fungible executive function. As the host notes, without your attention, all that output is just 'pointless token spend.' This creates a FOMO-driven sprawl, but the real inflection point is that quota is no longer the bottleneck for most people—you are. The parallel to the quarter-life crisis is apt: you realize you can do anything but not everything. The solution is minmaxing, borrowed from RPGs: deliberately allocate your finite time, energy, and tokens to the few projects that align with your values and yield the most satisfaction. Quality over quantity becomes the TLDDR. This isn't a call to abandon play or experimentation—there's merit in fussing around—but it demands conscious value alignment. For those with ADHD or a billion interests, AI can become a fire hose of slop, even inducing 'AI psychosis' by indulging every whim. The discipline is to ask: will I actually read, publish, or enjoy this?
+The mechanism is the 'problem of choice'—more capable models like Opus 5.5 and Astra expand what's possible, but human bandwidth doesn't scale. Delegating to AI agents still requires executive function to review and enjoy results; that's not fungible. Without that, output is just 'pointless token spend.' This mirrors the 'quarter life crisis' lesson: you can do anything, but not everything. The response is to minmax—optimize AI use around specific traits and goals, putting resources into three or four high-value projects rather than spreading thin. Quality over quantity is the TL;DR. This isn't a call to only be productive; it's about conscious value alignment—asking if this use satisfies higher-order values or just feeds a billion interests, which is why some people experience 'AI psychosis.'
 
 ## Counterpoints
 
-- You can delegate to multiple AI agents, but verification and enjoyment still require your executive function.
-- There is merit in just seeing if you can do something, even if it's not productive.
-- You decide your own values, but you must be conscious about how you spend your time.
+- You can delegate to multiple AI agents, but executive function to review results is not fungible.
+- There's merit in just fussing around and challenging yourself, not only productive use.
+- You decide your own values, but you must be conscious about how you spend time.
 
 ## Concepts surfaced
 
-[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quality-over-quantity]] · [[ai-psychosis]]
+[[problem-of-choice]] · [[minmaxing]] · [[quarter-life-crisis]] · [[executive-function]] · [[ai-psychosis]]
