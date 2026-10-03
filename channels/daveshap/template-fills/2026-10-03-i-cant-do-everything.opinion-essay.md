@@ -6,25 +6,25 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: cd99794a-3015-47ab-ba3b-ff0d02eba2f7
-published_at: '2026-10-03T13:11:54.288014'
+fill_id: 05224101-c335-4708-98df-9202af740c23
+published_at: '2026-10-03T14:11:54.631430'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI's growing capability creates a psychological 'problem of choice' where human time and executive function, not model intelligence, become the true bottleneck, forcing deliberate minmaxing of AI use.
+As AI models grow more capable, the true bottleneck shifts from model intelligence to human time, attention, and executive function, forcing a deliberate minmaxing of AI use toward a few high-value goals.
 
 ## Argument
 
-The mechanism is psychological: as models like Opus 5.5 and Soul 6.1 get more capable, the option space explodes, triggering analysis paralysis. You can delegate generation to AI, but verification and enjoyment require non-fungible executive function—there's no substitute for your own attention. This mirrors the quarter-life crisis: you realize you can do anything but not everything, and you're limited by time, energy, and metabolism. The solution is minmaxing—deliberately allocating your finite cognitive resources and tokens to a few high-value projects rather than spreading thin. Quality over quantity becomes the TLDDR. This isn't about productivity puritanism; it's about conscious value alignment. You must ask: will I actually read, publish, or enjoy this? For those with ADHD or a billion interests, AI can become a fire hose of slop, indulging every whim—a path to AI psychosis. The discipline is to choose.
+The mechanism is the psychological 'problem of choice': with models like Opus 5.5, Astra, and Soul 6.1, the option space explodes—you can write a book, animate a manga, or research anything—but your hours and mental bandwidth are fixed. Delegation to agents doesn't solve it; reviewing and enjoying outputs still requires non-fungible executive function. Without that, you're just accumulating files and burning tokens. This is a quarter-life crisis redux: 'you can do anything, but you can't do everything.' The lesson from that crisis is minmaxing—optimize your AI use around three or four specific goals that give the most bang for your buck, rather than spreading thin across a sprawl of projects. Quality over quantity is the TL;DR. This isn't a call to only do productive things; play and fussing around have merit, but you must be conscious of your values—ask if this satisfies your higher-order values or just feeds a dopamine loop. For ADHD minds with a billion interests, AI can indulge every whim, which is why some people get AI psychosis. The bottleneck is you: your intellect, your metabolism, your sleep-wake cycle. Verification time and enjoyment time are part of the cost. So, minmax your life.
 
 ## Counterpoints
 
-- You can delegate to multiple AI agents (Grockbot, ChatGPT) to handle different tasks, but the bottleneck remains your executive function to review and enjoy results.
-- There is merit in just fussing around and challenging yourself, not everything must be productive—but you must be conscious of whether it satisfies your higher-order values.
-- Some people still run out of quota (e.g., multiple Pro accounts), but for most, the bottleneck is no longer the account—it's your own time and attention.
+- You can delegate to agents, but reviewing results still takes executive function that isn't fungible.
+- There's merit in just seeing if you can do something, challenging yourself, fussing around—not everything must be productive.
+- You decide your own values, but you must be conscious about whether your time use satisfies higher-order values.
 
 ## Concepts surfaced
 
