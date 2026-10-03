@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: 05224101-c335-4708-98df-9202af740c23
-published_at: '2026-10-03T14:11:54.631430'
+fill_id: cc3ed965-f164-475d-ad6e-050ab8838853
+published_at: '2026-10-03T15:10:57.398550'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-As AI models grow more capable, the true bottleneck shifts from model intelligence to human time, attention, and executive function, forcing a deliberate minmaxing of AI use toward a few high-value goals.
+As AI models become more capable, the true bottleneck shifts from model intelligence to human time, attention, and executive function, forcing a deliberate 'minmaxing' of AI use toward a few high-value goals.
 
 ## Argument
 
-The mechanism is the psychological 'problem of choice': with models like Opus 5.5, Astra, and Soul 6.1, the option space explodes—you can write a book, animate a manga, or research anything—but your hours and mental bandwidth are fixed. Delegation to agents doesn't solve it; reviewing and enjoying outputs still requires non-fungible executive function. Without that, you're just accumulating files and burning tokens. This is a quarter-life crisis redux: 'you can do anything, but you can't do everything.' The lesson from that crisis is minmaxing—optimize your AI use around three or four specific goals that give the most bang for your buck, rather than spreading thin across a sprawl of projects. Quality over quantity is the TL;DR. This isn't a call to only do productive things; play and fussing around have merit, but you must be conscious of your values—ask if this satisfies your higher-order values or just feeds a dopamine loop. For ADHD minds with a billion interests, AI can indulge every whim, which is why some people get AI psychosis. The bottleneck is you: your intellect, your metabolism, your sleep-wake cycle. Verification time and enjoyment time are part of the cost. So, minmax your life.
+The mechanism is psychological and practical. With models like Opus 5.5, the option space explodes—you can write a book, animate a manga, or research anything. But the constraint isn't the model; it's your own metabolic and cognitive limits. You can delegate generation, but verification and enjoyment require non-fungible executive function. As the host notes, without your attention, all that output is just 'pointless token spend.' This creates a FOMO-driven sprawl, but the real inflection point is that quota is no longer the bottleneck for most people—you are. The parallel to the quarter-life crisis is apt: you realize you can do anything but not everything. The solution is minmaxing, borrowed from RPGs: deliberately allocate your finite time, energy, and tokens to the few projects that align with your values and yield the most satisfaction. Quality over quantity becomes the TLDDR. This isn't a call to abandon play or experimentation—there's merit in fussing around—but it demands conscious value alignment. For those with ADHD or a billion interests, AI can become a fire hose of slop, even inducing 'AI psychosis' by indulging every whim. The discipline is to ask: will I actually read, publish, or enjoy this?
 
 ## Counterpoints
 
-- You can delegate to agents, but reviewing results still takes executive function that isn't fungible.
-- There's merit in just seeing if you can do something, challenging yourself, fussing around—not everything must be productive.
-- You decide your own values, but you must be conscious about whether your time use satisfies higher-order values.
+- You can delegate to multiple AI agents, but verification and enjoyment still require your executive function.
+- There is merit in just seeing if you can do something, even if it's not productive.
+- You decide your own values, but you must be conscious about how you spend your time.
 
 ## Concepts surfaced
 
-[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quarter-life-crisis]] · [[ai-psychosis]]
+[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quality-over-quantity]] · [[ai-psychosis]]
