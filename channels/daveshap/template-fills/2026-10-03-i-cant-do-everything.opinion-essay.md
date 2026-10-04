@@ -6,27 +6,26 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: 528a8053-2ac7-4369-a8d4-374e85f88c1f
-published_at: '2026-10-04T09:08:16.557021'
+fill_id: 610b84e5-e657-4cb4-908d-423ccc9417cc
+published_at: '2026-10-04T10:07:00.176074'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-As AI models become more capable, the true bottleneck is no longer intelligence or quota but human time, attention, and executive function, forcing a deliberate 'minmaxing' of AI use toward a few high-value goals.
+As AI models grow more capable, the real bottleneck shifts from model intelligence to human time, attention, and executive function, forcing a deliberate 'minmaxing' of AI use toward a few high-value goals.
 
 ## Argument
 
-The mechanism is psychological and practical. With models like Opus 5.5, Astra, and Soul 6.1, the option space explodes—you can write a book, animate a manga, or research anything. But every option demands your executive function to verify, use, and enjoy the output. That function is not fungible; delegating to bots just accumulates files unless you engage. The bottleneck shifts from the account or intelligence to your metabolism and sleep-wake cycle. This is the 'problem of choice' at scale, and it mirrors the quarter-life crisis: you can do anything, but you can't do everything. The solution is minmaxing—concentrating your time, tokens, and cognitive resources into three or four projects that align with your values and give the most return. Quality over quantity becomes the TLDDR. Even playful exploration has merit, but you must be conscious about whether it serves your higher-order values, especially for those with ADHD who now have an AI that indulges every interest—a likely source of 'AI psychosis.'
+The mechanism is psychological and practical. With models like Opus 5.5, the option space explodes—you can write a book, animate a comic, or research anything. But the bottleneck isn't the model or even quota; it's your own metabolic clock and executive function. Delegation to AI agents only accumulates files unless you verify and enjoy the results, which requires non-fungible human attention. This is the 'problem of choice' at scale, and it's forcing a re-evaluation of how we use AI. The parallel is the quarter-life crisis: you realize you can do anything but not everything. The solution is minmaxing—optimizing your AI use around a few specific traits or goals, putting all your tokens and cognitive resources into what gives the most 'bang for your buck.' Quality over quantity becomes the TLDDR. You must consciously ask: Am I actually going to read this? Publish this? Enjoy this? This isn't a call to only be productive; it's a call to be conscious about your values and whether the time spent satisfies your higher-order values or just feeds a slop fire hose. For those with ADHD or a billion interests, AI can become a psychosis-inducing indulgence of every whim, but the discipline of minmaxing keeps you grounded.
 
 ## Counterpoints
 
-- You can delegate to multiple AI agents to parallelize work, but verification and enjoyment still require your executive function.
-- Some people still run out of quota, but for most, the bottleneck is no longer the account.
+- You can delegate to AI agents, but verification and enjoyment still require non-fungible executive function.
 - There is merit in just fussing around and challenging yourself, not everything must be productive.
-- You decide your own values, but you must be conscious about how you spend your time relative to those values.
+- You decide your own values, but you must be conscious about whether your time aligns with those values.
 
 ## Concepts surfaced
 
-[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quarter-life-crisis]] · [[ai-psychosis]]
+[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quarter-life-crisis]] · [[ai-bottleneck]]
