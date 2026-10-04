@@ -6,26 +6,33 @@ source_summary: ../summaries/2026-10-02-openclaw-was-too-dangerous-to-install-7-
 source_transcript: ../transcripts/2026-10-02-openclaw-was-too-dangerous-to-install-7-months-later-microso.md
 source_summary_hash: sha256:f340378f6ac7d4709e235b8873ec77bbf08269f8d8b38168fa5f8968619126df
 source_transcript_hash: sha256:b7b953987f939a228604dae7e6a7ba45c0df140dcf31726a2be53a871a3b09e8
-fill_id: 5681981a-7de9-4456-a8d2-a31c6f88943b
-published_at: '2026-10-04T22:13:00.820207'
+fill_id: 1e2ec52a-ff2b-4706-966b-a17a97c96e6b
+published_at: '2026-10-04T23:13:07.974064'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Microsoft is bringing OpenClaw-derived agent technology to the enterprise as Autopilot, and the value it delivers will depend on data access and user skill, not model intelligence.
+Microsoft's Autopilot, built on OpenClaw, will reach far more workers than any other AI this year, and its value depends on data access and user skill, not model intelligence.
 
 ## Argument
 
-The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in tools people already use—Excel, Outlook, Teams. This isn't about intelligence; it's about access. The K-shaped future means the same tool yields wildly different results based on how well you define 'good', provide context, and iterate. Five practices determine which slope you land on: define what good looks like, give the model the right data and check it used it, make tasks repeatable, match reasoning to complexity, and obsess over improving the next run. The competitive landscape is shifting too—Anthropic and Meta are entering the enterprise, but Microsoft's trust and existing relationships give it a massive head start. The real competition isn't about model smarts; it's about who understands the job well enough that we keep coming back to delegate work.
+The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in Excel, Outlook, and Teams—where you already work. The agent isn't smarter; it's just everywhere, and that changes the work: not answering questions but completing tasks while you do something else. What you do with it is what makes the difference.
+
+First, define what 'good' looks like. Most people ask Copilot to summarize everything, leaving the standard unspoken. Show it an example, explain what's useful, and let it assess its own completion. Second, provide context and verify evidence. Give the model the account plan, commitments, and service data; tell it which source takes priority. Ask for an evidence tree and check if the source actually says what the response claims. If the response is weak, check what information the tool had before blaming the model—often it's a permissions or connection issue, not intelligence.
+
+Third, make good tasks repeatable. Set a trigger, define what the agent is responsible for between runs, and specify limits—like whether it can contact anyone or only draft. Watch for the failure mode where it just rehashes what you already knew. Fourth, match reasoning to complexity. Separate routine prep from consistent interpretation; use stronger models for the hard parts and tell it what you've tried. If you can't choose a model, break the task down and identify where it fails—don't send the same request five times.
+
+Fifth, obsess over improving the next run. When a commitment is omitted, find out why:
 
 ## Counterpoints
 
-- A sufficiently powerful model can find more efficient ways to prepare updates, potentially eliminating the need for weekly reports or meetings that exist only to coordinate human activity.
-- Anthropic's guided agents and Claude's Excel/PowerPoint add-ins could let companies keep Microsoft documents while delegating work to Claude, making another company the place we start for getting jobs done.
-- Meta's Enterprise Platform and Muse target small businesses with customer data and ad campaigns, creating a new contender with a different relationship—reaching customers rather than managing the workplace.
+- A sufficiently powerful model can find more efficient ways to do corporate work than the processes companies have already coded, potentially making Microsoft's workflow advantage obsolete.
+- Anthropic's guided agents and Claude's Excel/PowerPoint add-ins could let companies keep Microsoft documents while delegating work to Claude, making another company the place we start.
+- Meta's Enterprise Platform and Muse target business customers with a huge data advantage, potentially intersecting and clashing with Microsoft's workplace relationship.
+- The cost of AI agents—billed by usage—could make repetitive work economically unviable, and cheap models may not meet client commitments, requiring expensive rework.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[enterprise-ai]] · [[microsoft-copilot]] · [[data-access]] · [[user-skill]] · [[model-routing]]
+[[ai-agents]] · [[enterprise-ai]] · [[data-access]] · [[user-skill]] · [[model-routing]] · [[open-source-ai]]
