@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-04-why-most-actions-on-the-internet-will-so
 source_transcript: ../transcripts/2026-10-04-why-most-actions-on-the-internet-will-soon-be-taken-by-ai-op.md
 source_summary_hash: sha256:804552233aa8980bf994552e7d7e6f32f9bff0a6f625dacecdb1d79aab16e0c8
 source_transcript_hash: sha256:131c6821be1133dc69714b50336618a8c3a4c4159f2ce91f8d96f1bddd9d4773
-fill_id: 0e219c2a-44ef-439a-8e10-f3b5d6714db2
-published_at: '2026-10-04T20:13:04.124746'
+fill_id: b02f71eb-9278-4388-9d9f-e194193169a9
+published_at: '2026-10-04T21:12:56.846918'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Tibo Sottiaux
 - **Title**: Head of ChatGPT
 - **Org**: OpenAI
-- **Bio Oneliner**: Leads ChatGPT at OpenAI, focused on building AI agents that work autonomously and integrating them into everyday products.
+- **Bio Oneliner**: Leads ChatGPT at OpenAI, focused on building AI agents that work 24/7 and scale to billions of users.
 - **Platform**: duo
 
 ## Cold open
@@ -36,27 +36,27 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### Most internet actions will be agent-driven
+### Agents will dominate internet actions
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=0)
-- **Summary**: Tibo argues that the majority of internet actions will soon be performed by AI agents, so products must be built to handle agent traffic at scale. He emphasizes that developers should anticipate a tenfold improvement in AI capabilities within a year and design accordingly.
+- **Summary**: Most actions on the internet will be performed by agents. Products must be built for scale and agent traffic, expecting a tenfold improvement in a year, which changes how you build today.
 - **Anchor Quotes**: [0]
 
-### Agent teams expand and contract with model breakthroughs
+### From coding to orchestrating agent teams
 - **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
-- **Summary**: Tibo describes a cycle where he builds large teams of agents for complex tasks, but when a new model breakthrough occurs, a single agent can handle the work, so he cuts the team. This expansion and contraction is a natural evolution as models become more capable.
+- **Summary**: Engineers shift from hand-coding to orchestrating agent teams. With faster models, one agent can handle tasks that previously required many, leading to cycles of expansion and contraction in agent team sizes.
 - **Anchor Quotes**: [1]
 
-### Dots: a unified, always-on AI assistant
+### Dots: unified AI assistant
 - **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
-- **Summary**: Tibo explains that the future is a single 'Dot'—an always-on intelligence that knows your goals and preferences, accessible through any device. It eliminates the need to choose between models or configure complex loops, instead learning from feedback and working autonomously.
+- **Summary**: The future is a unified 'Dots' assistant that works 24/7, learns from feedback, and is accessible through any client. It eliminates model choice and settings, focusing on natural interaction.
 
-### Open ecosystem and plugin revenue sharing
+### Open plugin ecosystem and sharing economy
 - **Timestamp**: [12:47](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=767)
-- **Summary**: Tibo highlights the importance of an open plugin ecosystem, where partners like Notion and Figma can integrate with ChatGPT and earn revenue through a sharing economy. He sees this as a key driver for innovation and distribution.
+- **Summary**: OpenAI is committed to an open ecosystem with plugins, plugin discovery, and a sharing economy where popular plugins earn revenue. This will enable developers to reach 1.2 billion users.
 
-### Human taste and creativity remain central
+### Human taste and creativity remain key
 - **Timestamp**: [16:08](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=968)
-- **Summary**: Tibo argues that human taste, creativity, and the ability to connect with an audience are becoming more valuable, even as AI takes over technical tasks. He notes that many former founders are thriving at OpenAI because they understand what quality looks like.
+- **Summary**: Human value lies in taste, creativity, and connecting with users. AI is an extension of the person, and while roles blur, those with strong taste and user empathy will thrive.
 
 ## Quotes to remember
 
@@ -68,35 +68,31 @@ provenance: agent:template-fill-v1
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [00:44](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=44)
 
-### I think everything will work the way we position it and what we release with dots: when you have an incredibly intelligent agent that works 24/7, understands your goals, your preferences, and learns from feedback.
+### We may no longer have programmers, but we have more creators than ever.
 - **Speaker**: Tibo Sottiaux
-- **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
+- **Timestamp**: [17:09](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1029)
 
-### I think it's very important to be part of a community and build together with people. It's like we're discovering this technology together and learning what we can do together.
+### I think the next Thibaut is already working at OpenAI. His name is Ahmed Ibrahim.
 - **Speaker**: Tibo Sottiaux
-- **Timestamp**: [09:39](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=579)
+- **Timestamp**: [26:32](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1592)
 
-### The hidden hit is the ecosystem. So let's open all this. And the commitment, the deep commitment that we have to discovering all of this.
+### I can't wait for us to reach this essence of simplicity. I myself am getting tired of choosing models.
 - **Speaker**: Tibo Sottiaux
-- **Timestamp**: [11:20](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=680)
-
-### I think as long as we keep doing that, it allows you to just take what you want to do, your creativity and your taste, and kind of expand on it in a way that seems awesome at this point.
-- **Speaker**: Tibo Sottiaux
-- **Timestamp**: [16:08](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=968)
+- **Timestamp**: [36:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2175)
 
 ## Predictions
 
-### Most actions on the internet will be performed by agents, and products must be built to handle agent traffic at scale.
-- **Hedge**: Implied as a near-future certainty, but not given a specific timeline.
+### Most actions on the internet will be performed by agents, and products must be built for that scale.
+- **Hedge**: Implied as a near-future certainty.
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=0)
 
 ### Models will become cheaper and faster at an incredible rate, enabling seamless integration of all modalities.
-- **Hedge**: No explicit hedge, but framed as a trend.
+- **Hedge**: Based on current trends.
 - **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
 
-### Voice will become a primary interface for interacting with AI agents.
-- **Hedge**: Tibo admits he didn't expect this, but now relies on it heavily.
-- **Timestamp**: [32:50](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1970)
+### The 'Dots' assistant will become the primary way to interact with AI, accessible through any client, and will eliminate the need for model selection.
+- **Hedge**: Expected to happen over time.
+- **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
 
 ## Lightning round
 
@@ -104,4 +100,4 @@ provenance: agent:template-fill-v1
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[agent-orchestration]] · [[model-scaling]] · [[voice-interfaces]] · [[plugin-ecosystem]] · [[ai-safety]] · [[human-creativity]] · [[openai]]
+[[ai-agents]] · [[ai-strategy]] · [[ai-tools]] · [[career]] · [[openai]] · [[chatgpt]] · [[codex]] · [[plugin-ecosystem]]
