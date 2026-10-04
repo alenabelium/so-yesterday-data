@@ -6,26 +6,28 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: 0c8ffe02-65f4-480f-b03e-3963455c3107
-published_at: '2026-10-04T04:08:25.537381'
+fill_id: 568cbe5a-4bde-4e87-aaba-ba89b32ee03c
+published_at: '2026-10-04T05:08:12.181779'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-As AI models grow more capable, the true bottleneck in creative and knowledge work shifts from the technology to the human's limited time, attention, and executive function, forcing a deliberate 'minmaxing' of AI use.
+AI's growing capability creates a 'problem of choice' where human time and executive function, not model intelligence, become the true bottleneck.
 
 ## Argument
 
-The mechanism is psychological and practical. With models like Opus 5.5, the option space explodes—I can write a book, animate a manga, or research anything. But the bottleneck isn't the model or even the quota; it's my own metabolic and cognitive limits. I can delegate the generation, but the verification, the enjoyment, the actual use of results requires executive function that isn't fungible. This creates a new 'problem of choice'—analysis paralysis from too many viable paths. The parallel to the quarter life crisis is exact: in your 20s you realize you can do anything but not everything, and you must minmax. For AI, that means consciously choosing three or four high-value projects and pouring tokens, time, and attention into them, rather than spreading thin and producing slop. Quality over quantity is the TL;DR. This isn't a call to only be productive—play and exploration have merit—but you must be conscious of your values and ask if this use of time satisfies your higher-order goals. For those with ADHD or a billion interests, AI can become a psychosis-inducing indulgence, but the discipline of minmaxing is the antidote.
+The mechanism is psychological: as models like Opus 5.5 and Astra get more capable, the option space explodes, triggering analysis paralysis. You can delegate generation to AI, but verification and enjoyment still require non-fungible executive function. This mirrors the 'quarter life crisis'—realizing you can do anything but not everything. The solution is minmaxing: deliberately focusing AI use on a few high-value goals that align with your values, prioritizing quality over quantity to avoid 'slop' and FOMO.
 
 ## Counterpoints
 
-- You can delegate to multiple AI agents to parallelize work, but the bottleneck remains your own verification and enjoyment time.
-- There's merit in just fiddling around and challenging yourself, even if it's not 'productive'—but you must stay conscious of your values.
-- Some people still run out of quota, but for most mortals, the resource is no longer the constraint—your time is.
+- Delegation to multiple AI agents can handle some work, but reviewing results still needs human executive function.
+- Some people still run out of quota, but for most, the bottleneck is no longer the account.
+- There's merit in just fiddling around or challenging yourself, not everything must be productive.
+- You decide your own values, but you must be conscious about how you spend your time and whether it satisfies higher-order values.
+- AI can indulge every interest, which might contribute to 'AI psychosis' for those with ADHD.
 
 ## Concepts surfaced
 
-[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quarter-life-crisis]] · [[ai-bottleneck]]
+[[problem-of-choice]] · [[minmaxing]] · [[executive-function]] · [[quality-over-quantity]] · [[value-alignment]] · [[ai-bottleneck]]

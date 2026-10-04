@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-03T04:20:00Z",
+  "generated_at": "2026-10-04T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-07-06",
-      "2026-10-03"
+      "2026-07-07",
+      "2026-10-04"
     ],
     "prior": [
-      "2026-04-07",
-      "2026-07-05"
+      "2026-04-08",
+      "2026-07-06"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.2,
-      "current_per_100": 91.4,
-      "delta": 33.2,
+      "current_per_100": 91.5,
+      "delta": 33.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.7,
-      "delta": 29.0,
+      "current_per_100": 54.5,
+      "delta": 28.8,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.2,
-      "delta": -24.1,
-      "direction": "fading"
-    },
-    {
-      "tag": "ai-agents",
-      "prior_per_100": 44.9,
-      "current_per_100": 21.3,
-      "delta": -23.6,
+      "current_per_100": 23.1,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 24.1,
+      "delta": 23.7,
       "direction": "rising"
     },
     {
-      "tag": "opinion",
-      "prior_per_100": 26.6,
-      "current_per_100": 7.4,
-      "delta": -19.2,
+      "tag": "ai-agents",
+      "prior_per_100": 44.9,
+      "current_per_100": 21.6,
+      "delta": -23.3,
       "direction": "fading"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 24.6,
-      "current_per_100": 5.5,
-      "delta": -19.1,
+      "current_per_100": 5.6,
+      "delta": -19.0,
+      "direction": "fading"
+    },
+    {
+      "tag": "opinion",
+      "prior_per_100": 26.6,
+      "current_per_100": 7.9,
+      "delta": -18.7,
       "direction": "fading"
     },
     {
@@ -71,36 +71,36 @@
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.4,
-      "delta": 12.0,
+      "current_per_100": 43.6,
+      "delta": 12.2,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 27.5,
-      "current_per_100": 18.9,
-      "delta": -8.6,
+      "current_per_100": 18.6,
+      "delta": -8.9,
       "direction": "fading"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 16.6,
-      "current_per_100": 21.0,
-      "delta": 4.4,
+      "current_per_100": 20.7,
+      "delta": 4.1,
       "direction": "stable"
     },
     {
       "tag": "tutorials",
       "prior_per_100": 13.7,
-      "current_per_100": 9.7,
-      "delta": -4.0,
+      "current_per_100": 9.6,
+      "delta": -4.1,
       "direction": "stable"
     },
     {
       "tag": "prompting",
       "prior_per_100": 3.1,
-      "current_per_100": 1.0,
-      "delta": -2.1,
+      "current_per_100": 0.9,
+      "delta": -2.2,
       "direction": "stable"
     },
     {
@@ -157,22 +157,22 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.2,
-      "current_per_100": 91.4,
-      "delta": 33.2,
+      "current_per_100": 91.5,
+      "delta": 33.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.7,
-      "delta": 29.0,
+      "current_per_100": 54.5,
+      "delta": 28.8,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 24.1,
+      "delta": 23.7,
       "direction": "rising"
     },
     {
@@ -185,8 +185,8 @@
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.4,
-      "delta": 12.0,
+      "current_per_100": 43.6,
+      "delta": 12.2,
       "direction": "rising"
     }
   ],
@@ -194,36 +194,36 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.2,
-      "delta": -24.1,
+      "current_per_100": 23.1,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 44.9,
-      "current_per_100": 21.3,
-      "delta": -23.6,
-      "direction": "fading"
-    },
-    {
-      "tag": "opinion",
-      "prior_per_100": 26.6,
-      "current_per_100": 7.4,
-      "delta": -19.2,
+      "current_per_100": 21.6,
+      "delta": -23.3,
       "direction": "fading"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 24.6,
-      "current_per_100": 5.5,
-      "delta": -19.1,
+      "current_per_100": 5.6,
+      "delta": -19.0,
+      "direction": "fading"
+    },
+    {
+      "tag": "opinion",
+      "prior_per_100": 26.6,
+      "current_per_100": 7.9,
+      "delta": -18.7,
       "direction": "fading"
     },
     {
       "tag": "coding",
       "prior_per_100": 27.5,
-      "current_per_100": 18.9,
-      "delta": -8.6,
+      "current_per_100": 18.6,
+      "delta": -8.9,
       "direction": "fading"
     }
   ],
