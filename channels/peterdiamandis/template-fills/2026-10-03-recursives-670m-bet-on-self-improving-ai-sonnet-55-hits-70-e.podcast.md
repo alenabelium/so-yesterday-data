@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-03-recursives-670m-bet-on-self-improving-ai
 source_transcript: ../transcripts/2026-10-03-recursives-670m-bet-on-self-improving-ai-sonnet-55-hits-70-e.md
 source_summary_hash: sha256:5c327e201e617c49aa0ea7b7a13f5a253eb58d328f611d27608c9c69768e19fe
 source_transcript_hash: sha256:72a8595029ce80eba945f5137db97e1d4e0d5f226012586cfe57491b4f262732
-fill_id: 5e003292-3cc4-4415-94bd-1ad43744cb3f
-published_at: '2026-10-04T01:08:51.903861'
+fill_id: 7040a8fc-4ecf-4912-afe3-d63e5ea9cbea
+published_at: '2026-10-04T02:08:51.520891'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -22,20 +22,8 @@ provenance: agent:template-fill-v1
 
 ## Cold open
 
-### Where are we at the moment with RSI? We already have RSI. We're not quite there yet, but we're very close.
+### I think we'll take us probably several decades. On Terminal Bench 4.0, Sonnet 5.5 jumped from 10% to 70%. Pretty extraordinary.
 - **Attribution**: Richard Socher
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
-
-### I think we'll take us probably several decades.
-- **Attribution**: Richard Socher
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
-
-### On Terminal Bench 4.0, Sonnet 5.5 jumped from 10% to 70%. Pretty extraordinary.
-- **Attribution**: Peter Diamandis
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
-
-### It's not at all obvious to me why anyone should be using Sonnet 5.5 over Opus 5.5 unless you have some token or latency or other consideration.
-- **Attribution**: Alex Weer Gross
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
 
 ### The Defense Secretary announced Project Meridian. It's a new Pentagon effort on the future of warfare. It's co-led by Elon Musk and Palmer Lucky.
@@ -46,52 +34,46 @@ provenance: agent:template-fill-v1
 
 ### AI will deliver a century of scientific breakthroughs in a decade
 - **Timestamp**: [05:39](https://www.youtube.com/watch?v=Blyb1D927pM&t=339)
-- **Summary**: Richard argues that scientific progress has slowed due to fragmentation across disciplines, and AI can weave these pieces back together. With world knowledge in LLMs, digitized data, simulations, and robotic automation, AI will transform biology and other fields into programmable engineering sciences, accelerating discovery dramatically.
-
-### Recursive self-improvement is already here in weak forms
-- **Timestamp**: [01:01:20](https://www.youtube.com/watch?v=Blyb1D927pM&t=3680)
-- **Summary**: Richard explains that AI coding its own improvements marks a major shift. Weak RSI exists with humans in the loop, but Recursive aims for full autonomy where AI handles ideation, implementation, and validation. He notes that true RSI will take off next year, with compute as a key constraint.
+- **Summary**: Richard argues that scientific progress has slowed due to fragmentation across disciplines, and AI can weave these pieces back together. With world knowledge in LLMs, digitized data, simulations, and robotic automation, AI will transform biology and other fields into programmable engineering sciences, leading to rapid breakthroughs.
 - **Anchor Quotes**: [0]
 
-### ASI is decades away, not imminent
-- **Timestamp**: [01:07:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=4020)
-- **Summary**: Richard defines ASI as surpassing all of humanity across multiple intelligence spaces, which he estimates will take several decades. He contrasts with Elon's 2029-2030 prediction, arguing that physical constraints and the need for human-level access to the physical world will delay true superintelligence.
-- **Anchor Quotes**: [1]
+### Recursive self-improvement is already here in weak forms
+- **Timestamp**: [01:01:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=3660)
+- **Summary**: Richard explains that AI can now code, enabling a loop where AI improves itself. Weak forms exist with humans in the loop, but Recursive aims for full autonomy where AI handles ideation, implementation, and validation. He predicts this will take off next year, though strong ASI is decades away.
 
 ### Doomers are wrong: no realistic AI extinction scenario
 - **Timestamp**: [01:18:36](https://www.youtube.com/watch?v=Blyb1D927pM&t=4716)
-- **Summary**: Richard argues that AI wiping out humanity is unrealistic. He debunks sci-fi scenarios and emphasizes that real risks are manageable through application regulation, cybersecurity, and AI literacy. He criticizes proposed bans on RSI as unenforceable without a totalitarian surveillance state.
+- **Summary**: Richard refutes doomer narratives, arguing that AI extinction scenarios are unrealistic. He emphasizes regulating applications rather than the technology itself, and warns that banning recursive self-improvement would require a totalitarian surveillance state. He advocates for practical measures like cybersecurity and literacy.
 
-### Sonnet 5.5's jump is impressive but not cost-optimal
+### Sonnet 5.5's performance jump is strategic, not just technical
 - **Timestamp**: [01:44:21](https://www.youtube.com/watch?v=Blyb1D927pM&t=6261)
-- **Summary**: Alex analyzes Sonnet 5.5's leap from 10% to 70% on Terminal Bench, but notes it underperforms Opus 5.5 on cost-performance. Dave theorizes Anthropic is pricing to compete with China and open-source models, while Richard highlights the compute crunch and rising GPU prices.
-- **Anchor Quotes**: [2, 3]
+- **Summary**: Alex and Dave analyze Sonnet 5.5's leap to 70% on Terminal Bench. Alex questions its cost-performance vs Opus 5.5, while Dave theorizes Anthropic is pricing it to compete with open-source models and Chinese labs, keeping enterprises on Anthropic's stack.
+
+### Decision models like Jev fill a gap left by reasoning models
+- **Timestamp**: [01:52:16](https://www.youtube.com/watch?v=Blyb1D927pM&t=6736)
+- **Summary**: Alex explains that decision models, such as Typesafe's Jev, provide fast, intuitive answers for bounded decisions, contrasting with slow reasoning models. This revives the encoder-style approach, and OpenAI's new Decisions API shows the industry is catching on.
 
 ## Quotes to remember
 
-### We already have RSI. We're not quite there yet, but we're very close.
+### The bitter lesson is basically that human experts had all these really clever ideas and beautiful theories but really what you needed to do was the simplest method that you can come up with a large neural network that you can train end to end as a general function approximator.
 - **Speaker**: Richard Socher
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
+- **Timestamp**: [21:37](https://www.youtube.com/watch?v=Blyb1D927pM&t=1297)
 
-### I think we'll take us probably several decades.
+### There is no realistic scenario where AI wipes out all of humanity. P doom is zero.
 - **Speaker**: Richard Socher
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
-
-### On Terminal Bench 4.0, Sonnet 5.5 jumped from 10% to 70%. Pretty extraordinary.
-- **Speaker**: Peter Diamandis
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
+- **Timestamp**: [01:18:36](https://www.youtube.com/watch?v=Blyb1D927pM&t=4716)
 
 ### It's not at all obvious to me why anyone should be using Sonnet 5.5 over Opus 5.5 unless you have some token or latency or other consideration.
 - **Speaker**: Alex Weer Gross
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
+- **Timestamp**: [01:44:21](https://www.youtube.com/watch?v=Blyb1D927pM&t=6261)
 
-### The Defense Secretary announced Project Meridian. It's a new Pentagon effort on the future of warfare. It's co-led by Elon Musk and Palmer Lucky.
-- **Speaker**: Peter Diamandis
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=0)
-
-### There is no realistic scenario where AI wipes out all of humanity.
+### We're going to solve more and more problems and it'll just be a question of how much money do you want to put into compute to then solve which kinds of problems.
 - **Speaker**: Richard Socher
-- **Timestamp**: [01:18:36](https://www.youtube.com/watch?v=Blyb1D927pM&t=4716)
+- **Timestamp**: [08:42](https://www.youtube.com/watch?v=Blyb1D927pM&t=522)
+
+### The future needs better marketing. We need more Peters in the world.
+- **Speaker**: Richard Socher
+- **Timestamp**: [42:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=2520)
 
 ## Predictions
 
@@ -99,26 +81,26 @@ provenance: agent:template-fill-v1
 - **Hedge**: Simpler diseases where one gene needs fixing.
 - **Timestamp**: [08:42](https://www.youtube.com/watch?v=Blyb1D927pM&t=522)
 
-### AI will be better at programming than all of humanity within a few years.
-- **Hedge**: In specific domains like programming and math.
-- **Timestamp**: [01:07:51](https://www.youtube.com/watch?v=Blyb1D927pM&t=4071)
+### Recursive self-improvement will take off next year.
+- **Hedge**: In weak forms already, but full autonomy is close.
+- **Timestamp**: [01:02:10](https://www.youtube.com/watch?v=Blyb1D927pM&t=3730)
 
-### True ASI, surpassing all humanity across all intelligence spaces, will take several decades.
-- **Hedge**: Weaker forms of ASI will spike earlier.
+### ASI in the strongest sense will take several decades.
+- **Hedge**: Weaker forms will spike sooner in specific domains.
 - **Timestamp**: [01:07:00](https://www.youtube.com/watch?v=Blyb1D927pM&t=4020)
 
-### Compute prices will fluctuate and may rise in the short term, but more supply will come in about two years.
-- **Hedge**: Prices might not crash due to near-infinite demand.
+### Compute prices will fluctuate, with a crunch now but more supply in about two years.
+- **Hedge**: No crash due to near-infinite demand.
 - **Timestamp**: [01:48:52](https://www.youtube.com/watch?v=Blyb1D927pM&t=6532)
 
 ## Lightning round
 
-- **Books**: ['The Eureka Machine']
-- **Media**: ['Pessimists Archive']
-- **Products**: ['Recursive', 'You.com']
+- **Books**: ['The Eureka Machine: Why AI is the key to unlocking a new era of scientific discoveries']
+- **Media**: ['Human Progress']
+- **Products**: ['Recursive', 'You.com', 'Peril Bio']
 - **Motto**: The future needs better marketing.
-- **Advice**: Regulate applications, not the technology itself.
+- **Advice**: Record your parents' stories and save placental cells for future biological backups.
 
 ## Concepts surfaced
 
-[[recursive-self-improvement]] · [[artificial-superintelligence]] · [[full-stack-ai]] · [[bitter-lesson]] · [[virtual-cell]] · [[decision-models]] · [[ai-alignment]] · [[compute-scarcity]]
+[[recursive-self-improvement]] · [[artificial-superintelligence]] · [[full-stack-ai]] · [[bitter-lesson]] · [[decision-models]] · [[gene-drive]] · [[brain-computer-interface]] · [[ai-alignment]]
