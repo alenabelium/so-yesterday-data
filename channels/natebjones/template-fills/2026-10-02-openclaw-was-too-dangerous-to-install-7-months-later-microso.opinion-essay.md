@@ -6,34 +6,32 @@ source_summary: ../summaries/2026-10-02-openclaw-was-too-dangerous-to-install-7-
 source_transcript: ../transcripts/2026-10-02-openclaw-was-too-dangerous-to-install-7-months-later-microso.md
 source_summary_hash: sha256:f340378f6ac7d4709e235b8873ec77bbf08269f8d8b38168fa5f8968619126df
 source_transcript_hash: sha256:b7b953987f939a228604dae7e6a7ba45c0df140dcf31726a2be53a871a3b09e8
-fill_id: 8541bb1c-59f6-4f0e-a013-f6e9921b8aab
-published_at: '2026-10-04T13:07:01.959809'
+fill_id: aaeb6048-d020-4ef2-8c0c-869260286bd8
+published_at: '2026-10-04T14:06:30.546621'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Microsoft's Autopilot, built on OpenClaw-derived agent tech, will reach far more workers than OpenAI or Anthropic this year, and the value it delivers depends on data access and user skill, not model intelligence.
+Microsoft's Autopilot, built on OpenClaw-derived technology, will reach hundreds of millions of workers through Microsoft 365, and the value it delivers depends on data access and user skill, not model intelligence.
 
 ## Argument
 
-The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in the apps people already use—Excel, Outlook, Teams. That's why it matters more than any model release this year. But the tool itself isn't smart; I've used it, and it's not. The value comes from the data it can access and how well you use it. That's the K-shaped future: same tools, wildly different outcomes.
+The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in the tools people already use—Excel, Outlook, Teams. This isn't about the model being smarter; it's about being everywhere. The real value comes from the data it can access and how well you use it. The future is K-shaped: people with the same tools get wildly different results.
 
-First, define what 'good' looks like. Pick a real task—like renewing a client contract—and tell the agent what a useful result is. Second, give it the right context and verify it used it. Feed it the account plan, the commitments, the service records, and tell it which source takes priority. Then ask for evidence links and check them. Third, make good work repeatable. Set up a scheduled briefing, define the trigger, and test whether it actually catches changes or just rehashes what you know.
+First, define what 'good' looks like. Give Autopilot a specific task tied to a real outcome, like preparing for a client renewal, and tell it what a useful result would be. Second, put the right information in front of the model and verify it used it. Provide account plans, commitments, and service data, and ask for an evidence tree. Most people skip this, but it works for any AI.
 
-Fourth, match reasoning to complexity. Routers that pick cheap models can't tell the difference between 'what is this?' for a syntax error and for a three-hour debugging session. You need to give the router context—purpose, past failures, consequences—or you'll waste tokens. Fifth, obsess over improving the next run. When a commitment is missed, find out why: missing source, unclear instructions, or model misunderstanding. Fix it, save it, share it.
+Third, make successful tasks repeatable. Set up scheduled prompts or agent triggers so the work happens without you remembering to ask. Fourth, match reasoning to complexity. Use cheaper models for routine tasks, but for complex problems, give the model context about what you've tried and why the obvious answer failed. Routing is a new skill; you need to define job classes correctly.
 
-Microsoft's advantage is trust and distribution, but its weakness is model intelligence. Anthropic's guided agents could redesign workflows entirely, making Microsoft's processes
+Fifth, obsess over improving the next run. When a briefing misses a commitment, find out why—missing source, unclear instructions, or model misunderstanding. Fix the cause, save the fix, and share it with colleagues. This learning cycle is the skill that travels with you, regardless of which AI your employer adopts.
 
 ## Counterpoints
 
-- Microsoft's model isn't the smartest, so why bother? Because value comes from data access and user skill, not raw intelligence.
-- Autopilot is still in preview and won't roll out overnight—but scheduled prompts in Copilot let you replicate the workflow now.
-- Anthropic's better models could redesign workflows, making Microsoft's processes obsolete—that's the strongest argument against Microsoft winning.
-- Routers that pick cheap models can't distinguish between trivial and complex tasks, leading to wasted tokens and bad results.
-- Meta's Enterprise Platform and Muse could disrupt Microsoft's enterprise dominance by leveraging its customer relationships.
+- A sufficiently powerful model can redesign workflows, eliminating steps that exist only to coordinate human activity, which is Anthropic's strongest argument for enterprise adoption.
+- Microsoft's router may spend more tokens figuring out task complexity than just using a smart model, especially for novel problems.
+- Meta's Enterprise Platform and its customer data could challenge Microsoft's workplace dominance, especially with small businesses.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[microsoft-copilot]] · [[autopilot]] · [[openclaw]] · [[model-routing]] · [[enterprise-ai]]
+[[ai-agents]] · [[enterprise-ai]] · [[model-routing]] · [[data-access]] · [[prompt-engineering]] · [[workflow-automation]]
