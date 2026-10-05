@@ -6,25 +6,26 @@ source_summary: ../summaries/2026-10-03-i-cant-do-everything.md
 source_transcript: ../transcripts/2026-10-03-i-cant-do-everything.md
 source_summary_hash: sha256:4f29060e33e36da92e3f1df0a54822965cee89e37197a4cf17afc462b8a4a95f
 source_transcript_hash: sha256:fee6ee867106cfa355ee96f89b2cae210f189ba1f008d38b2d737871eb1b61fd
-fill_id: fb225b5b-27ea-4516-aa49-538b68f26a83
-published_at: '2026-10-05T02:13:43.507038'
+fill_id: a18560e0-eb29-4829-bce4-b19bae19ede3
+published_at: '2026-10-05T03:13:42.793852'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-As AI models grow more capable, human time, attention, and executive function—not model intelligence—become the true bottleneck, forcing a deliberate minmaxing of AI use toward a few high-value goals.
+AI's growing capability creates a 'problem of choice' where human time, attention, and executive function—not AI—become the true bottleneck, forcing deliberate minmaxing.
 
 ## Argument
 
-The mechanism is psychological and practical. With models like Opus 5.5, Astra, and Soul 6.1, the option space explodes—you could write a book, animate a comic, or research anything. But the bottleneck shifts from quota to your own metabolism: you only have so many hours, and verification and enjoyment require non-fungible executive function. Delegation to agents doesn't solve this; it just accumulates files unless you engage with them. This is the 'problem of choice' at scale, and it's forcing a re-evaluation of how we use AI. The parallel is the quarter-life crisis: you can do anything, but you can't do everything. The solution is minmaxing—deliberately allocating your time, tokens, and cognitive resources to three or four things that give the most bang for your buck, rather than spreading thin. Quality over quantity is the TL;DR. This isn't a call to only be productive; it's a call to be conscious about your values and whether a given project satisfies your higher-order goals. For those with ADHD or a billion interests, AI can become a slop fire hose, indulging every whim—which is why some people experience AI psychosis. The discipline is to choose.
+The mechanism is psychological: as models like Opus 5.5 and Soul 6.1 get more capable, the option space explodes, triggering analysis paralysis. You can now write a book, animate a comic, or research anything—but each project demands your finite hours and mental bandwidth. Delegation to agents doesn't solve it, because verifying and enjoying results requires non-fungible executive function. Without that, you're just accumulating files—pointless token spend. This mirrors the quarter-life crisis: realizing you can do anything but not everything. The solution is minmaxing—concentrating your time, tokens, and cognitive resources on three or four high-value goals rather than spreading thin. Quality over quantity is the TL;DR. But this isn't a call for pure productivity; you can still fuss around, as long as you're conscious about whether an activity aligns with your higher-order values. For ADHD minds, AI's ability to indulge every interest is a trap—it can even fuel AI psychosis. The real bottleneck is you: your metabolism, your sleep-wake cycle, your verification time.
 
 ## Counterpoints
 
-- You can delegate to agents like Grockbot or ChatGPT to do work asynchronously, but verification and enjoyment still require your executive function.
-- There's merit in just fussing around or challenging yourself, not everything must be productive.
-- You decide your own values, so you might choose to spend time on low-value projects—but you must be conscious about that choice.
+- You can delegate to multiple AI agents to work asynchronously, but verification and enjoyment still require your executive function.
+- Some people still run out of quota (e.g., multiple Pro accounts), but most mortals no longer face that limit.
+- There's merit in just seeing if you can do something—fussing around is allowed, but you must stay conscious of your values.
+- You might argue you can be well-rounded, but minmaxing means deliberately choosing a few high-value goals over breadth.
 
 ## Concepts surfaced
 
