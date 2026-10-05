@@ -6,47 +6,47 @@ source_summary: ../summaries/2026-10-04-the-end-of-the-app-era-what-comes-next.m
 source_transcript: ../transcripts/2026-10-04-the-end-of-the-app-era-what-comes-next.md
 source_summary_hash: sha256:033e104f22e70a1622d6513d5bb1b998fbf0b41cd0fe0e7627daaad4de3a7623
 source_transcript_hash: sha256:ecdd4c3a895796752f76cf7fddd93a4802b99edbdb3083d3e62ece76cfe78eca
-fill_id: 8cbfd39d-9ad6-45b8-8bed-8d76d55687f9
-published_at: '2026-10-05T09:09:31.069600'
+fill_id: 32331260-5449-44fc-9948-b793b68276df
+published_at: '2026-10-05T10:09:31.457200'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Software is splitting into data, workflow, and agent layers. Buyers and sellers must navigate this new stack as AI agents become the primary interface, making data access and workflow value the new competitive battleground.
+Software is splitting into data, workflow, and agent layers. Buyers and sellers must now negotiate each layer separately, making vendor lock-in riskier and forcing individuals to articulate their AI workflows.
 
 ## The argument
 
 ### Define the three-layer stack
-- **Anchor Timestamps**: ['00:23:58']
-- **Claim**: The common thread across all software is understanding your position on the data layer, the application layer, and the agent layer. These are three different levels, and every employee, buyer, and seller must be able to talk about their work in these terms.
+- **Anchor Timestamps**: ['00:24:40']
+- **Claim**: Every software purchase now decomposes into three layers: the data layer (who owns the structured information), the application/workflow layer (the rules and processes on top), and the agent layer (the AI that interacts with both).
 - **Role**: definition
 
-### Data layer as the new moat
-- **Anchor Timestamps**: ['00:08:30']
-- **Claim**: Meta's Muse for Small Business adds connectivity to business accounts, effectively connecting to the data layer. If you're selling a data layer, the agent needs it critically — this is their first instinct, and it's why data positioning will matter enormously in 2027.
+### Agents commoditize interfaces
+- **Anchor Timestamps**: ['00:18:27']
+- **Claim**: DoorDash's text ordering shows that when an agent can transact directly, the app interface becomes optional. Losing the interface no longer means losing the customer — the agent becomes the new front door.
 - **Role**: evidence
 
-### Workflow layer survives the interface shift
+### Data and workflows retain value
 - **Anchor Timestamps**: ['00:22:27']
-- **Claim**: Workday's payroll agent uses customized data and company rules to identify issues and improve payroll quality. Someone still maintains records, configures behavior, and approves — the structured workflow on top of data is not going away, even if the interface changes dramatically.
+- **Claim**: Workday's payroll agent succeeds because the underlying compliance-heavy workflow is irreplaceable. Similarly, Crossdata's API lets a recruiter build a custom workflow on top of their data — the data and workflow are the moat, not the UI.
 - **Role**: evidence
 
-### Agent layer demands multi-tenant flexibility
-- **Anchor Timestamps**: ['00:16:26']
-- **Claim**: Salesforce and Claude collaborate so buyers can get whatever they want — Claude, Cohere, or another model via a control panel. If you don't want to be limited as a buyer, you as a seller must offer choice, making the agent layer a multi-tenant system.
-- **Role**: synthesis
-
-### Counter: Application layer is not dead
-- **Anchor Timestamps**: ['00:27:17']
-- **Claim**: It's not as simple as saying the application layer is dead. Applications decompose into interfaces and workflows; a data-driven workflow can be extremely valuable, as with Workday and ADP. The interface may change, but structured workflows remain essential.
+### Counter: lock-in shifts, not disappears
+- **Anchor Timestamps**: ['00:19:24']
+- **Claim**: If two providers offer equal data and execution, agent access makes switching easier. But the real lock-in moves to the agent's learned context — your personal workflow, your team's undocumented rules — which is harder to migrate than any app.
 - **Role**: counter
+
+### Synthesis: sell the stack, not the app
+- **Anchor Timestamps**: ['00:31:55']
+- **Claim**: Winning vendors position as plug-and-play: clean data APIs, flexible workflows, and multi-tenant agent access. Buyers must evaluate each layer independently, and individuals must articulate their agent workflows to avoid losing productivity in vendor switches.
+- **Role**: synthesis
 
 ## Evidence and caveats
 
-DoorDash's September 30th announcement lets you order via text or MCP, so you never open the app — but DoorDash still wins the transaction. Salesforce's Koa is in pilot, trained on synthetic data, not real customer data. Microsoft's Autopilot is in preview. Cross data's case study shows a two-person recruiting firm building its own skill via API instead of buying a separate tool. Caveat: if two providers offer equally good information and execution, connecting via agent makes them easier to compare and replace — access is a minimum requirement, not a reason to keep paying.
+Meta's Muse for Small Business connects to QuickBooks and Shopify, showing data-layer expansion. Salesforce's Koa is pilot-stage, trained on synthetic data, and they offer a multi-model control panel. Microsoft's Autopilot is in preview. DoorDash's MCP server is in limited beta. Caveats: Koa is not widely available; DoorDash's beta is limited; the recruiting story is anonymized.
 
 ## Concepts surfaced
 
-[[agent-gateway]] · [[data-layer]] · [[workflow-layer]] · [[multi-tenant-agents]] · [[mcp-server]]
+[[agent-gateway]] · [[data-layer]] · [[workflow-automation]] · [[vendor-lock-in]] · [[mcp]]
