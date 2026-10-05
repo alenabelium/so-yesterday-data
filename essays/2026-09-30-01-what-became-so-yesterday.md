@@ -1,6 +1,7 @@
 ---
 title: "What Became So Yesterday: Reading the Half-Year Signal"
 date: "2026-09-30"
+featured: true
 slug: what-became-so-yesterday
 description: "The corpus now holds enough tagged, provenance-bearing history to measure obsolescence directly. Comparing the first and second halves of 2026 shows the discourse migrating from tools and agent-building to strategy, careers and validation — and quantifies what faded."
 ---
