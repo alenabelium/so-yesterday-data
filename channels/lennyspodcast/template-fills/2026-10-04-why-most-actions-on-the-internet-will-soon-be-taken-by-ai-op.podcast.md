@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-04-why-most-actions-on-the-internet-will-so
 source_transcript: ../transcripts/2026-10-04-why-most-actions-on-the-internet-will-soon-be-taken-by-ai-op.md
 source_summary_hash: sha256:804552233aa8980bf994552e7d7e6f32f9bff0a6f625dacecdb1d79aab16e0c8
 source_transcript_hash: sha256:131c6821be1133dc69714b50336618a8c3a4c4159f2ce91f8d96f1bddd9d4773
-fill_id: 5daa31f5-5103-4ee1-973f-b0c083a9613e
-published_at: '2026-10-05T11:09:31.889319'
+fill_id: dfc57a26-2d92-49ca-acb7-8d49ac3fae9f
+published_at: '2026-10-05T11:58:32.952929'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,9 +15,9 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Tibo Sottiaux
-- **Title**: Head of ChatGPT at OpenAI
+- **Title**: Head of ChatGPT
 - **Org**: OpenAI
-- **Bio Oneliner**: Leads ChatGPT, overseeing the shift from chat to autonomous agents.
+- **Bio Oneliner**: Leads ChatGPT at OpenAI, driving the shift from chat to autonomous agents.
 - **Platform**: duo
 
 ## Cold open
@@ -30,34 +30,29 @@ provenance: agent:template-fill-v1
 - **Attribution**: Tibo Sottiaux
 - **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
 
-### Over time, you just want a system that learns. You don't have to think about how exactly I should loop the process to get good results.
-- **Attribution**: Tibo Sottiaux
-- **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
-
 ## Key arguments
 
 ### Agents will dominate internet actions
-- **Timestamp**: [00:44](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=44)
-- **Summary**: Tibo argues that most internet actions will be performed by agents, so products must be built with scale in mind. He cites Notion's MCP as an example where agent traffic caused a huge influx, stressing the need to design for agent economics.
+- **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
+- **Summary**: Tibo argues that most internet actions will be performed by agents, not humans. Products must be built with agent-scale in mind, expecting massive traffic and designing for agent usability, not just human interfaces.
 - **Anchor Quotes**: [0]
 
-### The evolution of agent teams
+### The evolution from multi-agent to single-agent
 - **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
-- **Summary**: Tibo describes a cycle of building larger agent teams, then collapsing them when model breakthroughs allow a single agent to handle everything. He emphasizes that tweaking loops is not the path to success; instead, systems should learn and adapt.
+- **Summary**: Tibo describes a cycle: as models improve, he builds larger teams of agents, but breakthroughs allow one big agent to handle everything, leading to contraction. The future is a single, intelligent agent that learns and adapts without manual tuning.
 - **Anchor Quotes**: [1]
 
-### Simplicity over model choice
-- **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
-- **Summary**: Tibo advocates for a future where users don't need to choose models or configure settings. He envisions a system that learns from feedback and works 24/7, reducing complexity to just communication channels.
-- **Anchor Quotes**: [2]
+### The hidden hit: the ecosystem
+- **Timestamp**: [13:51](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=831)
+- **Summary**: Tibo highlights the ecosystem as the underappreciated key: opening up ChatGPT to partners via MCP, with quality-based recommendations. He emphasizes that retention and real value drive visibility, not SEO.
 
-### The hidden gem: ecosystem and partnerships
-- **Timestamp**: [12:06](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=726)
-- **Summary**: Tibo highlights the ecosystem as the hidden hit, with 16 partners signed for ChatGPT. He shares the origin story of spontaneous partnerships and stresses the importance of building for agent traffic, which can strain systems but also create new opportunities.
+### Human taste and creativity remain central
+- **Timestamp**: [17:09](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1029)
+- **Summary**: Even as AI takes over tasks, human taste, creativity, and connection remain irreplaceable. OpenAI designs AI as an extension of the person, amplifying their will and taste, not replacing it.
 
-### Human taste and creativity remain key
-- **Timestamp**: [16:08](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=968)
-- **Summary**: Tibo believes human taste and creativity will remain valuable as AI expands human will. He notes that while programmers may become creators, the deeply human desire to connect with other people will persist, and AI should be an extension of the person.
+### The promise of AI: reducing noise, not increasing it
+- **Timestamp**: [19:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1155)
+- **Summary**: Tibo counters the pressure to do more with AI by emphasizing its promise to reduce noise and focus attention. He advocates for using AI to enable rest and creativity, not just more output.
 
 ## Quotes to remember
 
@@ -69,42 +64,35 @@ provenance: agent:template-fill-v1
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
 
-### Over time, you just want a system that learns. You don't have to think about how exactly I should loop the process to get good results.
-- **Speaker**: Tibo Sottiaux
-- **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
-
 ### The hidden hit is the ecosystem. So let's open all this. And the commitment, the deep commitment that we have to discovering all of this.
 - **Speaker**: Tibo Sottiaux
-- **Timestamp**: [12:06](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=726)
+- **Timestamp**: [11:20](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=680)
 
-### We may no longer have programmers, but we have more creators than ever. And I believe that there will remain something deeply human in this.
+### I think as long as we keep doing that, it allows you to just take what you want to do, your creativity and your taste, and kind of expand on it in a way that seems awesome at this point.
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [17:09](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1029)
 
-### I am getting tired of choosing models and wondering whether to use multiagent or Ultra, and generally why it is needed — you need a PhD to choose models.
+### I think that's the promise of AI, not just doing one more prompt per second.
 - **Speaker**: Tibo Sottiaux
-- **Timestamp**: [36:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2175)
+- **Timestamp**: [19:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1155)
 
 ## Predictions
 
-### Most actions on the internet will be performed by agents, and models will become cheaper and faster at an incredible rate.
-- **Hedge**: I think, you know, these three, I feel, you know, often when I look at what people build, it's just, you know, it's just you don't quite get the point.
+### Most actions on the internet will be performed by agents, and models will become cheaper and faster at an incredible rate, enabling seamless integration of all modalities.
+- **Hedge**: This is a prediction based on current trends.
 - **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
 
-### We will finally be able to integrate all modalities together in a way that will be very seamless.
-- **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
-
-### We will release the ability to create more than one dot, allowing users to build virtual teams.
-- **Hedge**: We will release the ability to create more than one. So I have one that is responsible for Twitter.
-- **Timestamp**: [10:24](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=624)
+### We will reach a point where the program (the interface) almost completely disappears, as models become intelligent enough to understand goals without needing complex model selection.
+- **Hedge**: Tibo expresses impatience and hopes for this soon.
+- **Timestamp**: [36:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2175)
 
 ## Lightning round
 
-- **Books**: ['Neuromancer', 'Star Trek']
+- **Books**: ['Neuromancer', 'Star Trek (original series)']
 - **Products**: ['ChatGPT', 'Codex', 'Dots']
-- **Motto**: Break something, celebrate something.
-- **Advice**: Be a sponge, learn quickly, and solve truly important problems without putting yourself first.
+- **Motto**: Build for agents, not just humans.
+- **Advice**: Focus on taste, user thinking, and connecting with your audience. Learn quickly and absorb everything, like a sponge.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[ai-strategy]] · [[ai-tools]] · [[career]] · [[ecosystem]] · [[model-choice]] · [[human-taste]] · [[autonomy]]
+[[ai-agents]] · [[ai-strategy]] · [[ai-tools]] · [[career]]

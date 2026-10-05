@@ -6,47 +6,47 @@ source_summary: ../summaries/2026-10-04-the-end-of-the-app-era-what-comes-next.m
 source_transcript: ../transcripts/2026-10-04-the-end-of-the-app-era-what-comes-next.md
 source_summary_hash: sha256:033e104f22e70a1622d6513d5bb1b998fbf0b41cd0fe0e7627daaad4de3a7623
 source_transcript_hash: sha256:ecdd4c3a895796752f76cf7fddd93a4802b99edbdb3083d3e62ece76cfe78eca
-fill_id: 1989c477-d328-4b35-bd72-16f3efb0ca2a
-published_at: '2026-10-05T11:09:30.320393'
+fill_id: 17c63b12-c51b-45e2-a6b7-383e5feda0e8
+published_at: '2026-10-05T12:08:36.411151'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Software is splitting into data, application, and agent layers. Buyers and sellers must now negotiate each layer separately, because agents make interfaces optional and data the durable asset.
+Software is splitting into data, application, and agent layers. Buyers and sellers must navigate this new stack as agents become the primary interface, making data and workflows the durable value.
 
 ## The argument
 
 ### Define the three layers
-- **Anchor Timestamps**: ['00:24:45']
-- **Claim**: Every software offering now decomposes into a data layer (structured information agents can read), an application layer (interfaces and workflows), and an agent layer (AI that acts on data).
+- **Anchor Timestamps**: ['00:23:58']
+- **Claim**: The stack has three layers: data (who provides structured info), application (interfaces and workflows), and agent (AI that acts on data). Every software decision now involves all three.
 - **Role**: definition
 
-### Data is the durable asset
-- **Anchor Timestamps**: ['00:19:24']
-- **Claim**: When two providers offer equal execution, the one with better data and context wins. Agents commoditize interfaces, so the data layer becomes the reason customers keep paying.
+### Data is the moat
+- **Anchor Timestamps**: ['00:07:43']
+- **Claim**: Meta's Muse for Small Business connects to business data (Shopify, QuickBooks) because agents need data critically. Owning the data layer makes you indispensable even if users abandon your interface.
 - **Role**: evidence
 
 ### Workflows survive the interface
 - **Anchor Timestamps**: ['00:27:17']
-- **Claim**: Applications decompose into interfaces and workflows. Workflows — like payroll compliance — remain valuable even if the interface disappears, because they encode rules and reliability agents can't replace.
+- **Claim**: Applications decompose into interfaces and workflows. Workday's payroll workflow is compliant and valuable even if the interface changes — structured workflows on data are not going away.
 - **Role**: evidence
 
-### Agent layer demands flexibility
-- **Anchor Timestamps**: ['00:25:58']
-- **Claim**: Buyers must avoid lock-in by demanding an agent layer that supports multiple models. Salesforce's control panel and Claude partnership show how offering choice becomes a selling point.
-- **Role**: synthesis
+### Agents commoditize interfaces
+- **Anchor Timestamps**: ['00:18:27']
+- **Claim**: DoorDash's text ordering and MCP server show that losing the app moment doesn't lose the transaction. If two providers offer equal data and execution, agents make them replaceable — so you need more.
+- **Role**: counter
 
-### Vertical integration is now everyone's job
-- **Anchor Timestamps**: ['00:35:23']
-- **Claim**: Agents force every employee, buyer, and seller to think across all three layers. Individuals must share their AI workflows or risk losing them when vendors change.
+### Sell the whole stack
+- **Anchor Timestamps**: ['00:31:55']
+- **Claim**: Winning vendors offer plug-and-play workflows, accessible data, and multi-tenant agents. Salesforce positions as data layer plus agent gateway with Koa, proving the stack is the new value proposition.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-DoorDash's MCP server lets any agent order food, proving agents can bypass the app. Crust Data's case study shows a two-person recruiting firm building its own skill on top of Crust's API instead of buying a separate SaaS tool. Workday's payroll agent uses company rules and data to validate issues — the workflow stays valuable even if the interface changes. Caveats: Salesforce's Koa is in pilot, trained on synthetic data, not real customer data. DoorDash's MCP is a limited beta. The host admits not everyone will use command lines, and some workflows are too risky to build in-house.
+Caveats: Salesforce's Koa is pilot-stage and trained on synthetic data, not real customer data. DoorDash's MCP is a limited beta. Workday's payroll agent still requires human record-keeping and approval. The recruiting story is anonymized. The speaker notes that not everyone will use command lines, and that application layers aren't dead — they decompose into interfaces and workflows.
 
 ## Concepts surfaced
 
-[[agent-gateway]] · [[data-layer]] · [[application-layer]] · [[agent-layer]] · [[mcp-server]] · [[vertical-integration]]
+[[agent-gateway]] · [[data-layer]] · [[application-layer]] · [[agent-layer]] · [[mcp-server]]
