@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-04-why-most-actions-on-the-internet-will-so
 source_transcript: ../transcripts/2026-10-04-why-most-actions-on-the-internet-will-soon-be-taken-by-ai-op.md
 source_summary_hash: sha256:804552233aa8980bf994552e7d7e6f32f9bff0a6f625dacecdb1d79aab16e0c8
 source_transcript_hash: sha256:131c6821be1133dc69714b50336618a8c3a4c4159f2ce91f8d96f1bddd9d4773
-fill_id: 3c3238e0-a85d-477f-98b0-d9ddf878a887
-published_at: '2026-10-05T00:13:30.655357'
+fill_id: f37ef2d6-f92a-4e97-a48a-12786b581256
+published_at: '2026-10-05T01:13:41.540766'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Tibo Sottiaux
 - **Title**: Head of ChatGPT
 - **Org**: OpenAI
-- **Bio Oneliner**: OpenAI's head of ChatGPT, discussing the future of AI agents and the convergence of ChatGPT and Codex into a unified assistant.
+- **Bio Oneliner**: Leads ChatGPT at OpenAI, driving the shift to agentic AI and the 'Dots' assistant.
 - **Platform**: duo
 
 ## Cold open
@@ -32,27 +32,27 @@ provenance: agent:template-fill-v1
 
 ## Key arguments
 
-### Agents will dominate internet traffic
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=0)
-- **Summary**: Most actions on the internet will be performed by agents. Products must be built for scale and agent traffic, as seen with Notion's MCP, which saw a huge influx of traffic. This shift is inevitable and requires rethinking product interfaces.
+### Agents will dominate internet actions
+- **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
+- **Summary**: Tibo argues that most internet actions will soon be performed by AI agents, not humans. Products must be built for agent traffic, expecting scale and handling the economics of agent-driven usage. He cites Notion's MCP as an example of a surge in agent traffic.
 - **Anchor Quotes**: [0]
 
 ### From coding to orchestrating agent teams
 - **Timestamp**: [02:31](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=151)
-- **Summary**: Tibo no longer hand-codes; he uses Codex to write code for analysis and builds teams of agents that expand and contract with model breakthroughs. The future is about orchestrating agents, not manual coding.
+- **Summary**: Tibo describes his workflow: he no longer hand-codes but orchestrates teams of agents, which expand and contract with model breakthroughs. He emphasizes the shift from manual coding to managing agent teams, with a focus on taste and creativity over technical execution.
 - **Anchor Quotes**: [1]
 
-### Convergence into a unified 'Dots' assistant
-- **Timestamp**: [07:48](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=468)
-- **Summary**: ChatGPT and Codex will merge into a single 'Dots' assistant that works 24/7, learns from feedback, and is accessible through any client. The goal is to eliminate model choice and settings, making interaction seamless and natural.
+### Convergence into 'Dots' and seamless AI
+- **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
+- **Summary**: Tibo explains the vision of 'Dots' as a unified, always-available intelligence that works across devices, eliminating the need to choose between Codex and ChatGPT. He stresses the importance of removing complexity and making AI a natural extension of the user.
 
-### Open plugin ecosystem as the hidden hit
+### Open ecosystem and plugin economy
 - **Timestamp**: [12:47](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=767)
-- **Summary**: The open ecosystem for plugins is a key focus, with revenue sharing for popular plugins and a commitment to openness. Quality and retention drive recommendations, not SEO.
+- **Summary**: Tibo highlights the 'hidden hit' of the open plugin ecosystem, with revenue sharing for popular plugins. He advises creators to focus on quality and retention, as the system recommends plugins based on usage and success.
 
-### Human taste and creativity remain valuable
-- **Timestamp**: [17:09](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1029)
-- **Summary**: AI is an extension of human will and taste. While programmers may become creators, deeply human qualities like taste, creativity, and connection with audiences remain irreplaceable.
+### Safety and security investments
+- **Timestamp**: [34:30](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2070)
+- **Summary**: Tibo discusses OpenAI's significant investments in safety, including secondary monitoring systems and safeguards. He emphasizes the responsibility of serving 1.2 billion users and the importance of building secure, reliable AI.
 
 ## Quotes to remember
 
@@ -64,11 +64,15 @@ provenance: agent:template-fill-v1
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [03:56](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=236)
 
+### It's like we're discovering this technology together and learning what we can do together. It's at the same time very humbling, very inspiring.
+- **Speaker**: Tibo Sottiaux
+- **Timestamp**: [09:39](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=579)
+
 ### The hidden hit is the ecosystem. So let's open all this. And the commitment, the deep commitment that we have to discovering all of this.
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [12:47](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=767)
 
-### We may no longer have programmers, but we have more creators than ever. And I believe that there will remain something deeply human in this.
+### I think as long as we keep doing that, it allows you to just take what you want to do, your creativity and your taste, and kind of expand on it in a way that seems awesome at this point.
 - **Speaker**: Tibo Sottiaux
 - **Timestamp**: [17:09](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1029)
 
@@ -78,26 +82,26 @@ provenance: agent:template-fill-v1
 
 ## Predictions
 
-### Most actions on the internet will be performed by agents, and products must be built for scale and agent traffic.
-- **Hedge**: Inevitable, but requires building for it.
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=0)
-
-### Models will become cheaper and faster at an incredible rate, enabling seamless integration of all modalities.
-- **Hedge**: Based on current trends.
+### Most actions on the internet will be performed by agents.
+- **Hedge**: No explicit hedge.
 - **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
 
-### The next level of capabilities after Astra will be released, but with continued heavy investment in safety and security.
-- **Hedge**: We feel very confident about this.
-- **Timestamp**: [35:18](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2118)
+### Models will become cheaper and faster at an incredible rate, enabling seamless integration of all modalities.
+- **Hedge**: Implied by 'rate that is quite incredible'.
+- **Timestamp**: [31:35](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=1895)
+
+### We will reach a point where the program (UI) almost completely disappears, replaced by a simple, natural interface.
+- **Hedge**: Expressed as a desire, not a certainty.
+- **Timestamp**: [36:15](https://www.youtube.com/watch?v=MM-C3JqCXBk&t=2175)
 
 ## Lightning round
 
 - **Books**: ['Neuromancer', 'Star Trek (original series)']
-- **Media**: ['Star Trek']
-- **Products**: ['Codex', 'ChatGPT', 'Dots']
-- **Motto**: Build for the future, not the present.
-- **Advice**: For graduates: be kind, be a team player, solve important problems, and absorb knowledge quickly. The next Thibaut is already at OpenAI.
+- **Media**: ['Her (movie)']
+- **Products**: ['Codex', 'ChatGPT', 'Dots', 'Astra']
+- **Motto**: Build for agents, not just humans.
+- **Advice**: Focus on taste, user thinking, and connecting with your audience. Embrace learning and absorb knowledge quickly, like Ahmed Ibrahim.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[ai-strategy]] · [[ai-tools]] · [[career]]
+[[ai-agents]] · [[agent-orchestration]] · [[model-convergence]] · [[plugin-ecosystem]] · [[ai-safety]] · [[human-creativity]] · [[voice-interfaces]] · [[openai-dots]]
