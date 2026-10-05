@@ -6,49 +6,47 @@ source_summary: ../summaries/2026-10-04-the-end-of-the-app-era-what-comes-next.m
 source_transcript: ../transcripts/2026-10-04-the-end-of-the-app-era-what-comes-next.md
 source_summary_hash: sha256:033e104f22e70a1622d6513d5bb1b998fbf0b41cd0fe0e7627daaad4de3a7623
 source_transcript_hash: sha256:ecdd4c3a895796752f76cf7fddd93a4802b99edbdb3083d3e62ece76cfe78eca
-fill_id: ba856871-bc55-42ef-b345-c28c3ed1e3b6
-published_at: '2026-10-05T15:08:15.828505'
+fill_id: c9d40cb2-5f54-45c2-9738-8702de9d5a9d
+published_at: '2026-10-05T16:08:15.988437'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI agents are becoming the primary interface for software, shifting value from applications to data layers, structured workflows, and agent gateways. This forces a redefinition of the software stack, impacting buyers, sellers, and individual workers. Understanding the new three-layer stack—data, application, and agent—is crucial for navigating the changing landscape and avoiding vendor lock-in.
+NateBJones argues that AI agents are replacing direct app interfaces, forcing software companies to reposition around data layers, workflows, and agent gateways. He illustrates this with examples from Meta, Salesforce, Microsoft, and DoorDash, and introduces a three-layer stack—data, application, agent—to help buyers and sellers navigate the shift.
 
 ## The argument
 
-### The New Software Stack: Data, Application, Agent
-- **Anchor Timestamps**: ['00:23:58']
-- **Claim**: The software stack is now defined by three distinct layers: the data layer, the application layer, and the agent layer. Understanding your position in each is essential for both buyers and sellers. This framework replaces the old monolithic view of software as a single application.
+### The Agent Displaces the App Interface
+- **Anchor Timestamps**: ['00:00:51']
+- **Claim**: When an agent handles tasks like reading contracts, reviewing sales notes, and creating launch plans, the traditional software tool becomes less indispensable. The agent accumulates tacit knowledge—like client-specific security approvals—that makes it harder to replace than the old app.
 - **Role**: definition
 
-### The Recruiting Tool Example: Data Becomes the Product
-- **Anchor Timestamps**: ['00:02:00']
-- **Claim**: A recruiting tool's value shifts from its interface to its data. As an agent takes over the workflow, the user stops opening the app, but the company still profits by selling candidate data. The agent, trained by the user, becomes more valuable than the original software, illustrating the new economics.
+### The Three-Layer Stack: Data, Application, Agent
+- **Anchor Timestamps**: ['00:23:58']
+- **Claim**: Software value now splits into three layers: the data layer (who owns the information), the application layer (the interface or workflow), and the agent layer (the AI that acts). Understanding your position in each layer is essential for both buyers and sellers.
+- **Role**: definition
+
+### Vendor Strategies: From Meta to Salesforce to Microsoft
+- **Anchor Timestamps**: ['00:07:43']
+- **Claim**: Meta's Muse for Small Business connects to data layers like Shopify and QuickBooks. Salesforce leverages its data and distribution with Koa, a reasoning model, while Microsoft positions as a control plane with Azure, Copilot, and Autopilot. Each aims to remain indispensable by owning a layer.
 - **Role**: evidence
 
-### The Vendor Lock-In Problem
-- **Anchor Timestamps**: ['00:02:50']
-- **Claim**: The trained agent, personalized with user knowledge, becomes a source of lock-in. Changing AI vendors becomes difficult because the accumulated context and workflow are not easily transferable. This creates a hidden cost and a strategic challenge for companies, as the CFO may not see the value in the current setup.
+### The Buyer's Dilemma: Vendor Lock-In and Hidden Workflows
+- **Anchor Timestamps**: ['00:20:11']
+- **Claim**: As employees develop idiosyncratic AI workflows, changing AI vendors becomes costly and disruptive. Buyers must understand these hidden workflows to avoid losing productivity, and employees should share their AI usage to protect their own value.
 - **Role**: counter
 
-### The Strategic Positioning of Giants: Salesforce and Microsoft
-- **Anchor Timestamps**: ['00:09:47']
-- **Claim**: Salesforce and Microsoft are leveraging their data layers and distribution to become agent gateways. Salesforce's Koa model and Microsoft's Autopilot are attempts to control the agent layer, offering a 'control plane' for enterprise AI. They aim to be the trusted intermediary, not just a software provider.
-- **Role**: evidence
-
-### The New Imperative: Sell the Future, Not the App
+### The New Value Proposition: Selling Workflows and Results
 - **Anchor Timestamps**: ['00:31:55']
-- **Claim**: Software vendors must now sell a vision for 2027, not just today's product. The value proposition is about plug-and-play workflows, accessible data layers, and flexible agent integration. Buyers are purchasing a belief that the vendor will remain relevant as AI evolves, making the sales pitch about future-proofing.
+- **Claim**: Software vendors must now sell plug-and-play workflows that are easy to integrate with AI, with accessible data layers and flexible agent options. The winning proposition is delivering differential value that accelerates business outcomes, not just an app.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The video uses several real-world examples to illustrate the shift. DoorDash's text-based ordering and MCP integration show how even consumer apps are becoming agent gateways. Crust Data's case study of a two-person recruiting firm building a custom skill on their API demonstrates the move from buying a full SaaS tool to buying structured data. Workday's payroll agent highlights the importance of complex, compliant workflows that agents can enhance. 
-
-However, the speaker notes that not all software is easily replaced. Payroll, for instance, is a high-risk area where companies are unlikely to build their own solutions. The speaker also cautions that individual AI usage is idiosyncratic and often hidden, creating a risk of losing productivity if vendors change. He advises employees to share their AI workflows with managers to protect their own interests and help the company make better decisions. The speaker acknowledges that this new complexity is a challenge but frames it as an opportunity for software to redefine its value.
+NateBJones uses a recruiting example where an agent replaces a traditional tool, but the data provider still gets paid. He also cites Crust Data's case study of a two-person recruiting firm building its own skill on top of the API, and Workday's payroll agent that relies on existing knowledge and workflows. He notes that DoorDash's MCP beta and text ordering show how even consumer services are becoming agent-ready. Caveats: Koa is in pilot, not widely available; Salesforce trains on synthetic data, not real customer data. He acknowledges that not all employees will have their AI usage reviewed by CFOs, but encourages sharing workflows to avoid being trapped by vendor changes.
 
 ## Concepts surfaced
 
-[[agent-gateways]] · [[data-layer]] · [[application-layer]] · [[agent-layer]] · [[vendor-lock-in]] · [[ai-adoption]]
+[[agent-gateways]] · [[data-layer]] · [[application-layer]] · [[agent-layer]] · [[vendor-lock-in]] · [[ai-workflows]]
