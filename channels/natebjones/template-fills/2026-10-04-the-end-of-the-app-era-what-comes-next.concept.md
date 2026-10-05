@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-04-the-end-of-the-app-era-what-comes-next.m
 source_transcript: ../transcripts/2026-10-04-the-end-of-the-app-era-what-comes-next.md
 source_summary_hash: sha256:033e104f22e70a1622d6513d5bb1b998fbf0b41cd0fe0e7627daaad4de3a7623
 source_transcript_hash: sha256:ecdd4c3a895796752f76cf7fddd93a4802b99edbdb3083d3e62ece76cfe78eca
-fill_id: 882c2cdf-3e45-40f6-a1cc-ea652cb384d1
-published_at: '2026-10-05T05:13:38.038227'
+fill_id: bc20f86b-c02e-495c-b7e9-813b46733cc9
+published_at: '2026-10-05T06:13:45.250750'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Software is shifting from selling applications to selling data layers, workflows, and agent gateways. Buyers and sellers must understand the new three-layer stack—data, application, and agent—to navigate the changing landscape and avoid vendor lock-in. This video explains how to think about and position software in 2026 and 2027.
+Software is shifting from apps to a three-layer stack: data, application, and agent. Agents are becoming the primary interface, making the application layer less indispensable while data and workflows gain value. Buyers and sellers must understand this stack to navigate the changing landscape and avoid vendor lock-in.
 
 ## The argument
 
-### Define the Three-Layer Stack
-- **Anchor Timestamps**: ['00:23:58']
-- **Claim**: The software stack is now composed of three distinct layers: the data layer, the application layer, and the agent layer. Understanding your position in each is crucial for both buyers and sellers, as agents force a vertical integration of these layers.
+### Agents Replace App Interfaces
+- **Anchor Timestamps**: ['00:00:51']
+- **Claim**: As agents take over tasks like reading contracts and creating launch plans, users stop opening traditional apps. The app becomes less indispensable, while the trained agent—with its accumulated context—becomes harder to replace. This is the core risk for SaaS.
 - **Role**: definition
 
-### Agents Shift Value to Data and Workflows
-- **Anchor Timestamps**: ['00:02:00']
-- **Claim**: When agents handle tasks, the application interface becomes less important, but the underlying data and workflows gain value. The recruiting example shows that a data provider remains essential, while the tool that displays it becomes replaceable.
+### Data and Workflows Gain Value
+- **Anchor Timestamps**: ['00:22:27']
+- **Claim**: In the agent era, the data layer and structured workflows become the primary sources of value. Examples like Crust Data and Workday show that data providers can move up the stack, and compliant workflows remain essential even as interfaces change.
 - **Role**: evidence
 
-### Counter: Application Layer Isn't Dead
+### The Application Layer Isn't Dead
 - **Anchor Timestamps**: ['00:27:17']
-- **Claim**: The application layer is not dead; it decomposes into interfaces and workflows. Structured workflows, like those in payroll, remain highly valuable and compliant, even if the interface changes. Agents help users navigate complexity, not replace the need for structured processes.
+- **Claim**: Applications must be decomposed into interfaces and workflows. While interfaces may change, structured workflows—like payroll—remain valuable. The application layer persists, but its role shifts from interface to workflow provider.
 - **Role**: counter
 
-### Synthesis: The New Value Proposition
-- **Anchor Timestamps**: ['00:31:55']
-- **Claim**: Sellers must position themselves as plug-and-play systems that are easy to integrate with AI, with accessible data layers and flexible agent layers. Buyers must understand their unique stack to avoid losing productivity and to make informed decisions.
+### The Three-Layer Stack as a Mental Model
+- **Anchor Timestamps**: ['00:23:58']
+- **Claim**: To navigate this shift, everyone—employees, buyers, and sellers—must understand their position across three layers: data, application, and agent. This framework clarifies where value is created and how to discuss it, avoiding the trap of vendor lock-in.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Examples: DoorDash's agent and MCP server show how companies can win even if users never open the app. Salesforce's Koa model and agent gateway illustrate a data-layer-plus-agent strategy. Workday's payroll agent demonstrates the value of structured workflows. Caveats: The speaker notes that not everyone will use command lines, and that individual workflows are idiosyncratic, making vendor changes difficult. He also acknowledges that not all AI investments are straightforward, and that leaders must dig deep into team usage to understand real needs.
+The recruiting story illustrates how an agent can replace a tool, but the data provider still gets paid. Crust Data's case shows a two-person firm building its own skill on top of an API, while Workday's payroll agent relies on existing workflows. However, the speaker notes that not all workflows are easily replaced—payroll compliance is too risky to DIY. He also cautions that the application layer isn't dead; it's just decomposed. The speaker emphasizes that buyers must understand their unique data and workflow situations, and that individuals should share their AI usage to avoid being trapped by vendor changes.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[saas]] · [[data-layer]] · [[agent-gateway]] · [[mcp]] · [[vendor-lock-in]]
+[[ai-agents]] · [[saas]] · [[data-layer]] · [[agent-gateway]] · [[vendor-lock-in]] · [[workflow-automation]]
