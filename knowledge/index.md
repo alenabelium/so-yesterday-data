@@ -1,12 +1,12 @@
 ---
 title: "Knowledge Base Index"
-generated: "2026-10-05"
-total_concepts: 121
+generated: "2026-10-06"
+total_concepts: 123
 ---
 
 # Knowledge Base Index
 
-Master catalog of 121 concepts. One-line summaries for LLM navigation.
+Master catalog of 123 concepts. One-line summaries for LLM navigation.
 
 ## LLM Fundamentals
 
@@ -55,6 +55,7 @@ Master catalog of 121 concepts. One-line summaries for LLM navigation.
 - **[Token Economics](/knowledge/token-economics)** [high] — The economics of AI model usage measured in tokens — pricing, cost optimization, and business models.
 - **[Transformer Architecture](/knowledge/transformer-architecture)** [high] — The neural network architecture behind all modern LLMs, based on the self-attention mechanism.
 - **[World Model](/knowledge/world-model)** [medium] — A learned internal simulator of environment dynamics that lets an AI plan and predict outcomes — the bridge from language models to physical and interactive AI.
+- **[World Models](/knowledge/world-models)** [high] — AI systems that learn the spatial and physical dynamics of environments well enough to simulate them — the frontier beyond text-trained language models.
 
 ## AI Agents & Tools
 
@@ -115,6 +116,7 @@ Master catalog of 121 concepts. One-line summaries for LLM navigation.
 - **[Rejection Competency](/knowledge/rejection-competency)** [high] — The ability to critically evaluate and reject subpar AI outputs rather than accepting them.
 - **[Sovereign Wealth Funds](/knowledge/sovereign-wealth-funds)** [high] — Government-owned investment funds as a mechanism for distributing AI-generated wealth to citizens.
 - **[Sovereign Wealth Funds (AI)](/knowledge/sovereign-wealth-fund)** [medium] — State-controlled capital as themega-investor class of the AI buildout — infrastructure, chips, and lab stakes.
+- **[Superpowered Individual](/knowledge/superpowered-individual)** [high] — A single expert using AI to ship end-to-end what previously required a team — Marc Andreessen's 'superpowered individual' and Elena Verna's High Impact Individual Contributor (HI-IC) are the same career bet.
 - **[The 70% Problem](/knowledge/the-70-percent-problem)** [high] — The challenge where AI quickly produces 70% quality output but getting to 95% requires real human skill.
 - **[The Compounding Gap](/knowledge/compounding-gap)** [high] — The exponentially widening gap between those who adopt AI tools early and those who delay.
 - **[The Observer Mindset](/knowledge/the-observer-mindset)** [high] — The pattern of watching AI developments from the sidelines, waiting for clarity before committing.
@@ -158,4 +160,4 @@ Master catalog of 121 concepts. One-line summaries for LLM navigation.
 
 ## All Slugs (quick lookup)
 
-`agent`, `agent-orchestration`, `agent-swarm`, `agentic`, `agentic-ai`, `agentic-coding`, `agentic-workflows`, `agi`, `ai-agents`, `ai-alignment`, `ai-assistant`, `ai-coding-levels`, `ai-ethics`, `ai-governance`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-security`, `ai-strategy`, `ai-video-generation`, `alignment`, `anthropic`, `automation`, `autonomous-agent`, `autonomous-agents`, `benchmarking`, `benchmarks`, `blast-radius`, `brain-computer-interface`, `chain-of-thought`, `chatgpt`, `claude`, `claude-code`, `codex`, `coding`, `compounding-gap`, `compute-scarcity`, `computer-use`, `constraint-encoding`, `context-engineering`, `context-window`, `context-window-management`, `copilot`, `cursor`, `dark-code`, `data-center`, `disposable-software`, `domain-translation`, `emergent-behavior`, `enterprise-ai`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `google-deepmind`, `grok`, `hallucination`, `hardware`, `high-agency`, `huggingface`, `human-in-the-loop`, `humanoid-robotics`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `llm`, `local-inference`, `long-context`, `longevity-escape-velocity`, `mcp`, `mixture-of-experts`, `model-distillation`, `model-efficiency`, `multi-agent-systems`, `multimodal-ai`, `open-source`, `open-source-ai`, `open-source-models`, `open-weight-models`, `openai`, `openclaw`, `orbital-compute`, `permission-gap`, `physical-ai`, `post-labor-economics`, `product-management`, `prompt-engineering`, `prompt-injection`, `qwen`, `rag`, `reasoning`, `recursive-self-improvement`, `rejection-competency`, `robotics`, `scaling-laws`, `second-brain`, `singularity`, `sniff-checking`, `software-engineering`, `solo-operator`, `sovereign-wealth-fund`, `sovereign-wealth-funds`, `specification-quality`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`, `video-generation`, `world-model`
+`agent`, `agent-orchestration`, `agent-swarm`, `agentic`, `agentic-ai`, `agentic-coding`, `agentic-workflows`, `agi`, `ai-agents`, `ai-alignment`, `ai-assistant`, `ai-coding-levels`, `ai-ethics`, `ai-governance`, `ai-infrastructure`, `ai-music-generation`, `ai-native-economics`, `ai-regulation`, `ai-safety-research`, `ai-security`, `ai-strategy`, `ai-video-generation`, `alignment`, `anthropic`, `automation`, `autonomous-agent`, `autonomous-agents`, `benchmarking`, `benchmarks`, `blast-radius`, `brain-computer-interface`, `chain-of-thought`, `chatgpt`, `claude`, `claude-code`, `codex`, `coding`, `compounding-gap`, `compute-scarcity`, `computer-use`, `constraint-encoding`, `context-engineering`, `context-window`, `context-window-management`, `copilot`, `cursor`, `dark-code`, `data-center`, `disposable-software`, `domain-translation`, `emergent-behavior`, `enterprise-ai`, `evals`, `fine-tuning`, `frontier-labs`, `frontier-recognition`, `google-deepmind`, `grok`, `hallucination`, `hardware`, `high-agency`, `huggingface`, `human-in-the-loop`, `humanoid-robotics`, `identity-threat`, `inference`, `intent-engineering`, `job-market-bifurcation`, `llm`, `local-inference`, `long-context`, `longevity-escape-velocity`, `mcp`, `mixture-of-experts`, `model-distillation`, `model-efficiency`, `multi-agent-systems`, `multimodal-ai`, `open-source`, `open-source-ai`, `open-source-models`, `open-weight-models`, `openai`, `openclaw`, `orbital-compute`, `permission-gap`, `physical-ai`, `post-labor-economics`, `product-management`, `prompt-engineering`, `prompt-injection`, `qwen`, `rag`, `reasoning`, `recursive-self-improvement`, `rejection-competency`, `robotics`, `scaling-laws`, `second-brain`, `singularity`, `sniff-checking`, `software-engineering`, `solo-operator`, `sovereign-wealth-fund`, `sovereign-wealth-funds`, `specification-quality`, `superpowered-individual`, `synthetic-data`, `task-decomposition`, `the-70-percent-problem`, `the-displaced-expert`, `the-observer-mindset`, `three-layers-of-work`, `three-week-cliff`, `token`, `token-economics`, `tool-use`, `training`, `transformer-architecture`, `vibe-coding`, `video-generation`, `world-model`, `world-models`

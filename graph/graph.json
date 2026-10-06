@@ -1494,6 +1494,20 @@
       "url": "/knowledge/specification-quality"
     },
     {
+      "id": "superpowered-individual",
+      "label": "Superpowered Individual",
+      "title": "Superpowered Individual\nA single expert using AI to ship end-to-end what previously required a team \u2014 Marc Andreessen's 'superpowered individual' and Elena Verna's High Impact Individual Contributor (HI-IC) are the same career bet.\nReferenced by 790 sources",
+      "group": "Strategy & Career",
+      "color": "#f59e0b",
+      "size": 45,
+      "confidence": "high",
+      "tags": [
+        "ai-strategy",
+        "career"
+      ],
+      "url": "/knowledge/superpowered-individual"
+    },
+    {
       "id": "synthetic-data",
       "label": "Synthetic Data",
       "title": "Synthetic Data\nMachine-generated training data used to improve AI models, overcoming data scarcity and privacy constraints.\nReferenced by 820 sources",
@@ -1702,6 +1716,20 @@
         "ai-agents"
       ],
       "url": "/knowledge/world-model"
+    },
+    {
+      "id": "world-models",
+      "label": "World Models",
+      "title": "World Models\nAI systems that learn the spatial and physical dynamics of environments well enough to simulate them \u2014 the frontier beyond text-trained language models.\nReferenced by 821 sources",
+      "group": "Strategy & Career",
+      "color": "#f59e0b",
+      "size": 45,
+      "confidence": "high",
+      "tags": [
+        "ai-strategy",
+        "llm-fundamentals"
+      ],
+      "url": "/knowledge/world-models"
     }
   ],
   "edges": [
@@ -2948,6 +2976,14 @@
     {
       "from": "chatgpt",
       "to": "transformer-architecture",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "chatgpt",
+      "to": "world-models",
       "color": {
         "color": "#334155",
         "opacity": 0.6
@@ -4978,6 +5014,54 @@
       }
     },
     {
+      "from": "superpowered-individual",
+      "to": "high-agency",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "superpowered-individual",
+      "to": "three-layers-of-work",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "superpowered-individual",
+      "to": "the-70-percent-problem",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "superpowered-individual",
+      "to": "compounding-gap",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "superpowered-individual",
+      "to": "solo-operator",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "superpowered-individual",
+      "to": "post-labor-economics",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
       "from": "synthetic-data",
       "to": "fine-tuning",
       "color": {
@@ -5236,6 +5320,14 @@
     {
       "from": "world-model",
       "to": "benchmarks",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "world-models",
+      "to": "physical-ai",
       "color": {
         "color": "#334155",
         "opacity": 0.6
