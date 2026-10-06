@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-05T04:20:00Z",
+  "generated_at": "2026-10-06T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-07-08",
-      "2026-10-05"
+      "2026-07-09",
+      "2026-10-06"
     ],
     "prior": [
-      "2026-04-09",
-      "2026-07-07"
+      "2026-04-10",
+      "2026-07-08"
     ]
   },
   "tags": [
@@ -22,29 +22,29 @@
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.5,
-      "delta": 28.8,
+      "current_per_100": 54.3,
+      "delta": 28.6,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.2,
-      "delta": -24.1,
+      "current_per_100": 23.1,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 24.1,
+      "delta": 23.7,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 44.9,
-      "current_per_100": 21.9,
-      "delta": -23.0,
+      "current_per_100": 21.8,
+      "delta": -23.1,
       "direction": "fading"
     },
     {
@@ -57,8 +57,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 26.6,
-      "current_per_100": 7.9,
-      "delta": -18.7,
+      "current_per_100": 8.0,
+      "delta": -18.6,
       "direction": "fading"
     },
     {
@@ -71,8 +71,8 @@
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.6,
-      "delta": 12.2,
+      "current_per_100": 43.5,
+      "delta": 12.1,
       "direction": "rising"
     },
     {
@@ -85,15 +85,15 @@
     {
       "tag": "tutorials",
       "prior_per_100": 13.7,
-      "current_per_100": 9.6,
-      "delta": -4.1,
+      "current_per_100": 9.5,
+      "delta": -4.2,
       "direction": "stable"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 16.6,
-      "current_per_100": 20.6,
-      "delta": 4.0,
+      "current_per_100": 20.5,
+      "delta": 3.9,
       "direction": "stable"
     },
     {
@@ -111,6 +111,20 @@
       "direction": "stable"
     },
     {
+      "tag": "innovation",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.4,
+      "delta": 0.4,
+      "direction": "stable"
+    },
+    {
+      "tag": "leadership",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.4,
+      "delta": 0.4,
+      "direction": "stable"
+    },
+    {
       "tag": "philosophy",
       "prior_per_100": 0.0,
       "current_per_100": 0.4,
@@ -125,14 +139,7 @@
       "direction": "stable"
     },
     {
-      "tag": "innovation",
-      "prior_per_100": 0.0,
-      "current_per_100": 0.2,
-      "delta": 0.2,
-      "direction": "stable"
-    },
-    {
-      "tag": "leadership",
+      "tag": "moonshots",
       "prior_per_100": 0.0,
       "current_per_100": 0.2,
       "delta": 0.2,
@@ -164,15 +171,15 @@
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.5,
-      "delta": 28.8,
+      "current_per_100": 54.3,
+      "delta": 28.6,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 24.1,
+      "delta": 23.7,
       "direction": "rising"
     },
     {
@@ -185,8 +192,8 @@
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.6,
-      "delta": 12.2,
+      "current_per_100": 43.5,
+      "delta": 12.1,
       "direction": "rising"
     }
   ],
@@ -194,15 +201,15 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.2,
-      "delta": -24.1,
+      "current_per_100": 23.1,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 44.9,
-      "current_per_100": 21.9,
-      "delta": -23.0,
+      "current_per_100": 21.8,
+      "delta": -23.1,
       "direction": "fading"
     },
     {
@@ -215,8 +222,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 26.6,
-      "current_per_100": 7.9,
-      "delta": -18.7,
+      "current_per_100": 8.0,
+      "delta": -18.6,
       "direction": "fading"
     },
     {
@@ -228,8 +235,8 @@
     }
   ],
   "concepts": {
-    "published_total": 121,
-    "current_window": 47,
+    "published_total": 123,
+    "current_window": 49,
     "prior_window": 74
   }
 }
