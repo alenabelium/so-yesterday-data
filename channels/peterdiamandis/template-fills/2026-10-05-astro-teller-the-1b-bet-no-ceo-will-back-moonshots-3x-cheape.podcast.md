@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-05-astro-teller-the-1b-bet-no-ceo-will-back
 source_transcript: ../transcripts/2026-10-05-astro-teller-the-1b-bet-no-ceo-will-back-moonshots-3x-cheape.md
 source_summary_hash: sha256:4847c26fd8854f7c9c664c35c816283817d0d34e482e0f859f10df44c7900708
 source_transcript_hash: sha256:bac5bb9381ce692ac443e70b99b059395cb18e1a64b0b2182992ca96df0e1f69
-fill_id: 9cc89993-be3c-4d6d-b010-e227a1122e03
-published_at: '2026-10-06T05:13:25.815337'
+fill_id: e12869da-87f6-4b23-9b7a-792bebb5686e
+published_at: '2026-10-06T06:13:27.917798'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -26,77 +26,81 @@ provenance: agent:template-fill-v1
 - **Attribution**: Astro Teller
 - **Timestamp**: [01:06](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=66)
 
-### You must have great courage. You must be willing to put aside your skepticism for sound reasons and embark on unlikely journeys that can actually profoundly help the world.
+### You must have great courage. You must be willing to put aside your skepticism for sound reasons and embark on unlikely journeys that can actually profoundly help the world. But the second thing you must have in equal measure is humility.
 - **Attribution**: Astro Teller
 - **Timestamp**: [02:24](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=144)
 
-### We take on 100 to 200 ideas a year that progress far enough to get a code name. Of these, about 5-6 years later, we release two 'moonshots' of X.
+### We take on 100 to 200 ideas a year that progress far enough to get a code name. Of these, about 5-6 years later, we release two 'moonshots' of X. So, the success rate is 2%.
 - **Attribution**: Astro Teller
 - **Timestamp**: [05:17](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=317)
 
+### Implementing ambitious projects is very, very easy. If you don't care about efficiency. You just find super-energetic people who are somewhat deceptively optimistic, pour a bunch of money into them, and you're sure to get ambitious projects.
+- **Attribution**: Astro Teller
+- **Timestamp**: [13:19](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=799)
+
 ## Key arguments
 
-### Moonshots need courage and humility in equal measure
+### Moonshots need courage and humility
 - **Timestamp**: [02:24](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=144)
-- **Summary**: Astro argues that moonshot teams must balance courage to pursue unlikely ideas with humility to acknowledge they probably won't work, enabling quick, cheap failure and pivot to the next ambitious project.
+- **Summary**: Astro Teller argues that moonshot teams must balance courage to pursue unlikely ideas with humility to acknowledge their low probability of success, enabling quick and cheap failure to move on to the next big bet.
 - **Anchor Quotes**: [1]
 
-### Techno-economics weeds out moonshots early
+### Techno-economics weeds out moonshots
 - **Timestamp**: [03:28](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=208)
-- **Summary**: Astro explains that many promising ideas fail on techno-economic grounds: even best-case material costs and willingness to pay can't support a sustainable business, so they're dismissed early.
+- **Summary**: Teller explains that many ambitious projects fail on techno-economics: the raw cost of materials and what people will pay. First-principles thinking can eliminate ideas early if they can't become sustainable businesses.
 
-### AI is making moonshots cheaper and faster
-- **Timestamp**: [06:04](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=364)
-- **Summary**: Astro notes that AI shortens the time from crazy idea to de-risked evidence, and over 16 years the cost of achieving results at X has dropped about threefold, partly due to AI.
+### AI is a technical detail, not the focus
+- **Timestamp**: [25:50](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=1550)
+- **Summary**: Teller reframes AI as a background tool, like electricity, that accelerates innovation. X's moonshots are teams of people and agents working together, but the focus remains on solving the problem and building a sustainable business.
 
 ### Culture is the hardest part to replicate
 - **Timestamp**: [37:15](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=2235)
-- **Summary**: Astro emphasizes that the most difficult part of X to reproduce is a leadership team maniacally focused on creating a culture that tolerates failure and encourages radical thinking, not the technology or money.
+- **Summary**: Teller asserts that the most difficult part of X to reproduce is a leadership team maniacally focused on creating a culture that tolerates failure, encourages intellectual honesty, and keeps moonshot teams on the periphery.
 
 ## Quotes to remember
 
-### Any innovation is an overnight success that took 15-20 years to achieve. And only because the general public is learning about it in the 18th year of the journey does it seem like it happened suddenly.
+### You must have great courage. You must be willing to put aside your skepticism for sound reasons and embark on unlikely journeys that can actually profoundly help the world. But the second thing you must have in equal measure is humility.
 - **Speaker**: Astro Teller
-- **Timestamp**: [08:08](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=488)
+- **Timestamp**: [02:24](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=144)
 
-### If you can make water clean, if you can extract it from the atmosphere, if you can desalinate it for ten times less, you have to get it to about a penny a liter for it to really change the world.
+### We take on 100 to 200 ideas a year that progress far enough to get a code name. Of these, about 5-6 years later, we release two 'moonshots' of X. So, the success rate is 2%.
 - **Speaker**: Astro Teller
-- **Timestamp**: [09:04](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=544)
+- **Timestamp**: [05:17](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=317)
 
 ### Implementing ambitious projects is very, very easy. If you don't care about efficiency. You just find super-energetic people who are somewhat deceptively optimistic, pour a bunch of money into them, and you're sure to get ambitious projects.
 - **Speaker**: Astro Teller
 - **Timestamp**: [13:19](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=799)
 
+### Forget about the pedestal, just focus on the monkey. If you can train a monkey, we can always build a pedestal later, and if you can't train a monkey, thank God we didn't waste Alphabet's money and our time on that.
+- **Speaker**: Astro Teller
+- **Timestamp**: [30:57](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=1857)
+
 ### You don't need a lecture on innovation, you need a new leader.
 - **Speaker**: Astro Teller
 - **Timestamp**: [17:00](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=1020)
 
-### The cost of a false positive, when we believe a project is breakthrough, fund it for years, and then it turns out that it isn't, is very high—potentially tens of millions of dollars. The cost of a false negative result, when it's actually a breakthrough but I gave up on it, is zero.
-- **Speaker**: Astro Teller
-- **Timestamp**: [35:04](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=2104)
-
 ## Predictions
 
-### AI will allow us to raise the bar of courage even higher, setting more ambitious goals and doing more in a shorter time.
-- **Hedge**: I hope that AI will allow us to raise the bar of courage even higher.
+### The cost of achieving moonshot results will continue to decrease by 10-20% per year, driven by AI and better processes.
+- **Hedge**: It's a lagging indicator and there are many losses and difficulties.
+- **Timestamp**: [20:46](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=1246)
+
+### AI will shorten the time from crazy idea to de-risked project, allowing more ambitious goals to be set.
+- **Hedge**: The structure of moonshots will remain the same.
 - **Timestamp**: [06:04](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=364)
 
-### We will see a lot more 'breakthrough idea factories' in the future, as large companies and countries want to open their own.
-- **Hedge**: I expect you will see a lot more of these initiatives in the future.
+### There will be more 'breakthrough idea factories' in the future as large companies and countries seek to open their own.
+- **Hedge**: Not sure exactly how we can help them.
 - **Timestamp**: [14:46](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=886)
-
-### The cost of achieving results at X will continue to decrease by 10-20% per year, partly due to AI.
-- **Hedge**: I don't know, 10-20% every year, something like that.
-- **Timestamp**: [20:46](https://www.youtube.com/watch?v=FO8VXvS8aw4&t=1246)
 
 ## Lightning round
 
-- **Books**: ['Solve Everything (by Alex and Peter)']
+- **Books**: ['Solve Everything by Peter Diamandis and Alex', 'Moonshot Podcast']
 - **Media**: ['Moonshot Podcast']
-- **Products**: ["X's certification workshop"]
+- **Products**: ['Moonshot Factory certification workshop']
 - **Motto**: Find the cheat in the game called life.
-- **Advice**: Focus on the monkey, not the pedestal. If you can train the monkey, you can always build the pedestal later.
+- **Advice**: Focus on the monkey, not the pedestal. Find out as quickly and cheaply as possible if your moonshot is possible, and don't be afraid to kill it if it's not.
 
 ## Concepts surfaced
 
-[[moonshot-factory]] · [[first-principles-thinking]] · [[techno-economics]] · [[artificial-intelligence]] · [[organizational-culture]] · [[rapid-prototyping]] · [[clean-water]] · [[energy-storage]]
+[[moonshot-factory]] · [[first-principles-thinking]] · [[techno-economics]] · [[artificial-intelligence]] · [[organizational-culture]] · [[radical-innovation]] · [[skunk-works]] · [[great-stagnation]]
