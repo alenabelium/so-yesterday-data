@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-02-openclaw-was-too-dangerous-to-install-7-
 source_transcript: ../transcripts/2026-10-02-openclaw-was-too-dangerous-to-install-7-months-later-microso.md
 source_summary_hash: sha256:f340378f6ac7d4709e235b8873ec77bbf08269f8d8b38168fa5f8968619126df
 source_transcript_hash: sha256:b7b953987f939a228604dae7e6a7ba45c0df140dcf31726a2be53a871a3b09e8
-fill_id: 95e47a4f-fbe1-4d8a-83e7-c48b4946b158
-published_at: '2026-10-06T02:37:01.033033'
+fill_id: b39205c9-66b0-4f41-b701-f07b3370e4a1
+published_at: '2026-10-06T03:36:59.191267'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,19 +18,15 @@ Microsoft's Autopilot, built on OpenClaw, will reach far more workers than any o
 
 ## Argument
 
-The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in Excel, Outlook, and Teams—where people already work. The agent is not smarter; it's everywhere. Value comes from the data it can access and how well you use it. This creates a K-shaped future: some people get vastly different results from the same tools.
-
-To stay on the upward slope, you must define what "good" looks like for a real task, give the model the right context and data, and check that it actually used them. Then make the task repeatable—set triggers, responsibilities, and limits. Match reasoning to complexity: don't use a cheap model for a hard problem, and don't send the same request expecting a different result. Finally, obsess over improving the next run: find out why a commitment was missed, fix the cause, and share what works.
-
-Microsoft's advantage is trust and existing relationships. It doesn't need to win every model comparison; it just needs to be useful and manageable enough for companies to expand what they let it do. But the strongest counterargument is that better models can redesign processes entirely, making Microsoft's workflows obsolete. Anthropic's Claude, with its Excel and PowerPoint add-ins, could become the place people go to get work done, even if Microsoft keeps the documents. The real competition is not about who can use Excel, but who understands the job well enough that we keep coming back to delegate work to it.
+The mechanism is distribution. Microsoft's 450 million paid Microsoft 365 seats dwarf OpenAI's 9 million business users, and Autopilot is embedded in the tools people already use—Excel, Outlook, Teams. This isn't about being smarter; it's about being everywhere. The real value comes from the data it can access and how well you use it. The future is K-shaped: people with the same tools get vastly different results. To land on the upward slope, you need five practices. First, define what 'good' looks like for a real task—tell the AI what a useful outcome is, not just 'summarize everything.' Second, give the model the right context and verify it used it: provide account plans, commitments, and service data, and ask for evidence links. Third, make good tasks repeatable—set triggers, schedules, and limits, and test each run. Fourth, match reasoning to complexity: separate routine prep from deep interpretation, and give hard problems the context they need. Fifth, obsess over improving the next run—fix the cause of failures, save what works, and share with colleagues. Microsoft's advantage is trust and existing relationships, but Anthropic and Meta are contenders, and the real competition is about who understands the job well enough to keep you delegating to them.
 
 ## Counterpoints
 
-- A sufficiently powerful model can find more efficient ways to do corporate work, eliminating the need for weekly reports and meetings that exist only to coordinate human activity.
+- A sufficiently powerful model can find more efficient ways to do corporate work, potentially eliminating the need for the processes you automate.
 - Microsoft doesn't have its own frontier model, so it may lose to labs like Anthropic that can redesign workflows from scratch.
-- Automatic routing may cost more tokens than just using a smart model, especially for complex new problems that require significant reasoning to even identify.
-- Meta's Enterprise Platform and Muse target small businesses with customer data, creating a new competitive front against Microsoft's workplace dominance.
+- Autopilot's router may waste tokens figuring out task complexity, making it less efficient than just using a smart model.
+- Meta's enterprise platform and data could challenge Microsoft's workplace dominance by targeting customer relationships.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[enterprise-ai]] · [[model-routing]] · [[data-access]] · [[prompt-engineering]] · [[ai-adoption]]
+[[ai-agents]] · [[data-access]] · [[user-skill]] · [[model-routing]] · [[enterprise-ai]] · [[k-shaped-future]]
