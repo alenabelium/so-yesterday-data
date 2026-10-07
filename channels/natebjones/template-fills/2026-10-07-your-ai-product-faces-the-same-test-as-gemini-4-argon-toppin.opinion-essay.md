@@ -6,32 +6,32 @@ source_summary: ../summaries/2026-10-07-your-ai-product-faces-the-same-test-as-g
 source_transcript: ../transcripts/2026-10-07-your-ai-product-faces-the-same-test-as-gemini-4-argon-toppin.md
 source_summary_hash: sha256:042e411ddc732301ea61261b7665ea446bf6fb1a109b418f9bbb6dc5703664d6
 source_transcript_hash: sha256:ac05412d234f8222382c3a3381043125dcf28546bd825f4b895523bbbc1c8594
-fill_id: 3ede19cc-269a-4ed1-bc59-88a8ada1bf9e
-published_at: '2026-10-07T18:13:04.231950'
+fill_id: 0ece80cf-dde4-4308-9d70-e44d331f6bdc
+published_at: '2026-10-07T19:13:03.238699'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI leaderboards and benchmarks are dead; the new test for AI products is customer obsession and real-world product experience, not raw model capability.
+AI leaderboards and benchmarks are dead; the real test for AI products is customer obsession and real-world product experience, not raw model capability.
 
 ## Argument
 
-The mechanism is the lab-to-client map. Anthropic owns the corporate sector, OpenAI splits enterprise and consumer, Meta is deep in consumer AI, but Google's Argon tops a leaderboard with no clear customer-facing use case. That disconnect is the tell: a model that leads a benchmark but has no visible product path is a model that fails the only test that matters now.
+The mechanism is customer obsession. Google's Argon model tops a leaderboard, but almost no one can use it right now, so no one can tell you if it's useful. The AI that wins is the one created by humans who obsessively use it and fix bugs. This is the new benchmark, and it applies to every AI product your company is building.
 
-When intelligence evolves weekly, the old product discipline—ship, then update monthly—breaks down. The real challenge is building a product with ever-evolving intelligence that helps users understand what changes for the better, not apocalyptically. That starts with knowing who your customer is and what they do. Benchmarks don't tell you that; obsessive use does.
+Look at the lab-to-client map: Anthropic focuses on the corporate sector, OpenAI has enterprise and consumer arms, Meta is deeply immersed in consumer AI. But Google? Google makes money from computing and serves people through search, yet Argon doesn't clearly support any usage scenario. Why do we need such an advanced model? The close relationship between customer and product is what matters in the age of AI.
 
-I see this in my own workflow. I used Dots to pull together all my subscriptions from Mercury and other sources, built a financial model in one place, then handed it to Muse to act as my hunting drone—canceling subscriptions, sorting through 20,000 likes and bookmarks, processing 741 books into a reading list. These are real tasks, done by real users, and they reveal where AI works and where it doesn't. Dots is slower but great with connectors; Muse is faster and better at delegation. That's the kind of knowledge you only get by using the product.
+I want Google to succeed because more players make things safer and better for consumers. But I don't see Argon interacting with customers yet. For companies, the challenge is: in a world where intelligence evolves every week, how do you make money with AI when the underlying model keeps changing? Development plans don't work anymore. The bigger challenge is creating a product with ever-evolving intelligence that helps users understand what will happen to their world when AI changes for the better.
 
-Businesses must use what they sell to know which scenarios work. There's room for many winners—eight billion people, endless use cases. We need more players like Google, but also outside Google, delivering AI in clear, accessible forms. The next year is the year of the product, not benchmarks. The
+The best AI products come from people who use them obsessively, notice when things go wrong, and give meaning to those mistakes. It's a business discipline as much as an engineering one. I use Dots and Muse for real tasks—managing subscriptions, building a reading list from 20,000 likes. Dots processes large amounts of information, Muse is faster
 
 ## Counterpoints
 
-- You can just go to the website and do it yourself—but when time is short, delegating to AI and getting the result is valuable.
-- Apocalyptic discussions about AI prevent us from hoping for the best for our clients and seeing what intelligence can do if it's everywhere.
-- Some might worry about trusting AI for medical advice—but the example shows AI can offer empathy without crossing into medical guidance.
+- Some might say you can just go to the website and do it yourself, but when you're short on time, it's nice to delegate the work to AI and just get the result.
+- People worry about trusting AI labs like Anthropic or OpenAI, but more players in the game makes things safer and better for consumers.
+- Apocalyptic discussions about AI prevent us from hoping for the best for our clients and what intelligence can do if it's everywhere.
 
 ## Concepts surfaced
 
-[[customer-obsession]] · [[benchmarks-dead]] · [[product-experience]] · [[lab-to-client-map]] · [[ai-agents]] · [[real-world-ai]]
+[[customer-obsession]] · [[benchmarks-dead]] · [[product-experience]] · [[ai-agents]] · [[lab-to-client-map]]
