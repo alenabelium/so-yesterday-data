@@ -6,35 +6,26 @@ source_summary: ../summaries/2026-10-07-your-ai-product-faces-the-same-test-as-g
 source_transcript: ../transcripts/2026-10-07-your-ai-product-faces-the-same-test-as-gemini-4-argon-toppin.md
 source_summary_hash: sha256:042e411ddc732301ea61261b7665ea446bf6fb1a109b418f9bbb6dc5703664d6
 source_transcript_hash: sha256:ac05412d234f8222382c3a3381043125dcf28546bd825f4b895523bbbc1c8594
-fill_id: 6b9f03b0-ff8d-4989-8ddc-7cd0bc87161b
-published_at: '2026-10-08T08:13:05.526415'
+fill_id: 5da2f6d9-26d9-4a6e-9564-5f3d6c88adbb
+published_at: '2026-10-08T09:13:06.909840'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI leaderboards and benchmarks are dead; the new test for AI products is customer obsession and real-world product experience, not raw model capability.
+AI leaderboards and benchmarks are dead; the real test of an AI product is customer obsession and real-world product experience, not topping a performance chart.
 
 ## Argument
 
-The mechanism is customer obsession. Google's Argon model tops a benchmark, but almost no one can use it, so no one can tell you if it's useful. The AI that wins is created by humans who obsessively use it and fix bugs. This is the new benchmark, and it's the same test for your company's AI.
-
-Look at the lab-to-client map: Anthropic focuses on the corporate sector, OpenAI has enterprise and consumer arms, Meta is deep in consumer AI. Google makes money from computing and serves people through search, but how does Argon support those usage scenarios? Why do we need such an advanced model? The close relationship between customer and product is what matters in the age of AI.
-
-For companies, the challenge is creating a product with ever-evolving intelligence that helps users understand what will happen when AI changes for the better. You have to start by understanding who your customer is and what they do. The best AI products are created by people who use them obsessively, notice when things go wrong, and give meaning to those mistakes. It's a business discipline as much as an engineering one.
-
-I use Dots and Muse for real tasks: connecting financial sources, building a subscription model, delegating cancellations. Dots processes 20,000 likes and bookmarks to build a reading list. These tools show where AI performs best and where it doesn't. A business needs to use its products more often to be confident in specific usage scenarios.
-
-There's room for many winners. Eight billion people, many use cases. We need more players like Google, but also outside. We've fallen into the
+The mechanism is customer obsession. Google's Argon model tops benchmarks, but it lacks a clear customer-facing use case — where in the Google ecosystem will it appear, and for which customers? That question matters more than any score. The best AI products come from teams that use them obsessively, notice when things go wrong, and fix real problems. I see this in my own workflow: Dots handles complex, long-running tasks like processing 20,000 bookmarks, while Muse is faster for quick delegation like canceling subscriptions. Both tools work because they solve specific problems I actually have. The bottleneck is no longer the models — it's the product experience. We've fallen into the tyranny of chatbots, copying ChatGPT's design instead of thinking broadly about customer needs. The next year in AI will be the year of the product, not the year of benchmarks.
 
 ## Counterpoints
 
-- Some might say you can just go to the website and do it yourself, but when short on time, delegating to AI is valuable.
-- People worry about trusting Anthropic or OpenAI and want other players; more players make things safer and better for consumers.
-- Apocalyptic discussions about AI prevent us from hoping for the best for our clients and what intelligence can do.
-- Some might question using AI for medical advice, but it can provide an outside perspective and empathy without giving medical advice.
+- Some argue you can just do these tasks yourself on the website, but delegating saves time when you're short on it.
+- Apocalyptic discussions about AI prevent us from hoping for the best for our clients and seeing the positive potential.
+- Skeptics might say AI isn't perfect, but the imperfections are now from product experience, not the models.
 
 ## Concepts surfaced
 
-[[customer-obsession]] · [[benchmarks-dead]] · [[product-experience]] · [[lab-to-client-map]] · [[agent-use-cases]] · [[tyranny-of-chatbots]]
+[[customer-obsession]] · [[benchmarks-dead]] · [[product-experience]] · [[ai-agents]] · [[real-world-ai]]
