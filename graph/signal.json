@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-08T04:20:00Z",
+  "generated_at": "2026-10-09T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-07-11",
-      "2026-10-08"
+      "2026-07-12",
+      "2026-10-09"
     ],
     "prior": [
-      "2026-04-12",
-      "2026-07-10"
+      "2026-04-13",
+      "2026-07-11"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.2,
-      "current_per_100": 91.4,
-      "delta": 33.2,
+      "current_per_100": 91.3,
+      "delta": 33.1,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.1,
-      "delta": 28.4,
+      "current_per_100": 54.0,
+      "delta": 28.3,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.4,
-      "delta": -23.9,
+      "current_per_100": 23.6,
+      "delta": -23.7,
       "direction": "fading"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 23.9,
+      "delta": 23.5,
       "direction": "rising"
     },
     {
@@ -50,8 +50,8 @@
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 24.6,
-      "current_per_100": 5.6,
-      "delta": -19.0,
+      "current_per_100": 5.8,
+      "delta": -18.8,
       "direction": "fading"
     },
     {
@@ -64,15 +64,15 @@
     {
       "tag": "industry-news",
       "prior_per_100": 39.4,
-      "current_per_100": 56.9,
-      "delta": 17.5,
+      "current_per_100": 57.0,
+      "delta": 17.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.5,
-      "delta": 12.1,
+      "current_per_100": 43.4,
+      "delta": 12.0,
       "direction": "rising"
     },
     {
@@ -92,8 +92,8 @@
     {
       "tag": "ethics-safety",
       "prior_per_100": 16.6,
-      "current_per_100": 20.4,
-      "delta": 3.8,
+      "current_per_100": 20.6,
+      "delta": 4.0,
       "direction": "stable"
     },
     {
@@ -164,36 +164,36 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.2,
-      "current_per_100": 91.4,
-      "delta": 33.2,
+      "current_per_100": 91.3,
+      "delta": 33.1,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 25.7,
-      "current_per_100": 54.1,
-      "delta": 28.4,
+      "current_per_100": 54.0,
+      "delta": 28.3,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.4,
-      "current_per_100": 24.0,
-      "delta": 23.6,
+      "current_per_100": 23.9,
+      "delta": 23.5,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 39.4,
-      "current_per_100": 56.9,
-      "delta": 17.5,
+      "current_per_100": 57.0,
+      "delta": 17.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 31.4,
-      "current_per_100": 43.5,
-      "delta": 12.1,
+      "current_per_100": 43.4,
+      "delta": 12.0,
       "direction": "rising"
     }
   ],
@@ -201,8 +201,8 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 47.3,
-      "current_per_100": 23.4,
-      "delta": -23.9,
+      "current_per_100": 23.6,
+      "delta": -23.7,
       "direction": "fading"
     },
     {
@@ -215,8 +215,8 @@
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 24.6,
-      "current_per_100": 5.6,
-      "delta": -19.0,
+      "current_per_100": 5.8,
+      "delta": -18.8,
       "direction": "fading"
     },
     {
