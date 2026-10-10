@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-10-09-banks-are-finally-starting-to-turn-again
 source_transcript: ../transcripts/2026-10-09-banks-are-finally-starting-to-turn-against-the-ai-boom.md
 source_summary_hash: sha256:4a263ce243ec9d038987da699bed9b451cecab62dcbf7ae225057024cd0261e4
 source_transcript_hash: sha256:e87690ef593331338f4da4e8d4fce77000f9662428356b7be5a928c211374d35
-fill_id: 793ee7f2-90a9-414c-987f-11a4f2a4e678
-published_at: '2026-10-10T20:13:07.561800'
+fill_id: 0d86a211-f5a4-4cf0-b1e7-cfd4a70b5ca6
+published_at: '2026-10-10T21:13:04.333761'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI agents can now act at machine speed, but the infrastructure to test, understand, and regulate them lags behind. A recent attack on South Korean banks and unverifiable AI math results highlight this gap. The host proposes a three-level accountability framework inspired by banking regulations to ensure AI agents are traceable and responsible.
+AI systems now act at machine speed, but the infrastructure for testing, understanding, and regulating them lags behind. A recent attack on South Korean banks and unverifiable AI math proofs expose this gap. The host proposes a three-level accountability framework, borrowing from banking regulations, to ensure AI agents are traceable and responsible.
 
 ## The argument
 
-### The Gap Between Capability and Verification
-- **Anchor Timestamps**: ['00:02:26']
-- **Claim**: AI accelerates capabilities, but the ability to test, understand, or pay for these systems does not keep pace. This gap is visible in financial costs (Wall Street loans for chips) and in the unverifiable results of AI models, creating systemic risk.
+### Define the Core Substrate
+- **Anchor Timestamps**: ['00:00:00']
+- **Claim**: AI agents can now autonomously plan and execute attacks, as seen in the South Korean bank breach. The first question—'who sent it?'—is hard to answer because the agent may have no human operator. This sets up the need for a new accountability framework.
 - **Role**: definition
 
-### AI Math Results Are Unverifiable
-- **Anchor Timestamps**: ['00:05:32']
-- **Claim**: OpenAI's 372 mathematical results, including progress on the Riemann hypothesis, are checked by Lean, but even OpenAI's own mathematicians cannot explain many of them. This creates a situation where answers are produced quickly, but understanding lags behind, if it comes at all.
+### Evidence: The Gap Between Speed and Understanding
+- **Anchor Timestamps**: ['00:04:25']
+- **Claim**: OpenAI's 372 mathematical results, including progress on the Riemann hypothesis, are 'almost certainly correct' per Lean verification, but even OpenAI's own mathematicians cannot explain many. This illustrates that AI produces results faster than humans can understand or verify them.
 - **Role**: evidence
 
-### The Financial Side Demands Proof
-- **Anchor Timestamps**: ['00:13:04']
-- **Claim**: Lenders are nervous about AI infrastructure debt, as seen in the $60 billion Anthropic deal and the $1.5 trillion investment estimate. They are demanding financial statements, and OpenAI's reported revenue turned out to be $20 billion less than expected, showing that the market is starting to require accountability.
-- **Role**: evidence
-
-### The Korean Bank Hack Shows the Threat
-- **Anchor Timestamps**: ['00:19:33']
-- **Claim**: An AI agent using the open-source tool Artax targeted at least nine South Korean banks, compromising 25,000 customers and taking 68 hours to detect. The attacker was only caught due to a human error on his resume, highlighting that AI agents can act without intent but still cause harm.
+### Counter: The Case for Openness
+- **Anchor Timestamps**: ['00:06:34']
+- **Claim**: Despite the verification gap, making results public benefits mathematics. Mathematicians like Daniel Litt argue for openness, and the host agrees, valuing knowledge over job security. This counters the idea that unverifiable AI output should be suppressed.
 - **Role**: counter
 
-### A Three-Level Accountability Framework
+### Synthesis: Three-Level Accountability
 - **Anchor Timestamps**: ['00:23:15']
-- **Claim**: Borrowing from banking regulations, the host proposes three levels of responsibility: model companies must detect and report abuse, individual agents must carry a passport identifying the person who authorized them, and institutions must treat unsigned traffic with suspicion. This ensures someone is always accountable for AI actions.
+- **Claim**: Borrowing from anti-money-laundering rules, the host proposes three levels of responsibility: model companies must detect and report abuse, personal agents need passports for authorization, and institutions must treat unsigned traffic with suspicion. This ensures checks are attached to AI responses, not years later.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The host cites the Korean bank attack as a concrete example of AI-enabled crime, noting that the attacker used a free tool and a subscription to an AI model. He also mentions the OpenAI math results, which are verified by Lean but not understood by humans, and the financial nervousness of lenders. Caveats include the host's admission that he is not sure about the traceability of all agent actions, and that open models run on personal computers cannot be regulated by companies. He also acknowledges that the Korean police said AI use was not the point, and that weak bank security was a bigger factor.
+The South Korean bank attack involved Artax, an open-source harness that automates penetration testing, and took 68 hours to detect. The attacker was caught only due to a human error on his resume. The host acknowledges that open models run locally have no intermediary to report to, and that a passport won't stop criminals. He also notes that the $70 billion revenue figure for OpenAI was actually $50 billion, a $20 billion discrepancy, and that lenders requiring financial statements is a good thing. The host admits he hasn't reached a final conclusion on whether everything should be traceable.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[ai-safety]] · [[ai-regulation]] · [[open-source-ai]] · [[ai-bubble]]
+[[ai-agent]] · [[ai-safety]] · [[ai-regulation]] · [[machine-speed-attacks]] · [[verification-gap]] · [[open-source-ai]]
