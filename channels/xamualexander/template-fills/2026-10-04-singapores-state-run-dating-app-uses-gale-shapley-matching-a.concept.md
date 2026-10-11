@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-04-singapores-state-run-dating-app-uses-gal
 source_transcript: ../transcripts/2026-10-04-singapores-state-run-dating-app-uses-gale-shapley-matching-a.md
 source_summary_hash: sha256:cbded8b7a7020ff2b96c666a29cfaa479b9022f505d29056e642e4babdd89d07
 source_transcript_hash: sha256:7a6c4c030ddb94d150a2378d95c69883c2ddc6b944441e32ade8c1c184e6a9e9
-fill_id: fe8a565e-f723-47d2-b5cf-705b522bf9c6
-published_at: '2026-10-11T19:13:10.385664'
+fill_id: c6b52aa8-31c6-4e76-886b-abc754767d19
+published_at: '2026-10-11T20:13:10.652347'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Singapore's state-run dating app 'First Date' uses the Gale-Shapley stable marriage algorithm to match public servants. This algorithm guarantees a stable pairing where no two people prefer each other over their assigned matches. The app's design contrasts with for-profit dating apps, which have perverse incentives to keep users single.
+Singapore's state-run dating app 'First Date' uses the Gale-Shapley stable marriage algorithm to match public servants, aiming to create stable relationships rather than maximize engagement. The algorithm guarantees a stable matching but is proposer-optimal, raising questions about fairness and real-world applicability. This experiment tests whether mathematics can outperform for-profit dating apps in solving societal issues like declining birth rates.
 
 ## The argument
 
-### Define the Core Algorithm
+### Define the Core Substrate
 - **Anchor Timestamps**: ['00:00:00']
-- **Claim**: Gale-Shapley, the 1962 stable marriage algorithm, matches participants by having proposers offer to their top pick, receivers hold the best offer and reject the rest, and rejected proposers move down their list until a stable matching is reached. This guarantees no two people prefer each other over their assigned matches.
+- **Claim**: Singapore's 'First Date' app uses the Gale-Shapley stable marriage algorithm, a 1962 game theory algorithm that won the 2012 Nobel Prize in Economics. It matches public servants aged 21-35 by having proposers rank preferences and receivers hold the best offer, rejecting others, until a stable matching is achieved where no two people prefer each other over their assigned match.
 - **Role**: definition
 
 ### Proposer-Optimal Bias
-- **Anchor Timestamps**: ['00:05:51']
-- **Claim**: Gale-Shapley yields proposer-optimal outcomes: proposers get their best possible stable match, while receivers get their worst. This raises the question of who gets to be the proposer, and whether the choice breaks the algorithm's balance.
+- **Anchor Timestamps**: ['00:04:39']
+- **Claim**: Gale-Shapley yields proposer-optimal outcomes: proposers get their best possible stable match, while receivers get their worst. This creates a strategic question about who gets to be a proposer, as it determines the fairness of the outcome. The algorithm's design inherently favors one side, which could be a point of contention in a dating context.
 - **Role**: evidence
 
 ### Counter: Matching vs. Clearing Problem
 - **Anchor Timestamps**: ['00:25:18']
-- **Claim**: A Hacker News commenter argues the dating market's problem is not a matching problem but a clearing problem: many people cannot meet the 'reserve price' of those they want to date. A more powerful matching algorithm won't fix this, just as a better car sales website won't help someone who can't afford a Ferrari.
+- **Claim**: A Hacker News commenter argues that dating problems are not a matching problem but a clearing problem: many people cannot 'clear' a transaction because they don't meet the 'reserve price' of their desired partners. This suggests that even a perfect matching algorithm cannot fix fundamental mismatches in preferences and standards, as the issue is not about pairing but about unmet expectations.
 - **Role**: counter
 
-### Synthesis: State-Run vs. For-Profit Incentives
-- **Anchor Timestamps**: ['00:04:39']
-- **Claim**: For-profit dating apps have perverse incentives to keep users single, as matched users leave the platform. Singapore's app is designed to get users off the platform, aligning its success metric with user outcomes. This contrast highlights the potential of state-sponsored game theory to address societal issues.
+### Synthesis: The Algorithm's Promise and Limits
+- **Anchor Timestamps**: ['00:32:45']
+- **Claim**: The Singapore experiment is a real-world test of whether mathematics can solve societal issues like low birth rates. While the algorithm guarantees stability, it doesn't address changing preferences or the clearing problem. The long-term success will take years to measure, but it represents a bold attempt to use game theory to improve dating outcomes, contrasting with for-profit apps that have
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The algorithm is already used in hospital residency matches and kidney exchanges, and it won the 2012 Nobel Prize in Economics. The host notes that the algorithm runs in quadratic time, which is feasible for Singapore's small population but could be problematic for larger countries. He also acknowledges that the app's success will take years or decades to measure, and that preferences may change over time, which the algorithm does not address.
+The video cites the algorithm's use in hospital residency matches and kidney exchanges as proof of its real-world applicability. It also mentions that the algorithm was used in practice for a decade before being formally published, highlighting its intuitive simplicity. However, the host notes caveats: the algorithm assumes stable preferences, which may change over time; it doesn't solve the 'clearing problem' where people's standards are too high; and the proposer-optimal bias could be seen as unfair. The host also questions whether the pilot on public servants is a beta test or something more, and acknowledges that the results will take years to evaluate.
 
 ## Concepts surfaced
 
-[[stable-marriage-problem]] · [[deferred-acceptance]] · [[matching-theory]] · [[perverse-incentives]] · [[clearing-problem]]
+[[stable-marriage-problem]] · [[game-theory]] · [[matching-algorithms]] · [[incentive-design]] · [[dating-apps]] · [[public-policy]]

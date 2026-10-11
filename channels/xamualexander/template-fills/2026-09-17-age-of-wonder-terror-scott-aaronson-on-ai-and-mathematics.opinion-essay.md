@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-17-age-of-wonder-terror-scott-aaronson-on-a
 source_transcript: ../transcripts/2026-09-17-age-of-wonder-terror-scott-aaronson-on-ai-and-mathematics.md
 source_summary_hash: sha256:4d780ed6fc18f76522b9f6affd6cce2b774fa39a31af24d9b9f89e27fe41b422
 source_transcript_hash: sha256:c1713a2cb1cd8f186cccad8d417a43880c6d0f5d9291a47bac4b608abe9b9afd
-fill_id: 7cc6a07e-ea27-4632-b1c0-b3f991fc3278
-published_at: '2026-10-11T18:46:55.478083'
+fill_id: f3d2b284-c348-4170-8c3b-5c82e4213698
+published_at: '2026-10-11T19:48:36.620428'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,15 +18,15 @@ The singularity has already started, and human mathematicians are now dethroned 
 
 ## Argument
 
-The evidence is no longer speculative but front-page news. Scott Aaronson's essay, which I'm reading, argues that the wild prophecies of 20 years ago—AI agents breaking containment, solving Millennium Problems—have all come true. The alarm clock is ringing. The recent solution to the Navier-Stokes Millennium Problem, with crucial AI contributions, is the clearest sign yet. OpenAI burned $15 million in compute to produce a 166-page proof that no human has fully read. This isn't an isolated event; in complexity theory, a deluge of long-standing open problems are falling daily, from the Jacobian conjecture counterexample to proofs of Fermat's Last Theorem and advances on the Aaronson-Ambainis conjecture. The mathematical community is in a state of siege, with every conversation circling back to the AI tsunami. The old rules for authorship and credit are breaking down. The real question isn't whether AI can prove theorems—it can—but whether we can preserve a human mathematical community that understands and cares about the results. I endorse the Fields Medalists' open letter because I want to keep insight and understanding at the center of mathematics for as long as possible, even as we cede supremacy in proving conjectures. The choice is to either adapt deliberately or watch the human enterprise shrivel.
+The evidence is no longer speculative but front-page news: AI has solved the Navier-Stokes Millennium Problem, a feat that 20 years ago was the agreed-upon signal to panic. The goalposts have moved, but by the old standards, we've already scored. The mechanism is not just one breakthrough but a deluge—AI-assisted proofs of the Jacobian conjecture, Fermat's Last Theorem, and major complexity theory results are falling by the day. The role of the human mathematician is shifting from prover to verifier and explicator, and the community is scrambling to define new rules for credit and authorship. The real question is whether we can preserve a human mathematical community that understands and cares about the results, or whether we simply turn everything over to the machines. The open letter from 25 Fields Medalists, which I endorse, articulates these values, but the ask is unclear. The challenge is to keep insight and understanding at the center, even as we cede supremacy in proving conjectures.
 
 ## Counterpoints
 
-- Some argue that AI results don't count because they lack human understanding, but Aaronson counters that the goal posts have moved—we're already beyond the 2006 benchmarks.
-- A commenter suggests mathematicians should focus on creating better problems and theories, which I agree with, but this requires a deliberate shift in the community's values.
-- Another commenter notes that humans are still needed to direct AI and judge what is interesting, but the problem is communication—how would an AI get the news out about a genuinely new field?
-- There's a dispute over OpenAI's role in the Navier-Stokes proof, with accusations of unsportsmanlike behavior, but Aaronson doesn't find it plausible that the models benefited from leaked chat logs.
+- Some argue that AI results are just impressive but don't change the essence of mathematics, which is about human understanding and sharing.
+- Others say humans will still direct AI as to what is interesting or useful, so mathematicians remain relevant.
+- A commenter notes that the old regime is over but that we retain human agency and are doing more, not less.
+- Some skeptics claim the singularity hasn't started because AI still can't do everything, but this is moving the goalposts.
 
 ## Concepts surfaced
 
-[[ai-singularity]] · [[millennium-problems]] · [[ai-assisted-proofs]] · [[mathematical-community]] · [[ai-alignment]]
+[[ai-singularity]] · [[ai-mathematics]] · [[ai-proofs]] · [[navier-stokes]] · [[millennium-problems]] · [[human-mathematicians]]
