@@ -1,5 +1,323 @@
 [
   {
+    "id": "ojupeUg4QII",
+    "upload_date": "20260810",
+    "title": "Deep profound YouTube comments on AI in Mathematics",
+    "duration": 3054
+  },
+  {
+    "id": "4qebxsdjT5c",
+    "upload_date": "20260811",
+    "title": "AI makes progress on the Riemann Hypothesis! Huge improvement on lower bound of zeroes on the line!",
+    "duration": 1023
+  },
+  {
+    "id": "1Cb-Eoy3tVs",
+    "upload_date": "20260811",
+    "title": "LetsRead: \"No Strangers At This Party\" (by Veselin Jungić), a math education article",
+    "duration": 962
+  },
+  {
+    "id": "PCrL38ebnLE",
+    "upload_date": "20260812",
+    "title": "LetsRead The Leiden Declaration on AI and Mathematics",
+    "duration": 1630
+  },
+  {
+    "id": "o9KVgKC59vg",
+    "upload_date": "20260812",
+    "title": "Mysterious Plot Hole in Homer's \"The Odyssey\"",
+    "duration": 931
+  },
+  {
+    "id": "cZYQN3DSh1Q",
+    "upload_date": "20260813",
+    "title": "LetsRead \"Survival, Prediction, and the Perverse Law of Waiting\" (by Bradley Efron)",
+    "duration": 1905
+  },
+  {
+    "id": "tv505tHU2cA",
+    "upload_date": "20260813",
+    "title": "What sort of math is AI good at? (LetsRead Timothy Gowers)",
+    "duration": 1944
+  },
+  {
+    "id": "6NbrPN6_2jo",
+    "upload_date": "20260814",
+    "title": "Species Problem solved?? Slides from my conference talk",
+    "duration": 1387
+  },
+  {
+    "id": "08eh6iqGRlE",
+    "upload_date": "20260814",
+    "title": "LetsRead \"Five Applications of the Alexiewicz Norm\" (by Erik Talvila)",
+    "duration": 2423
+  },
+  {
+    "id": "b3eQqHn3p_Q",
+    "upload_date": "20260815",
+    "title": "How post-AI math *might* look: \"Long-Horizon AI Research for Grothendieck K: Human-AI Math Collab\"",
+    "duration": 2147
+  },
+  {
+    "id": "MRelXi9TUic",
+    "upload_date": "20260815",
+    "title": "Can AI do mathematical research, or just solve mathematical problems? (LetsRead Morgan Jones)",
+    "duration": 678
+  },
+  {
+    "id": "Uo8HdaJXGj0",
+    "upload_date": "20260816",
+    "title": "LetsRead \"What the Frog's Eye Tells the Frog's Brain\" (classic paper)",
+    "duration": 2678
+  },
+  {
+    "id": "AjHZwb9UBm0",
+    "upload_date": "20260816",
+    "title": "Brilliant YouTube comments on AI in mathematics",
+    "duration": 3514
+  },
+  {
+    "id": "KJ8cg3FfCqI",
+    "upload_date": "20260817",
+    "title": "Memorial Tribute to Jon Alperin, finite group theorist known for simple elegant proofs",
+    "duration": 840
+  },
+  {
+    "id": "kbrYmHaEFaI",
+    "upload_date": "20260817",
+    "title": "The End of an Era in Mathematical Research (due to AI)? LetsRead Alonso Castillo-Ramirez",
+    "duration": 1675
+  },
+  {
+    "id": "T7XayMbPtTY",
+    "upload_date": "20260817",
+    "title": "LetsRead \"Simplifying and Refactoring Introductory Calculus\" (by Jonathan Bartlett)",
+    "duration": 2591
+  },
+  {
+    "id": "aEodSCgnuc8",
+    "upload_date": "20260818",
+    "title": "Everyone's wrong about 0^0 and it's hilarious",
+    "duration": 1631
+  },
+  {
+    "id": "cd_xZRskv9A",
+    "upload_date": "20260819",
+    "title": "Faster matrix multiplication through Machine Learning obtained by DeepMind",
+    "duration": 2531
+  },
+  {
+    "id": "4zZxqsypzsg",
+    "upload_date": "20260820",
+    "title": "AI Math Collisions: different groups independently resolve Gromov's conjecture ~SIMULTANEOUSLY",
+    "duration": 1085
+  },
+  {
+    "id": "07Ee9Z0B-zQ",
+    "upload_date": "20260821",
+    "title": "SIMPLE proof Lean can't self-verify itself (No Gödel's 2nd incompleteness theorem needed!)",
+    "duration": 1286
+  },
+  {
+    "id": "-k_F8Vfhvjg",
+    "upload_date": "20260822",
+    "title": "Fun YouTube Comments on AI in Mathematics",
+    "duration": 4939
+  },
+  {
+    "id": "-baZfeHNBPI",
+    "upload_date": "20260823",
+    "title": "Record-breaking rank-30 elliptic curve discovered using AI",
+    "duration": 873
+  },
+  {
+    "id": "5ne2Z0V2tHk",
+    "upload_date": "20260823",
+    "title": "LetsRead \"Boosted Filament Estimation for Overland Route Estimation from Post Office Data\"",
+    "duration": 1997
+  },
+  {
+    "id": "K9Hmg17XJ0k",
+    "upload_date": "20260824",
+    "title": "LetsRead \"The AlphaZero Test\" for AI in Mathematics (by Peter Sarnak)",
+    "duration": 792
+  },
+  {
+    "id": "4eoMt28Xqoo",
+    "upload_date": "20260824",
+    "title": "LetsRead \"Clades, Grades, and the Genus Problem: Case for Revising Hominin Taxonomy\" (by Ian Towle)",
+    "duration": 3771
+  },
+  {
+    "id": "pe38mGClNiQ",
+    "upload_date": "20260825",
+    "title": "AI solves S^6 problem, contradicts \"well-known\" peer-reviewed math: S^6 has a complex structure!",
+    "duration": 1831
+  },
+  {
+    "id": "NCwE5jA-yxU",
+    "upload_date": "20260825",
+    "title": "LetsRead \"Attention Is All You Need\", the AI revolution is widely attributed to this humble paper",
+    "duration": 1583
+  },
+  {
+    "id": "PNbFh2P3LAg",
+    "upload_date": "20260826",
+    "title": "LetsRead \"The Erdős Similarity Problem\" (by Paul D. Humke)",
+    "duration": 609
+  },
+  {
+    "id": "EPWUEK8CZW0",
+    "upload_date": "20260826",
+    "title": "Could YOU be the ancestor of almost all future humans? The Identical Ancestor Point Axiom",
+    "duration": 1612
+  },
+  {
+    "id": "_LtQyPQ98k4",
+    "upload_date": "20260827",
+    "title": "LetsRead \"The Sesquicentennial of the Prime Number 2^127-1\" (by Matthew Baker)",
+    "duration": 929
+  },
+  {
+    "id": "_m-LH-6b5Ao",
+    "upload_date": "20260827",
+    "title": "Deep, Mind-Bending AI-in-Math YouTube Comments",
+    "duration": 1951
+  },
+  {
+    "id": "i0p9HD2mBUE",
+    "upload_date": "20260828",
+    "title": "LetsRead \"A Stroll Through the Pentagram Zoo\" (by Richard Evan Schwartz)",
+    "duration": 1574
+  },
+  {
+    "id": "7oJcB1zBi4A",
+    "upload_date": "20260828",
+    "title": "Lean soundness bug postmortem: Can we trust Lean to verify AI-generated mathematics?",
+    "duration": 1077
+  },
+  {
+    "id": "GZcD6BoJuas",
+    "upload_date": "20260829",
+    "title": "Fields Medalist Tsimerman on \"Getting to the Fun Faster with AI\" in mathematics",
+    "duration": 1400
+  },
+  {
+    "id": "Da7z0w2wC-w",
+    "upload_date": "20260830",
+    "title": "LetsRead \"Fundamentals and Applications of Coding Theory\" (by Hiram H. López)",
+    "duration": 2803
+  },
+  {
+    "id": "_2WZPLQfboI",
+    "upload_date": "20260831",
+    "title": "LetsRead \"A Legacy in Number Theory: A Tribute to Takashi Ono\"",
+    "duration": 933
+  },
+  {
+    "id": "8Us0J53d0jI",
+    "upload_date": "20260831",
+    "title": "AI sets a new record for best result on lengths of prime gaps, verified in Lean",
+    "duration": 1150
+  },
+  {
+    "id": "geEtnV8nX7s",
+    "upload_date": "20260902",
+    "title": "LetsRead \"What is... the Dowling-Wilson Conjecture?\" (by Braden, Matherne, and Proudfoot)",
+    "duration": 1398
+  },
+  {
+    "id": "F47kXPkZ6iQ",
+    "upload_date": "20260903",
+    "title": "LetsRead \"Rate-Based Synaptic Plasticity Rules\" (by Lawrence Udeigwe)",
+    "duration": 2545
+  },
+  {
+    "id": "vEJ9FPevex8",
+    "upload_date": "20260903",
+    "title": "Creative & original YouTube comments on AI in Mathematics",
+    "duration": 2384
+  },
+  {
+    "id": "6d04h0UqyH0",
+    "upload_date": "20260904",
+    "title": "AI progress on Twin Primes Conjecture: Three competing breakthroughs in the last 3 days",
+    "duration": 1477
+  },
+  {
+    "id": "bTn6eOLulOc",
+    "upload_date": "20260905",
+    "title": "LetsRead \"Equiangular Lines and Eigenvalue Multiplicities\" (by Yufei Zhao)",
+    "duration": 2529
+  },
+  {
+    "id": "s6mkOu6Zlnk",
+    "upload_date": "20260905",
+    "title": "Fermat's Last Theorem formalized in Lean! Anthropic formalized math's most famous proof in 11 days",
+    "duration": 1722
+  },
+  {
+    "id": "vzmZTjvWObw",
+    "upload_date": "20260906",
+    "title": "Live Demo of what the next qualitative step toward AGI will look like",
+    "duration": 724
+  },
+  {
+    "id": "bmunFeJNIAQ",
+    "upload_date": "20260907",
+    "title": "Twitter-user randomly settles two conjectures w/AI, including 96-yo Köthe conjecture",
+    "duration": 950
+  },
+  {
+    "id": "W-wdfJfKh-g",
+    "upload_date": "20260907",
+    "title": "LetsRead \"Why Mathematics is Boring\" (John Baez on how to write better math papers)",
+    "duration": 959
+  },
+  {
+    "id": "VaJlOhX8Ss4",
+    "upload_date": "20260908",
+    "title": "Allegations that OpenAI stole a Navier-Stokes solution?? Infinite drama blowup in finite time!",
+    "duration": 1548
+  },
+  {
+    "id": "vttB3BzM_j0",
+    "upload_date": "20260908",
+    "title": "These AI-in-Math YouTube Comments Changed My Life",
+    "duration": 3304
+  },
+  {
+    "id": "iR3rD0RMYR0",
+    "upload_date": "20260908",
+    "title": "Caltech students announce \"Mathathon\", AI-in-Math hackathon, THIS is mathematics post-2026",
+    "duration": 1438
+  },
+  {
+    "id": "3BDfhTz3y2A",
+    "upload_date": "20260909",
+    "title": "LetsRead \"Curve-Counting and Mirror Symmetry\" (by Emily Clader)",
+    "duration": 2868
+  },
+  {
+    "id": "Irl9aAZaJfk",
+    "upload_date": "20260909",
+    "title": "Millenium prize solved by AI! Navier-Stokes equations admit a singularity, OpenAI announces",
+    "duration": 1539
+  },
+  {
+    "id": "GPKaVdOfGqk",
+    "upload_date": "20260910",
+    "title": "LetsRead \"Predatory Journals Pose a Threat to the Dissemination of Science\" (by Moslehian & Peralta)",
+    "duration": 1077
+  },
+  {
+    "id": "P6yKoqCxl_0",
+    "upload_date": "20260910",
+    "title": "Fields medalist Jacob Tsimerman launches Mathematical AI Safety Institute (MAISI)",
+    "duration": 1142
+  },
+  {
     "id": "npyY8yebVdQ",
     "upload_date": "20260911",
     "title": "LetsRead \"Teaching Debut\" (math ed story with a twist ending)",
@@ -280,5 +598,11 @@
     "upload_date": "20261011",
     "title": "The better-than-O(n log n) integer multiplication community (math of the future)",
     "duration": 1016
+  },
+  {
+    "id": "vyZsSywX404",
+    "upload_date": "20261011",
+    "title": "These AI-in-Math YouTube comments saved my life",
+    "duration": 3516
   }
 ]
