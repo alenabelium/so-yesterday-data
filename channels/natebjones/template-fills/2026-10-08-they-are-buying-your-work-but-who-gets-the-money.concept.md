@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-08-they-are-buying-your-work-but-who-gets-t
 source_transcript: ../transcripts/2026-10-08-they-are-buying-your-work-but-who-gets-the-money.md
 source_summary_hash: sha256:99fa519f67a0414e4996580770fcb59e47fd2d4101d40426a4d8ad8a27983d5a
 source_transcript_hash: sha256:ab0e28d0e3b4143af0b765bfe0b2e9dd41bca666c49722774cb68b3cafa306f5
-fill_id: 6d628087-216c-461e-aa71-4e37dc2bebf8
-published_at: '2026-10-11T12:09:29.161424'
+fill_id: 69d43b71-a9fa-448a-ba7a-320c2b59f046
+published_at: '2026-10-11T12:59:09.631456'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI labs are paying millions for corporate work archives (emails, Slack, Teams) to train agents, but these records capture only the chaotic imitation of work, not its true value. This creates a market where buyers misunderstand work, sellers are often failing companies, and employees are left out of the loop. The real value lies in judgment and coordination, which agents can't learn from data alone.
+AI labs are buying corporate work archives to train agents, but these records capture only the chaotic imitation of work, not its true value. This raises questions about what work really is, the risks of training on flawed data, and the need for employees to articulate their real contributions.
 
 ## The argument
 
 ### The Market for Work Records
 - **Anchor Timestamps**: ['00:00:00']
-- **Claim**: Google's $10 million bid for Spirit Airlines' work emails and Teams messages reveals a market where AI labs buy corporate archives to train agents. The seller gets paid, the broker gets a commission, but the employee whose work is captured gets nothing and has no say.
+- **Claim**: AI labs like Google are paying millions for corporate work records (e.g., Spirit Airlines' emails and Teams messages) to train agents, betting that these records can teach AI to do intelligent work. The seller gets paid, the broker gets a commission, but the employee whose work created the data gets nothing.
 - **Role**: definition
 
 ### Records Capture Imitation, Not Value
 - **Anchor Timestamps**: ['00:02:32']
-- **Claim**: Work records are a chaotic mix of coordination, meetings, and messages that don't capture the true value of intellectual labor. The valuable intervention—like noticing a credit error—is buried in a sequence of 30 messages and three meetings, making it impossible for an agent to learn what really matters.
+- **Claim**: Work records capture the chaotic imitation of work—meetings, coordination, and messages—but not the true value of intellectual labor, which often lies in tacit knowledge and judgment. For example, resolving an accounting issue may take 30 messages and three meetings, but the valuable intervention was noticing a misapplied credit, not the messages themselves.
 - **Role**: evidence
 
-### The Data Comes from Failing Companies
-- **Anchor Timestamps**: ['00:09:40']
-- **Claim**: The incentive to sell work data is strongest for businesses on the verge of bankruptcy, like Spirit Airlines. This means agents are trained on examples of work from companies that failed, which is a flawed foundation for learning what successful work looks like.
+### The Problem of Training on Flawed Data
+- **Anchor Timestamps**: ['00:05:21']
+- **Claim**: Training agents on work records from failing companies like Spirit Airlines is risky because the data reflects the company's chaos and may not represent successful work. The archives include both valuable interventions and mundane reminders, and the agent cannot distinguish between them, leading to imitation rather than true understanding.
 - **Role**: counter
 
-### The Real Work Is Coordination and Judgment
-- **Anchor Timestamps**: ['00:18:41']
-- **Claim**: The real work is in the coordination, judgment, and context that aren't captured in data. Agents can imitate the output—like a Claude-designed presentation—but they miss the underlying purpose of getting people on the same page. This is why agents often produce 'a simulation of work' that is 'incredibly entertaining, quite expensive, and of little value.'
+### The Incentive to Sell Data as a Last Resort
+- **Anchor Timestamps**: ['00:09:40']
+- **Claim**: The sellers of work records are often businesses on the verge of bankruptcy, making the data a 'last hope' sale. This means the data agents learn from mostly comes from failing companies, which may not be representative of successful work practices.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker uses the Spirit Airlines example throughout: 100 million emails and half a billion Teams entries, with a hearing on the sale scheduled for October 14. He also mentions Mercor, a competing bidder that plans to acquire Deep Tune to build agent training environments, and Grepped, a data broker packaging small business data for $20,000 to $5 million. He notes that employees are not passive: the Spirit flight attendant union has raised concerns, and he has seen leaders estimate that up to a third of teams passively resist AI tools. He hedges that he believes in agents and has seen success stories, but insists that the value of an agent is in identifying repetitive work to automate, not in doing the work itself. He also points out that scaling laws are general and don't capture the specificity of a particular company's context.
+The speaker cites the Spirit Airlines auction where Google bid $10 million, beating Mercor's $7.5 million, and notes the deal is pending a hearing on October 14. Mercor is also acquiring Deep Tune to build agent training environments, and they pay experts to define success criteria for tasks. The speaker acknowledges that some coordination in work records is necessary, but much is the 'price of working within a particular company.' He also mentions that employees may privately resist AI tools, with leaders estimating up to a third of teams passively sabotaging implementation. The speaker hedges that while agents can improve at tasks like making presentations, real work involves judgment and context that scaling laws may not capture.
 
 ## Concepts surfaced
 
-[[agent-capability]] · [[intellectual-labor]] · [[data-brokers]] · [[ai-training-data]] · [[work-automation]]
+[[ai-agents]] · [[data-valuation]] · [[intellectual-labor]] · [[tacit-knowledge]] · [[ai-training-data]]
