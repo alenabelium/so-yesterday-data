@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-06-jeremy-avigad-on-the-future-of-mathemati
 source_transcript: ../transcripts/2026-10-06-jeremy-avigad-on-the-future-of-mathematics-in-the-age-of-ai.md
 source_summary_hash: sha256:4ce8c423a03e0766928f3b5379a1c833c73e6f16a09a811de2e6f75881f99523
 source_transcript_hash: sha256:0c1662787f744a601d9df4f39b48c20d7163e804d160c9628131c0d2ca1b7a70
-fill_id: e5d4c452-fbcb-415f-9480-586378a961d6
-published_at: '2026-10-11T16:12:21.878716'
+fill_id: f93c5d6a-0f6f-43bc-ab92-75e689e98c75
+published_at: '2026-10-11T17:12:07.439926'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,16 +18,16 @@ AI's disruption of mathematics is an opportunity for the field to evolve and thr
 
 ## Argument
 
-The disruption is real: AI can now generate results that a year ago would have been respectable publications, upending the narrow view of mathematics as solving problems and varying parameters. But that narrow view was never the whole story. The deeper value of mathematics lies in our agency over reasoning and deliberation, in choosing what problems are interesting and why. That's why the response should be to solve harder problems—AI can cobble together existing techniques, but it still misses the creativity and higher-level strategizing needed for the most interesting questions. We should also think bigger thoughts. The example of Riemann's Habilitationsvortrag shows that the most transformative mathematics comes from insights that no reinforcement learning setup could have evaluated, with diffuse benefits and long time horizons. Finally, we should try new things. The history of mathematics is a history of adopting new technologies—algebra, infinitesimals, set theory, computation—each initially alien but ultimately mastered. Developing proof assistants and neural networks is mathematics proper, not mere technical work. Engaging with new technologies keeps the discipline strong and relevant. The glass is half full: we are at a new frontier, and future historians will see this as the start of a new era. For those who love mathematics enough to endure its hardships, there has never been a better time to enter the field.
+The disruption is real: AI can now generate results that a year ago would have been respectable publications, upending the narrow view of mathematics as a daily workflow of solving problems and varying parameters. But that narrow view was never the whole story. The mechanism for optimism is cultural: mathematics is a culture of rigorous reasoning and communication, and the community's response has been generally positive and encouraging. The path forward is threefold. First, solve harder problems. Today's foundation models have seen the entire mathematical literature and are tireless, but they cobble together available techniques; they are not yet producing the kind of insights that come from ideas and higher-level strategizing. There are still hard questions and ambitious research programs, and the possibility of making progress with AI is exciting. Second, think bigger thoughts. We get to choose the problems, grade the solutions, and favor the ones we like best. Riemann's lecture on the foundations of geometry, which revolutionized the field and later enabled general relativity, is a prime example of a development that no reinforcement learning setup could have evaluated—the benefits were diffuse, the time horizon too long. The values we assign to mathematical developments are embedded in our history and culture; AI can't think for us, and mathematics is our story to tell. Third, try new things. Technologies themselves raise new questions, and mathematicians should be actively involved in understanding and creatively using them. This is not without precedent: algebraic
 
 ## Counterpoints
 
-- AI-generated solutions to open problems are all similar, cobbling together available techniques; they may miss creativity and higher-level strategizing.
-- Some argue that as the job market contracts, we should turn inward to preserve traditional mathematical skills; Avigad disagrees, saying engagement with new technologies keeps the discipline strong.
-- The value of mathematics to wider society is purely utilitarian, and AI may surpass humans in those pursuits, threatening job prospects.
-- The current challenge for humans is creating oracles for AI, as AIs still need a reality to measure against.
-- The success of AI in mathematics may be due to Lean and mathlib, not AI itself, as breakthroughs haven't happened in other stacks.
+- The fear that AI will replace mathematicians' jobs, especially for early-career researchers, is acknowledged but countered with the need to focus on contributing to the field and using AI in novel ways.
+- The argument that we should turn inward to preserve traditional mathematical skills is rejected; engaging with new technologies is seen as the best way to keep the discipline strong and relevant.
+- The concern that AI-generated solutions are just cobbling together existing techniques is addressed by noting that there are still hard questions and that AI is not yet capable of producing deeper insights.
+- The worry that society values mathematicians only for utilitarian reasons, which AI might soon surpass, is acknowledged but countered by the broader value of mathematical reasoning and the importance of human agency over reasoning and deliberation.
+- The skepticism about AI's role in mathematics, such as the focus on Lean as a specific tool, is noted but the host argues that such tools are part of the new frontier and should be embraced.
 
 ## Concepts surfaced
 
-[[proof-assistants]] · [[lean-theorem-prover]] · [[mathematical-discovery]] · [[ai-in-mathematics]] · [[reinforcement-learning]]
+[[ai-in-mathematics]] · [[proof-assistants]] · [[lean-theorem-prover]] · [[mathematical-research]] · [[reinforcement-learning]] · [[next-generation-mathematicians]]
