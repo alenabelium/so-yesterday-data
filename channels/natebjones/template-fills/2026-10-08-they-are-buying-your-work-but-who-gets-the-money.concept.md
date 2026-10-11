@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-10-08-they-are-buying-your-work-but-who-gets-t
 source_transcript: ../transcripts/2026-10-08-they-are-buying-your-work-but-who-gets-the-money.md
 source_summary_hash: sha256:99fa519f67a0414e4996580770fcb59e47fd2d4101d40426a4d8ad8a27983d5a
 source_transcript_hash: sha256:ab0e28d0e3b4143af0b765bfe0b2e9dd41bca666c49722774cb68b3cafa306f5
-fill_id: 6d0fac7d-d653-46e6-ab48-997fbb574dee
-published_at: '2026-10-11T01:13:27.368236'
+fill_id: 1288a685-e98e-48a7-af03-71886c29b283
+published_at: '2026-10-11T02:13:24.730463'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI labs are buying massive archives of corporate work records—emails, Slack messages, documents—to train agents. This market assumes that these records capture the essence of intellectual work, but they often capture only its chaotic imitation. Understanding this gap is crucial for workers to defend the true value of their contributions.
+AI labs are buying millions of dollars worth of corporate work records—emails, Slack messages, documents—to train agents. But these archives capture only the chaotic imitation of work, not the true value of intellectual labor. This disconnect raises urgent questions about what work really means and who profits from its data.
 
 ## The argument
 
 ### The Market for Work Records
 - **Anchor Timestamps**: ['00:00:00']
-- **Claim**: AI labs like Google pay millions for corporate work records (e.g., Spirit Airlines' emails and Teams messages) to train agents. The prevailing theory is that these records can teach AI to do intelligent work, but this assumption is flawed.
+- **Claim**: AI labs like Google are paying millions for corporate work archives (e.g., Spirit Airlines' emails and Teams messages) to train agents. The prevailing theory is that these records can teach AI to do intelligent work, but the person whose work created the data gets nothing.
 - **Role**: definition
 
+### The Chaos of Real Work
+- **Anchor Timestamps**: ['00:02:32']
+- **Claim**: Real work is messy and tacit—it involves coordination, judgment, and context that aren't captured in messages or documents. An invoice dispute example shows that the valuable intervention (noticing a credit error) is buried in a long thread of messages and meetings, making it impossible for an agent to learn what really matters.
+- **Role**: evidence
+
 ### The Imitation Problem
-- **Anchor Timestamps**: ['00:04:04']
-- **Claim**: Work records capture the chaotic imitation of work—coordination, meetings, and messages—but not the actual value creation. For example, resolving an invoice mismatch involves tacit knowledge and judgment that isn't in the messages. Agents trained on such data learn to imitate, not to do real work.
-- **Role**: evidence
-
-### The Data Quality Issue
 - **Anchor Timestamps**: ['00:05:21']
-- **Claim**: The archives are full of noise: reminders, side conversations, and even errors. The valuable intervention (e.g., noticing a credit misapplied) is buried among 30 messages and three meetings. Agents can't distinguish what matters, so they learn to replicate the entire messy process.
-- **Role**: evidence
-
-### The Incentive Problem
-- **Anchor Timestamps**: ['00:09:40']
-- **Claim**: The data sold often comes from failing companies like Spirit Airlines, making it 'data of last hope.' This means agents are trained on examples of unsuccessful work, which may not represent good practices. Buyers and sellers have misaligned incentives, leading to a market that undervalues true work.
+- **Claim**: If buyers perceive the entire data sequence as an example of competent work, agents will learn to imitate the process, not the underlying judgment. The archive includes both the valuable intervention and the noise, and the agent can't distinguish between them. This leads to agents that mimic work without understanding its purpose.
 - **Role**: counter
 
-### Rethinking Work and Value
-- **Anchor Timestamps**: ['00:14:11']
-- **Claim**: The real value of work is in achieving business outcomes—increasing profits or reducing costs—not in the volume of messages or documents. Workers must articulate this value and resist the reduction of intellectual labor to optimization problems. Agents should augment human judgment, not replace it.
+### The Data of Last Hope
+- **Anchor Timestamps**: ['00:09:40']
+- **Claim**: The incentive to sell work data comes from failing companies, like Spirit Airlines, that can't find another use for it. This means agents are trained on data from bankrupt businesses, which may not represent successful work. The data is a 'last hope' sale, not a reflection of best practices.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites the Spirit Airlines auction (Google's $10M bid, Mercor's $7.5M) and the sheer scale of data (100M emails, 500M Teams entries). He notes that Mercor is trying to solve the verification problem by having experts define success criteria, but this is 'a really complex problem.' He also mentions employee resistance, with leaders estimating up to a third of teams passively sabotaging AI tools. Caveats: The speaker admits his examples are 'somewhat anonymized' from personal experience, and he acknowledges that agents can be useful for repetitive tasks, but he remains skeptical about scaling to high-judgment work.
+The speaker cites the Spirit Airlines auction (Google's $10M bid vs. Mercor's $7.5M) and Mercor's approach of paying experts to define success criteria. He also mentions data brokers like Grepped packaging small business data for $20k-$5M. Caveats: the deal isn't final (hearing Oct 14), and the speaker acknowledges that some coordination is necessary, but argues that much of it is 'the price of working within that particular company.' He also notes that employees privately resist AI tools, with leaders estimating up to a third of teams passively sabotaging them.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[data-brokers]] · [[intellectual-labor]] · [[work-automation]] · [[tacit-knowledge]]
+[[ai-agents]] · [[data-brokers]] · [[intellectual-labor]] · [[tacit-knowledge]] · [[agent-training]]
