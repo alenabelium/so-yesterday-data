@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-10-11-the-better-than-on-log-n-integer-multipl
 source_transcript: ../transcripts/2026-10-11-the-better-than-on-log-n-integer-multiplication-community-ma.md
 source_summary_hash: sha256:b122b8970a3d2e28876f934a53caa579554986aabd42b6027e98c0f5564ecbdd
 source_transcript_hash: sha256:5ce28a828cc1e66c38f246cd36d1cca498e37e481aef9828e3d2dfa881fa74ba
-fill_id: f5700718-d75e-41e6-ba0f-1800e3a0ae12
-published_at: '2026-10-11T18:12:05.510049'
+fill_id: c26ee8db-b875-4ed0-b425-fc420a425ebf
+published_at: '2026-10-11T19:13:02.248609'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Mathematics is becoming a contingent, community-driven, version-controlled process where the 'best' algorithm is a physical, human-dependent number, not a Platonic ideal.
+The community-driven, version-controlled improvement of integer multiplication algorithms on Beyond Enlighter shows that future mathematics will be a contingent, human-dependent process, not a purely Platonic pursuit.
 
 ## Argument
 
-The mechanism is the Beyond En-Log-N website, where a grassroots community, using AI-generated proofs and Git-like version control, is rapidly improving the exponent in integer multiplication. The host, Dr. Samuel Allen Alexander, shows how the kappa values improve daily, from OpenAI's original 2^-182 to 1.48 * 2^-11 in just days. This process, with its PR descriptions and references to earlier contributions, mirrors scientific publishing but is fundamentally different: the limit of these kappas, kappa-infinity, is not a mathematical constant but a physical one, contingent on human choices and uploads. It does not dwell in the Platonic realm of ideals. To make it a mathematical question, you must fix the AI and the proof checker (e.g., Lean 4.34.1), turning the process into a purely mathematical theorem. The host then presents a meta-algorithm that could achieve kappa-infinity using an oracle for human behavior, but notes it's impractical and not a real algorithm. He also sketches a Platonic variation that fixes the AI and Lean, proving a theorem about kappa-infinity-prime, but calls it a 'galactic algorithm'—totally useless in practice. This illustrates the host's philosophy: mathematics is not just about eternal truths but about the contingent, physical process of discovery.
+The mechanism is the community itself. On October 6th, 2026, OpenAI published an AI-generated proof that integer multiplication can be done in O(n log^(1-2^-182) n) time. Within days, a grassroots website called Beyond Enlighter emerged, where contributors—likely AI-assisted—progressively improved the exponent kappa from 2^-182 to 1.48*2^-11 by October 10th. Each improvement is a pull request, with PR descriptions referencing earlier PRs like scientific papers, using invented terminology like 'dirty entrances' and 'entrance rank units.' This is mathematics done with Git, as I've long advocated. The key philosophical point: the limit of these kappas, kappa_infinity, is not a Platonic ideal. It depends on what humans choose to upload, making it a physical, contingent number. You could achieve kappa_infinity with an oracle meta-algorithm, but that's not a real algorithm. To get a purely mathematical question, you must fix an AI (e.g., GPT-6 Astro) and a Lean version (e.g., 4.34.1), then enumerate all kappas that AI can prove. That kappa_infinity_prime is a Platonic number, and a theorem shows it's achievable—but only with a galactic algorithm, totally impractical. This illustrates the nature of mathematics: it's not just eternal truths, but also a human, physical process.
 
 ## Counterpoints
 
-- One might object that kappa-infinity is not a real number because it depends on human free will, but the host argues this is precisely the point: it's a physical, not mathematical, quantity.
-- The host acknowledges the meta-algorithm requires an oracle for human behavior, making it impractical and not a true algorithm.
-- The Platonic variation fixes the AI and Lean, but the host notes it's a 'galactic algorithm'—totally useless in practice.
+- One might object that kappa_infinity is not a well-defined mathematical object because it depends on human free will, but the host argues this makes it a physical question, not a mathematical one.
+- The meta-algorithm achieving kappa_infinity requires an oracle for human behavior, which is not a real algorithm, so it doesn't settle the open question.
+- The purely mathematical version requires fixing an AI and a Lean version, which are huge but finite strings, and thus Platonic, but the resulting algorithm is galactic and impractical.
 
 ## Concepts surfaced
 
-[[platonism]] · [[version-control]] · [[ai-generated-proofs]] · [[galactic-algorithm]] · [[integer-multiplication]]
+[[ai-generated-proofs]] · [[version-control-mathematics]] · [[platonic-ideals]] · [[galactic-algorithms]] · [[integer-multiplication]] · [[lean-proof-assistant]]

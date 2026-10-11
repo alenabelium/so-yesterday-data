@@ -6,32 +6,27 @@ source_summary: ../summaries/2026-10-03-five-stages-of-grief-for-mathematicians-
 source_transcript: ../transcripts/2026-10-03-five-stages-of-grief-for-mathematicians-facing-ai.md
 source_summary_hash: sha256:e7bef4cdadcde1aa66a0d79b87768d5dc4d7dcd8780bdbf843451f88cd0ea560
 source_transcript_hash: sha256:637c5183bb25a705c73a5f72522159f109e89626cb95dfd9d9685ca9e0512d26
-fill_id: bceec247-56b8-4c70-b26e-5903d55667cb
-published_at: '2026-10-11T18:12:13.064773'
+fill_id: 0317e1dd-83a3-437f-b737-650dba4f351b
+published_at: '2026-10-11T19:13:12.695305'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Mathematicians grieving AI's rise are stuck in denial, anger, bargaining, or depression, but the field's future belongs to those who embrace AI and move forward.
+Mathematicians' grief over AI is misplaced; the field should embrace AI's theorem-proving power and move forward, not cling to human understanding as its core value.
 
 ## Argument
 
-Kevin Buzzard's article maps the mathematical community's reaction to AI onto the five stages of grief, and the evidence is stark. The denialists, like the Association for Human Mathematics and Fields Medalist Peter Scholze, refuse to engage with AI, a stance that risks irrelevance. The angry, like Vlad Vlasic, rage against AI's temerity. The bargainers, like the Advisory Group on Mathematics and AI, plead with labs to fund human understanding of AI outputs, a futile ask given corporate fiduciary duties. The depressed, from postdocs to PhD students, question the point of their work when AI one-shots their lemmas.
-
-But this grief is misplaced. The reframing of mathematics as being about 'human understanding' is a recent, self-serving narrative shift. Historically, the field rewarded hard theorems, not understanding—papers were rejected and hires denied without them. Buzzard's own experience with Richard Taylor, who told him to skip Deligne's proof due to time constraints, torpedoes the idea that understanding is the core value. He admits he doesn't fully understand his own work, yet he's a successful mathematician. He's 'in it for the theorem tally.'
-
-This is why Buzzard calls for OpenAI to release its 100+ secret theorems. Humans have a right to know what is known, and reverse-engineering AI proofs will lead to understanding. The future is optimistic: machines will push mathematics to new frontiers, and while they may hit a natural boundary, the journey will be extraordinary. The choice is clear: cling to grief and become irrelevant, or embrace the change and move forward.
+Kevin Buzzard's five-stage grief model maps the mathematical community's reaction to AI: denial (Association for Human Mathematics, Scholze's 'die on that hill'), anger (Vlasic's posts), bargaining (Advisory Group's plea to OpenAI), and depression (Navier-Stokes, postdoc, PhD student). But this grief is based on a false premise. The recent pivot to 'human understanding' as mathematics' purpose is a narrative shift, not a historical constant. Before AI, prizes and jobs went to those proving hard theorems, not those with the deepest understanding. Thurston's essay is now cited, but Hardy's view—mathematics as art for personal glory—is equally valid and equally threatened. Buzzard's own experience with Richard Taylor shows that even top mathematicians don't fully understand their field's foundations. The real value is the theorem tally, which is measurable. Therefore, we should release AI's results, let humans reverse-engineer them, and accept that AI will push mathematics to new frontiers, even if it eventually hits a natural boundary due to infinite mathematics and finite resources.
 
 ## Counterpoints
 
-- Peter Scholze's stance: he will not use AI and will 'die on that hill,' a position that risks irrelevance.
-- The Advisory Group's bargaining: asking labs to fund human understanding of AI outputs, which is unlikely given corporate fiduciary duties.
-- The 'human understanding' framing: mathematicians claim prizes are for understanding, but historically they rewarded hard theorems.
-- The concern that AI proofs lack explanation, as with the rank 30/31 elliptic curves, which Scholze says taught us nothing.
-- The argument that exponential progress can't continue indefinitely and mathematics is infinite, so machines will eventually get stuck.
+- AI-generated proofs lack human understanding, making them less valuable.
+- Mathematicians' grief is a legitimate response to a loss of identity and purpose.
+- AI progress is exponential and may not hit a natural boundary soon.
+- Releasing AI results without human understanding is irresponsible and akin to censorship.
 
 ## Concepts surfaced
 
-[[ai-mathematics]] · [[mathematical-grief]] · [[human-understanding]] · [[theorem-proving]] · [[lean-formalization]] · [[openai-theorems]]
+[[ai-mathematics]] · [[mathematical-grief]] · [[human-understanding]] · [[theorem-proving]] · [[formalization]] · [[ai-optimism]]
