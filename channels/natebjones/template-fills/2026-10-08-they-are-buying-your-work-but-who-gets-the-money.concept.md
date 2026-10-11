@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-08-they-are-buying-your-work-but-who-gets-t
 source_transcript: ../transcripts/2026-10-08-they-are-buying-your-work-but-who-gets-the-money.md
 source_summary_hash: sha256:99fa519f67a0414e4996580770fcb59e47fd2d4101d40426a4d8ad8a27983d5a
 source_transcript_hash: sha256:ab0e28d0e3b4143af0b765bfe0b2e9dd41bca666c49722774cb68b3cafa306f5
-fill_id: 1288a685-e98e-48a7-af03-71886c29b283
-published_at: '2026-10-11T02:13:24.730463'
+fill_id: 94619c3f-a2c2-4929-acd2-f15d17782255
+published_at: '2026-10-11T03:13:26.414912'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI labs are buying millions of dollars worth of corporate work records—emails, Slack messages, documents—to train agents. But these archives capture only the chaotic imitation of work, not the true value of intellectual labor. This disconnect raises urgent questions about what work really means and who profits from its data.
+AI labs are paying millions for corporate work archives—emails, chats, documents—to train agents. But these records capture the chaotic imitation of work, not its true value. This raises urgent questions about what work really is, who profits from its data, and how employees can defend their contributions.
 
 ## The argument
 
 ### The Market for Work Records
 - **Anchor Timestamps**: ['00:00:00']
-- **Claim**: AI labs like Google are paying millions for corporate work archives (e.g., Spirit Airlines' emails and Teams messages) to train agents. The prevailing theory is that these records can teach AI to do intelligent work, but the person whose work created the data gets nothing.
+- **Claim**: Google's $10 million bid for Spirit Airlines' emails and Teams messages reveals a market where companies sell accumulated work records. The theory is that AI can learn intelligent work from these traces, but the seller gets paid, the broker gets a commission, and the worker gets nothing.
 - **Role**: definition
 
-### The Chaos of Real Work
+### Work vs. Imitation
 - **Anchor Timestamps**: ['00:02:32']
-- **Claim**: Real work is messy and tacit—it involves coordination, judgment, and context that aren't captured in messages or documents. An invoice dispute example shows that the valuable intervention (noticing a credit error) is buried in a long thread of messages and meetings, making it impossible for an agent to learn what really matters.
+- **Claim**: The records capture the visible chaos—meetings, messages, corrections—but not the tacit knowledge and judgment that constitute real work. An agent trained on this data learns to imitate the process, not the value creation, which is often invisible and unrecorded.
 - **Role**: evidence
-
-### The Imitation Problem
-- **Anchor Timestamps**: ['00:05:21']
-- **Claim**: If buyers perceive the entire data sequence as an example of competent work, agents will learn to imitate the process, not the underlying judgment. The archive includes both the valuable intervention and the noise, and the agent can't distinguish between them. This leads to agents that mimic work without understanding its purpose.
-- **Role**: counter
 
 ### The Data of Last Hope
 - **Anchor Timestamps**: ['00:09:40']
-- **Claim**: The incentive to sell work data comes from failing companies, like Spirit Airlines, that can't find another use for it. This means agents are trained on data from bankrupt businesses, which may not represent successful work. The data is a 'last hope' sale, not a reflection of best practices.
+- **Claim**: The incentives are skewed: sellers are often bankrupt companies like Spirit, so the data agents learn from comes from failing enterprises. This creates a systemic bias—agents are trained on the imitation of work from companies that couldn't make it work.
+- **Role**: counter
+
+### The Reduction to Optimization
+- **Anchor Timestamps**: ['00:11:00']
+- **Claim**: The entire approach reduces complex intellectual labor to a set of optimization problems. This point-by-point optimization loses the nuances that make work effective, which is why AI's impact on the labor market remains elusive.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites the Spirit Airlines auction (Google's $10M bid vs. Mercor's $7.5M) and Mercor's approach of paying experts to define success criteria. He also mentions data brokers like Grepped packaging small business data for $20k-$5M. Caveats: the deal isn't final (hearing Oct 14), and the speaker acknowledges that some coordination is necessary, but argues that much of it is 'the price of working within that particular company.' He also notes that employees privately resist AI tools, with leaders estimating up to a third of teams passively sabotaging them.
+The Spirit Airlines archive contains 100 million emails and half a billion Teams entries, yet the company went bankrupt—so the data may not even represent successful work. Mercor, a competing bidder, is trying to solve the verification problem by paying experts to define success criteria, but this still requires subjective judgment. Employees are already resisting: union challenges and private sabotage of AI tools are common, with leaders estimating up to a third of teams passively resisting. The speaker admits his examples are anonymized personal experiences, and he is not sure agents can ever learn the specific context and judgment required for true intellectual work.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[data-brokers]] · [[intellectual-labor]] · [[tacit-knowledge]] · [[agent-training]]
+[[ai-agents]] · [[data-brokers]] · [[intellectual-labor]] · [[tacit-knowledge]] · [[work-automation]]
