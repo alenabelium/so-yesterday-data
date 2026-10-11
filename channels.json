@@ -15,7 +15,12 @@
     "id": "alexwg",
     "name": "Alex Wissner-Gross",
     "url": "https://www.youtube.com/@alexwg",
-    "description": "AI, Scale AI, data-centric AI, industry insights"
+    "description": "Forecasts and analyses. The 'Welcome to <date>' / 'You Are Invited to <date>' series is SPECULATIVE future-dated scenario-casting (deadpan in-universe newscasts), NOT reporting — archived for foresight value, but excluded from digests and the knowledge wiki so fiction never surfaces as news. Factual talks and interviews remain in the knowledge index.",
+    "preferences": {
+      "index": "all",
+      "knowledge": "EXCLUDE the speculative scenario series ('Welcome to <date>', 'You Are Invited to <date>', and any future-dated scenario narration). Keep factual talks, interviews, and analyses.",
+      "highlight": "Only factual analyses and interviews — never scenario-cast episodes."
+    }
   },
   {
     "id": "leonvanzy",
