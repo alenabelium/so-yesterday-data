@@ -107,6 +107,17 @@
     }
   },
   {
+    "id": "xamualexander",
+    "name": "Dr. Samuel Allen Alexander",
+    "url": "https://www.youtube.com/@xamualexander",
+    "description": "AI-in-mathematics news and commentary — AI-generated proofs and breakthroughs, reactions from working mathematicians (Tao, Aaronson), and the math profession in the AI era. Near-daily cadence with fast turnaround on frontier-lab math releases.",
+    "preferences": {
+      "index": "all",
+      "knowledge": "all",
+      "highlight": "Only major AI-in-math events: frontier-lab math releases and withdrawals, prominent mathematician responses, and policy/guideline changes affecting the math profession. Skip comment roundups, community anecdotes, and pure-math explainers with no AI connection."
+    }
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
