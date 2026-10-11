@@ -118,6 +118,28 @@
     }
   },
   {
+    "id": "coinbureau",
+    "name": "Coin Bureau",
+    "url": "https://www.youtube.com/@coinbureau",
+    "description": "Established crypto analysis (Guy Turner) — daily news, macro, regulation. On this site: the AI × crypto beat — AI agent economies, decentralized compute, tokenized AI, AI's impact on markets and jobs.",
+    "preferences": {
+      "index": "Only videos where AI is a substantive topic: AI agents in crypto, AI tokens and narratives, decentralized AI compute (e.g. Bittensor), AI's impact on markets, jobs or the economy. SKIP generic price analysis, altcoin picks, exchange/deals content, and regulation with no AI connection.",
+      "knowledge": "all",
+      "highlight": "Only major AI×crypto milestones — new on-chain AI agent ecosystems, decentralized compute breakthroughs, significant AI-driven market structure changes."
+    }
+  },
+  {
+    "id": "benjaminjcowen",
+    "name": "Into The Cryptoverse (Benjamin Cowen)",
+    "url": "https://www.youtube.com/@benjaminjcowen",
+    "description": "Quantitative crypto market analysis — data-driven market structure, risk metrics, macro. On this site: the economy and incentive-systems lens; only AI-related quantitative/macroeconomic analysis.",
+    "preferences": {
+      "index": "Only videos that substantively discuss AI — AI's impact on markets, the economy or jobs, AI-related crypto narratives — or macro analysis explicitly framed around AI as an economic force. SKIP routine coin technical analysis and monthly-returns content with no AI connection.",
+      "knowledge": "all",
+      "highlight": "Only analyses where AI is central to the market-structure argument."
+    }
+  },
+  {
     "id": "manual",
     "name": "Community Sources",
     "url": "",
