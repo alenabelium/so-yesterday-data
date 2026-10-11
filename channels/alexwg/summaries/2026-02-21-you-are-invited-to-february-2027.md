@@ -10,6 +10,8 @@ tags:
   - opinion
   - productivity
 transcript: ../transcripts/2026-02-21-you-are-invited-to-february-2027.md
+knowledge: false
+highlight: false
 ---
 
 # You Are Invited to February 2027

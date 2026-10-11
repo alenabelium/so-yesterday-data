@@ -11,6 +11,8 @@ tags:
   - ethics-safety
 transcript: ../transcripts/2026-08-30-welcome-to-august-29-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to August 29, 2026

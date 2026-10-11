@@ -10,6 +10,8 @@ tags:
   - ethics-safety
   - ai-strategy
 transcript: ../transcripts/2026-04-02-welcome-to-april-2-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 2, 2026

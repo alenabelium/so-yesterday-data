@@ -10,6 +10,8 @@ tags:
   - ai-agents
   - productivity
 transcript: ../transcripts/2026-02-16-welcome-to-february-16-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 16, 2026

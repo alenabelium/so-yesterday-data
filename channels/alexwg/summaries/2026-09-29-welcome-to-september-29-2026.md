@@ -10,6 +10,8 @@ tags:
   - industry-news
 transcript: ../transcripts/2026-09-29-welcome-to-september-29-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 29, 2026

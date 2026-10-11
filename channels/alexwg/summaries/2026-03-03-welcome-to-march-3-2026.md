@@ -10,6 +10,8 @@ tags:
   - coding
   - llm-fundamentals
 transcript: ../transcripts/2026-03-03-welcome-to-march-3-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 3, 2026

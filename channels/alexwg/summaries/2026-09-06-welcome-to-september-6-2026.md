@@ -11,6 +11,8 @@ tags:
   - ethics-safety
 transcript: ../transcripts/2026-09-06-welcome-to-september-6-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 6, 2026

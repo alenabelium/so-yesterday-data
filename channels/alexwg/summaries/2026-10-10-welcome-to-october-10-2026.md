@@ -11,6 +11,8 @@ tags:
   - ai-safety
 transcript: ../transcripts/2026-10-10-welcome-to-october-10-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to October 10, 2026

@@ -11,6 +11,8 @@ tags:
   - opinion
 transcript: ../transcripts/2026-10-03-welcome-to-october-3-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to October 3, 2026

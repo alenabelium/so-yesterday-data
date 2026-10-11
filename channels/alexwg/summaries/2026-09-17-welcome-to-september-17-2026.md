@@ -11,6 +11,8 @@ tags:
   - industry-news
 transcript: ../transcripts/2026-09-17-welcome-to-september-17-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 17, 2026

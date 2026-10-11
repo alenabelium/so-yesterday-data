@@ -11,6 +11,8 @@ tags:
   - ai-safety
 transcript: ../transcripts/2026-09-07-welcome-to-september-7-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 7, 2026

@@ -10,6 +10,8 @@ tags:
   - llm-fundamentals
   - ethics-safety
 transcript: ../transcripts/2026-03-02-welcome-to-march-2-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 2, 2026

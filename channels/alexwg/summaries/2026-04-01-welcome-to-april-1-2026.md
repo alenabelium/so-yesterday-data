@@ -9,6 +9,8 @@ tags:
   - industry-news
   - opinion
 transcript: ../transcripts/2026-04-01-welcome-to-april-1-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 1, 2026

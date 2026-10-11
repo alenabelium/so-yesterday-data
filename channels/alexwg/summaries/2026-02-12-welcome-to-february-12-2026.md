@@ -10,6 +10,8 @@ tags:
   - productivity
   - ethics-safety
 transcript: ../transcripts/2026-02-12-welcome-to-february-12-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 12, 2026

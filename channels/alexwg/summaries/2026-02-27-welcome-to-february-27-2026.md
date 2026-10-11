@@ -10,6 +10,8 @@ tags:
   - ai-tools
   - prompting
 transcript: ../transcripts/2026-02-27-welcome-to-february-27-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 27, 2026

@@ -10,6 +10,8 @@ tags:
   - industry-news
   - ethics-safety
 transcript: ../transcripts/2026-04-05-welcome-to-april-5-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 5, 2026

@@ -10,6 +10,8 @@ tags:
   - ai-tools
   - llm-fundamentals
 transcript: ../transcripts/2026-02-13-welcome-to-february-13-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 13, 2026

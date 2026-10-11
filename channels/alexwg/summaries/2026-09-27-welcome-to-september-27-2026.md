@@ -11,6 +11,8 @@ tags:
   - career
 transcript: ../transcripts/2026-09-27-welcome-to-september-27-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 27, 2026

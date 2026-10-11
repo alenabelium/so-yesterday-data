@@ -11,6 +11,8 @@ tags:
   - ai-safety
 transcript: ../transcripts/2026-08-27-welcome-to-august-27-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to August 27, 2026

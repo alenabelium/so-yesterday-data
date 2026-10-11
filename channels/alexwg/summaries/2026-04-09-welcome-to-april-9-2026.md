@@ -10,6 +10,8 @@ tags:
   - opinion
 transcript: ../transcripts/2026-04-09-welcome-to-april-9-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 9, 2026

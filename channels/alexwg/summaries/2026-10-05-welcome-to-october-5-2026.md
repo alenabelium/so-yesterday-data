@@ -11,6 +11,8 @@ tags:
   - opinion
 transcript: ../transcripts/2026-10-05-welcome-to-october-5-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to October 5, 2026

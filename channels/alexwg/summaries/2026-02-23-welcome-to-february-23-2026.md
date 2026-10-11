@@ -10,6 +10,8 @@ tags:
   - industry-news
   - coding
 transcript: ../transcripts/2026-02-23-welcome-to-february-23-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 23, 2026

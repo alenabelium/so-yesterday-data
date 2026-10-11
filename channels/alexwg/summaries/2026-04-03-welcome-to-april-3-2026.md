@@ -10,6 +10,8 @@ tags:
   - industry-news
   - productivity
 transcript: ../transcripts/2026-04-03-welcome-to-april-3-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 3, 2026

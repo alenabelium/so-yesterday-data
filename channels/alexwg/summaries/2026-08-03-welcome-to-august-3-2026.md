@@ -11,6 +11,8 @@ tags:
   - productivity
 transcript: ../transcripts/2026-08-03-welcome-to-august-3-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to August 3, 2026

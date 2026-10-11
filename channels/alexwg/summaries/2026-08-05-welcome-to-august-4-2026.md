@@ -11,6 +11,8 @@ tags:
   - career
 transcript: ../transcripts/2026-08-05-welcome-to-august-4-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to August 4, 2026

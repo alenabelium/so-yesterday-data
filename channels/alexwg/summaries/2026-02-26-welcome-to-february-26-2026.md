@@ -10,6 +10,8 @@ tags:
   - ai-agents
   - coding
 transcript: ../transcripts/2026-02-26-welcome-to-february-26-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 26, 2026

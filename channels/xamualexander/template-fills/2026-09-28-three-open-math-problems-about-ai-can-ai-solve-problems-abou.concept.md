@@ -6,42 +6,47 @@ source_summary: ../summaries/2026-09-28-three-open-math-problems-about-ai-can-ai
 source_transcript: ../transcripts/2026-09-28-three-open-math-problems-about-ai-can-ai-solve-problems-abou.md
 source_summary_hash: sha256:a25557d1ca1e4a4e19f591f06068138ca5db943f6ad22d3baa068615282da144
 source_transcript_hash: sha256:05af8c751224e0d148d14ac83b66b5542b121ae42f0ecbe62987e0d77393c755
-fill_id: 09e505c9-6ec0-453a-9bcd-45eadfa70361
-published_at: '2026-10-11T19:48:24.380062'
+fill_id: 73eb1489-4762-4ef5-b48f-c3e4e4c9bff8
+published_at: '2026-10-11T20:47:24.668333'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-A framework for analyzing what AIs in a well-founded, computably enumerable hierarchy can know about each other's truthfulness, codes, and mechanicalness. Three open problems (311, 312, 313) ask if an AI can know the truthfulness of all agents, including superiors. Solving them would deepen our understanding of AI itself.
+Three open math problems about AI ask whether AIs in a well-founded hierarchy can know the truthfulness, codes, and mechanicalness of all agents, including superiors. These problems extend Reinhardt's and Carlson's results on self-knowledge. Solving them would deepen our understanding of AI, possibly with AI's own help.
 
 ## The argument
 
-### Define the Hierarchy and Its Knowledge Properties
-- **Anchor Timestamps**: ['00:10:24']
-- **Claim**: AIs arranged in an org chart, well-founded and computably enumerable, can know each other's truthfulness, codes, and mechanicalness. The matrix of 27 questions categorizes these possibilities, with three open problems (311, 312, 313) in the top-right corner.
+### Define the Core Substrate
+- **Anchor Timestamps**: ['00:00:54']
+- **Claim**: The concept is a matrix of 27 consistency questions about hierarchies of knowing machines. Each question asks whether a well-founded, computably enumerable hierarchy can be populated with truthful AIs that know certain properties about each other, including superiors.
 - **Role**: definition
 
-### Reinhardt's Impossibility and Carlson's Possibility
+### Evidence from Single-Machine Results
 - **Anchor Timestamps**: ['00:02:54']
-- **Claim**: Reinhardt proved a truthful AI that knows its own truthfulness cannot know its own code. Carlson proved it can know it is a machine without knowing which one, via the strong mechanistic thesis, consistent with epistemic arithmetic.
+- **Claim**: Reinhardt proved a truthful machine that knows its own truthfulness cannot know its own code. Carlson proved it can know it is a machine without knowing which one. My contribution shows a machine can know its own code if it doesn't know its own truthfulness.
 - **Role**: evidence
 
-### The Open Problems: 311, 312, 313
-- **Anchor Timestamps**: ['00:18:53']
-- **Claim**: 311 asks if each AI can know everyone's truthfulness, codes of subordinates, and mechanicalness of subordinates. 312 strengthens to include self-mechanicalness; 313 to include everyone's mechanicalness. All are wide open, with no known answer.
+### Generalize to Multiple Machines
+- **Anchor Timestamps**: ['00:10:24']
+- **Claim**: The dissertation generalizes to hierarchies of AIs, like an org chart. The 27 questions are formed by combining three properties (truthfulness, codes, mechanicalness) with three scopes (subordinates, self+subordinates, everyone). This yields the matrix.
 - **Role**: definition
 
-### Why These Problems Matter for AI Self-Understanding
-- **Anchor Timestamps**: ['00:21:57']
-- **Claim**: If AI solves these problems, it would be AI learning about AI, increasing our understanding of AI itself. These are open math problems about AI, making them uniquely valuable.
+### Counter: Bottom-Right Impossibility
+- **Anchor Timestamps**: ['00:17:46']
+- **Claim**: The bottom-right corner is impossible because question 221 requires an AI to know its own truth and code, contradicting Reinhardt. All harder questions in that corner are also impossible. This leaves only 311, 312, and 313 open.
+- **Role**: counter
+
+### Synthesis: The Open Problems
+- **Anchor Timestamps**: ['00:18:59']
+- **Claim**: 311, 312, and 313 ask whether each AI can know everyone's truthfulness, plus codes and mechanicalness of subordinates (or self+subordinates, or everyone). They are wide open, and solving them would be AI learning about AI, increasing our understanding.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker notes that the bottom-right corner of the matrix is impossible due to Reinhardt's result, and his own work (e.g., problem 213) uses patterns of resemblance. He admits he has no idea whether 311, 312, or 313 are true. Formal details require reading the dissertation, but AI can now read it in seconds.
+The speaker notes that the formal details are in his dissertation, which is over 100 pages. He suggests using AI to read it. He also mentions that people have emailed solutions to other open problems in his papers, but not these three. He conjectures 313 is the hardest. The problems are about AI, so AI solving them would be 'divinely appropriate.'
 
 ## Concepts surfaced
 
-[[epistemic-arithmetic]] · [[strong-mechanistic-thesis]] · [[kleenes-recursion-theorem]] · [[patterns-of-resemblance]] · [[ordinal-analysis]]
+[[ai-safety]] · [[llm-fundamentals]] · [[mathematical-reasoning]] · [[self-knowledge]] · [[computability-theory]]

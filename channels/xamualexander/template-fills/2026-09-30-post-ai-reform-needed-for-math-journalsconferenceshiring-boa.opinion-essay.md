@@ -6,27 +6,28 @@ source_summary: ../summaries/2026-09-30-post-ai-reform-needed-for-math-journalsc
 source_transcript: ../transcripts/2026-09-30-post-ai-reform-needed-for-math-journalsconferenceshiring-boa.md
 source_summary_hash: sha256:5567391985c43f22389baade14aa4c046f1a0acbf986fcb5c46af7da3fcb3fba
 source_transcript_hash: sha256:dd7db9218ee64501f338c29158d813bae6163ae98655fb0020aa844b41f36270
-fill_id: 2405327d-01fb-4d47-8b33-a92f5bb4a798
-published_at: '2026-10-11T20:13:15.593902'
+fill_id: 46cbfb55-f641-4026-a80a-6a9a15544ea1
+published_at: '2026-10-11T21:13:48.851162'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Math journals, conferences, and hiring boards must immediately reform their incentive structures to reward clarity and human understanding over raw result production, treating all results as AI-proven to prevent dishonesty.
+Mathematics' incentive structures—journals, conferences, and hiring boards—must be reformed immediately to reward clarity and understanding over raw proof production, or the field will drown in AI-generated papers.
 
 ## Argument
 
-The mechanism is the exponential surge in paper submissions, which has nearly doubled since 2025 in fields like combinatorics, driven by AI models like GPT-5.2. This creates a prisoner's dilemma where mathematicians must use AI to stay competitive, leading to a flood of unreadable, low-quality work that buries genuine contributions. The host agrees with Amit Harlove's call for urgent systemic change, emphasizing that value must shift from merely proving results to improving human understanding through clear presentation and proof refinement. The host highlights the practical steps: hiring committees should update job listings to weight activities that remain valuable, and journals should define contributions that prioritize clarity. The host also endorses the controversial stance that all results should be treated as AI-proven, as differentiating would incentivize lying about AI use. The host stresses that this is not just about survival but about preserving the discipline's integrity, as the current system rewards speed over substance, leading to a crisis where the publication system cannot cope.
+The urgency is driven by an exponential surge in paper submissions, doubling in some fields since 2025, as AI models like GPT-5.2 and later versions enable rapid problem-solving. This creates a prisoner's dilemma: mathematicians must use AI to stay competitive, sacrificing quality for speed, leading to a flood of unreadable, low-value papers. The solution, as Amit Harlove argues, is to shift rewards from merely proving results to improving human understanding through clear presentation, proof refinement, and canonization—the slow, consensus-driven process Terence Tao highlights as least amenable to AI optimization. This means treating all results as AI-proven to prevent dishonesty, and updating hiring and review guidelines to value contributions that deepen collective understanding, not just the number of results. The crisis is immediate; waiting for consensus is not an option.
 
 ## Counterpoints
 
-- Some argue that AI-proven results have zero value even if thoroughly checked, but the host counters that the process of refinement and verification adds value.
-- There is a concern that hiring committees cannot read 40-50 papers per applicant, but the host suggests that committees must find new evaluation methods quickly.
-- The host acknowledges that proofreading is important but argues that it is a basic requirement, not an added value, and that correctness checking will soon be automated.
-- The host notes that some might think the crisis won't affect their field, but the trend is expected to spread to all areas of mathematics.
+- Some argue AI-generated proofs, even if verified, have zero value; the host counters that the effort in refining and presenting them adds value.
+- Others worry that rewarding only human understanding will disincentivize speed, but the host argues the current system already rewards speed over quality, leading to a crisis.
+- A commenter notes that if anyone can solve a problem with AI, it's not an important contribution; the host agrees, emphasizing the need for deeper work.
+- Hiring committees face practical limits—hundreds of applicants, too many papers to read—making it hard to assess understanding; the host acknowledges this but insists on change.
+- Some suggest teaching descriptive writing to students, but the host warns this would just lead to AI-generated writing.
 
 ## Concepts surfaced
 
-[[ai-in-mathematics]] · [[incentive-structures]] · [[prisoners-dilemma]] · [[publication-crisis]] · [[proof-refinement]] · [[human-understanding]]
+[[ai-proofs]] · [[incentive-structures]] · [[prisoners-dilemma]] · [[proof-refinement]] · [[canonization]] · [[publication-crisis]]

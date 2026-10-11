@@ -11,6 +11,8 @@ tags:
   - future-tech
 transcript: ../transcripts/2026-09-04-welcome-to-september-4-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 4, 2026

@@ -10,6 +10,8 @@ tags:
   - industry-news
   - career
 transcript: ../transcripts/2026-03-05-welcome-to-march-5-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 5, 2026

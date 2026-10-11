@@ -10,6 +10,8 @@ tags:
   - llm-fundamentals
   - ai-agents
 transcript: ../transcripts/2026-03-04-welcome-to-march-4-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 4, 2026

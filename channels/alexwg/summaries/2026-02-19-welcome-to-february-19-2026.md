@@ -10,6 +10,8 @@ tags:
   - productivity
   - llm-fundamentals
 transcript: ../transcripts/2026-02-19-welcome-to-february-19-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 19, 2026

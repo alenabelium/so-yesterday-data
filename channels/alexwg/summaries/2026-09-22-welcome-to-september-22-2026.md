@@ -11,6 +11,8 @@ tags:
   - productivity
 transcript: ../transcripts/2026-09-22-welcome-to-september-22-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to September 22, 2026

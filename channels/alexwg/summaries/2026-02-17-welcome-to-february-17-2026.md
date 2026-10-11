@@ -10,6 +10,8 @@ tags:
   - llm-fundamentals
   - industry-news
 transcript: ../transcripts/2026-02-17-welcome-to-february-17-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 17, 2026

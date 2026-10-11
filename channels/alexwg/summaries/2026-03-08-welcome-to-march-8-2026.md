@@ -10,6 +10,8 @@ tags:
   - ai-tools
   - ai-strategy
 transcript: ../transcripts/2026-03-08-welcome-to-march-8-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 8, 2026

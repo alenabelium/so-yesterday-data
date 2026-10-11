@@ -11,6 +11,8 @@ tags:
   - ethics-safety
 transcript: ../transcripts/2026-04-09-welcome-to-april-8-2026.md
 relevant: true
+knowledge: false
+highlight: false
 ---
 
 # Welcome to April 8, 2026

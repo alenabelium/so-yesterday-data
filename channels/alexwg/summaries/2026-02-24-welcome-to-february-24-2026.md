@@ -10,6 +10,8 @@ tags:
   - ai-tools
   - ai-strategy
 transcript: ../transcripts/2026-02-24-welcome-to-february-24-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to February 24, 2026

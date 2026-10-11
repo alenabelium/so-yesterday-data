@@ -10,6 +10,8 @@ tags:
   - industry-news
   - ai-strategy
 transcript: ../transcripts/2026-03-06-welcome-to-march-6-2026.md
+knowledge: false
+highlight: false
 ---
 
 # Welcome to March 6, 2026
