@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-09-28-three-open-math-problems-about-ai-can-ai
 source_transcript: ../transcripts/2026-09-28-three-open-math-problems-about-ai-can-ai-solve-problems-abou.md
 source_summary_hash: sha256:a25557d1ca1e4a4e19f591f06068138ca5db943f6ad22d3baa068615282da144
 source_transcript_hash: sha256:05af8c751224e0d148d14ac83b66b5542b121ae42f0ecbe62987e0d77393c755
-fill_id: 81222834-1d3f-4104-a0d5-bcc1e97dad17
-published_at: '2026-10-12T01:42:10.390273'
+fill_id: a7025a3f-61a9-43de-a3ff-2d33abe2499d
+published_at: '2026-10-12T02:42:03.397816'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Three open problems from a 2013 dissertation ask whether AIs in a well-founded, computable hierarchy can know the truthfulness, codes, and mechanicalness of all agents, including superiors. These questions extend Reinhardt's and Carlson's single-machine results to multi-agent org charts. Solving them would be AI advancing our understanding of AI itself.
+Three open math problems about AI ask whether machines in a well-founded, computable hierarchy can know the truthfulness, codes, and mechanicalness of all agents, including superiors. These problems extend Reinhardt's and Carlson's results on single machines. If AI solves them, it would deepen our understanding of AI itself.
 
 ## The argument
 
-### Define the Core Substrate
-- **Anchor Timestamps**: ['00:00:00']
-- **Claim**: The concept is a matrix of 27 consistency questions about hierarchies of 'knowing machines'—AIs that can reason about their own and others' knowledge. Three questions (311, 312, 313) remain open, asking whether such hierarchies can be populated with AIs that know the truthfulness, codes, and mechanicalness of all agents, including superiors.
+### Define the Hierarchy and Its Knowledge Properties
+- **Anchor Timestamps**: ['00:10:24']
+- **Claim**: AIs arranged in a well-founded, computably enumerable hierarchy (like an org chart) can know various things about each other: truthfulness, exact codes, and mechanicalness. The 27 questions in the dissertation ask which combinations are possible.
 - **Role**: definition
 
-### Build on Single-Machine Results
+### Reinhardt's Impossibility and Carlson's Possibility
 - **Anchor Timestamps**: ['00:02:54']
-- **Claim**: Reinhardt proved a truthful machine that knows its own truthfulness cannot know its own code. Carlson showed such a machine can know it is a machine without knowing which one. The speaker's own work showed a machine can know its own code if it does not know its own truthfulness, using Kleene's recursion theorem.
-- **Role**: evidence
+- **Claim**: Reinhardt proved a truthful machine that knows its own truthfulness cannot know its own code. Carlson proved it can know it is a machine without knowing which one. This distinction between knowing 'that' and knowing 'which' is foundational.
+- **Role**: definition
 
-### Generalize to Multi-Agent Hierarchies
-- **Anchor Timestamps**: ['00:10:24']
-- **Claim**: The dissertation generalizes single-machine results to org-chart hierarchies of AIs, where each agent may know subordinates' truthfulness, codes, or mechanicalness. The 27 questions systematically vary these knowledge properties across levels, with the bottom-right corner impossible due to Reinhardt's result, and the top-left corner affirmatively answered by the speaker.
-- **Role**: synthesis
-
-### Identify the Open Questions
+### The Open Questions 311, 312, 313
 - **Anchor Timestamps**: ['00:18:53']
-- **Claim**: Questions 311, 312, and 313 ask whether hierarchies can be populated so that each AI knows everyone's truthfulness, plus codes and mechanicalness of subordinates (311), also mechanicalness of self (312), or mechanicalness of everyone (313). These are wide open, with no known answer, and 313 is conjectured hardest.
+- **Claim**: These ask whether every such hierarchy can be populated with AIs that know everyone's truthfulness, plus codes and mechanicalness of subordinates (311), also mechanicalness of self (312), or mechanicalness of everyone (313). All are wide open.
 - **Role**: evidence
 
-### Propose AI as the Solver
-- **Anchor Timestamps**: ['00:21:57']
-- **Claim**: If AI solves these problems, it would be AI learning about AI, increasing our understanding of AI itself. The speaker hopes AI will settle them within his lifetime, noting that AI can now read the 100-page dissertation in seconds, making the formal details accessible.
+### The Hardest Open Problems About AI
+- **Anchor Timestamps**: ['00:21:38']
+- **Claim**: Despite receiving unsolicited solutions to other open problems, no one has solved these. They are likely the hardest in the author's papers and uniquely about AI itself, making them prime candidates for AI to solve.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker's dissertation affirmatively answers many questions, including 133 and 213, using Kleene's recursion theorem and ordinal analysis (patterns of resemblance). The bottom-right corner (e.g., 221) is impossible because it would require an AI to know its own code, contradicting Reinhardt. The speaker has received unsolicited solutions to other open problems but not these three. Caveats: the speaker speaks in plain English, and formal definitions of 'knowing' and 'truthful' require reading the dissertation. The speaker has no idea whether 311, 312, or 313 are true or false.
+The speaker notes that the bottom-right corner of the 27-question matrix is impossible due to Reinhardt's result, while the left column and top-left are affirmatively answered in his dissertation. He highlights that proving question 213 required advanced tools like patterns of resemblance. He also acknowledges the formal details are complex and recommends using AI to read the dissertation. He expresses hope that AI will solve these problems, which would be 'divinely appropriate' as they are about AI.
 
 ## Concepts surfaced
 
-[[kleenes-recursion-theorem]] · [[ordinal-analysis]] · [[epistemic-arithmetic]] · [[mechanistic-thesis]] · [[ai-mathematics]]
+[[epistemic-arithmetic]] · [[recursion-theorem]] · [[ordinal-analysis]] · [[mechanistic-thesis]] · [[ai-safety]]
