@@ -6,42 +6,47 @@ source_summary: ../summaries/2026-09-22-aristotles-paradox-of-the-wheel-how-is-i
 source_transcript: ../transcripts/2026-09-22-aristotles-paradox-of-the-wheel-how-is-it-not-more-well-know.md
 source_summary_hash: sha256:214329b9eb69882300f116b1adba75e099bc616656d269d2a894ab1be1c5df75
 source_transcript_hash: sha256:381fe6735f460c3561897e07c85215ffb7df439ce5afed4afd34bce9f3d38b8c
-fill_id: 0b05a05a-9a4e-400f-83cb-dde4b419b0f9
-published_at: '2026-10-12T08:41:25.254287'
+fill_id: 43b20453-f596-49c4-8b82-e86e335db2b0
+published_at: '2026-10-12T10:55:04.417263'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-A rolling wheel's inner and outer points trace different-length paths per revolution, yet the wheel covers one distance. The paradox exposes a mismatch between our intuitive straight-line model and the actual cycloid geometry.
+Aristotle's paradox of the wheel asks how a point on a larger circle can travel farther than a point on a smaller circle when both are part of the same rolling wheel. While mathematical solutions exist, the paradox is fundamentally psychological: our intuition expects both points to move the same distance, but they trace different cycloid paths. This mismatch between intuition and geometry has influenced thinkers from Galileo to Cantor.
 
 ## The argument
 
-### Define the Intuitive Model
-- **Anchor Timestamps**: ['00:00:30']
-- **Claim**: Our intuition models the wheel as a rigid body: every point shares the same horizontal displacement. This is the substrate the paradox exploits — we expect equal travel for all points because they're bolted to the same axle.
+### Define the Paradox
+- **Anchor Timestamps**: ['00:00:00']
+- **Claim**: Aristotle's paradox of the wheel involves a wheel with an outer and inner circle, each marked with a point. When the wheel rolls, each point traces a circle, and when straightened, the outer circle's line is longer than the inner's. Over thousands of miles, the difference becomes enormous, yet both points are on the same wheel, so they should move roughly the same distance.
 - **Role**: definition
 
-### Trace the Actual Paths
-- **Anchor Timestamps**: ['00:01:30']
-- **Claim**: The outer point traces a larger cycloid than the inner point per revolution. The blue path is visibly longer, and over thousands of miles the difference compounds — yet both points remain on the same wheel. This is the paradox's core tension.
+### The Psychological Core
+- **Anchor Timestamps**: ['00:02:10']
+- **Claim**: The paradox is more psychological than mathematical. Mathematical analysis explains the phenomenon, but the real issue is that our physical intuition expects both points to move the same distance, leading to a 'does not compute' state. This pattern of early psychology disguised as physics is common in Aristotle's work.
+- **Role**: definition
+
+### Historical Influence
+- **Anchor Timestamps**: ['00:03:25']
+- **Claim**: The paradox has influenced major thinkers: Galileo used a hexagon version to argue for atomism, and Bolzano discussed it in 'Paradoxes of the Infinite', which influenced Cantor, the father of modern infinity studies. This shows the paradox's deep impact on mathematics and philosophy.
 - **Role**: evidence
 
-### Resolve via Geometry
-- **Anchor Timestamps**: ['00:03:25']
-- **Claim**: The resolution is mathematical: the inner point's cycloid is shorter and more direct, so it covers less distance per revolution. The wheel's rigid rotation doesn't force equal path lengths — only equal angular displacement.
-- **Role**: synthesis
-
-### Expose the Psychological Core
-- **Anchor Timestamps**: ['00:04:30']
-- **Claim**: The real paradox is psychological: our intuition substitutes straight-line motion for the curved cycloid, then expects equal distances. When the math contradicts that substitution, the mind hits a 'does not compute' state — the paradox's true engine.
+### The Unsatisfying Mathematical Solution
+- **Anchor Timestamps**: ['00:05:10']
+- **Claim**: A standard mathematical solution shows that points on the outer circle trace longer cycloid paths than those on the inner circle, explaining the distance difference. However, this solution is unsatisfying because it doesn't address the psychological paradox: our intuition sees straight lines, not cycloids, so the paradox persists.
 - **Role**: counter
+
+### Synthesis: The True Source
+- **Anchor Timestamps**: ['00:05:10']
+- **Claim**: The paradox's true source is the mismatch between our intuitive straight-line perception and the actual cycloid paths traced by the points. Our mind expects straight lines, but the geometry involves curves, causing the paradox. This insight reveals that the paradox is fundamentally about human cognition, not mathematics.
+- **Role**: synthesis
 
 ## Evidence and caveats
 
-The host notes the paradox influenced Galileo and Bolzano, and that the mathematical solution is 'unsatisfying' because it doesn't address the psychological mismatch. He explicitly frames the paradox as 'more of a psychological paradox than a mathematical paradox.'
+The video provides a worked example: with radii in a 2:1 ratio, the outer point's path is twice as long as the inner's, leading to a huge difference over thousands of miles. The speaker notes that the mathematical solution, while correct, is 'not really satisfying' because it doesn't address the psychological aspect. He also mentions that the paradox influenced Galileo (via a hexagon version) and Bolzano, whose work influenced Cantor. The speaker emphasizes that the paradox is 'more of a psychology paradox' than a mathematical one, and that this pattern of early psychology in Aristotle's work is common.
 
 ## Concepts surfaced
 
-[[cycloid]] · [[galileo]] · [[infinity]]
+[[cycloid-paths]] · [[galileo-atomism]] · [[bolzano-paradoxes-of-the-infinite]] · [[cantor-infinity]] · [[psychological-paradox]]
