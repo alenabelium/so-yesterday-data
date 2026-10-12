@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-10-09-mathocalypse-scott-aaronson-on-openais-f
 source_transcript: ../transcripts/2026-10-09-mathocalypse-scott-aaronson-on-openais-flood-of-ai-math-brea.md
 source_summary_hash: sha256:416e8b1263a92b899a469d802eb86f083d76eaeb8944d0b50b10514020e9c98d
 source_transcript_hash: sha256:22d2267289cb47d56e079d82ef5315238e62c8144b4b371cc0b8b3f88988812b
-fill_id: 2256538e-689b-4766-9064-53c214f2edf2
-published_at: '2026-10-12T04:09:50.219249'
+fill_id: 01f81d47-14f9-4395-812a-0c6dd4c690f8
+published_at: '2026-10-12T05:09:52.402146'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-OpenAI's release of nearly 400 AI-generated mathematical breakthroughs, including a proof of the Unique Games Conjecture, marks the end of elite mathematicians' monopoly on discovery and the beginning of a new era where AI is the primary.
+OpenAI's release of nearly 400 AI-generated mathematical proofs, including the Unique Games Conjecture, marks the end of elite mathematicians' monopoly on discovery and the beginning of a new era where AI is the primary creator and humans.
 
 ## Argument
 
-The mechanism is the sheer scale and speed of the breakthrough. OpenAI's internal model, running in vanilla mode for about three hours per problem, solved roughly 5% of 8,000 long-standing open problems, including the Unique Games Conjecture and Hilbert's 10th problem over the rationals. This isn't a bespoke, million-dollar compute effort like the Navier-Stokes solution; it's a standard model that could be released to ChatGPT customers soon. The proofs are so alien and creative that even experts like Dana Moshkovitz describe them as 'something written by someone who's on psychedelics' — a direct refutation of the claim that AI can't invent new things. The implications are devastating for the old guard: a whole sub-community working on L vs. BPL is now obsolete, and the unique games conjecture's proof bypasses the conjecture itself for its main applications. The host argues this is a great equalizer, collapsing the hierarchy between elite mathematicians and amateurs, and that the future of math is not doom but a transformation into 'tour guides to the Platonic realm of ideals.' The host also highlights the PR battle: OpenAI's dump of undigested proofs won the news cycle, while Anthropic's approach of paying experts to explain results vanished in obscurity, showing that the old model of gatekeeping is dead.
+The mechanism is the sheer scale and speed of the breakthrough. OpenAI's internal model solved the Unique Games Conjecture, a problem Dana Moshkovitz worked on her entire career, in about three hours. This isn't a single fluke; it's a flood of 372 results, including L=BPL, a new Fourier transform for integer multiplication, and a resolution of Hilbert's 10th problem over the rationals. The proofs are so alien and creative that they strike experts as 'literally alien,' demolishing the claim that AI can't invent new things. The economic and strategic implications are stark: OpenAI's dump, despite being messy and unreadable without AI help, won the PR war against Anthropic's more curated, expert-mediated approach. The future is not the end of mathematics but its transformation: mathematicians become 'tour guides to the Platonic realm of ideals,' and the field becomes more accessible and popular than ever. The real threat isn't to the craft but to the gatekeepers—the 'elitists' who controlled access and prestige. Their world is collapsing, and the new world is one where anyone with the right tools can explore the mathematical universe.
 
 ## Counterpoints
 
-- Skeptics will say the alleged solutions are just AI slop, not real math, or that the problems solved were glorified puzzles, not real mathematics.
-- The absence of P vs NP and other 'greatest open problems' shows AI still can't crack the hardest problems, so the hype is overblown.
-- The proofs are so poorly written and obfuscated that they are impossible to read without AI help, potentially forcing mathematicians to pay big tech companies to access them.
-- Cryptography is conspicuously absent from the release, suggesting OpenAI may be keeping practical breakthroughs secret for its own monopoly advantage.
-- The advisory group's statement is carefully neutral, neither endorsing nor condemning OpenAI's actions, leaving the mathematical community to assess the impact.
+- Skeptics will say the proofs are just AI slop or that the problems weren't real math, but these are goalpost-moving arguments that ignore the scale and significance of results like Hilbert's 10th problem.
+- The absence of cryptography results from the release suggests OpenAI may be withholding practical breakthroughs for its own strategic advantage, a concern that outweighs the theoretical purity of the other proofs.
+- The OpenAI model only solves about 5% of the problems it's given, but this is a baseline; with more compute and focused effort, the success rate could skyrocket.
+- The proofs are so poorly written that they are impossible to read without AI help, raising concerns about accessibility and the potential for AI companies to control the interpretation of results.
+- The advisory group's statement is carefully neutral, but it underscores that the release is just the beginning of a long process of human understanding and integration.
 
 ## Concepts surfaced
 
-[[unique-games-conjecture]] · [[hilberts-tenth-problem]] · [[complexity-theory]] · [[ai-creativity]] · [[openai-vs-anthropic]] · [[platonic-realm]]
+[[unique-games-conjecture]] · [[complexity-theory]] · [[hilberts-tenth-problem]] · [[ai-creativity]] · [[openai-vs-anthropic]] · [[mathocalypse]]

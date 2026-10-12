@@ -6,27 +6,28 @@ source_summary: ../summaries/2026-10-03-five-stages-of-grief-for-mathematicians-
 source_transcript: ../transcripts/2026-10-03-five-stages-of-grief-for-mathematicians-facing-ai.md
 source_summary_hash: sha256:e7bef4cdadcde1aa66a0d79b87768d5dc4d7dcd8780bdbf843451f88cd0ea560
 source_transcript_hash: sha256:637c5183bb25a705c73a5f72522159f109e89626cb95dfd9d9685ca9e0512d26
-fill_id: c7a62e34-fdd9-4c1e-8b2c-8dab8a19fee4
-published_at: '2026-10-12T04:09:51.808573'
+fill_id: 72059408-c7dd-442c-8744-1efc35f0b79f
+published_at: '2026-10-12T05:09:53.882067'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Mathematicians grieving AI's theorem-proving are clinging to a reframed 'human understanding' narrative that was never the field's actual reward system, and this denial will make them irrelevant.
+Mathematicians grieving AI's theorem-proving are clinging to a reframed 'human understanding' narrative, but the field's real value is proving theorems, and they should let AI loose and move forward.
 
 ## Argument
 
-The mechanism is the reward system. Before 2026, top journals and hiring committees rewarded hard theorems, not understanding—you could improve understanding beyond the moon and still be rejected from the Annals. The sudden pivot to 'it's about human understanding' is a face-heel turn, a blatant narrative attempt to fight shifting tides. Kevin Buzzard torpedoes this reframing by admitting he never read Deligne's proof or Langlands-Tunnell, yet produced a thesis—so what does 'understanding' even mean? The bargaining stage is equally futile: the Advisory Group's plea for labs to fund human understanding is undignified begging, and labs have fiduciary duties to investors, not to Terence Tao and Peter Scholze. Even if AI proofs come with no PDF, we can learn from them—reverse engineering works, as with Navier-Stokes. The optimist's path is to let machines loose, follow them to their natural boundary, and begin the new adventure there.
+The grief stages are real: denial via the Association for Human Mathematics, anger from posts like Vlad Vlasic's, bargaining from the Advisory Group on Mathematics and AI, and depression among students and postdocs. But the 'human understanding' justification is a recent, transparent goalpost shift. Before AI, top journals and departments rewarded hard theorems, not understanding. Thurston's essay is now cited, but Hardy's view—mathematics as art for personal immortality—is equally valid and those mathematicians are grieving. The 'understanding' retreat will backfire when AI explains theorems well. Even the understanding ideal is shaky: Kevin Buzzard, a PhD student of Richard Taylor, never read Deligne's proof, yet proved his thesis. The real value is proving theorems, developing tools, and seeing where to go next. AI is already doing that, and humans can reverse-engineer understanding later. The optimal move is to let machines loose, see where they stop, and then begin the new adventure.
 
 ## Counterpoints
 
-- Peter Scholze will not use AI and will 'die on that hill'—but he'll become irrelevant, not literally die.
-- Thurston's 1994 essay argues mathematics is about human understanding, not theorem tally—but this was never the actual reward system.
-- AI proofs like the rank 30/31 elliptic curves come with equations and nothing else—'we didn't learn anything'—but we can reverse engineer them.
-- Exponential progress can't continue indefinitely, and mathematics is infinite—so machines must stop somewhere, but that's where the new adventure begins.
+- Peter Scholze will not use AI and will die on that hill, but he may become irrelevant.
+- The Advisory Group asks labs to stop testing on proprietary models and to fund human understanding, but labs have fiduciary duties to investors.
+- AI proofs come with little explanation, as with the rank 30/31 elliptic curves, but humans can learn from them.
+- Exponential progress cannot continue indefinitely; mathematics is infinite, so machines will hit a natural boundary.
+- Machines are not yet good at theory building or conjecture formulation, limiting their current reach.
 
 ## Concepts surfaced
 
-[[ai-mathematics]] · [[human-understanding]] · [[formalization-lean]] · [[five-stages-grief]] · [[ai-optimism]]
+[[ai-mathematics]] · [[human-understanding]] · [[theorem-proving]] · [[formalization-lean]] · [[mathematical-grief]] · [[ai-optimism]]
