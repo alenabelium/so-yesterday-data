@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-10-09-mathocalypse-scott-aaronson-on-openais-f
 source_transcript: ../transcripts/2026-10-09-mathocalypse-scott-aaronson-on-openais-flood-of-ai-math-brea.md
 source_summary_hash: sha256:416e8b1263a92b899a469d802eb86f083d76eaeb8944d0b50b10514020e9c98d
 source_transcript_hash: sha256:22d2267289cb47d56e079d82ef5315238e62c8144b4b371cc0b8b3f88988812b
-fill_id: e494ef97-a7a1-43d5-b814-3999b20d62af
-published_at: '2026-10-12T06:12:14.412366'
+fill_id: 2fe93570-6609-4202-b665-f7f522a73d01
+published_at: '2026-10-12T06:30:35.224299'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,16 +18,22 @@ OpenAI's release of nearly 400 AI-generated mathematical proofs, including the U
 
 ## Argument
 
-The sheer scale and nature of OpenAI's release—372 major results, including a proof of the Unique Games Conjecture and L=BPL—shatters the notion that AI lacks creativity. These are not incremental combinations; they are 'alien craziness' that experts like Dana Moshkovitz describe as 'something written by someone who's on psychedelics.' The proofs are so novel and opaque that no human has yet understood them, and they were produced in about three hours each, using vanilla GPT-level compute, not bespoke million-dollar agent swarms. This directly refutes the 'AI can't invent' crowd: what's more creative than something that strikes an expert as literally alien? The implications are profound: a whole sub-community of complexity theorists working on L vs. BPL is now obsolete, and the Unique Games Conjecture—a career-long goal for many—has been solved, bypassing the conjecture itself for its main applications. The release also includes Hilbert's 10th problem over the rationals, arguably the biggest open problem in computability theory, and partial progress on the Riemann Hypothesis and other Millennium Problems. This is not just a collection of results; it's a fundamental shift in the mathematical landscape. The 'great equalizer' has arrived: elite mathematicians are now in the same boat as amateurs, and the gatekeepers who controlled access to the 'Platonic realm of ideals' are now holding keys to a gate with no wall. The future is not the end of mathematics but its transformation: mathematicians will become 'tour guides' to this realm, and the field will attract more interest
+The sheer scale and nature of the release is the first mechanism. OpenAI published 372 results in a single day, including a proof of the Unique Games Conjecture, a problem that has consumed entire careers. The proof is described as 'alien craziness' — a completely new code and noise test that no human has yet fully understood. This directly refutes the claim that AI can't be creative; it has produced something that strikes experts as literally alien, as if we've made contact with an extraterrestrial species.
+
+The second mechanism is the collapse of entire subfields. The proof of L = BPL, a major derandomization conjecture, has made a whole sub-community of complexity theorists obsolete. The same applies to the resolution of Hilbert's 10th problem over the rationals, which I consider the biggest open problem in computability theory, and the positive solution to the unitary synthesis problem, which was a personal conjecture from 2007. These are not incremental advances; they are the complete destruction of research programs that have defined careers.
+
+The third mechanism is the speed and accessibility of the AI. The model, which is just the latest internal OpenAI model, solved these problems in about three hours of compute each, on average. It solved about 5% of the 8,000 problems it was given. This is not a bespoke, million-dollar contraption; it's a vanilla model that will likely be released to ChatGPT customers soon. This means the capability is not a one-off; it's a scalable, accessible force.
+
+Finally, the publication strategy is a deliberate power play. OpenAI dumped
 
 ## Counterpoints
 
-- Skeptics will claim the proofs are 'AI slop' or not real math, but this ignores the solved problems like Hilbert's 10th problem over the rationals, which are undeniably significant.
-- Some argue AI can't be creative, but the proofs are so novel that they strike experts as 'alien,' directly refuting that claim.
-- The absence of P≠NP and other 'greatest open problems' shows AI's limits, but this is just a 5% success rate on 8,000 problems, and with more compute, that percentage will rise.
-- The lack of cryptography results might mean OpenAI is hiding breakthroughs for its own use, not that AI can't solve them.
-- The advisory group's cautious statement suggests the release is just the beginning, not the end, of the process of human understanding.
+- Skeptics claim the proofs are 'AI slop' or not real math, but the host counters that Hilbert's 10th problem over the rationals is not a 'contest puzzle' and that these objections are moving the goalposts.
+- Some argue AI can't be creative, but the host points to the 'alien craziness' of the Unique Games proof as direct evidence of novel, non-human creativity.
+- The host acknowledges the absence of P ≠ NP and other 'greatest open problems' as a sign that some problems remain hard, but dismisses this as a reason to downplay the release.
+- The host notes the conspicuous absence of cryptography results, suggesting OpenAI may be withholding practical breakthroughs for its own use, a concern he shares.
+- The host addresses the human cost, acknowledging that mathematicians like Dana Moshkovitz have had their life's work 'done in three hours by AI,' but frames it as a 'great equalizer' that ends elitist gatekeeping.
 
 ## Concepts surfaced
 
-[[ai-mathematical-proofs]] · [[unique-games-conjecture]] · [[complexity-theory]] · [[hilberts-tenth-problem]] · [[ai-creativity]] · [[openai-vs-anthropic]]
+[[unique-games-conjecture]] · [[complexity-theory]] · [[hilberts-tenth-problem]] · [[ai-creativity]] · [[openai-vs-anthropic]] · [[platonism]]
