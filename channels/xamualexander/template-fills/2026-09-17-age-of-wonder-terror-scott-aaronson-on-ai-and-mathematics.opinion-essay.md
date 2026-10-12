@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-09-17-age-of-wonder-terror-scott-aaronson-on-a
 source_transcript: ../transcripts/2026-09-17-age-of-wonder-terror-scott-aaronson-on-ai-and-mathematics.md
 source_summary_hash: sha256:4d780ed6fc18f76522b9f6affd6cce2b774fa39a31af24d9b9f89e27fe41b422
 source_transcript_hash: sha256:c1713a2cb1cd8f186cccad8d417a43880c6d0f5d9291a47bac4b608abe9b9afd
-fill_id: d632e396-1435-46f6-9e78-0d0d9543a0df
-published_at: '2026-10-12T00:42:34.932961'
+fill_id: 852a7a9d-049e-4e59-8aaf-4e0d519cb3f8
+published_at: '2026-10-12T01:42:21.052564'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The singularity has already started, and human mathematicians are dethroned as the main theorem-proving entities on Earth.
+The singularity has already started, and human mathematicians are forever dethroned as the main theorem-proving entities on Earth.
 
 ## Argument
 
-The mechanism is the relentless, accelerating progress of AI in mathematics, culminating in the apparent solution of the Navier-Stokes Millennium Problem. This isn't a hypothetical future; it's the front-page news of today. The goalposts set 20 years ago—AI solving major open problems—have been passed. The response from the mathematical community is a mix of awe, denial, and strategic maneuvering, but the core reality is undeniable: AI is now the primary theorem-proving entity. The debate has shifted from whether AI will surpass us to how we preserve human understanding and community in the face of this tsunami. The choice is to either incorporate AI while keeping human insight central, or to eventually close up shop on human math entirely. The urgency is real, and the time for intellectual honesty is now.
+The mechanism is the sheer accumulation of AI-solved open problems. Scott Aaronson's essay updates the 2006 conservative-skeptical position with the reality of late 2026: the wild prophecies have come true. The alarm clock is ringing. The first rumblings came a decade ago with AlphaGo, then LLMs and coding agents, and now a crescendo of wonders and terrors. The Navier-Stokes Millennium Problem appears solved with crucial AI contributions, and OpenAI burned at least $15 million in compute to produce a 166-page solution that no human has fully read. This is not an isolated event: in the last month alone, there are AI-assisted proofs of Fermat's Last Theorem, a quantum oracle separation between QMA and QMA(2), a proof of Wachter's disentangler conjecture, and progress on the Aaronson-Ambainis conjecture. In the areas Scott knows best, there's a deluge of long-standing open problems falling by the day. The high-order bit, as Zvi points out, is that human mathematicians are forever more dethroned as the main theorem-proving entities on planet Earth. The implications are immediate and practical: editors and program committee chairs are grimly fortifying their walls against the orc army of AI-generated papers, and reviewing will have to be done partly by AI. The deeper question is what mathematical research is for: are we just deciding whether conjectures are true or false, or are we trying to maintain a human community that understands and cares about them? Scott endorses the Fields Medalists' open letter, 'A Severe Misalignment of AI and Mathematics,' because he wants to
 
 ## Counterpoints
 
-- Some argue that AI's achievements don't count because they're not 'real' understanding, but this is moving the goalposts.
-- The open letter from Fields Medalists lacks a clear ask, but it articulates the values worth preserving.
-- There's a dispute over OpenAI's unsportsmanlike conduct in the Navier-Stokes proof, but the high-order bit is that AI has dethroned humans.
-- Some believe humans will still direct AI and be the main consumers of math, but this requires deliberate effort to maintain a human community.
-- Eliezer Yudkowsky was right about the challenge, even if he didn't predict the exact timeline.
+- Some say the AI companies are sitting on solutions to major problems until they figure out a better way to handle the hostile response, as Scott mentions on rumor.
+- A commenter argues that mathematics is about developing better human understanding, not just proving theorems, and that humans will still direct AI toward interesting problems.
+- Another commenter notes that Eliezer Yudkowsky didn't expect the singularity to happen this soon, so his track record isn't as clean as it seems.
+- A practical software engineer says the old regime is over but is optimistic because we've retained human agency and are doing more, not less.
+- Some critics point out that the Fields Medalists' open letter doesn't have a clear ask, only a statement of values.
 
 ## Concepts surfaced
 
-[[ai-singularity]] · [[ai-mathematics]] · [[millennium-problems]] · [[navier-stokes]] · [[human-mathematicians]] · [[ai-alignment]]
+[[ai-singularity]] · [[ai-mathematics]] · [[navier-stokes-millennium-problem]] · [[ai-assisted-proofs]] · [[human-mathematical-community]] · [[ai-alignment]]
