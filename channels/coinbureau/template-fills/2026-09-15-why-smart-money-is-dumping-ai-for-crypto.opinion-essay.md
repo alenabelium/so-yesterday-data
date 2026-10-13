@@ -6,26 +6,25 @@ source_summary: ../summaries/2026-09-15-why-smart-money-is-dumping-ai-for-crypto
 source_transcript: ../transcripts/2026-09-15-why-smart-money-is-dumping-ai-for-crypto.md
 source_summary_hash: sha256:ce1ddb35e593ee709b9a061b5dca3e19b2970e8f2e4b276bb978619139d3ed80
 source_transcript_hash: sha256:2b142b84d44063db8a9be61c4798424ee8c726b56cbac42f6916e7d3a8426a59
-fill_id: 4afac7f8-de04-4b6e-9e28-c1e20dc82990
-published_at: '2026-10-13T19:05:13.629292'
+fill_id: 6dc9de7c-b86c-4ad3-8630-3726f9e32b6a
+published_at: '2026-10-13T20:05:24.032921'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Smart money is rotating out of the exhausted AI trade into crypto assets with real cash flows, and this rotation will be big.
+Smart money is rotating out of the exhausted AI trade into crypto projects with real cash flows, like Hyperliquid, marking the start of a major capital shift.
 
 ## Argument
 
-The AI trade is not collapsing, but it is tired. Nvidia beat earnings by 4% and guided to 70% growth, yet the stock gained only 2.8% over the month. Broadcom's AI revenue surged 221% and guidance was raised, but shares fell 16%. When good news stops moving prices, the trade is exhausted. Positioning data confirms it: the percentage of fund managers calling long semiconductors the most crowded trade fell from 82% in July to 53% in August. Money that has spent two years in a trade does not go to cash; it looks for the next asset with a similar volatility profile and a more compelling story. That asset class is crypto. Over the past month, the NASDAQ 100 is down 0.6% while Bitcoin is up 21%, Ethereum up 30%, and Hype up 53%. The rotation is visible in flows: spot Bitcoin ETFs pulled in $986 million in one week, Ethereum ETFs added $1.85 billion in August, and Hype ETFs took in $356 million since launch. The key signal is Stanley Druckenmiller's new $23 million stake in Hyperliquid Strategies, a company that holds 29.3 million HYPE tokens, generates staking revenue, and runs buybacks. Hyperliquid generated $419 million in gross protocol fees in H1 2026, settles 40-50% of onchain perp volume, and 97-99% of eligible trading fees buy and burn HYPE. This is not a memecoin; it is a business that can be valued like an exchange. The AI trade trained allocators to be comfortable owning things they can't fully price, and that muscle is now being used in crypto. The first serious institutional capital this cycle is arriving through cash flow analysis, not the digital gold narrative,
+The rotation is already visible in the price action: while Nvidia and Broadcom beat earnings, their stocks stagnate or fall, signaling an exhausted trade. Meanwhile, Bitcoin, Ethereum, Coinbase, and Hype are up double digits in the same month. The mechanism is allocator behavior: money that spent two years in a high-volatility trade doesn't sit in cash; it seeks the next asset with a similar volatility profile and a more compelling narrative. Crypto fits that bill, and the flows confirm it: $986 million into spot Bitcoin ETFs in a week, $3.8 billion over three weeks, and Hyperliquid ETFs pulling in $356 million since launch. The key signal is Druckenmiller's $23 million stake in Hyperliquid Strategies, a company that holds 29.3 million HYPE tokens and generates staking revenue. Hyperliquid itself behaves like a business: $419 million in gross protocol fees in H1 2026, 40-50% of onchain perp volume, and 97-99% of fees routed into buybacks that permanently destroy HYPE. With a buyback yield around 3.9%, investors are valuing HYPE on cash flow, not just as a leveraged bet. This is how institutions start every large position—they test the waters first. The AI trade trained allocators to be comfortable owning things they can't fully price, and that muscle is now being applied to crypto, but through cash flow analysis, not the digital gold narrative. Bitcoin isn't the front door; cash-flow-generating protocols are.
 
 ## Counterpoints
 
-- The size of Druckenmiller's position is small ($23 million), so it might not signal a rotation.
-- The AI trade is not collapsing, just choppy, so the rotation might be temporary.
-- Crypto is too volatile and risky for institutional allocators compared to AI stocks.
+- Druckenmiller's $23 million position is pocket change, just 0.4% of his equity book, and one filing doesn't make a rotation.
+- The AI trade isn't collapsing—it's just tired, and good news is already priced in, so the rotation might be a trickle, not a flood.
 
 ## Concepts surfaced
 
-[[ai-trade-exhaustion]] · [[institutional-rotation]] · [[hyperliquid-cash-flows]] · [[etf-inflows]] · [[valuation-framework]]
+[[institutional-investing]] · [[market-rotation]] · [[hyperliquid]] · [[buyback-yield]] · [[cash-flow-valuation]]
