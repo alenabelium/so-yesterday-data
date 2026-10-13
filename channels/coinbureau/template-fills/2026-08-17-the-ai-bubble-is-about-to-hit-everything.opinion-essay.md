@@ -6,27 +6,28 @@ source_summary: ../summaries/2026-08-17-the-ai-bubble-is-about-to-hit-everything
 source_transcript: ../transcripts/2026-08-17-the-ai-bubble-is-about-to-hit-everything.md
 source_summary_hash: sha256:2cbf7d41346bd2a14b2cd4223d54505d4af6bf0a4fe73eba6b9435c4d86d4581
 source_transcript_hash: sha256:7df0d46d3a2251372425153a7e1eae844b5fd454b549ecd2c14e8add88835b4e
-fill_id: 4381ef43-cf65-472b-bfb8-cee9f397c1f1
-published_at: '2026-10-13T12:59:16.458092'
+fill_id: f2841a28-7d7d-45a8-8782-980169bdd280
+published_at: '2026-10-13T14:02:39.812173'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The AI boom is now a credit story, not a tech story, and if AI revenue is delayed, the damage will hit pensions and insurers, not just tech stocks.
+The AI boom is no longer a tech story but a credit story, financed by debt and circular structures that could hit pensions and insurers if revenue arrives late.
 
 ## Argument
 
-The mechanism is debt. The world's most profitable companies have stopped generating cash: Amazon posted negative $8.8 billion free cash flow, Alphabet negative $5.9 billion, Oracle negative $1.9 billion, while capex eats 94% of hyperscaler operating cash flow. So they've turned to the bond market, issuing $225 billion in the first half of this year, with $1.5 trillion more needed through 2028. But the real risk is in the structure: circular financing, where Nvidia and others guarantee loans to customers who buy their products, flagged by the BIS as a top-three global stability risk. The debt is pushed into SPVs and private credit funds, with GPUs as collateral that depreciate faster than the debt matures. This spreads beyond tech: the Magnificent 7 are 34% of the S&P 500, so a repricing hits pensions directly; rising bond yields from hyperscaler issuance squeeze every other borrower; and private credit exposure has grown from $3 billion to over $200 billion. The dot-com parallel is clear: Lucent and Nortel financed their own customers and collapsed when defaults hit. The demand thesis may be right, but it's a decade early, and the financing matures sooner.
+The AI buildout has shifted from profit-funded to debt-funded, with Nvidia's $500 billion financing deal and hyperscalers' negative free cash flows signaling a fragile credit structure. Circular financing, flagged by the BIS as a top-three systemic risk, pushes risk off balance sheets into SPVs and private credit. Market concentration (Mag 7 at 34% of S&P), rising bond yields, and private credit exposure create spillover risks. If AI revenue is delayed, the damage lands on pensions and insurers, not just tech firms.
 
 ## Counterpoints
 
-- These are the most creditworthy companies on the planet, with investment-grade ratings and diversified revenue, unlike 1999.
-- Nvidia has more protection because outside investors fund the deals, not the vendor itself.
-- Chips cascade from training to inference, so 4-6 year depreciation is realistic, per Nvidia's memo.
-- Compute is becoming an investable asset class, like mortgages in the 1970s, per BlackRock's Larry Fink.
+- These are the most creditworthy companies on the planet, with diversified revenue and investment-grade ratings.
+- Nvidia's vendor financing is safer than dot-com era because risk is pushed to outside investors, not the vendor.
+- Nvidia argues 4-6 year chip depreciation is realistic due to cascading use from training to inference.
+- AI infrastructure may eventually be used, but revenue could still take years to catch up, leaving debt payments due.
+- The demand thesis isn't wrong—it was just a decade early and financed with short-term paper.
 
 ## Concepts surfaced
 
-[[ai-bubble]] · [[circular-financing]] · [[private-credit]] · [[vendor-financing]] · [[hyperscaler-capex]]
+[[circular-financing]] · [[vendor-financing]] · [[private-credit]] · [[market-concentration]] · [[bond-yields]] · [[dot-com-bust]]

@@ -6,47 +6,47 @@ source_summary: ../summaries/2026-09-29-whats-actually-replacing-the-us-dollar.m
 source_transcript: ../transcripts/2026-09-29-whats-actually-replacing-the-us-dollar.md
 source_summary_hash: sha256:797c7fb681558011753cb2f5a8fb2f86a558ba769fa270c2fba1891f1fdddf69
 source_transcript_hash: sha256:35488d50623da2a7de64b034e74bd09a96200e33d829f78f0558d19cddc20cf5
-fill_id: 8228a9d7-e681-4b24-834a-85207ff6a169
-published_at: '2026-10-13T13:08:02.183902'
+fill_id: b97ada44-4adb-4393-a128-8698ca034444
+published_at: '2026-10-13T13:59:09.697245'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-The US dollar isn't collapsing—it's being disassembled. It performs four distinct roles: pricing commodities, settling trade, serving as a reserve asset, and acting as global collateral. Each role has a different exit door, and while no single currency is replacing it, the world is carving it up piece by piece.
+The US dollar isn't collapsing—it's being disassembled piece by piece. The dollar performs four distinct jobs: pricing commodities, settling trade, serving as a reserve asset, and acting as global collateral. Each job has its own exit door, and the world is carving up the dollar's role without replacing it.
 
 ## The argument
 
-### Define the Dollar's Four Jobs
+### The Dollar Is Four Jobs, Not One
 - **Anchor Timestamps**: ['00:00:50']
-- **Claim**: The dollar isn't one thing but a bundle of four separate jobs: pricing commodities, settling trade, serving as a reserve asset, and acting as global collateral. Each job has its own exit door, and those doors are extremely different—like a household with a mortgage, current account, savings pot, and credit card at the same bank.
+- **Claim**: The dollar isn't a single thing but a bundle of four distinct jobs: pricing commodities, settling trade, serving as a reserve asset, and acting as global collateral. Each job has its own exit door, and these doors are extremely different in difficulty.
 - **Role**: definition
 
 ### No Successor, Only Carving
 - **Anchor Timestamps**: ['00:01:43']
-- **Claim**: No single currency is taking the dollar's place. China's renminbi is only 2% of reserves, the euro is stuck at 20%, and no candidate wants the permanent deficits and open bond markets that reserve status demands. Instead, the dollar's role is being carved up, starting with the 2022 freezing of Russian reserves.
+- **Claim**: No single currency is taking the dollar's place. China's renminbi is too small and constrained by capital controls; the euro lacks a unified treasury. Instead, the dollar's role is being carved up, starting with the 2022 freeze of Russian reserves, which turned a temporary measure into permanent architecture.
 - **Role**: evidence
 
-### Central Banks Rotate into Gold
+### Gold: The Reserve Exit
 - **Anchor Timestamps**: ['00:03:23']
-- **Claim**: The G7's freezing of Russian reserves turned a temporary measure into permanent architecture, prompting central banks to buy gold—the one reserve asset truly independent. Gold purchases jumped from 400-500 tons annually to over 1,000 tons in 2022-2024, with 95% of central banks expecting further increases.
+- **Claim**: Central banks responded to the reserve freeze by buying gold at nearly double the pre-2022 pace, with over 1,000 tons annually in 2022-2024. Gold is the one reserve asset truly independent of any issuer, and even official numbers may understate the shift.
 - **Role**: evidence
 
-### Settlement Fragments into Blocks
+### Settlement Fragments Into Blocks
 - **Anchor Timestamps**: ['00:04:26']
-- **Claim**: China's CIPS and yuan-denominated oil trades are building alternative payment rails, but the system isn't converging—it's splitting into blocks. The BIS abandoned mBridge for its G7-aligned Project Agora, and these corridors are less efficient, costing more and clearing slower. Countries are paying a premium for a second set of pipes they hope never to use.
-- **Role**: synthesis
+- **Claim**: Alternative payment systems like China's CIPS and mBridge are fragmenting settlement infrastructure, but they're inefficient and costly. Countries are paying a premium to build a second set of pipes they hope they never have to use, signaling fragmentation rather than convergence.
+- **Role**: evidence
 
-### Debt and Stablecoins Trap and Expand
+### Debt Traps Everyone in Dollars
 - **Anchor Timestamps**: ['00:05:58']
-- **Claim**: The dollar's stickiest role is as global collateral: $14.7 trillion in dollar-denominated debt forces borrowers to keep buying dollars. Meanwhile, stablecoins—99% USD-backed—are expanding the dollar's reach, with $310 billion in circulation, 66% held in emerging markets, and monthly settlement volumes overtaking ACH. This paradoxically strengthens dollar dominance even as trust in its issuers
+- **Claim**: The stickiest part of the dollar's dominance is debt: $14.7 trillion in dollar-denominated debt owed by non-US borrowers. As long as obligations are written in dollars, borrowers must keep buying dollars to service them, regardless of their views on Washington. This debt trap ensures the dollar's role persists even as other jobs erode.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Central banks bought over 1,000 tons of gold in 2022-2024, nearly double the pre-2022 pace, with Poland adding 100+ tons in 2025. The World Gold Council estimates over half of last year's buying went unreported. China's CIPS exceeded 100 trillion yuan in 2025, but the renminbi's Swift share is still only 3-4%. Stablecoin supply peaked at $322 billion, with Tether holding $141 billion in Treasuries, ranking it the 17th largest holder of US debt. The BIS found stablecoin flows are largely resistant to capital controls, and the IMF warned local-currency stablecoins could accelerate dollarization. However, the speaker notes that reserve share can bleed for another decade without dominance moving much, and that no alternative is efficient—these corridors cost more and clear slower. The dollar's dominance persists because of the stickiness of dollar-denominated debt and the lack of a deep enough alternative.
+Stablecoins are paradoxically expanding the dollar's reach: the market peaked at $322 billion, with 99% being USD stablecoins, and 66% held in emerging markets. In Argentina, stablecoins account for 94% of crypto trading volume; in Nigeria, on-chain transfers hit $56 billion. Monthly stablecoin settlement volume reached $7.2 trillion, overtaking ACH. However, the speaker notes that stablecoins don't address trust in the dollar system—Bitcoin does, as a hedge against issuer credibility. The speaker also hedges that the dollar's reserve share can bleed for another decade without dominance moving much, and that the system isn't converging on an alternative but splitting into blocks.
 
 ## Concepts surfaced
 
-[[stablecoins]] · [[central-bank-digital-currencies]] · [[gold-reserves]] · [[us-dollar-reserve-status]] · [[bitcoin-as-hedge]] · [[de-dollarization]]
+[[stablecoins]] · [[central-bank-digital-currencies]] · [[gold-reserves]] · [[bitcoin-as-hedge]] · [[dollar-dominance]] · [[reserve-currency]]
