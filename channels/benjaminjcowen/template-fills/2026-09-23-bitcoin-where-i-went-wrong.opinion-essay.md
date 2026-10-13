@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-09-23-bitcoin-where-i-went-wrong.md
 source_transcript: ../transcripts/2026-09-23-bitcoin-where-i-went-wrong.md
 source_summary_hash: sha256:9ee77a5a1205af6ff8895fa23f1c7a9b9ad20afeaf6da30adcb7c57dbb88e02e
 source_transcript_hash: sha256:9274b5e1a4769650ea4a8a5f604823896387671a7aebdcd0d0ccdcfdf174e4a6
-fill_id: ca679e0f-6ea7-4255-b6d1-8766e27b0dee
-published_at: '2026-10-13T16:36:58.859157'
+fill_id: 65e45461-9ce8-4e36-879f-86a264d4d2d3
+published_at: '2026-10-13T17:36:53.797934'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-My assumption that a Fed rate hike would immediately reprice Bitcoin lower was not rooted in historical data, and I was wrong to be so deterministic about it.
+Rate hikes are not immediately bearish for Bitcoin, and my assumption that they were was not rooted in historical data.
 
 ## Argument
 
-The mechanism of my error was a macro chain that played out perfectly but led to the wrong conclusion. I correctly predicted rising energy prices, higher yields, a September Fed rate hike, and a stronger dollar. Yet Bitcoin rallied instead of dropping. The flaw was the final link: assuming a rate hike is immediately bearish for Bitcoin. Historical data shows otherwise. In the December 2015 rate-hike cycle, Bitcoin's bottom was already in. In March 2022, Bitcoin initially went up. In September 2018 and September 2022, Bitcoin did not immediately drop after the Fed raised rates. In fact, September 2026 has seen an even stronger rally. I compounded this by ignoring the market structure: Bitcoin formed its February low, its summer low, and then rallied 50% off that low—more than the 40% rallies of 2018 and 2022—and set a higher high, unlike the lower highs of those years. The burden of proof has shifted to the bears. I now defer to those who called this move correctly, and I respect the higher high. If weakness appears in Q4, I will be open-minded to a higher low, especially if it corresponds to a stock market correction. Historically, the final midterm-year weakness comes after the midterms, and a 10% S&P drop wouldn't be enough to take Bitcoin to a new low.
+The mechanism is historical data. I assumed that when the Fed raised rates in September 2026, Bitcoin would reprice lower because the dollar would go up. But looking at past rate-hike cycles, Bitcoin did not drop immediately after the first hike. In December 2015, the bottom was already in, and Bitcoin continued higher. In March 2022, Bitcoin actually went up initially. Even in September of 2018 and 2022, Bitcoin did fine for a month or two after the hike. My mistake was being deterministic about the rate hike's impact, ignoring the market structure that showed a higher high. Now, the burden of proof has shifted to the bears. If there is weakness later in Q4, it would likely correspond to a stock market correction, but a 10% drop in the S&P wouldn't be enough to take Bitcoin to a new low. I have to defer to the market structure and be open-minded to a higher low.
 
 ## Counterpoints
 
-- One might argue that the rate hike is not the first in a cycle, but the technical definition counts it as such, and history shows Bitcoin often does fine for a month or two after such hikes.
-- Some might say a stock market correction is inevitable in midterm years, but 2010 shows it doesn't always happen, and the Nasdaq is at new highs now.
-- Others might expect a lower low in Q4, but with a higher high in place, I must be open-minded to a macro higher low instead.
+- Bitcoin could still drop later, but history shows weakness comes a month or two after rate hikes, not immediately.
+- The dollar going up with Bitcoin is a divergence, but it might be due to Bitcoin's correlation with traditional markets via ETFs.
+- A stock market correction could still cause Bitcoin to fall, but it would need to be a much larger drop than 10%.
 
 ## Concepts surfaced
 
-[[fed-rate-hike]] · [[bitcoin-market-structure]] · [[macro-higher-low]] · [[usdt-dominance]] · [[gold-silver-pattern]]
+[[rate-hike-cycles]] · [[market-structure]] · [[higher-high]] · [[dollar-correlation]] · [[etf-correlation]] · [[stock-market-correction]]
