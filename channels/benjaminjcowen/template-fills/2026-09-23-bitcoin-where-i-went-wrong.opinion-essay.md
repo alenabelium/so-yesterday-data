@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-09-23-bitcoin-where-i-went-wrong.md
 source_transcript: ../transcripts/2026-09-23-bitcoin-where-i-went-wrong.md
 source_summary_hash: sha256:9ee77a5a1205af6ff8895fa23f1c7a9b9ad20afeaf6da30adcb7c57dbb88e02e
 source_transcript_hash: sha256:9274b5e1a4769650ea4a8a5f604823896387671a7aebdcd0d0ccdcfdf174e4a6
-fill_id: c6ae0a3b-55d7-4909-8ebc-73e0010458e1
-published_at: '2026-10-13T07:59:31.187961'
+fill_id: f646ef32-8e68-4fa7-ae03-05198200dec5
+published_at: '2026-10-13T09:00:13.880044'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-My assumption that a Fed rate hike would immediately be bearish for Bitcoin was not rooted in historical data, and I was wrong.
+My assumption that a Fed rate hike would immediately be bearish for Bitcoin was not rooted in historical data, and the market's higher high now demands I defer to its structure.
 
 ## Argument
 
-The mechanism of my error was a macro chain: energy up → yields up → Fed hikes → dollar up → Bitcoin down. I got every link right except the last one. Energy, yields, and the dollar all did what I expected, but Bitcoin rallied instead of repricing lower. The data shows that after the first rate hike of a hiking cycle, Bitcoin either went up initially (March 2022) or the bottom was already in (December 2015). In September of the last two midterm years, Bitcoin also did fine for a month or two after the hike. So my assumption that a rate hike is immediately bearish was not rooted in the data. I should have been more rigorous. Now I defer to market structure: Bitcoin has set a higher high, and the burden of proof has shifted to the bears. I'm open-minded to a macro higher low in Q4, but that would likely require a stock market correction. If the S&P only drops 10%, that probably won't be enough to take Bitcoin to a new low. I'm not going to be as deterministic anymore; I'll respect the higher high and listen to those who called this move correctly.
+The mechanism of my error was a macro chain: energy up → yields up → Fed hikes → dollar up → Bitcoin down. Every link played out except the last, and the data shows why. Since Bitcoin's existence, there have been two prior rate-hiking cycles. After the first hike in December 2015, Bitcoin dipped slightly but the bottom was already in; after March 2022, Bitcoin actually went up initially. In September 2018 and September 2022, Bitcoin did not immediately drop after a rate hike—in 2022 it rallied. The current September 2026 hike has seen Bitcoin rise even more. I coupled this with the golden cross and a higher high, which is a perfect storm for a breakout, not a repricing. My mistake was being deterministic about the rate hike's short-term impact when the evidence suggested otherwise. Now, the burden of proof has shifted to the bears. I must respect the higher high and defer to those who called this move correctly. If weakness comes later in Q4, I won't assume it must be a lower low; a macro higher low is possible, especially if it aligns with a stock market correction. Historically, the final midterm-year weakness comes after the midterms, and a higher low could print then. I'm open-minded to that outcome, but I won't predict it without authority.
 
 ## Counterpoints
 
-- Some might argue that a rate hike should still be bearish because it strengthens the dollar, but the data shows Bitcoin has not consistently dropped immediately after rate hikes.
-- One might say that the current rate hike is not the first in a cycle, but the technical definition says it is, and even in September of midterm years, Bitcoin did not immediately drop.
-- A skeptic could point to the FTX collapse in 2022 as a reason for caution, but that was a unique event, and even then, Bitcoin's drop was only 15% and did not make a new low.
+- Some might argue that a rate hike should still be bearish because it strengthens the dollar, but historical data shows Bitcoin often rises or has already bottomed after the first hike of a cycle.
+- One could point to the FTX collapse in 2022 as a reason Bitcoin dropped after a rate hike, but that was an idiosyncratic event, not a direct response to the hike itself.
+- A skeptic might say the current move is just a countertrend rally that will eventually reverse, but the higher high and the golden cross suggest a structural shift, not a mere bounce.
 
 ## Concepts surfaced
 
-[[fed-rate-hike]] · [[bitcoin-market-structure]] · [[macro-correlation]] · [[usdt-dominance]]
+[[fed-rate-hikes]] · [[bitcoin-market-structure]] · [[macro-correlation]] · [[golden-cross]] · [[usdt-dominance]] · [[midterm-year-seasonality]]
