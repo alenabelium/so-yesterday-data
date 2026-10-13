@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-26-revolut-just-proved-kyc-is-dangerous.md
 source_transcript: ../transcripts/2026-09-26-revolut-just-proved-kyc-is-dangerous.md
 source_summary_hash: sha256:2e66e42a2c797cfc8ef003c5170a36c8c6ded85997cb21070fa70678c04a7d39
 source_transcript_hash: sha256:a2c048259a41113bc2ab857ba8bff59bfb191d19415cc8cd5de705dcb3c32c1e
-fill_id: 533fd9a6-8dfa-4c68-b2c7-8f3457957d49
-published_at: '2026-10-13T18:05:36.909961'
+fill_id: d5121487-5e8a-472d-bd56-b763cf19aaf1
+published_at: '2026-10-13T19:05:10.836078'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,14 +18,14 @@ KYC files are now the most dangerous documents attached to a person's name, and 
 
 ## Argument
 
-The attack wasn't a hack; it was a lawful request desk doing what European regulators designed it to do. The desk's mandate is to say yes to the state quickly without tipping off the customer, turning speed into the vulnerability. An attacker compromised an Italian government email account and sent fraudulent European investigation orders for six months, and Revolut's compliance desk even coached the attacker on fixing paperwork. The data exposed wasn't just emails—it was passport scans, selfies, home addresses, bank statements, and full Bitcoin transaction histories for 680 crypto-rich individuals. The targets were selected on-chain first, then the compliance desk attached names, faces, and street addresses. The result: victims like Mark Karpelès moved his family to a hotel, and Felix Romer received blackmail threats seven weeks before Revolut's disclosure. This isn't a one-off. Ledger's 2020 breach led to years of extortion and a $500 million class action; Coinbase's 2025 breach exposed 69,000 customers. Physical attacks are rising: Certik logged 52 wrench attacks in H1 2026, up 33%, with home invasions jumping from 1 to 20. The standard reading is that Revolut messed up, but it was complying with EU law. AMLR mandates five years of record retention, extendable to ten; the travel rule pushes identity data with transactions; DAC8 forces reporting to tax authorities. GDPR Article 5 requires data minimization, but both are EU law and cannot both be obeyed. Minimization isn't just discouraged—it's effectively prohibited. The technology to do better exists: zero-knowledge
+The attack on Revolut wasn't a hack—it was a lawful request desk doing exactly what European regulators designed it to do. An attacker compromised an Italian government email account and sent fraudulent European investigation orders. Revolut's compliance desk, engineered to say yes quickly without tipping off the customer, complied for six months, handing over passport scans, selfies, home addresses, and full Bitcoin transaction histories for 680 crypto-rich individuals. The targets were chosen onchain first, then the compliance desk attached names and faces to the wallets. This isn't a one-off: Ledger, Coinbase, and countless others have suffered similar data breaches, leading to physical attacks—Certik logged 52 wrench attacks in the first half of 2026, up 33% year-over-year. The root cause is regulatory contradiction. EU AML rules force firms to retain KYC data for up to a decade, while GDPR demands data minimization. Both are EU law, but they cannot both be obeyed. Minimization isn't discouraged—it's effectively prohibited. The technology to avoid storing passports exists—zero-knowledge tools like ZK Passport can prove a document's authenticity without transmitting it—but politicians don't want to hear it. The result: customers supply the data, carry the risk, and get extorted or attacked. Revolut accidentally proved the self-custody argument: data is safer when fewer people have access to it.
 
 ## Counterpoints
 
-- Revolut messed up—true to some degree, but they were complying with EU law.
-- The ransom demand was never formally received and Revolut didn't pay, but the real issue is the stolen data.
-- Some might argue KYC is about customer protection, but the customer supplies the data and carries the risk.
+- Revolut messed up—true to some degree, but the system was designed to comply with EU regulations that mandate data retention.
+- Some argue KYC is about customer protection, but the customer supplies the data, carries the risk, and gets extorted or attacked.
+- Paying ransoms might seem like a solution, but there's no receipt and no proof of deletion, so it's futile.
 
 ## Concepts surfaced
 
-[[kyc]] · [[self-custody]] · [[data-minimization]] · [[zero-knowledge-proofs]] · [[regulatory-contradiction]]
+[[kyc]] · [[data-minimization]] · [[zero-knowledge-proofs]] · [[self-custody]] · [[regulatory-contradiction]]
