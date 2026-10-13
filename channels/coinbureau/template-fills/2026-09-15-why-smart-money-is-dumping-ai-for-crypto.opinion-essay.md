@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-09-15-why-smart-money-is-dumping-ai-for-crypto
 source_transcript: ../transcripts/2026-09-15-why-smart-money-is-dumping-ai-for-crypto.md
 source_summary_hash: sha256:ce1ddb35e593ee709b9a061b5dca3e19b2970e8f2e4b276bb978619139d3ed80
 source_transcript_hash: sha256:2b142b84d44063db8a9be61c4798424ee8c726b56cbac42f6916e7d3a8426a59
-fill_id: f44088d5-90f7-4b31-9887-48c4ea5037a5
-published_at: '2026-10-13T22:05:28.001729'
+fill_id: 468f257f-14b2-468b-af7e-13cf9672314d
+published_at: '2026-10-13T23:05:34.971441'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Smart money is rotating out of the exhausted AI trade into crypto assets with real cash flows, as evidenced by Stanley Druckenmiller's Hyperliquid stake and record ETF inflows.
+Smart money is rotating out of the exhausted AI trade into crypto projects with real cash flows, like Hyperliquid, because they offer similar volatility with a more compelling narrative.
 
 ## Argument
 
-The AI trade is tired, not broken. Nvidia beat estimates by over 4% and guided to 70% growth, yet its stock gained just 2.8% over the month. Broadcom's AI revenue surged 221%, but shares fell 16%. When good news stops moving prices, the trade is exhausted. Positioning data confirms it: BofA's survey saw long semiconductors drop from 82% to 53% in a month. Allocators don't sit in cash; they seek similar volatility with a better story. That's crypto. In the past month, Bitcoin is up 21%, Ethereum 30%, Hype 53%, while major indices are flat. Druckenmiller's filing shows a $23M stake in Hyperliquid Strategies, a company holding 29.3M HYPE tokens, generating staking revenue and buybacks. Hyperliquid's protocol fees hit $419M in H1 2026, and it settles 40-50% of onchain perps. Its buyback mechanism burns 97-99% of fees, creating a 3.9% acquisition yield. This is the first time institutions can value a crypto asset like an exchange—revenue, fee take rates, buyback yield. The AI trade trained allocators to own unpriceable stories; now they apply that muscle to crypto's cash flows. Bitcoin isn't the front door; cash-flow assets are.
+The rotation is visible in price action: while AI giants like Nvidia and Broadcom report blowout earnings yet see their stocks stagnate or fall, Bitcoin, Ethereum, and Hyperliquid have surged over the past month. This divergence signals that good news is already priced into AI, leaving only disappointment to trade. Positioning data confirms the shift—Bank of America's survey shows the percentage of fund managers calling semiconductors the most crowded trade dropped from 82% to 53% in a single month. Allocators who profited from volatility won't park in cash; they seek the next asset with a similar risk profile and a fresher story. Crypto fits the bill, and the flows prove it: spot Bitcoin ETFs pulled in $986 million in a single week, Ethereum ETFs had their best month in a year, and Hyperliquid ETFs have attracted $356 million since launch. The key signal is Druckenmiller's new stake in Hyperliquid Strategies—not the size, but the framework. He's valuing the token like a business: $419 million in gross protocol fees, a 3.9% buyback yield, and 90% of industry-wide buybacks. This is how institutions start every large position—they test the waters first. The AI trade trained allocators to own assets they can't fully price, and that muscle memory is now being applied to crypto, but through cash flow analysis rather than digital gold narratives. Bitcoin won't be the front door; onchain businesses will.
 
 ## Counterpoints
 
-- Druckenmiller's $23M is pocket change (0.4% of his book), and one filing doesn't make a rotation.
-- The AI trade isn't collapsing—it's just choppy, and good news still moves prices in healthy trades.
-- Crypto's volatility and regulatory risks may deter institutional capital despite cash-flow narratives.
+- Druckenmiller's $23 million stake is just 0.4% of his equity book—pocket change that doesn't prove a rotation.
+- One SEC filing doesn't make a trend; the AI trade could resume its uptrend.
+- Crypto's volatility and regulatory risks might deter institutional allocators despite the cash flow narrative.
 
 ## Concepts surfaced
 
-[[ai-trade-exhaustion]] · [[institutional-rotation]] · [[hyperliquid-buybacks]] · [[cash-flow-valuation]] · [[etf-inflows]]
+[[ai-trade-exhaustion]] · [[institutional-rotation]] · [[hyperliquid-cash-flows]] · [[buyback-yield]] · [[etf-inflows]] · [[valuation-framework]]
