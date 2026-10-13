@@ -6,26 +6,27 @@ source_summary: ../summaries/2026-08-16-wall-street-just-chose-ethereum-over-bit
 source_transcript: ../transcripts/2026-08-16-wall-street-just-chose-ethereum-over-bitcoin.md
 source_summary_hash: sha256:99eba967015021e82bf7f37c694e0bd2337e3cf44cccbd35ad590134a84ec179
 source_transcript_hash: sha256:a8759db03d7d53ecc75fec23445afe76a4fe23d68117727bbe534414d044dee7
-fill_id: 5d58a1dd-c7c0-4606-a345-ed300aad0e04
-published_at: '2026-10-13T14:58:21.635856'
+fill_id: 3eacfc4c-a26e-4110-a0ae-f64b3cca9bee
+published_at: '2026-10-13T16:37:57.386777'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Wall Street has chosen Ethereum over Bitcoin as the infrastructure layer for institutional finance, a shift driven by staking yields and tokenization, but a proposed governance change could undermine this new role.
+Wall Street has structurally chosen Ethereum over Bitcoin as the asset it builds on, because Ethereum's staking yield turns corporate treasuries into self-compounding machines, while Bitcoin remains a static reserve that requires external.
 
 ## Argument
 
-The shift is visible in the flows: July saw $365M into Ethereum ETFs versus $172M for Bitcoin, after Bitcoin's record outflows. But the real story is who is buying and why. Corporate treasuries, led by Bitmain with 5.8M ETH (87% staked), have replaced ETFs as the main engine of accumulation. Unlike Bitcoin, which requires constant financing to grow, Ethereum balance sheets grow themselves through staking yield. Bitmain's staked stack generates ~$291M annually without raising a dollar. Wall Street has built the infrastructure for this: BNY wired staking rewards into its custody platform, BlackRock launched a staked ETH product (ETHB) and adjusted ETHA for institutional desks, and tokenized treasuries on Ethereum now total $15.2B. The institutional view is split: Bitcoin is the reserve asset to hold, Ethereum is the programmable infrastructure to use. This quarter, flows, custodians, and treasuries all agreed on that split. But the thesis faces a governance risk: EIP-8361 proposes tapering issuance, cutting staking yields from ~2.6% to ~1.1%. This has sparked a battle between core developers optimizing for decentralization and institutional capital optimizing for payout. If yields drop, the $10B treasury capital and the entire institutional infrastructure built around staking could be repriced or exit.
+The shift is visible in the flows: in July, Ethereum ETFs pulled in $365 million while Bitcoin ETFs saw record outflows, and corporate treasuries—led by Bitmain—have replaced ETFs as the main engine of ETH accumulation. Bitmain holds nearly 5.8 million ETH, over 87% staked, generating roughly $291 million in annualized staking rewards. That cash flow arrives without raising a single dollar, unlike Bitcoin's treasury model, which requires new equity or converts to grow. Wall Street has built the infrastructure around this: BNY wired native staking rewards into its custody platform, BlackRock launched a staked ETH product (ETHB) that passes through 82% of rewards, and tokenized treasuries on Ethereum now settle 43% of a $15.2 billion market. The result is that institutions now treat Bitcoin as a reserve asset and Ethereum as programmable financial infrastructure—the thing you use. But the entire thesis hinges on a governance battle: EIP-8361, proposed on August 4, would taper issuance and cut staking yields from ~2.6% to ~1.1-1.2% at current participation. The proposal aims to cap staking at ~60.25 million ETH to prevent concentration, but it directly threatens the yield that Bitmain, BNY, and BlackRock are building on. The pushback was immediate—DeFi leaders called it hurtful and theoretical—and the validator exit queue has stayed empty, suggesting institutions are waiting to see the outcome. This is a fight over who Ethereum is run for: core developers optimizing for decentralization versus institutional capital optimizing for payout. For years those goals aligned; now
 
 ## Counterpoints
 
-- Bitcoin isn't losing; it retains its identity as a digital reserve asset and sovereign hedge, with spot ETFs still seeing inflows on some days.
-- EIP-8361 authors argue that unchecked staking growth concentrates the network in a few custodians and taxes non-stakers through dilution.
-- Some argue the proposal is theoretically flawed and could break DeFi credit markets that rely on looped borrowing strategies.
+- Some might dismiss the ETH inflows as rotation—traders chasing higher volatility—but the infrastructure build-out (BNY, BlackRock, tokenized treasuries) shows a structural shift, not a fad.
+- Bitcoin isn't losing; it retains its role as a reserve asset and sovereign hedge, and spot Bitcoin ETFs still saw inflows on August 3-4, so this is a shift, not a replacement.
+- EIP-8361's authors argue that capping staking is necessary to prevent concentration and dilution of non-stakers, a real concern as staking participation hits 33%.
+- Yield doesn't save you from price—Sharplink's cost basis is ~$3.5k, so staking rewards can't offset a falling ETH price, a reminder that the asset's value still matters.
 
 ## Concepts surfaced
 
-[[ethereum-staking]] · [[bitcoin-treasury-model]] · [[tokenized-treasuries]] · [[institutional-crypto-adoption]] · [[ethereum-governance]] · [[eip-8361]]
+[[ethereum-staking]] · [[institutional-adoption]] · [[tokenized-treasuries]] · [[bitcoin-treasury-model]] · [[eip-8361]] · [[governance-risk]]

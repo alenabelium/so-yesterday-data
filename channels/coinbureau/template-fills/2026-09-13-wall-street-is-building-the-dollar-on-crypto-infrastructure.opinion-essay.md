@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-13-wall-street-is-building-the-dollar-on-cr
 source_transcript: ../transcripts/2026-09-13-wall-street-is-building-the-dollar-on-crypto-infrastructure.md
 source_summary_hash: sha256:74c4a7d8df39025ba346380f0c767593b9b5698e7b0ce93d1d77e12f4a10cb8e
 source_transcript_hash: sha256:1807be5e3bd23030dd75837e3d48abde15b9cee59957881e332f1ef9c28e2a90
-fill_id: 7f0057ce-b1f1-418e-bd8f-5ef7f3262299
-published_at: '2026-10-13T16:05:29.973985'
+fill_id: 8e0ba8d2-2a28-4c02-84ed-2544de9a6606
+published_at: '2026-10-13T17:06:01.132190'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,19 +18,18 @@ Wall Street isn't absorbing crypto; it's moving the dollar onto crypto's infrast
 
 ## Argument
 
-The mechanism is regulatory. The GENIUS Act, signed July 2025, created a federal stablecoin framework with a hard compliance deadline of January 2027. Once the OCC finalizes its rulebook (targeted for November), issuing an unauthorized dollar stablecoin becomes a crime. That clock forced every major financial institution to pick a side. [00:02:07]
+The mechanism is regulatory. The GENIUS Act, signed in July 2025, created a federal framework for stablecoins and set a hard compliance deadline: after January 2027, issuing a dollar stablecoin without authorization becomes a crime. That clock, with the OCC's rulebook targeted for November, forced every major financial institution to pick a side. They didn't pick crypto—they picked the dollar, rebuilt on crypto rails.
 
-So they chose to own the rails. Circle's Arc blockchain is a permissioned network, and its founding validators include BlackRock, ICE (owner of the NYSE), DTCC, Visa, and MasterCard. [00:04:01] These aren't passive participants; they're running infrastructure. Then in September 2026, 21 banks—Goldman Sachs, Citi, Bank of America—announced a joint venture for their own regulated dollar stablecoin, targeting launch right after the compliance window shuts. [00:05:13] You don't build a competitor to something you think is a fad.
+The proof is in the validators. BlackRock, ICE (owner of the NYSE), and DTCC—the clearinghouse for essentially every American stock trade—are all running nodes on Circle's Arc, a permissioned network. Visa and MasterCard, after a decade of calling this an experiment, now help operate it. And in September 2026, 21 banks including Goldman Sachs, Citi, and Bank of America announced a joint venture to launch their own regulated dollar stablecoin, targeting the first half of 2027—just after the compliance window shuts. Meanwhile, Stripe, Visa, MasterCard, Coinbase, and 140+ companies back OpenUSD, which hands reserve earnings to distribution partners. You don't spend two years in a consortium building a competitor to something you think is a fad.
 
-But the deeper point is geopolitical. Every compliant stablecoin is backed by short-dated US Treasuries. A shopkeeper in Lagos holding digital dollars is financing the US government without a bank account. Tether alone holds $141 billion in Treasuries, making it the 17th largest holder of US debt—more than South Korea, Saudi Arabia, or Australia. [00:06:18] Washington isn't just tolerating this; it's counting on it. Treasury Secretary Bessent projects the stablecoin market could grow tenfold, and the Treasury Borrowing Advisory Committee has modeled the demand. [00:06:57]
-
-Europe's panic confirms the play. A consortium of 37 institutions across 15 countries is building a Euro stablecoin, and ECB President
+The deeper implication is geopolitical. Stablecoins backed by US Treasuries effectively finance the US government, extending dollar dominance. Europe's defensive response—a Euro stablecoin consortium and warnings of 'digital dollarization'—shows the stakes. Crypto built the system, but Washington owns the currency. The win isn't crypto becoming money; it's crypto becoming the infrastructure for the world's reserve
 
 ## Counterpoints
 
-- Running a node might seem trivial, but the scale of institutional involvement—21 banks forming a joint venture—proves they see stablecoins as the winning format, not a fad. [00:05:13]
-- Some might see this as crypto finally being accepted by TradFi, but the host argues it's the dollar acquiring a new distribution network, not finance adopting crypto. [00:06:12]
+- Running a node is no big deal—but 21 banks forming a joint venture to launch their own stablecoin shows they'd rather own the system than rent it.
+- The GENIUS Act's deadlines keep shifting (the OCC already missed one), so the timeline might slip—but the direction is set.
+- Some might see this as crypto finally being accepted by TradFi—but the host argues it's the dollar acquiring a new delivery network, not crypto becoming money.
 
 ## Concepts surfaced
 
-[[stablecoin-regulation]] · [[genius-act]] · [[institutional-adoption]] · [[dollar-dominance]] · [[permissioned-blockchain]] · [[treasury-backs]]
+[[stablecoin-regulation]] · [[genius-act]] · [[institutional-adoption]] · [[dollar-dominance]] · [[permissioned-blockchain]]

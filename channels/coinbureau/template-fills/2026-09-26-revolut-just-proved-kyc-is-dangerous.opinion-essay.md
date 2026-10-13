@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-09-26-revolut-just-proved-kyc-is-dangerous.md
 source_transcript: ../transcripts/2026-09-26-revolut-just-proved-kyc-is-dangerous.md
 source_summary_hash: sha256:2e66e42a2c797cfc8ef003c5170a36c8c6ded85997cb21070fa70678c04a7d39
 source_transcript_hash: sha256:a2c048259a41113bc2ab857ba8bff59bfb191d19415cc8cd5de705dcb3c32c1e
-fill_id: 7c221c54-3d63-471d-b9a7-09c3ecba8f84
-published_at: '2026-10-13T16:05:22.947505'
+fill_id: f66df8f6-1067-4521-8029-f8b23ef7b13c
+published_at: '2026-10-13T17:05:56.672215'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Revolut breach wasn't a hack; it was the EU's KYC rulebook working as designed, and that rulebook makes your identity file the most dangerous document you'll ever be forced to create.
+The Revolut breach proves KYC files are the most dangerous documents attached to your name, and the EU's own rules make it illegal to delete them.
 
 ## Argument
 
-The attack didn't exploit a technical bug; it exploited a compliance desk engineered to say yes quickly. An attacker compromised an Italian government PEC email account and sent legitimate-looking European investigation orders for six months. Every technical check came back clean because the mail was genuine, and when paperwork was formatted wrong, Revolut staff coached the attacker on how to fix it. The result: passport scans, selfies, home addresses, and full Bitcoin transaction histories for 680 pre-selected wealthy crypto holders were handed over. The targets were chosen on-chain first, then the compliance desk attached a name, face, and street address. This is not a failure of security; it's a failure of design. The EU's AML regulation forces crypto firms to retain records for up to a decade, the travel rule pushes identity data with transactions, and DAC8 creates yet another copy of the same file for tax authorities. Meanwhile, GDPR's minimization principle is effectively prohibited. The technology to verify identity without storing documents already exists—ZK Passport can prove a document is genuine without transmitting it—but politicians don't want to hear it. The result is that customers supply the data, carry the risk, and get extorted or physically attacked. This proves the self-custody argument: data is safer when fewer people have access to it.
+The attack wasn't a hack; it was a lawful request desk doing exactly what it was designed to do: say yes to the state quickly. An attacker, via an infostealer infection on an Italian government machine, sent genuine-looking requests from the Interior Ministry's domain. Every technical check came back clean because the mail was real. The compliance desk answered for six months, even coaching the attacker on fixing paperwork. The targets were chosen onchain first, then the desk attached names, faces, and addresses. The assembled file is a physical threat: a named human, a recent photo, a home address, and proof of crypto wealth. This isn't just privacy; it's physical danger. The standard reading is that Revolut messed up, but a better view is that Revolut complied. EU AML rules require retaining records for a minimum of five years, extendable to ten. The travel rule pushes identity data with transactions, and DAC8 forces reporting to tax authorities. GDPR demands data minimization, but both are EU law and cannot both be obeyed. Minimization isn't just discouraged; it's effectively prohibited. The technology to check identity without storing documents exists—ZK Passport and the EU's digital identity framework—but politicians don't want to hear it. KYC is supposed to be customer protection, but the customer supplies the data, carries the risk, and gets extorted or finds out when an armed intruder bursts through their door.
 
 ## Counterpoints
 
-- Revolut messed up: While true to some degree, the system did what European regulators designed it to do.
-- Ransom payment: Mark Karpelès argued against paying because there's no receipt and no proof of deletion.
-- Data minimization is possible: ZK Passport and the EU's digital identity framework already exist, but politicians don't want to hear it.
+- Revolut messed up and should have verified the requests more thoroughly.
+- The ransom demand was never formally received, and paying wouldn't guarantee deletion.
+- The EU's data protection authorities have warned about the AML/GDPR contradiction for years.
 
 ## Concepts surfaced
 
-[[kyc]] · [[self-custody]] · [[zero-knowledge-proofs]] · [[data-minimization]] · [[eu-regulation]]
+[[kyc-files]] · [[lawful-request-desk]] · [[zero-knowledge-proofs]] · [[self-custody]] · [[eu-regulations]]
