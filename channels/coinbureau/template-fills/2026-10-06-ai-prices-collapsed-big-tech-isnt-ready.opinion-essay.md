@@ -6,28 +6,30 @@ source_summary: ../summaries/2026-10-06-ai-prices-collapsed-big-tech-isnt-ready.
 source_transcript: ../transcripts/2026-10-06-ai-prices-collapsed-big-tech-isnt-ready.md
 source_summary_hash: sha256:5ccaf46b30428d2eba57b4ad404b53f39775b21ca9c2b23e53997c7dd7af012c
 source_transcript_hash: sha256:640eaf97d4fb901c88b9ad83fb17ff21d64584274a200df2ce7b69f048c79112
-fill_id: aa8b6415-b454-4404-abfb-cfa69568704f
-published_at: '2026-10-14T09:14:07.247913'
+fill_id: b16cb03f-3bc5-43fd-8645-2cb9dc11146d
+published_at: '2026-10-14T09:24:55.156900'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-China's open-weight AI models have collapsed AI prices, and America's trillion-dollar infrastructure bet is racing a product whose price keeps falling, risking a financial blunder.
+China's open-weight AI models have collapsed AI prices, undermining the scarcity-based business model of US tech giants and turning their trillion-dollar infrastructure bet into a potential financial blunder.
 
 ## Argument
 
-The mechanism is price. DeepSeek's R1 matched OpenAI's o1 on key benchmarks and was given away free, triggering a $589 billion single-day loss at Nvidia. Since then, Alibaba's Qwen overtook Meta's Llama as the most downloaded model family on Hugging Face, Moonshot's Kimi K3 topped the coding leaderboard, and DeepSeek's V4.1 Flash shipped under an MIT license. Chinese open-weight models now sit just 2–5 months behind the closed American frontier, while America's open models lag 6–9 months. The premium only survives on the hardest tasks, which are a small slice of the work. DoorDash routes routine workloads to Kimi, Airbnb uses Qwen, Perplexity uses DeepSeek. American labs have responded by cutting prices and releasing open-weight models, but the software edge is eroding. So the American AI trade went physical: Microsoft, Alphabet, Amazon, and Meta poured $511 billion into steel, power, and chips over the last 12 months, with spending projected to top $650 billion this year. But power is the bottleneck. Nearly half of planned US data center capacity for 2026 has been cancelled or delayed, and grid connection waits run 4–7 years. Large power transformers now take 3–5 years to arrive. China, meanwhile, added 543 gigawatts of new power capacity in a single year and builds its data centers next to the power. The chip supply runs through TSMC in Taiwan, and export controls meant to slow China down instead pushed its labs to do more with less, via Mixture of Experts architectures. History offers a parallel: the telecom bubble of the late 1990s, where companies laid millions of
+The mechanism is price. DeepSeek's R1, released in January 2025, matched OpenAI's o1 on key benchmarks and was given away for free, triggering a $589 billion single-day loss for Nvidia. Since then, Alibaba's Qwen has overtaken Meta's Llama as the most downloaded model family on Hugging Face, and DeepSeek's V4.1 Flash, released under an MIT license, costs just 15 cents per million input tokens during off-peak hours versus Anthropic's $4. Chinese open-weight models are only 2-5 months behind the American frontier, while America's open models lag 6-9 months. Companies like DoorDash, Airbnb, and Perplexity now route routine workloads to cheaper Chinese models, reserving premium models for the hardest tasks. The premium only survives on a small slice of work.
+
+Facing this, American labs have cut prices and even opened their models, but the real response has been physical. The big four—Microsoft, Alphabet, Amazon, Meta—poured $511 billion into infrastructure over the last 12 months, with spending projected to top $650 billion this year. Data center construction now exceeds $75 billion annually, ahead of office buildings. But this construction faces hard constraints: nearly half of planned 2026 data center capacity has been cancelled or delayed due to grid connection waits of 4-7 years, and transformer lead times have stretched to 3-5 years. Meanwhile, China added 543 gigawatts of power capacity in 2025 and builds its data centers next to power sources, like DeepSeek's 160,000-chip deployment in Inner Mongolia.
+
+The chip supply is another bottleneck. Nvidia controls ~75% of AI
 
 ## Counterpoints
 
-- Counterpoint: The American labs are not standing still—they are cutting prices and releasing open-weight models of their own, as OpenAI did with GPT-6 at roughly half the price of its predecessor.
-- Counterpoint: The premium on the hardest tasks might survive, because the hardest tasks are the ones that require the most advanced models, and those are still dominated by American labs.
-- Counterpoint: The export controls were meant to slow China down, but they pushed Chinese labs to get more efficient, which could be seen as a strategic failure of the US policy.
-- Counterpoint: The telecom bubble analogy might be imperfect because AI demand is growing faster than bandwidth demand did, and the infrastructure might be used more quickly.
-- Counterpoint: The decentralized AI networks might not be able to match the scale and reliability of centralized data centers, and they face their own challenges in coordination and trust.
+- Counterpoint: America's infrastructure bet could still pay off if demand for AI grows faster than expected, as it did for the internet after the telecom bust.
+- Counterpoint: The US could maintain its edge through superior frontier models, even if Chinese models are cheaper for routine tasks.
+- Counterpoint: Export controls and grid bottlenecks might be temporary, and America could catch up on power and chips within a few years.
 
 ## Concepts surfaced
 
-[[open-weight-models]] · [[mixture-of-experts]] · [[ai-infrastructure]] · [[decentralized-ai]] · [[telecom-bubble]] · [[export-controls]]
+[[open-weight-models]] · [[mixture-of-experts]] · [[ai-infrastructure]] · [[telecom-bubble]] · [[decentralized-ai]] · [[export-controls]]
