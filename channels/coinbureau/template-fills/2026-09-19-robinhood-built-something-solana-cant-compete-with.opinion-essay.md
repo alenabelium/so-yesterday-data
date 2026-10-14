@@ -6,27 +6,27 @@ source_summary: ../summaries/2026-09-19-robinhood-built-something-solana-cant-co
 source_transcript: ../transcripts/2026-09-19-robinhood-built-something-solana-cant-compete-with.md
 source_summary_hash: sha256:0830ff7cb9dc1c0bcea057359c2b5e216f7ca99a659b7f3a2a73ddd17758b3ed
 source_transcript_hash: sha256:de27826698f536c7504e91537a2f91caa7d1c1449bcec54933de35aded5313b2
-fill_id: ac75af52-1419-466d-b830-647549a33967
-published_at: '2026-10-14T02:05:34.511714'
+fill_id: 5af3871a-73aa-4568-b27b-72c1a2bc1595
+published_at: '2026-10-14T03:05:21.874036'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Robinhood is coming for the entire on-chain speculative economy and wants to eat Solana's lunch.
+Robinhood's new blockchain is eating Solana's lunch by pairing meme coins directly with tokenized stocks, creating a new form of 24/7 permissionless speculation that Solana can't compete with.
 
 ## Argument
 
-The attack is distribution, not tech. Robinhood already has 28.4 million funded customer accounts, an app on people's phones, and compliance done. Solana's edge was never speed or cost — it was being the place where the action was, the venue that never pretended speculation was respectable. But degens are loyal to the thickest action, and gravity can shift. Robinhood Chain pairs meme coins directly against tokenized stocks — Apple, Tesla, AMC — forcing two trading cultures into the same pool. The AMC CEO's outrage became literal rocket fuel: a meme coin paired against tokenized AMC hit a nine-figure valuation in hours. The mechanics are wild: buying the meme coin forces the pool to absorb tokenized stock supply, so on-chain prices drift from the exchange close, especially over weekends. Robinhood's position is that crypto was never a separate system — it's happy to combine the two in the craziest way possible. Solana's share of on-chain equity tokens collapsed from ~97% to ~30% in weeks. But Solana is already answering: Stonks Fun lets anyone launch meme coins paired against tokenized stocks, and its Stonk token ran to nine figures. Robinhood has distribution and a route to mainstream retail; Solana has culture, tooling, and permissionlessness. Neither outright beats the other. The real competition is about which venue is honest about selling the ability to bet on anything, 24/7, with no closing bell and no gatekeeper. Tokenized shares aren't shares — they're debt-like instruments tracking price without ownership. What's being sold is exposure and a spicy narrative.
+The mechanism is distribution plus a new kind of degeneracy. Robinhood didn't need to build a better chain; it already has 28.4 million funded customer accounts and an app on people's phones, with compliance done. When Robinhood Chain launched, meme coins were paired directly against tokenized shares of real listed companies like Apple and Tesla, not against ETH or stablecoins. That forced two trading cultures into the same room for the first time. The AMC episode proved the point: after AMC's CEO publicly attacked Robinhood, someone deployed a meme coin paired against tokenized AMC stock, and it hit a nine-figure valuation within hours. The mechanics are wild: every meme coin purchase forces the pool to absorb more of the tokenized stock's floating supply, so the on-chain price of a real company can drift far from its exchange close, especially over weekends when no one arbitrages it. Robinhood's position is that crypto was never a separate system, and it's happy to combine the two in the craziest way possible. Solana's edge was never tech; it was gravity—capturing attention and liquidity together. But gravity can shift: Solana had 97% of on-chain equity token volume, and after these hybrid pools appeared on rival chains, its share collapsed toward 30% in weeks. The real competition is about which venue is honest about selling the ability to bet on anything at any hour. Tokenized shares aren't shares at all—they're debt-like instruments tracking price without ownership. Crypto's biggest value proposition is permissionless 24/7 speculation, and Robinhood saw that demand
 
 ## Counterpoints
 
-- Some of Robinhood Chain's activity was driven by temporary gas subsidies and incentives that won't last.
+- Some of Robinhood Chain's activity is driven by temporary gas subsidies and incentives that won't last.
 - Much of the volume comes from existing crypto traders using third-party platforms, not new Robinhood customers.
-- Solana has the culture, tooling, launch machinery, and permissionlessness to spin up markets anytime.
-- Solana is already fighting back with Stonks Fun, launching meme coins paired against tokenized stocks.
+- Solana has the culture, tooling, launch machinery, and permissionlessness to spin up markets anytime, and is already answering with Stonks Fun.
+- Robinhood Chain may have kicked the narrative into another gear, but it doesn't own it; Solana is already fighting back.
 
 ## Concepts surfaced
 
-[[tokenized-stocks]] · [[meme-coins]] · [[on-chain-speculation]] · [[robinhood-chain]] · [[solana-ecosystem]] · [[permissionless-markets]]
+[[robinhood-chain]] · [[tokenized-stocks]] · [[meme-coins]] · [[solana]] · [[permissionless-speculation]] · [[liquidity-attention-flywheel]]
