@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-09-why-zcash-exploded.md
 source_transcript: ../transcripts/2026-09-09-why-zcash-exploded.md
 source_summary_hash: sha256:af5bfb9e794bb8c4d0c45d8b5ef19f188e17f4ba73b74a2e877d9d9761b0d90e
 source_transcript_hash: sha256:039b8b19a32d52d26c566d54d3515cedfce322dbf38f751a051a4609fb2710f0
-fill_id: d9ec7794-26f9-4b03-b78d-5ec76c46dd83
-published_at: '2026-10-14T00:05:32.596751'
+fill_id: e2613c65-27af-4c2e-9be4-39297c64a2b2
+published_at: '2026-10-14T01:05:29.683775'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,20 +18,22 @@ Zcash's 2,200% surge is not a fluke but the compounding of four long-standing ar
 
 ## Argument
 
-The first mechanism is the world catching up to Zcash's privacy pitch. For years, optional privacy was a niche feature, but now surveillance is a booming industry: ICE contracts jumped from $310M to $513M, and TRM Labs won a $95M no-bid federal contract, prompting Chainalysis to protest. Physical attacks are up 11.8x, with 52 wrench attacks in H1 2026. Meanwhile, Bitcoin's workarounds are being dismantled—Samourai founders sentenced, Wasabi shut down, Tornado Cash retrial pending. Privacy is no longer a talking point; it's a necessity.
+The first mechanism is the world catching up to Zcash's privacy pitch. Surveillance contracts are exploding: ICE's tech spending jumped from $310M to $513M, and TRM Labs won a $95M no-bid federal contract, sparking a Chainalysis protest. Physical attacks are up 11.8x, with wrench attacks hitting 52 in H1 2026. Meanwhile, privacy tools like Samourai and Wasabi are being dismantled. Zcash's optional privacy became a necessity.
 
-Second, Zcash has inverted the quantum narrative. While Bitcoin's BIP 360/361 are stalled and split developers, Zcash's community voted 94.6% for quantum recoverability, activated Ironwood, and launched Tachyon to eliminate harvest-now-decrypt-later risks. With 34% of Bitcoin's supply exposed, Zcash now looks like the more serious engineering project.
+Second, quantum readiness. Zcash's community voted 94.6% for quantum recoverability, activated Ironwood, and launched Tachyon to eliminate harvest-now-decrypt-later risks. Bitcoin, by contrast, is stuck debating BIP 360/361, with 34% of supply exposed and no consensus. Zcash now looks like the more serious engineering project.
 
-Third, the Orchard bug—the worst kind of soundness flaw—was disclosed privately, patched in days, and fully fixed with Ironwood. This public stress test turned a potential killer into a confidence builder.
+Third, the Orchard bug. A soundness flaw allowed counterfeit ZEC minting, but the team patched within days and fully fixed with Ironwood. The worst-case scenario became a proof of resilience.
 
-Finally, demand came from both ends: Grayscale's ZCSH trust crossed $463M AUM, and a Solana meme coin 'Zcat' airdropped $2.8M in ZEC to 470k holders. Each argument alone failed before; now they feed each other, driving supply off exchanges and squeezing shorts.
+Fourth, demand from both ends. Grayscale's ZCSH trust crossed $463M AUM, while the Zcat meme coin airdropped $2.8M in ZEC to 470k holders. Supply moved to shielded addresses as shorts piled in.
+
+These arguments previously failed individually. Now they compound: privacy drives demand, the bug builds trust, quantum adds narrative, and Grayscale adds access. The result: Zcash cracked the top 10 by betting against institutional transparency.
 
 ## Counterpoints
 
-- Bitcoin's transparency was a feature when the network was tiny and ideological; now it's a liability.
-- Quantum resistance was just a technical debate until people started questioning Bitcoin's readiness.
-- Surviving the bug was reassuring but hardly enough to send the price flying by itself.
-- A meme coin alone would have been exactly that, a meme coin.
+- Zcash's price collapse after the Orchard bug showed the risk, but the quick fix and Ironwood upgrade turned it into a confidence builder.
+- Bitcoin's quantum debate is unresolved, with BIP 360/361 stalled and 34% of supply exposed, making Zcash's proactive roadmap look superior.
+- The Zcat meme coin could be dismissed as a gimmick, but it funneled real demand and airdropped $2.8M in ZEC to 470k holders.
+- Privacy tools like Samourai and Wasabi were shut down, but Zcash's optional privacy kept it listed on exchanges, unlike Monero.
 
 ## Concepts surfaced
 
