@@ -6,30 +6,31 @@ source_summary: ../summaries/2026-08-19-wall-street-is-hiding-the-ai-debt-bomb-2
 source_transcript: ../transcripts/2026-08-19-wall-street-is-hiding-the-ai-debt-bomb-2008-again.md
 source_summary_hash: sha256:cc2170c806d8dd91f0aeaa27d53662fe484ba01a37db0fc437058d44d159cb19
 source_transcript_hash: sha256:4613686dee16616c69dd692cde2db6e3bc448a019009267db84d027487ba3826
-fill_id: 5bc05fc3-3b87-4e29-b2a4-88e211a7f2da
-published_at: '2026-10-14T03:37:22.871686'
+fill_id: 117013c6-6c20-4ad7-88a5-51eda9784395
+published_at: '2026-10-14T04:37:23.534343'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Wall Street is financing the AI buildout with opaque, off-balance-sheet debt that mirrors the 2008 crisis, and the weakest link in this chain is publicly listed Bitcoin miners.
+Wall Street is lending against AI through opaque, off-balance-sheet debt structures that echo 2008, and the collateral—GPUs—depreciates faster than the debt matures, setting up a financial shock.
 
 ## Argument
 
-The mechanism is credit. Morgan Stanley puts global data center capex at $2.9T for 2025-2028, but hyperscaler cash flow covers only $1.4T, leaving a $1.5T financing gap. That gap is being filled by private credit, securitized products, and off-balance-sheet vehicles. Meta's Hyperion Campus is financed through a bankruptcy-remote vehicle, Big Net Investors LLC, with $27B of debt rated A+ by S&P, anchored by PIMCO, and not maturing until 2049. Oracle carries $248B in lease commitments through third-party vehicles. The Nikkei investigation found $1.65T of off-balance-sheet AI obligations at the five biggest tech firms, growing eightfold in four years.
+The mechanism is the financing gap. Morgan Stanley puts global data center capex at $2.9T for 2025-2028, but hyperscaler cash flow covers only $1.4T, leaving a $1.5T hole that must be borrowed. That borrowing is increasingly off-balance-sheet: Meta's Hyperion Campus is financed through a bankruptcy-remote vehicle, Big Net Investors LLC, with $27B in debt rated A+ and maturing in 2049, while Meta leases back on four-year terms. Oracle carries $248B in off-balance-sheet lease commitments. The Nikkei investigation found $1.65T in hidden AI obligations, up eightfold in four years.
 
-The collateral is the problem. GPUs depreciate 50% in three years, but the debt matures in 5 to 24 years. Ratings track the counterparty, not the asset: CoreWeave's A3-rated facility was anchored by Meta, but a later facility secured against non-investment-grade customers got Ba2. Nvidia's platform to mobilize $500B, compared by Larry Fink to the creation of mortgage-backed securities, depends on chips holding value, which has never been tested through a full cycle.
+The collateral problem is the killer. GPUs lose 50-70% of rental value in under two years and resale value halves in three years, yet the debt runs 5, 10, 24 years. That mismatch is the core vulnerability. The optimists' counter—that hyperscalers are cash-generative—fails because ratings track the counterparty, not the asset: CoreWeave's A3 facility was anchored by Meta, but its Ba2 facility was tied to non-investment-grade customers. Nvidia's $500B capital mobilization platform, with Larry Fink comparing it to mortgage-backed securities, only works if chips hold value, which nobody has seen through a full cycle.
 
-Bitcoin miners are the most leveraged link. They converted to AI landlords to survive, with $70B in disclosed AI contracts. Core Scientific signed a 12-year deal with CoreWeave, then sold 1,900 BTC. TeraWulf signed a 20-year lease with Anthropic. These companies, with weak balance sheets, are taking on 12- to 20-year obligations against hardware with a three-year half-life. The stress is already visible: CoreWeave's CDS hit 855 bps, implying a 50% default
+Bitcoin miners are the weakest link. They converted to AI landlords to survive mining at a loss, signing 12-20 year leases against 3-year hardware. Core Scientific's $10.2B deal with CoreWeave, TeraWulf's $19B lease with Anthropic, Hut 8's $7B lease—all funded by selling Bitcoin and taking on high-yield debt. Core Scientific posted a $347M loss in Q1 2026, and CoreWeave is buying it for
 
 ## Counterpoints
 
-- Hyperscalers are enormously cash generative at the parent level, which could support the debt.
-- The AI buildout is a new era for markets, not a repeat of 2008.
-- Investment-grade ratings on AI debt, like CoreWeave's A3 facility, suggest the risk is manageable.
+- Hyperscalers are enormously cash-generative at the parent level, so the debt is safe.
+- The debt is investment-grade (e.g., CoreWeave's A3 facility), so risk is low.
+- This is a new era for markets, not a repeat of 2008.
+- Nobody has seen GPU residual values through a full technology cycle, so the optimists rely on things playing out as planned.
 
 ## Concepts surfaced
 
-[[off-balance-sheet-financing]] · [[gpu-depreciation]] · [[bitcoin-miners-ai]] · [[private-credit]] · [[securitization]] · [[credit-risk]]
+[[off-balance-sheet-financing]] · [[gpu-depreciation]] · [[bitcoin-miners]] · [[private-credit]] · [[securitization]] · [[credit-default-swaps]]
