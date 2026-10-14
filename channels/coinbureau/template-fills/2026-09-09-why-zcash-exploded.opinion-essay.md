@@ -6,8 +6,8 @@ source_summary: ../summaries/2026-09-09-why-zcash-exploded.md
 source_transcript: ../transcripts/2026-09-09-why-zcash-exploded.md
 source_summary_hash: sha256:af5bfb9e794bb8c4d0c45d8b5ef19f188e17f4ba73b74a2e877d9d9761b0d90e
 source_transcript_hash: sha256:039b8b19a32d52d26c566d54d3515cedfce322dbf38f751a051a4609fb2710f0
-fill_id: 319ace5b-f502-4116-899c-ba82e3adf620
-published_at: '2026-10-13T23:05:37.971595'
+fill_id: d9ec7794-26f9-4b03-b78d-5ec76c46dd83
+published_at: '2026-10-14T00:05:32.596751'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -18,21 +18,21 @@ Zcash's 2,200% surge is not a fluke but the compounding of four long-standing ar
 
 ## Argument
 
-The first mechanism is the world catching up to Zcash's privacy pitch. For years, optional privacy was a niche feature, but now surveillance is a mature industry: ICE contracts jumped from $310M to $513M, and TRM Labs won a $95M no-bid federal contract, sparking a Chainalysis protest. Physical attacks are up 11.8x year-on-year, with 52 wrench attacks in H1 2026. Meanwhile, Bitcoin's workarounds are being dismantled—Samourai founders sentenced, Wasabi's coordinator shut down, Tornado Cash retrial pending. Zcash didn't win on marketing; it won because privacy became undervalued.
+The first mechanism is the world catching up to Zcash's privacy pitch. For years, optional privacy was a niche feature, but now surveillance is a booming industry: ICE contracts jumped from $310M to $513M, and TRM Labs won a $95M no-bid federal contract, prompting Chainalysis to protest. Physical attacks are up 11.8x, with 52 wrench attacks in H1 2026. Meanwhile, Bitcoin's workarounds are being dismantled—Samourai founders sentenced, Wasabi shut down, Tornado Cash retrial pending. Privacy is no longer a talking point; it's a necessity.
 
-The second thread is quantum readiness. Both Bitcoin and Zcash use elliptic curve cryptography, but Zcash acted: a community vote passed 94.6% in February, Ironwood activated in July, and Tachyon targets harvest-now-decrypt-later by removing encrypted payloads. Bitcoin's BIP 360/361 are stalled, with 34% of circulating supply exposed, including Satoshi's coins. For the first time, Zcash looks like the more serious engineering project.
+Second, Zcash has inverted the quantum narrative. While Bitcoin's BIP 360/361 are stalled and split developers, Zcash's community voted 94.6% for quantum recoverability, activated Ironwood, and launched Tachyon to eliminate harvest-now-decrypt-later risks. With 34% of Bitcoin's supply exposed, Zcash now looks like the more serious engineering project.
 
-The third argument was the bug that was supposed to kill it. In May, a soundness flaw in Orchard allowed counterfeit ZEC minting. The price collapsed 50%, but the private disclosure and patch within days, plus Ironwood's safeguards, turned a fatal flaw into a confidence boost.
+Third, the Orchard bug—the worst kind of soundness flaw—was disclosed privately, patched in days, and fully fixed with Ironwood. This public stress test turned a potential killer into a confidence builder.
 
-The fourth is demand from both ends: Grayscale's ZCSH trust crossed $463M AUM, and a Solana meme coin 'Zcat' airdropped 2,320 ZEC to 470k holders. Each argument failed alone, but now they feed each other: privacy creates demand, the bug builds confidence, quantum adds narrative, and Grayscale
+Finally, demand came from both ends: Grayscale's ZCSH trust crossed $463M AUM, and a Solana meme coin 'Zcat' airdropped $2.8M in ZEC to 470k holders. Each argument alone failed before; now they feed each other, driving supply off exchanges and squeezing shorts.
 
 ## Counterpoints
 
-- Zcash's price surge isn't driven by tech changes; it's a meme coin and institutional wrapper, not fundamentals.
-- Quantum resistance is still years away; Bitcoin's developer split and voluntary migration may be more pragmatic.
-- The Orchard bug proved Zcash's core cryptography is vulnerable; the patch was quick but the risk remains.
-- Privacy coins face regulatory headwinds; Grayscale's product could be delisted or restricted like Monero.
+- Bitcoin's transparency was a feature when the network was tiny and ideological; now it's a liability.
+- Quantum resistance was just a technical debate until people started questioning Bitcoin's readiness.
+- Surviving the bug was reassuring but hardly enough to send the price flying by itself.
+- A meme coin alone would have been exactly that, a meme coin.
 
 ## Concepts surfaced
 
-[[zero-knowledge-proofs]] · [[quantum-resistance]] · [[privacy-coins]] · [[institutional-adoption]] · [[meme-coins]]
+[[privacy-coins]] · [[quantum-resistance]] · [[zero-knowledge-proofs]] · [[institutional-adoption]] · [[meme-coins]]
