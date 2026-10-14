@@ -6,30 +6,28 @@ source_summary: ../summaries/2026-10-06-ai-prices-collapsed-big-tech-isnt-ready.
 source_transcript: ../transcripts/2026-10-06-ai-prices-collapsed-big-tech-isnt-ready.md
 source_summary_hash: sha256:5ccaf46b30428d2eba57b4ad404b53f39775b21ca9c2b23e53997c7dd7af012c
 source_transcript_hash: sha256:640eaf97d4fb901c88b9ad83fb17ff21d64584274a200df2ce7b69f048c79112
-fill_id: 52c618ef-bd42-496a-8c5e-eb2e77ebc67c
-published_at: '2026-10-14T08:14:23.584846'
+fill_id: aa8b6415-b454-4404-abfb-cfa69568704f
+published_at: '2026-10-14T09:14:07.247913'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-China's open-weight models have collapsed AI prices, and America's trillion-dollar physical buildout is a financial blunder in the making.
+China's open-weight AI models have collapsed AI prices, and America's trillion-dollar infrastructure bet is racing a product whose price keeps falling, risking a financial blunder.
 
 ## Argument
 
-The mechanism is price. DeepSeek's R1 matched OpenAI's o1 at a fraction of the cost, and its flash model undercuts Anthropic by 95% or more. Once good-enough models are nearly free, companies like DoorDash, Airbnb, and Perplexity route routine workloads to Chinese open weights, reserving premium APIs for the hardest tasks. The scarcity premium only survives on a small slice of work.
-
-So Big Tech went physical. Microsoft, Alphabet, Amazon, and Meta poured $511 billion into data centers, power, and chips. But the grid is the bottleneck: nearly half of planned 2026 capacity is delayed or cancelled, and grid connections take 4–7 years. Transformers take 3–5 years, and GE Vernova is booked to 2031. Meanwhile, China added 543 GW of power in a year and builds next to the source. The export controls meant to slow China forced it to innovate—Mixture of Experts and Huawei's Ascend chips now power a domestic ecosystem that doesn't need Nvidia.
-
-History rhymes. The 1996 Telecom Act led to a fiber bubble where only 5% of capacity was used, prices collapsed 90%, and $2 trillion evaporated. But the fiber stayed in the ground, and the next internet was built on it by companies that didn't pay to lay it. The same could happen here: decentralized networks like Akash, Render, io.net, Bittensor, Chainlink, Filecoin, and Proof are already building the cheap, open layer that will run on the stranded infrastructure.
+The mechanism is price. DeepSeek's R1 matched OpenAI's o1 on key benchmarks and was given away free, triggering a $589 billion single-day loss at Nvidia. Since then, Alibaba's Qwen overtook Meta's Llama as the most downloaded model family on Hugging Face, Moonshot's Kimi K3 topped the coding leaderboard, and DeepSeek's V4.1 Flash shipped under an MIT license. Chinese open-weight models now sit just 2–5 months behind the closed American frontier, while America's open models lag 6–9 months. The premium only survives on the hardest tasks, which are a small slice of the work. DoorDash routes routine workloads to Kimi, Airbnb uses Qwen, Perplexity uses DeepSeek. American labs have responded by cutting prices and releasing open-weight models, but the software edge is eroding. So the American AI trade went physical: Microsoft, Alphabet, Amazon, and Meta poured $511 billion into steel, power, and chips over the last 12 months, with spending projected to top $650 billion this year. But power is the bottleneck. Nearly half of planned US data center capacity for 2026 has been cancelled or delayed, and grid connection waits run 4–7 years. Large power transformers now take 3–5 years to arrive. China, meanwhile, added 543 gigawatts of new power capacity in a single year and builds its data centers next to the power. The chip supply runs through TSMC in Taiwan, and export controls meant to slow China down instead pushed its labs to do more with less, via Mixture of Experts architectures. History offers a parallel: the telecom bubble of the late 1990s, where companies laid millions of
 
 ## Counterpoints
 
-- America's open models are 6–9 months behind, while Chinese open weights are only 2–5 months behind the frontier—so quality gaps may persist on the hardest tasks.
-- The export controls were meant to slow China, but they pushed Chinese labs to be more efficient, creating the very price pressure now hitting the trade.
-- The telecom fiber stayed in the ground and enabled the next internet—so the AI buildout might still pay off, just not for the companies that built it.
+- Counterpoint: The American labs are not standing still—they are cutting prices and releasing open-weight models of their own, as OpenAI did with GPT-6 at roughly half the price of its predecessor.
+- Counterpoint: The premium on the hardest tasks might survive, because the hardest tasks are the ones that require the most advanced models, and those are still dominated by American labs.
+- Counterpoint: The export controls were meant to slow China down, but they pushed Chinese labs to get more efficient, which could be seen as a strategic failure of the US policy.
+- Counterpoint: The telecom bubble analogy might be imperfect because AI demand is growing faster than bandwidth demand did, and the infrastructure might be used more quickly.
+- Counterpoint: The decentralized AI networks might not be able to match the scale and reliability of centralized data centers, and they face their own challenges in coordination and trust.
 
 ## Concepts surfaced
 
-[[open-weight-models]] · [[mixture-of-experts]] · [[ai-infrastructure]] · [[decentralized-ai]] · [[export-controls]] · [[telecom-bubble]]
+[[open-weight-models]] · [[mixture-of-experts]] · [[ai-infrastructure]] · [[decentralized-ai]] · [[telecom-bubble]] · [[export-controls]]
