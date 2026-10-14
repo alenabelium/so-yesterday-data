@@ -6,23 +6,19 @@ source_summary: ../summaries/2026-10-10-why-people-hate-automation.md
 source_transcript: ../transcripts/2026-10-10-why-people-hate-automation.md
 source_summary_hash: sha256:1d0c094c92739b46719f2216f7e4addb7a7ed59ee18409247bd5c3d0e3705e07
 source_transcript_hash: sha256:ec484f7d8149361f074b04301c2b39cd416e5398a2485b4df49ec29569ea618c
-fill_id: 46c716f1-e7a4-4cb8-a335-2cded154160b
-published_at: '2026-10-14T22:13:50.775600'
+fill_id: dd8276f3-2517-4114-a327-faa248778e66
+published_at: '2026-10-14T23:13:48.474902'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages and degraded quality, and their core questions about who owns tools and who gets the productivity bonus remain relevant to modern automation.
+The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about who owns and benefits from new tools remain unresolved today.
 
 ## Argument
 
-The Luddites knew their machines intimately—many had worked on them for decades—so their opposition was never about technology itself. They targeted specific machines in specific workshops, often those owned by employers who paid below the set rates, leaving neighboring machines untouched. Their demands, as captured in their songs, were for full-time work at the old price, established by custom and law. This was a negotiation about the distribution of profits, not a rejection of progress.
-
-The government's response—criminalizing machine-breaking with the death penalty and deploying thousands of soldiers—revealed whose interests mattered. The Luddites lost, and within a generation, Lancashire weavers went from among the highest-paid workers in England to among the poorest. That outcome was not inevitable; it was a choice made by employers with the army behind them.
-
-Today, the machines have changed—they write, think, draw, and drive—but the underlying issues remain. Who owns the new tools? Who decides how they are used? And when productivity increases, who gets the bonus? These are the questions the Luddites first raised, and they are still unanswered. We should remember them for what they did, not ridicule them for their defeat.
+The Luddites' rebellion was a disciplined, targeted response to economic exploitation, not a fear of machines. In 1811, hosiery masters broke specific wide looms in workshops where employers paid below set rates, leaving neighboring machines untouched. Their complaints varied by trade—Yorkshire shearers faced shearing machines, Lancashire weavers power looms—but the spirit was identical: livelihoods were being destroyed from above. They knew their machines intimately; many had worked on them for decades. Their song demanded "full-time work at the old price, established by custom and law." This is the language of people negotiating who gets the profits, not of technophobes. The government's response—troops, spies, and the death penalty for machine-breaking—revealed whose interests mattered. Lord Byron's speech in the House of Lords, describing the "abject poverty" he witnessed, was ignored. The Luddites lost, and within a generation, Lancashire weavers went from among the highest-paid to among the poorest. Today, the same argument recurs with AI that writes, thinks, draws, and drives. The underlying issues are unchanged: who owns the new tools, who decides their use, and who gets the productivity bonus. The Luddites raised these questions first; they should be remembered for that, not ridiculed for their defeat.
 
 ## Counterpoints
 
