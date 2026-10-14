@@ -6,26 +6,27 @@ source_summary: ../summaries/2026-09-23-bitcoin-where-i-went-wrong.md
 source_transcript: ../transcripts/2026-09-23-bitcoin-where-i-went-wrong.md
 source_summary_hash: sha256:9ee77a5a1205af6ff8895fa23f1c7a9b9ad20afeaf6da30adcb7c57dbb88e02e
 source_transcript_hash: sha256:9274b5e1a4769650ea4a8a5f604823896387671a7aebdcd0d0ccdcfdf174e4a6
-fill_id: a076a659-a608-4778-8d64-1ced72a78203
-published_at: '2026-10-14T13:23:43.423758'
+fill_id: 31dc21ec-c684-441e-8425-21a557643fc8
+published_at: '2026-10-14T14:24:08.440776'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Rate hikes are not immediately bearish for Bitcoin, and my assumption that they were was the root of my wrong prediction.
+My assumption that a Fed rate hike would immediately be bearish for Bitcoin was not rooted in historical data, and I was wrong to be so deterministic about it.
 
 ## Argument
 
-The mechanism of my error was a chain of macro assumptions: energy up → yields up → Fed hikes → dollar up → Bitcoin down. I got the first four right, but Bitcoin rallied anyway. The data shows that after the first rate hike of a hiking cycle, Bitcoin either went up (March 2022) or the bottom was already in (December 2015). In September of midterm years (2018, 2022), Bitcoin also did fine for a month or two after the hike. So the premise that a hike is immediately bearish was never rooted in historical evidence. I over-indexed on a narrative and ignored the market structure. Now that Bitcoin has printed a higher high, the burden of proof has shifted to the bears. I defer to those who called this move, and I remain open-minded to a higher low in Q4, contingent on a stock market correction. If the S&P only drops 10%, that likely won't take Bitcoin to a new low; you'd need a much larger drop. The lesson is to respect the chart over my deterministic macro thesis.
+The mechanism of my error was a macro chain that played out perfectly: energy prices rose, long-end yields climbed to 5%, the Fed hiked in September, and the dollar strengthened. Every link held — except the final one. Bitcoin rallied alongside the dollar instead of repricing lower, breaking the double-bottom pattern that had previously marked a local top. The data was there all along: in the December 2015 and March 2022 rate-hike cycles, Bitcoin did not drop immediately after the first hike — in one case the bottom was already in, and in the other it initially rose. September rate hikes in 2018 and 2022 also saw Bitcoin hold up for a month or two. I over-indexed on a narrative and ignored the market structure: Bitcoin formed its February low, its summer low, and then rallied 50% off that low — a bigger move than in 2018 or 2022 — and printed a higher high. That higher high shifts the burden of proof to the bears. I now defer to those who called this move correctly, and I respect the new structure unless it is fully retraced. If weakness comes in Q4, I won't assume a lower low; it could resolve as a macro higher low, especially if it aligns with a stock-market correction — but a 10% S&P drop likely wouldn't be enough to take Bitcoin to new lows. The lesson: don't get deterministic about a rate hike's short-term impact when history says otherwise.
 
 ## Counterpoints
 
-- Some might argue the rate hike is not the first in a cycle, but the technical definition counts it as such, and history shows Bitcoin often rises after the first hike.
-- A common objection is that Bitcoin must eventually retrace to a lower low, but the higher high shifts the burden of proof to the bears.
-- One might point to past midterm-year corrections, but 2010 shows the stock market didn't always top in late September, so a correction isn't guaranteed.
+- One might argue the rate hike is just a continuation of the prior cycle, not the first of a new one, so the comparison is invalid — but the technical definition still counts it as a first hike.
+- Some might say the stock market always corrects in midterm years, but 2010 shows it doesn't have to, so a correction is not guaranteed.
+- A skeptic could claim the higher high will still be retraced, but since I didn't predict the breakout, I lack the authority to call for a full retrace.
+- Others might point to the 2018 and 2022 DCA experience where I got wrecked, but that doesn't invalidate the current higher-high structure.
 
 ## Concepts surfaced
 
-[[bitcoin-macro-correlation]] · [[rate-hike-cycles]] · [[market-structure-analysis]] · [[higher-high-lower-low]] · [[usdt-dominance]] · [[dca-strategy]]
+[[rate-hike-cycles]] · [[market-structure]] · [[higher-high]] · [[macro-higher-low]] · [[usdt-dominance]] · [[stock-market-correlation]]
