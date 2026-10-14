@@ -6,25 +6,22 @@ source_summary: ../summaries/2026-10-10-why-people-hate-automation.md
 source_transcript: ../transcripts/2026-10-10-why-people-hate-automation.md
 source_summary_hash: sha256:1d0c094c92739b46719f2216f7e4addb7a7ed59ee18409247bd5c3d0e3705e07
 source_transcript_hash: sha256:ec484f7d8149361f074b04301c2b39cd416e5398a2485b4df49ec29569ea618c
-fill_id: ab4bdfe5-d0b8-4c94-9d94-908db4a6f919
-published_at: '2026-10-14T20:14:49.356826'
+fill_id: 3eaa312a-de94-4882-ba7d-ecdb0ccf45de
+published_at: '2026-10-14T21:14:38.654870'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions remain relevant today.
+The Luddites were not anti-technology but opposed specific uses of machinery that lowered wages and degraded quality, and their questions about who owns tools and who gets the productivity bonus remain central to modern automation debates.
 
 ## Argument
 
-The Luddites knew their machines well. Many had worked on them for decades. They were not against technology as such. They opposed specific uses of technology. One that lowered wages, degraded quality, and ignored the customs that governed their craft. Their song called for full-time work at the old price, established by custom and law. This is not the language of people who hate technology. This is the language of people who agree on who gets the profits. They lost these negotiations. They lost the battle with hammers in the dark against the army and parliament, which had already decided whose interests mattered. Every decision to introduce a new machine is also a decision about the fate of people. Whose skills will depreciate, whose earnings will increase, and whose voice will carry weight? In 1812, employers made this choice alone, with the army behind them. Two centuries later, we are having the same argument again. The cars have become different. They write, think, draw, and drive. But the underlying issues have hardly changed. Who owns the new tools? Who decides how to use them? And when productivity increases, who gets the bonus? The Luddites were the first to raise these questions. They should be remembered for what they did, not ridiculed for their defeat.
+The Luddites' rebellion was a targeted protest against specific machines and employers, not a rejection of technology itself. In 1811, hosiery masters broke wide looms that produced cheap, poor-quality 'scraps' that undercut their wages and craft standards. They left neighboring machines untouched, choosing only those owned by employers who paid below set rates. This precision shows they understood the machines and opposed their specific use, not the technology per se. Their slogan, 'Enoch made them, and Enoch must break them,' highlighted the irony that the same blacksmith who made the machines also made the hammers used to smash them—a recognition that the tools themselves were not the enemy, but the way they were deployed. The government's response—making machine-breaking a capital crime and sending troops—revealed that the real conflict was about who had power over technological change. Lord Byron's speech in Parliament, describing the workers' poverty, was overruled, and the Luddites were hanged or transported. The outcome was not just a defeat for the workers but a precedent: employers, backed by the state, decided unilaterally whose interests mattered. Two centuries later, the same questions persist: who owns the new tools, who decides their use, and who gets the productivity bonus? The Luddites are remembered as fools, but they were the first to ask these questions, and their concerns are more relevant than ever as AI and automation reshape work.
 
 ## Counterpoints
 
-- Luddites are often dismissed as anti-technology, but they were skilled workers who knew their machines well.
-- The Luddite movement is seen as a failure, but their questions about who benefits from automation remain unanswered.
+
 
 ## Concepts surfaced
-
-[[automation-ethics]] · [[luddite-fallacy]] · [[technology-and-labor]]
