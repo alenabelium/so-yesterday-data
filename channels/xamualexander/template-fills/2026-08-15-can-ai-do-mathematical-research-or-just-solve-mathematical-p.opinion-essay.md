@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-08-15-can-ai-do-mathematical-research-or-just-
 source_transcript: ../transcripts/2026-08-15-can-ai-do-mathematical-research-or-just-solve-mathematical-p.md
 source_summary_hash: sha256:efd49a6992b73ef5df04d15da196f64704d27c6384117be6148520e74c096d79
 source_transcript_hash: sha256:de1511e686c7762978abed4dbd806b20b491642de8934b30bbc23527f43236c9
-fill_id: 62827ff4-aa0b-4f95-9038-db84ef0535bd
-published_at: '2026-10-15T17:05:17.305758'
+fill_id: fb232f3e-273e-4921-a825-5cf23437484b
+published_at: '2026-10-15T18:05:07.633166'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI can reproduce completed mathematical research but cannot yet conduct the exploratory, iterative process of discovering false assumptions and building theories, which is central to human mathematical work.
+AI can reproduce completed mathematical research, but it cannot yet conduct the exploratory, iterative process of discovering false assumptions and building theories, which is central to human mathematical work.
 
 ## Argument
 
-The distinction between reproducing and conducting research is the core of the problem. As the article notes, a cutting-edge model could likely reproduce the mathematics, code, and presentation in a completed paper, but that is not the same as the years-long process of starting with broad directions, encountering failures, and letting those failures reshape understanding. This is analogous to ARC AGI-3, where leading models perform poorly because they must investigate an environment, form and test hypotheses, correct false assumptions, and use that knowledge going forward. The author's own feedback linearization project illustrates this: initial simulations failed, and instead of switching methods, the team treated the numerical errors as evidence that their assumptions about the extended system were wrong. They discovered an undefined relative power, then a missing integrator condition, and each failure forced a deeper theoretical revision. The challenge was learning the rules of the problem environment while working, which required maintaining a consistent, evolving goal over months of iterative failure. Current state-of-the-art models are still subject to cumulative logical errors and context degradation over long time horizons, as LLMs have limited context windows and must either forget or compress earlier parts of the conversation. The article asks whether AI can automate this discovery process—delve into a research problem, discover which assumptions are wrong, invent intermediate abstractions, and gradually build a theory. A priori, there is no reason why AI cannot
+The distinction between solving a well-defined problem and conducting research is the core of the argument. The author's graduate students worked for years on projects that began as broad directions, not clearly defined problems. They repeatedly encountered failures that changed their understanding. This is fundamentally different from OpenAI's Astra model, which was given specific goals like proving a hypothesis. The author's feedback linearization project illustrates this: they applied known methods, simulated, failed, and used the failure as evidence that an assumption was wrong. They then revised the theory, introducing an integrator structure, and only then did the solution emerge. None of the individual mathematical elements were advanced; the challenge was learning the rules of the problem environment while working. This requires maintaining a consistent, evolving goal over months of iterative failure. Current LLMs, with their limited context windows, are subject to cumulative logical errors and context degradation over such long horizons. The author sees no a priori reason why AI can't eventually do this, but current models still perform poorly on tests like ARC AGI-3, which specifically probe this exploratory ability. The article's own conclusion is that for now, human theorists still have a role, though the distinction may blur as AI improves at permanent memory and continuous adaptation.
 
 ## Counterpoints
 
-- A cutting-edge model could reproduce the mathematics, code, and presentation in a completed paper, given a well-formulated query and enough tokens.
-- A priori, there is no reason why AI cannot automate the discovery process, and the distinction may disappear as AI systems become better at permanent memory and continuous adaptation.
-- The author wonders how well humans actually perform on ARC AGI-3, suggesting the test may not be a fair measure of human capability.
+- OpenAI's Astra solved 10 big problems in one fell swoop, and a Fields Medal winner believes AI will surpass mathematicians in math within 2 years.
+- A cutting-edge model, given a well-formulated query and enough tokens, could reproduce some aspects of the completed papers.
+- The author sees no a priori reason why AI can't automate the discovery process, and the distinction may disappear as AI systems get better at permanent memory and continuous adaptation.
 
 ## Concepts surfaced
 
-[[arc-agi-3]] · [[llm-context-window]] · [[mathematical-research]] · [[ai-agents]] · [[iterative-failure]]
+[[arc-agi-3]] · [[llm-context-window]] · [[mathematical-research]] · [[ai-theorist]]
