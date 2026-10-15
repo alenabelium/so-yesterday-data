@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-10-14-the-3-levels-of-harness-engineering-begi
 source_transcript: ../transcripts/2026-10-14-the-3-levels-of-harness-engineering-beginner-to-pro.md
 source_summary_hash: sha256:05b17874eedba25aa4cfd49254dbb96945e4903f637c0507a0f877f8f0040157
 source_transcript_hash: sha256:755bf36c756209b3148aea804c98583b2471d26a7eda9f46dd24afb931dcecf3
-fill_id: 042e7631-3ec9-403d-807d-d63cb43ed6a9
-published_at: '2026-10-15T05:14:08.659860'
+fill_id: c4560a44-64f7-4ff8-8509-a69ab9698b5a
+published_at: '2026-10-15T06:14:10.395698'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Most developers only use the first level of harness engineering—configuration—when working with AI coding tools. To excel as an AI engineer, one must progress to creating custom tools and eventually orchestration harnesses that manage multiple agents. Custom tools can significantly improve model performance, and advanced orchestration systems like AutoForge and a 3D software factory showcase the potential. Mastering these three levels is crucial for building a career in AI engineering.
+Most developers stop at configuring vendor-provided AI coding tools, but that's only the first level of harness engineering. The second level involves building custom tools to control the developer experience and boost model performance. The third level is orchestration, where you manage multiple agents to work on long-running tasks autonomously.
 
 ## The argument
 
-### Define the Core Substrate: Agent = Model + Harness
+### Define the Harness and Its Components
 - **Anchor Timestamps**: ['00:01:47']
-- **Claim**: An agent is the model plus the environment (harness). The harness defines rules, tools, checks, hooks, memory files, and sandboxing. It empowers the agent and sets the boundaries for its operation.
+- **Claim**: A harness is the environment that defines rules, tools, checks, hooks, memory files, and sandboxing for an AI agent. It's what empowers the model to act, and it can be extended with subagents and workflows.
 - **Role**: definition
 
-### Level 1: Configuration with Vendor Harnesses
+### Level 1: Configuration
 - **Anchor Timestamps**: ['00:04:10']
-- **Claim**: Most developers are at Level 1: using vendor harnesses like Claude Code and configuring them via memory files (agents.md) and hooks. This is the baseline, but it's limited to what the vendor provides.
+- **Claim**: Configuration is using a vendor harness like Claude Code and tweaking it via memory files (agents.md) and hooks. This is where most developers are, but it's just the starting point.
 - **Role**: definition
 
-### Level 2: Custom Tools Unlock Performance Gains
+### Level 2: Custom Tools
 - **Anchor Timestamps**: ['00:07:47']
-- **Claim**: Building custom tools is in high demand. Examples show dramatic improvements: LangChain boosted GPT-5.2 from 53% to 66%, and Ken Bullock raised Grok Code Fast One from 6.7% to ~70% by changing the toolkit. Custom tools also enable organizational control and provider flexibility.
+- **Claim**: Building your own tools lets you control the developer experience, enforce policies, and optimize for specific models. Evidence shows that custom tooling can dramatically improve model performance, e.g., from 53% to 66% in a LangChain experiment.
 - **Role**: evidence
 
-### Level 3: Orchestration Harnesses for Scale
+### Level 3: Orchestration
 - **Anchor Timestamps**: ['00:13:22']
-- **Claim**: Orchestration harnesses manage multiple coding agents and long-running tasks. Systems like AutoForge and software factories distribute work among agents, run autonomously for days or weeks, and can be visualized in 3D with Kanban boards and GitHub integration.
-- **Role**: definition
-
-### Mastering All Levels Is Key for AI Engineering Careers
-- **Anchor Timestamps**: ['00:00:00']
-- **Claim**: To build a career as an AI engineer or work with real clients, you must understand and progress through all three levels of harness engineering. Most developers never go beyond Level 1, so mastering Levels 2 and 3 differentiates you.
+- **Claim**: Orchestration harnesses manage multiple coding agents to handle long-running tasks, like AutoForge or a software factory. They distribute tasks among agents and run autonomously until completion.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The video provides concrete evidence: LangChain's experiment with GPT-5.2 improved results from 53% to 66% using a custom CLI tool. Ken Bullock's post on X showed Grok Code Fast One's score jumping from 6.7% to ~70% by changing the toolkit. The author also shares personal experience running open-weight models in OpenCode, noting that vendor tools are not optimized for local models; his custom tool uses only 1400 tokens vs. 30,000+ for Claude. Caveats: the author admits he may have misspelled Ken Bullock's name, and the 3D software factory is a personal open-source project. He emphasizes that custom tools are in demand for organizational control and provider flexibility.
+The speaker cites a LangChain experiment where the same model improved from 53% to 66% with a custom CLI tool. Ken Bullock's post shows Grok Code Fast's score jumping from 6.7% to nearly 70% by changing the toolkit. The speaker's own Small Coder tool reduces context to 1400 tokens for local models, while Claude Code uses over 30,000 tokens before any message. Caveats: the speaker notes that custom tools are in high demand but may require technical skills, and orchestration systems like AutoForge can run for weeks without supervision.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[harness-engineering]] · [[custom-tools]] · [[orchestration]] · [[claude-code]] · [[software-factory]]
+[[ai-agents]] · [[claude-code]] · [[software-factory]] · [[small-coder]] · [[harness-engineering]]
