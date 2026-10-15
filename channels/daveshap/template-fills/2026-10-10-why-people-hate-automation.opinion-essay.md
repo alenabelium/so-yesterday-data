@@ -6,26 +6,25 @@ source_summary: ../summaries/2026-10-10-why-people-hate-automation.md
 source_transcript: ../transcripts/2026-10-10-why-people-hate-automation.md
 source_summary_hash: sha256:1d0c094c92739b46719f2216f7e4addb7a7ed59ee18409247bd5c3d0e3705e07
 source_transcript_hash: sha256:ec484f7d8149361f074b04301c2b39cd416e5398a2485b4df49ec29569ea618c
-fill_id: 6964f946-5b36-4bea-b6a6-6608b267d8c1
-published_at: '2026-10-15T15:06:06.058558'
+fill_id: cc419ee2-b5b0-4039-84e7-7996ae3d229f
+published_at: '2026-10-15T16:05:16.342291'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Luddites were not anti-technology; they were negotiating who gets the profits from new machines, a question we still face with AI.
+The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about who owns tools, decides their use, and gets the productivity.
 
 ## Argument
 
-The Luddites knew their machines intimately. They were skilled workers who used hand looms and shearing machines for decades. Their opposition was not to technology itself but to specific uses that lowered wages, degraded quality, and ignored craft customs. The wide looms that produced cheap 'scraps' were a violation of agreements, not progress. The shearing machines in Yorkshire threatened the livelihoods of highly paid shearers. The complaints were different in detail but the same in spirit: a way of life and the income that supported it were being destroyed from above. The government's response was force, with soldiers, spies, and the death penalty for machine breaking. The Luddites lost their negotiations, losing the battle with hammers against an army and parliament that had already decided whose interests mattered. Every decision to introduce a new machine is also a decision about the fate of people—whose skills will depreciate, whose earnings will increase, and whose voice will carry weight. Two centuries later, we are having the same argument again. The machines are different—they write, think, draw, and drive—but the underlying issues have hardly changed: who owns the new tools, who decides how to use them, and who gets the bonus when productivity increases. The Luddites were the first to raise these questions, and they should be remembered for what they did, not ridiculed for their defeat.
+The Luddites knew their machines intimately—many had worked on them for decades—so their protests were not born of ignorance or fear of technology itself. They targeted specific machines in specific workshops, often those owned by employers who paid below the set rates, leaving neighboring machines untouched. Their demands, captured in songs calling for 'full-time work at the old price, established by custom and law,' were about negotiating the distribution of profits, not halting progress. The government's response—troops, spies, and the death penalty for machine-breaking—revealed that the real conflict was over whose interests mattered. In 1812, employers made these choices alone, with the army behind them. Today's automation debates echo this: the tools have changed—they write, think, draw, and drive—but the underlying issues remain. Who owns the new tools? Who decides how they are used? And when productivity increases, who gets the bonus? These are the questions the Luddites first raised, and they should be remembered for asking them, not ridiculed for their defeat.
 
 ## Counterpoints
 
-- The common insult 'Luddite' implies fear of technology, but true Luddites knew their machines well and opposed specific uses, not technology as such.
-- Some might argue the Luddites were simply resisting inevitable progress, but the host counters that they were negotiating the distribution of profits, a legitimate concern.
-- The government's view was that machine breaking was a capital crime, but the host highlights Lord Byron's speech against the bill, noting the abject poverty he witnessed.
+- The common dismissal of Luddites as anti-technology or afraid of change, which the video refutes by noting their deep familiarity with the machines they opposed.
+- The argument that technological progress inevitably benefits everyone, countered by the historical outcome where Lancashire weavers, once among the highest-paid, became among the poorest within a generation.
 
 ## Concepts surfaced
 
-[[luddite-fallacy]] · [[technological-unemployment]] · [[automation-and-labor]] · [[profit-distribution]]
+[[luddite-fallacy]] · [[automation-ethics]] · [[technology-adoption]] · [[labor-economics]]
