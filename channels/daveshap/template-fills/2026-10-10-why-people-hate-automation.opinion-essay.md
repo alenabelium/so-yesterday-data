@@ -6,23 +6,19 @@ source_summary: ../summaries/2026-10-10-why-people-hate-automation.md
 source_transcript: ../transcripts/2026-10-10-why-people-hate-automation.md
 source_summary_hash: sha256:1d0c094c92739b46719f2216f7e4addb7a7ed59ee18409247bd5c3d0e3705e07
 source_transcript_hash: sha256:ec484f7d8149361f074b04301c2b39cd416e5398a2485b4df49ec29569ea618c
-fill_id: 63dfc54a-2e63-4d9c-adf3-cc06f9ca1c6e
-published_at: '2026-10-15T04:14:14.128604'
+fill_id: 24680bb8-3e44-41a3-aa3a-0bb39e06f3e9
+published_at: '2026-10-15T05:14:11.602274'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about who owns and benefits from new tools remain relevant to modern.
+The Luddites were not anti-technology; they opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about ownership, decision-making, and the distribution of.
 
 ## Argument
 
-The popular image of the Luddites as technophobes collapses under historical scrutiny. In 1811, Nottinghamshire hosiery masters—skilled workers who rented hand looms and worked from home—did not smash machines indiscriminately. They targeted specific wide looms in specific workshops, often those owned by employers who paid below the set rates, leaving neighboring machines untouched. Their grievance was not the loom itself but its use to produce cheap, low-quality "scraps" that undercut their wages and violated craft customs. As one of their songs demanded, they wanted "full-time work at the old price, established by custom and law." This is the language of negotiation, not fear.
-
-The movement spread to Yorkshire, where shearers faced shearing machines that did the job faster, and to Lancashire, where weavers confronted power looms. The complaints differed in detail but shared a spirit: a way of life and the income that supported it were being destroyed from above. The government's response was force—thousands of soldiers, spies, and a law making machine-breaking a capital offense. Lord Byron, in his first House of Lords speech, invoked the abject poverty he had seen in England, but the bill passed anyway. The subsequent trials and public hangings sent an unmistakable message about whose interests mattered.
-
-Two centuries later, we are having the same argument again. The machines have changed—they write, think, draw, and drive—but the underlying issues remain: Who owns the new tools? Who decides how to use them? And when productivity increases, who gets the bonus? The
+The historical record shows the Luddites were skilled workers who understood their machines intimately. They targeted only specific machines in specific workshops—often those owned by employers who paid below set rates—while leaving neighboring machines untouched. Their slogan, "Enoch made them, and Enoch must break them," highlighted the irony that the same forge produced both the hated machines and the hammers used to smash them. This was not a rejection of technology but a protest against its specific applications that lowered wages, degraded quality, and ignored craft customs. The government's response—sending thousands of soldiers, paying spies, and making machine-breaking a capital offense—revealed whose interests mattered. Lord Byron's speech in the House of Lords, describing the abject poverty he witnessed, was ignored, and the bill passed. The executions that followed sent an unmistakable message: employers alone would decide the fate of workers. Two centuries later, the debate has resurfaced with AI. The machines now write, think, draw, and drive, but the underlying questions remain: Who owns the new tools? Who decides how they are used? And when productivity increases, who gets the bonus? The Luddites were the first to raise these questions, and they should be remembered for that, not ridiculed for their defeat. Their story is not a cautionary tale about technophobia but a reminder that every decision to introduce new technology is also a decision about whose skills depreciate, whose earnings increase, and whose voice carries weight.
 
 ## Counterpoints
 
