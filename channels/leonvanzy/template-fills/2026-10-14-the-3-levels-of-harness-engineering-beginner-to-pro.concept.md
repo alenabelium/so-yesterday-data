@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-14-the-3-levels-of-harness-engineering-begi
 source_transcript: ../transcripts/2026-10-14-the-3-levels-of-harness-engineering-beginner-to-pro.md
 source_summary_hash: sha256:05b17874eedba25aa4cfd49254dbb96945e4903f637c0507a0f877f8f0040157
 source_transcript_hash: sha256:755bf36c756209b3148aea804c98583b2471d26a7eda9f46dd24afb931dcecf3
-fill_id: 57967447-d1e5-4cee-b59e-bd8910af778c
-published_at: '2026-10-15T08:14:49.117832'
+fill_id: fb336def-ac2d-4def-a034-af1b8dd7d5d6
+published_at: '2026-10-15T09:14:06.383613'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Most developers treat AI coding tools as fixed environments, but true AI engineering requires building your own. The speaker outlines three levels: configuration, custom tools, and orchestration. Mastering all three is key to a career in AI engineering.
+Most developers treat AI coding tools as fixed environments, but that's only the first level of harness engineering. The second level involves building custom tools that can dramatically boost model performance. The third level is orchestration—managing fleets of agents. Mastering these levels is key to a career in AI engineering.
 
 ## The argument
 
-### Define the Agent and Environment
-- **Anchor Timestamps**: ['00:01:47']
-- **Claim**: The agent is the model itself, and the environment is the setting where it operates. The environment defines rules, assigns tools, and provides checks like tests and hooks, shaping the agent's behavior.
+### Define the Agent and Its Environment
+- **Anchor Timestamps**: ['00:00:55']
+- **Claim**: An agent is the model plus its environment. The environment defines rules, tools, checks, and hooks. Most users stop at configuring a vendor-provided harness, but that's just the first level.
 - **Role**: definition
 
 ### Level 1: Configuration
 - **Anchor Timestamps**: ['00:04:10']
-- **Claim**: At the first level, you configure a vendor-provided harness like Claude Code. This involves editing memory files (e.g., agents.md) to set rules, using composite files, and adding hooks to enforce behaviors like changelog updates.
+- **Claim**: Configuration means tweaking memory files like agents.md and adding hooks. This is the baseline, but it's limited because you're working within someone else's harness.
 - **Role**: definition
 
 ### Level 2: Custom Tools
 - **Anchor Timestamps**: ['00:07:47']
-- **Claim**: The second level is creating your own tools. This allows organizations to control developer experience, switch providers, and implement policies. Custom tools can dramatically improve model performance, as shown by LangChain's experiment and Ken Bullock's results.
+- **Claim**: Building your own tools lets you control the developer experience, enforce policies, and switch providers. Evidence shows simple tooling changes can boost model scores from 53% to 66% or even 6.7% to 70%.
 - **Role**: evidence
 
 ### Level 3: Orchestration
-- **Anchor Timestamps**: ['00:13:25']
-- **Claim**: The third level is orchestration: managing multiple agents in a swarm. Examples include AutoForge and a 3D software factory where agents work on real projects, connected to GitHub, and can handle hundreds of tasks in the background.
+- **Anchor Timestamps**: ['00:14:33']
+- **Claim**: Orchestration harnesses manage multiple agents, like a 3D software factory with a Kanban board and GitHub integration. This is the pro level, enabling massive parallel work.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites LangChain's experiment where a custom CLI tool improved GPT-5.2's results from 53% to 66%, and Ken Bullock's post where changing tools boosted Grok Code Fast One's score from 6.7% to nearly 70%. He also shares personal experience with open-weight models, noting that standard tools are not optimized for local models, and his custom tool uses only 1400 tokens compared to Claude's 30,000. He acknowledges that not all details are covered and refers to other videos for deeper dives.
+The speaker cites LangChain's experiment with GPT-5.2, improving results from 53% to 66% with a custom CLI tool. Ken Bullock's post shows Grok Code Fast One's score jumping from 6.7% to 70% by changing underlying tools. The speaker also notes that local models need optimized tools—his own harness uses only 1400 tokens versus 30,000 for Claude. Caveats: the speaker admits he may have mispronounced Ken Bullock's name, and he doesn't provide exact details on the experiments. He also mentions that orchestration tools like AutoForge and the 3D factory are open source.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[environment-engineering]] · [[custom-tools]] · [[orchestration]] · [[claude-code]] · [[open-source-ai]]
+[[ai-agents]] · [[environment-engineering]] · [[custom-tools]] · [[orchestration]] · [[claude-code]] · [[local-models]]
