@@ -6,30 +6,31 @@ source_summary: ../summaries/2026-10-10-why-people-hate-automation.md
 source_transcript: ../transcripts/2026-10-10-why-people-hate-automation.md
 source_summary_hash: sha256:1d0c094c92739b46719f2216f7e4addb7a7ed59ee18409247bd5c3d0e3705e07
 source_transcript_hash: sha256:ec484f7d8149361f074b04301c2b39cd416e5398a2485b4df49ec29569ea618c
-fill_id: 4ef26635-c1f2-49e9-a190-5cff5047cadf
-published_at: '2026-10-15T10:14:14.822605'
+fill_id: 434eeba8-0331-448a-b3b1-657d8727596e
+published_at: '2026-10-15T11:14:15.192254'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The Luddites were not anti-technology but opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about who owns and benefits from new tools remain unresolved today.
+The Luddites were not anti-technology but opposed specific uses of machinery that lowered wages, degraded quality, and ignored craft customs, and their core questions about who owns and benefits from new tools remain unresolved in today's.
 
 ## Argument
 
-The Luddites knew their machines intimately—many had worked on them for decades—so their opposition was never to technology itself, but to specific applications that undercut their livelihoods and craft standards. In 1811, hosiery masters broke wide looms that produced cheap, shoddy 'scraps' made by untrained workers for less pay, violating established agreements. In Yorkshire, shearers smashed shearing machines that threatened their highly paid craft, even co-opting the manufacturer's name into a grim slogan: 'Enoch made them, and Enoch must break them.' Their demands, as captured in their songs, were for full-time work at the old price, established by custom and law—not the language of technophobes, but of people negotiating over who gets the profits.
+The Luddites knew their machines intimately—many had worked on them for decades—so their rebellion was never about fearing technology itself. They targeted specific machines in specific workshops, often those owned by employers who paid below set rates, leaving neighboring machines untouched. Their demands, as captured in their songs, were for full-time work at the old price, established by custom and law. This is the language of people negotiating over profits, not of technophobes.
 
-The government's response was force: thousands of soldiers, spies, and a death penalty for machine-breaking, passed despite Lord Byron's protest. The movement was crushed, and within a generation, Lancashire weavers fell from among the highest-paid workers in England to among the poorest. This outcome was not inevitable—it was a choice made by employers, backed by the army and parliament, about whose interests mattered.
+The mechanism of their opposition was economic and social: new wide looms and shearing machines lowered wages, degraded quality, and bypassed the customs that governed their craft. The hosiery masters starved that winter because trade routes were blocked and wages fell, while merchants used wide looms to produce cheap 'scraps' that undercut their skilled labor. The shearers in Yorkshire faced the same threat from shearing machines, and the weavers in Lancashire from power looms. Each complaint differed in detail but shared the same spirit: a way of life and the income that supported it were being destroyed from above.
 
-Two centuries later, the machines have changed—they write, think, draw, and drive—but the underlying issues are the same. Who owns the new tools? Who decides how they are used? And when productivity increases, who gets the bonus? The Luddites were the first to raise these questions, and they should be remembered for what they did, not ridiculed for their defeat.
+The government's response—troops, spies, and the death penalty for machine-breaking—reveals whose interests mattered. Lord Byron's speech in the House of Lords, where he described the poverty he witnessed, was ignored. The Luddites lost their battle, and within a generation, Lancashire weavers went from among the highest-paid workers in England to among the poorest.
+
+Today, the machines are different—they write, think, draw, and drive—but the underlying issues are unchanged.
 
 ## Counterpoints
 
-- The common insult 'Luddite' implies fear of technology, but true Luddites knew their machines well and opposed specific uses, not technology itself.
-- Some might argue the Luddites were simply resisting inevitable progress, but the video counters that their demands were about fair wages and quality, not stopping time.
-- The government's view was that machine-breaking was a capital crime, but the video highlights Lord Byron's counterpoint that the workers' poverty was worse than any foreign oppression.
+- The common objection that Luddites were simply afraid of technology, which the video refutes by noting their deep familiarity with the machines they opposed.
+- The government's view that machine-breaking was a capital crime, countered by Byron's speech and the argument that the real crime was the destruction of livelihoods.
 
 ## Concepts surfaced
 
-[[luddite-fallacy]] · [[automation-and-labor]] · [[technology-and-power]] · [[historical-parallels]]
+[[luddite-fallacy]] · [[automation-ethics]] · [[technology-adoption]] · [[labor-economics]]
