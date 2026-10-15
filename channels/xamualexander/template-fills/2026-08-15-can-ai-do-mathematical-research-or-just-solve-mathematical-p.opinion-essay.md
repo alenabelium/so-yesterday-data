@@ -6,26 +6,26 @@ source_summary: ../summaries/2026-08-15-can-ai-do-mathematical-research-or-just-
 source_transcript: ../transcripts/2026-08-15-can-ai-do-mathematical-research-or-just-solve-mathematical-p.md
 source_summary_hash: sha256:efd49a6992b73ef5df04d15da196f64704d27c6384117be6148520e74c096d79
 source_transcript_hash: sha256:de1511e686c7762978abed4dbd806b20b491642de8934b30bbc23527f43236c9
-fill_id: fb232f3e-273e-4921-a825-5cf23437484b
-published_at: '2026-10-15T18:05:07.633166'
+fill_id: 516f5e95-c9e9-41da-a91f-38e49b43ee7b
+published_at: '2026-10-15T19:15:02.731213'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI can reproduce completed mathematical research, but it cannot yet conduct the exploratory, iterative process of discovering false assumptions and building theories, which is central to human mathematical work.
+AI can reproduce completed mathematical research, but it cannot yet conduct the exploratory, iterative discovery process that defines original mathematical work.
 
 ## Argument
 
-The distinction between solving a well-defined problem and conducting research is the core of the argument. The author's graduate students worked for years on projects that began as broad directions, not clearly defined problems. They repeatedly encountered failures that changed their understanding. This is fundamentally different from OpenAI's Astra model, which was given specific goals like proving a hypothesis. The author's feedback linearization project illustrates this: they applied known methods, simulated, failed, and used the failure as evidence that an assumption was wrong. They then revised the theory, introducing an integrator structure, and only then did the solution emerge. None of the individual mathematical elements were advanced; the challenge was learning the rules of the problem environment while working. This requires maintaining a consistent, evolving goal over months of iterative failure. Current LLMs, with their limited context windows, are subject to cumulative logical errors and context degradation over such long horizons. The author sees no a priori reason why AI can't eventually do this, but current models still perform poorly on tests like ARC AGI-3, which specifically probe this exploratory ability. The article's own conclusion is that for now, human theorists still have a role, though the distinction may blur as AI improves at permanent memory and continuous adaptation.
+The distinction is not about solving well-defined problems but about the research process itself. Morgan Jones's graduate students spent years on projects that began with broad directions, not clear goals. They repeatedly encountered failures that changed their understanding of the problem. This is fundamentally different from OpenAI's Astra model, which was given specific goals like proving a hypothesis. The analogy to ARC AGI-3 is apt: it tests an agent's ability to investigate an environment, form and correct hypotheses, and use that knowledge—something current models perform poorly on. The feedback linearization example illustrates the point: the team had to learn the rules of the problem environment through months of iterative failure, discovering that state expansion required an integrated input and that feedback linearization could make inputs unbounded. None of the individual mathematical elements were advanced; the challenge was maintaining a consistent, evolving goal over time. Current LLMs suffer from context window limitations and cumulative logical errors over long horizons. While there is no a priori reason AI couldn't automate this process, the author notes that as AI improves at permanent memory and continuous adaptation, the distinction may blur. For now, human theorists still have a role, but the question of whether AI can have flashes of insight remains open.
 
 ## Counterpoints
 
-- OpenAI's Astra solved 10 big problems in one fell swoop, and a Fields Medal winner believes AI will surpass mathematicians in math within 2 years.
-- A cutting-edge model, given a well-formulated query and enough tokens, could reproduce some aspects of the completed papers.
-- The author sees no a priori reason why AI can't automate the discovery process, and the distinction may disappear as AI systems get better at permanent memory and continuous adaptation.
+- AI could reproduce the final papers of graduate students, but that misses the point: the research process itself is the value.
+- One might argue that AI could eventually automate the discovery process, but current models fail at ARC AGI-3, which tests exactly those abilities.
+- The author admits he sees no reason why AI couldn't do all of this, but the time horizon and context degradation are current limitations.
 
 ## Concepts surfaced
 
-[[arc-agi-3]] · [[llm-context-window]] · [[mathematical-research]] · [[ai-theorist]]
+[[arc-agi-3]] · [[llm-context-window]] · [[mathematical-research]] · [[iterative-failure]]
