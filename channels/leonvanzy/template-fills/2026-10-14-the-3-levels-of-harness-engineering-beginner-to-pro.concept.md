@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-14-the-3-levels-of-harness-engineering-begi
 source_transcript: ../transcripts/2026-10-14-the-3-levels-of-harness-engineering-beginner-to-pro.md
 source_summary_hash: sha256:05b17874eedba25aa4cfd49254dbb96945e4903f637c0507a0f877f8f0040157
 source_transcript_hash: sha256:755bf36c756209b3148aea804c98583b2471d26a7eda9f46dd24afb931dcecf3
-fill_id: 0585bf43-d5b9-45a2-97a6-add462eb2016
-published_at: '2026-10-16T02:14:57.464281'
+fill_id: ddb36c37-67e7-423b-9f60-2fd0c4af30d5
+published_at: '2026-10-16T03:14:55.962863'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Most developers stay at level one of harness engineering—configuration—but true AI engineering requires building custom tools and orchestration harnesses. Custom tools can dramatically boost model performance, and orchestration systems manage multiple agents for long-running tasks.
+Most developers stop at Level 1: configuring vendor harnesses. To excel, you must progress to Level 2: building custom tools, and Level 3: orchestrating multiple agents. Each level unlocks new capabilities and career opportunities.
 
 ## The argument
 
-### Define the Harness and Its Role
+### Define the Harness and Its Components
 - **Anchor Timestamps**: ['00:01:47']
-- **Claim**: An agent is the model plus the harness. The harness defines rules, tools, checks, hooks, memory files, and sandboxing. It empowers the agent and shapes its environment.
+- **Claim**: An agent is a model plus a harness. The harness defines the environment: rules, tools, checks, hooks, memory files, and sandboxing. It empowers the agent and controls its operations.
 - **Role**: definition
 
-### Level One: Configuration
+### Level 1: Configuration
 - **Anchor Timestamps**: ['00:04:10']
-- **Claim**: Configuration uses vendor harnesses like Claude Code. You set rules via agents.md, add hooks for events like stop, and manage memory files. This is the baseline most developers use.
+- **Claim**: Most users are at Level 1: configuring vendor harnesses like Claude Code. This involves setting rules in agents.md, using memory files, and adding hooks to enforce behaviors like changelog updates.
 - **Role**: definition
 
-### Level Two: Custom Tools
+### Level 2: Custom Tools
 - **Anchor Timestamps**: ['00:07:47']
-- **Claim**: Custom tools let you control the developer experience, enforce policies, and optimize for specific models. Evidence shows simple tool changes can boost scores from 53% to 66% or 6.7% to 70%.
+- **Claim**: Level 2 is creating your own tools. Custom tools can significantly improve model performance, as shown by LangChain's experiment (53% to 66%) and Ken Bullock's post (6.7% to 70%). They also allow organizational control and provider flexibility.
 - **Role**: evidence
 
-### Level Three: Orchestration
+### Level 3: Orchestration
 - **Anchor Timestamps**: ['00:13:22']
-- **Claim**: Orchestration harnesses manage multiple agents and long-running tasks. Examples include AutoForge for autonomous feature implementation and software factories that distribute tasks among swarms of agents.
+- **Claim**: Level 3 is orchestration: controlling multiple coding agents. Examples include AutoForge for long-running tasks and a software factory with a swarm of agents. These systems can run autonomously for days, handling hundreds of tasks.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-LangChain's experiment with GPT-5.2 improved results from 53% to 66% using a custom CLI tool. Ken Bullock boosted Grok Code Fast One from 6.7% to 70% by changing tooling. The speaker's Small Coder tool reduces context to 1400 tokens for local models, while Claude Code uses over 30,000 tokens before any message. Caveats: custom tools require technical skill, and orchestration systems may need supervision for complex tasks.
+LangChain improved GPT-5.2 results from 53% to 66% with a custom CLI tool. Ken Bullock boosted Grok Code Fast One from 6.7% to 70% by changing tools. Small Coder, a custom tool for local models, uses only 1400 tokens vs 30,000+ for Claude Code, making open-weight models practical. Caveats: custom tools require technical skill; orchestration systems are complex and may need supervision.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[claude-code]] · [[custom-tools]] · [[orchestration]] · [[software-factory]]
+[[ai-agents]] · [[claude-code]] · [[custom-tools]] · [[orchestration]] · [[open-source-ai]]
