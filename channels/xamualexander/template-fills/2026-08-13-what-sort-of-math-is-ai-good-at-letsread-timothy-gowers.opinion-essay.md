@@ -6,27 +6,22 @@ source_summary: ../summaries/2026-08-13-what-sort-of-math-is-ai-good-at-letsread
 source_transcript: ../transcripts/2026-08-13-what-sort-of-math-is-ai-good-at-letsread-timothy-gowers.md
 source_summary_hash: sha256:200209f629c4c351e04269588c40510d89822dc6a6cdda305e8ca3b2e9cc7d38
 source_transcript_hash: sha256:23a15c39d42421d1e21c79d12db265da3a2e04ada67bce7e2b9273680d8adb5d
-fill_id: b82ea29b-bd76-440b-806a-4a5791c4b2bb
-published_at: '2026-10-17T00:14:13.919747'
+fill_id: dcb030d9-28b3-4dda-a4e6-1d045364dcaa
+published_at: '2026-10-17T01:14:22.970951'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI's mathematical strength lies in finding counterexamples and examples through broad knowledge and brute-force search, not in producing surprising, conceptual proofs where humans may retain an edge.
+AI's mathematical strengths—broad knowledge and brute-force search—make it good at finding counterexamples and examples, but humans may retain an edge in conceptual, deep-probing proofs.
 
 ## Argument
 
-Gowers observes that AI's most celebrated results, like the non-sofic group and Ramsey number bounds, are examples or counterexamples rather than universal theorems. The key is not a logical preference for existential statements—Vinogradov's theorem is existential yet a theorem, while Gluskin's is a counterexample. The real distinction is the method: AI excels at tasks with a probabilistic element, trying many ideas until lucky, leveraging its vast knowledge and speed. This suits methods like testing ready-made examples, 'just do it' proofs, and probabilistic constructions. However, methods requiring intuition about promising directions—metavariables, proving the opposite, successive approximation—may favor humans, who can prune the search tree. Gowers suspects AI lacks this intuition, as its training data lacks examples of fruitful versus fruitless research paths. He suggests a barrier may exist, possibly overcome by scaling or different reward structures, but a true sign of human-level math would be proofs that are surprising yet beautiful and natural, like the capset solution.
+Gowers notes that AI's most famous results, like the non-sofic group and the Ramsey number bound, were solved via counterexamples or examples rather than universal theorems. He argues that this isn't because AI prefers existential statements—many theorems can be reformulated existentially—but because the methods for finding such examples align with AI's advantages: vast knowledge and the ability to try many unpromising paths. He contrasts this with human mathematicians, who excel at pruning the search tree through intuition about promising directions. Gowers lists eight counterexample-finding methods, from testing ready-made examples to using metavariables and probabilistic methods. He suggests AI is well-suited to the first, third, and seventh methods, but the others require a sense of progress that AI may lack. He speculates that AI's lack of incentive to prune branches, due to its speed, might be a barrier. He proposes testing this with less powerful models and different reward structures. A true sign of human-level AI would be a proof that is surprising, beautiful, and natural, like the 2016 capset solution. He concludes that while AI will improve rapidly, tasks requiring deep conceptual insight may remain human strengths for a while.
 
 ## Counterpoints
 
-- AI can also prove universal statements, but the strongest ones are less impressive than its counterexamples.
-- Some counterexample methods, like using metavariables or proving the opposite, require assessing promising directions, where humans might still have an edge.
-- AI's apparent lack of intuition might be an emergent property that appears with scaling, as it did for humans through practice.
-- A different reward structure, penalizing excessive search or cheating, could make AI more human-like in its approach.
+
 
 ## Concepts surfaced
-
-[[counterexample-finding]] · [[proof-search]] · [[ai-mathematics]] · [[human-intuition]] · [[brute-force-search]]
