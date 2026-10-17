@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-16T04:20:00Z",
+  "generated_at": "2026-10-17T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-07-19",
-      "2026-10-16"
+      "2026-07-20",
+      "2026-10-17"
     ],
     "prior": [
-      "2026-04-20",
-      "2026-07-18"
+      "2026-04-21",
+      "2026-07-19"
     ]
   },
   "tags": [
@@ -29,36 +29,36 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 48.1,
-      "current_per_100": 24.1,
-      "delta": -24.0,
+      "current_per_100": 24.2,
+      "delta": -23.9,
       "direction": "fading"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 42.2,
-      "current_per_100": 22.7,
-      "delta": -19.5,
+      "current_per_100": 22.9,
+      "delta": -19.3,
       "direction": "fading"
     },
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 45.6,
-      "delta": 18.6,
+      "current_per_100": 45.4,
+      "delta": 18.4,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 18.0,
-      "delta": 17.5,
+      "current_per_100": 17.9,
+      "delta": 17.4,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 28.8,
-      "current_per_100": 16.2,
-      "delta": -12.6,
+      "current_per_100": 16.1,
+      "delta": -12.7,
       "direction": "fading"
     },
     {
@@ -71,15 +71,15 @@
     {
       "tag": "tutorials",
       "prior_per_100": 16.0,
-      "current_per_100": 8.5,
-      "delta": -7.5,
+      "current_per_100": 8.4,
+      "delta": -7.6,
       "direction": "stable"
     },
     {
       "tag": "opinion",
       "prior_per_100": 27.7,
-      "current_per_100": 20.8,
-      "delta": -6.9,
+      "current_per_100": 21.1,
+      "delta": -6.6,
       "direction": "stable"
     },
     {
@@ -97,16 +97,16 @@
       "direction": "stable"
     },
     {
-      "tag": "productivity",
-      "prior_per_100": 34.1,
-      "current_per_100": 35.0,
-      "delta": 0.9,
-      "direction": "stable"
-    },
-    {
       "tag": "product-management",
       "prior_per_100": 0.0,
       "current_per_100": 0.8,
+      "delta": 0.8,
+      "direction": "stable"
+    },
+    {
+      "tag": "productivity",
+      "prior_per_100": 34.1,
+      "current_per_100": 34.9,
       "delta": 0.8,
       "direction": "stable"
     },
@@ -346,15 +346,15 @@
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 45.6,
-      "delta": 18.6,
+      "current_per_100": 45.4,
+      "delta": 18.4,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 18.0,
-      "delta": 17.5,
+      "current_per_100": 17.9,
+      "delta": 17.4,
       "direction": "rising"
     }
   ],
@@ -362,22 +362,22 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 48.1,
-      "current_per_100": 24.1,
-      "delta": -24.0,
+      "current_per_100": 24.2,
+      "delta": -23.9,
       "direction": "fading"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 42.2,
-      "current_per_100": 22.7,
-      "delta": -19.5,
+      "current_per_100": 22.9,
+      "delta": -19.3,
       "direction": "fading"
     },
     {
       "tag": "coding",
       "prior_per_100": 28.8,
-      "current_per_100": 16.2,
-      "delta": -12.6,
+      "current_per_100": 16.1,
+      "delta": -12.7,
       "direction": "fading"
     },
     {
