@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-12-ai-proves-optimality-of-11-square-packin
 source_transcript: ../transcripts/2026-10-12-ai-proves-optimality-of-11-square-packing-configuration.md
 source_summary_hash: sha256:f20a3517eec3a4ea77c5e3df9d15e8464fd8ab077193df1f705f04cd4af6d59b
 source_transcript_hash: sha256:7c7438aa810e8c4455f8df47ea51d1886003857254a886f8081b98ccde911d74
-fill_id: 4a9ac712-8c0b-478e-821e-f3e7162173c6
-published_at: '2026-10-17T17:13:56.592993'
+fill_id: 72ee37eb-0a37-4382-86c3-1fb12c33f15a
+published_at: '2026-10-17T18:13:59.766801'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-AI has formally proven the optimal packing of 11 squares, a long-standing open problem, using the Lean proof assistant. This marks a significant triumph for AI in mathematics, as the proof is too complex for plain English. The same approach could soon tackle other unproven configurations, like 17 or 1765 squares.
+AI has formally proven the optimal packing of 11 squares, a long-standing open problem, using the Lean proof assistant. This marks a significant triumph for AI in mathematics, showcasing its ability to handle proofs too complex for human patience. The approach is poised to tackle many other unproven configurations, from 17 to 1765 squares.
 
 ## The argument
 
-### The Ugly Optimal Packing
+### The 11-Square Breakthrough
 - **Anchor Timestamps**: ['00:00:19']
-- **Claim**: The 11-square packing looks ugly but is provably optimal. The key insight is a reflection that maps it to a nicer configuration on a torus, which is essential to the proof.
+- **Claim**: AI solved the long-standing open problem of optimal packing of 11 squares, revealing an ugly configuration that is provably optimal. The proof relies on a reflection symmetry that maps the ugly configuration to a nicer one on a torus, but the mapping alone doesn't prove optimality.
 - **Role**: definition
 
-### Proof in Lean, Not English
+### Lean Formalization as the Proof
 - **Anchor Timestamps**: ['00:04:01']
-- **Claim**: The proof is so complex that the authors didn't write it in plain English; they provided a link to their formalization in Lean. This is a significant triumph for AI, which has infinite patience for such tasks.
-- **Role**: evidence
-
-### Context: Other Packings
-- **Anchor Timestamps**: ['00:06:09']
-- **Claim**: Many other square packings (e.g., 17, 29, 1765) remain unproven. The 10-square case has a family of optimal packings, but 11 was the first to be proven by AI.
+- **Claim**: The proof is not written in plain English; it's formalized in the Lean proof assistant. The complexity is so high that the authors only provided a link to the Lean code, making this a significant triumph for AI in mathematics.
 - **Role**: evidence
 
 ### AI's Infinite Patience
-- **Anchor Timestamps**: ['00:08:47']
-- **Claim**: AI's ability to work tirelessly makes it ideal for proving optimality of complex packings like 241 or 1765 squares. It's only a matter of time before AI proves or improves these configurations.
+- **Anchor Timestamps**: ['00:04:50']
+- **Claim**: AI's infinite patience makes it ideal for formal proofs that humans would never attempt. This capability is likely to extend to other unproven packings, such as 17 squares, where no human has the patience to prove optimality.
+- **Role**: synthesis
+
+### The Broader Landscape of Unproven Packings
+- **Anchor Timestamps**: ['00:06:09']
+- **Claim**: Many square packing configurations remain unproven, from 17 to 1765 squares. AI is expected to either prove these optimal or find better configurations, potentially revealing 'glitches in reality' and advancing practical applications like factory efficiency.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The 11-square proof is formalized in Lean, not plain English, highlighting AI's role. Other packings like 17 and 1765 remain unproven, but AI could tackle them. The speaker notes that factories don't need proofs to use these packings, but proofs provide peace of mind. The website cataloging packings hasn't been updated to reflect the 2026 proof.
+The video catalogs many packings: 3, 4, 5 (proved by Fritz Gerbil in 1979), 10 (proved by Walter Stromquist in 2003), 11 (now proved by AI), 17 (unproven, discovered by John Bidwell in 1998), and 1765 (improved by Karo Khodurba and David Ellsworth in November 2024). The host notes that the website hasn't been updated to reflect the 11-square proof. He also cautions that the animation of the reflection doesn't prove optimality; only the Lean formalization does. He expresses excitement about AI's potential to solve more of these problems.
 
 ## Concepts surfaced
 
-[[lean-proof-assistant]] · [[ai-mathematics]] · [[optimal-packing]]
+[[lean-proof-assistant]] · [[ai-mathematics]] · [[torus-mapping]] · [[optimal-packing]] · [[formal-verification]]
