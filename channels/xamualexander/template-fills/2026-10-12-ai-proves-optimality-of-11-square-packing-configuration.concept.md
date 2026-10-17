@@ -6,47 +6,42 @@ source_summary: ../summaries/2026-10-12-ai-proves-optimality-of-11-square-packin
 source_transcript: ../transcripts/2026-10-12-ai-proves-optimality-of-11-square-packing-configuration.md
 source_summary_hash: sha256:f20a3517eec3a4ea77c5e3df9d15e8464fd8ab077193df1f705f04cd4af6d59b
 source_transcript_hash: sha256:7c7438aa810e8c4455f8df47ea51d1886003857254a886f8081b98ccde911d74
-fill_id: 0d9c4965-9b54-4e03-ae51-d193be0223e7
-published_at: '2026-10-17T06:13:39.656568'
+fill_id: 31b4cbb6-75d2-4b00-8db3-2e3f52208979
+published_at: '2026-10-17T07:13:37.870541'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-A recent AI-assisted proof in Lean settles the long-standing open problem of optimal packing for 11 squares, a configuration that looks chaotic but is mathematically optimal. The proof is so complex it was formalized in code rather than plain English, marking a significant triumph for AI in mathematics. This breakthrough suggests AI's infinite patience will soon tackle other unproven packings, like 17 or even 1765 squares.
+AI has formally proven the optimal packing of 11 squares, a long-standing open problem, using the Lean proof assistant. This marks a significant triumph for AI in mathematics, as the proof is too complex for plain English and relies on AI's infinite patience. The breakthrough suggests AI will soon tackle other unproven configurations, potentially revealing more 'glitches in reality'.
 
 ## The argument
 
-### The 11-Square Configuration Is Optimal
+### The Ugly Optimal Configuration
 - **Anchor Timestamps**: ['00:00:19']
-- **Claim**: The ugly arrangement of 11 squares inside a larger square is proven optimal—no rearrangement can pack them more efficiently. This settles a long-standing open problem, with the proof formalized in Lean rather than plain English.
+- **Claim**: The 11-square packing looks ugly but is proven optimal. The key is a reflection that maps it to a beautiful torus configuration, but the mapping alone doesn't prove optimality.
 - **Role**: definition
 
-### The Torus Mapping Reveals Structure
-- **Anchor Timestamps**: ['00:01:39']
-- **Claim**: The key insight is a reflection that maps the ugly configuration onto a nicer one on the torus. This mapping, animated by AI, shows the underlying symmetry but does not by itself prove optimality—there's still empty space that might be reducible.
+### Proof Beyond Plain English
+- **Anchor Timestamps**: ['00:02:48']
+- **Claim**: The paper's proof is not in plain English; it references a formalization in Lean. This shows the proof's complexity exceeds human-readable exposition, making AI essential for formal verification.
 - **Role**: evidence
 
-### The Proof Lives in Lean Code
-- **Anchor Timestamps**: ['00:04:01']
-- **Claim**: The paper's proof is so complex that the authors only reference their formalization in Lean, not a complete plain-English proof. This is a significant triumph for AI, which has infinite patience and can handle the tedious formal verification that humans would avoid.
-- **Role**: evidence
-
-### Many Packings Remain Unproven
-- **Anchor Timestamps**: ['00:06:09']
-- **Claim**: Beyond 11, many optimal packings are still hypotheses. For example, the 17-square configuration found in 1998 has no proof of optimality, and the 1765-square packing is a mess of recent improvements. AI's patience makes it likely these will be proven or improved soon.
-- **Role**: counter
-
-### AI Will Resolve the Research Program
-- **Anchor Timestamps**: ['00:10:03']
-- **Claim**: This research program is like finding glitches in reality—counterintuitive packings that look ugly but are optimal. With AI's infinite patience, it's only a matter of time before every packing, from 17 to 1765, is either proven optimal or replaced by a better one.
+### AI's Infinite Patience
+- **Anchor Timestamps**: ['00:04:50']
+- **Claim**: AI's infinite patience makes it ideal for formal proofs that humans lack the stamina for. This is a significant triumph for AI in mathematics, enabling verification of results that would otherwise remain unproven.
 - **Role**: synthesis
+
+### The Broader Landscape of Unproven Packings
+- **Anchor Timestamps**: ['00:06:09']
+- **Claim**: Many other square packings (e.g., 17, 29, 1765) remain unproven. AI is poised to either prove their optimality or find better configurations, potentially revealing more counterintuitive 'glitches in reality'.
+- **Role**: evidence
 
 ## Evidence and caveats
 
-The 11-square proof was formalized in Lean, not plain English, highlighting AI's role in handling complex proofs. The torus mapping animation is illustrative but doesn't prove optimality—it just shows the reflection. Many other packings, like 17 and 1765, remain unproven, and the website cataloging them hasn't been updated to reflect the 11-square proof. The speaker notes that factories don't need proofs to use these packings, but proofs provide peace of mind.
+The 11-square proof was formalized in Lean, not plain English, highlighting AI's role in handling complex proofs. Other configurations like 17 and 1765 squares remain unproven, but AI's infinite patience suggests they will be tackled soon. The host notes that the proof's complexity makes it impractical for humans, but AI can handle it. He also cautions that the mapping animation doesn't prove optimality, and that many packings are only hypotheses.
 
 ## Concepts surfaced
 
-[[lean-proof-assistant]] · [[ai-mathematical-proof]] · [[optimal-packing]] · [[torus-geometry]] · [[formal-verification]]
+[[lean-proof-assistant]] · [[ai-mathematics]] · [[optimal-packing]] · [[torus-geometry]]
