@@ -6,42 +6,42 @@ source_summary: ../summaries/2026-10-14-claude-finds-possible-room-temperature-s
 source_transcript: ../transcripts/2026-10-14-claude-finds-possible-room-temperature-semiconductor-magnets.md
 source_summary_hash: sha256:4c7283cadddc4ebd8da1914d1e156bcb5b2546a2d5cc7c1fb88d2f2d1f5784e0
 source_transcript_hash: sha256:3618e3321c1a3559c6a30d2a2361168343ff9c660e50838770d761f62bdc6a06
-fill_id: 4a1d919d-b64e-43e1-9780-491bd4234f52
-published_at: '2026-10-18T16:05:17.729361'
+fill_id: 84c7634f-0638-4895-8714-2229a164ca53
+published_at: '2026-10-18T17:14:56.971507'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-A new class of magnetic semiconductors could enable faster, denser computer memory by combining the zero net magnetism of antiferromagnets with the spin-sorting ability of ferromagnets. Claude Opus 5.5 AI agents identified two candidate materials, one newly designed and one overlooked since 1999. If confirmed, this could unlock practical spintronics and mark AI's first major materials-science breakthrough.
+AI agents from Claude Opus 5.5 have identified two candidate materials for room-temperature antiferromagnetic semiconductors, a class that could enable faster, denser computer memory. One is a newly designed compound, the other was synthesized in 1999 but overlooked. This discovery hints at AI's potential to accelerate materials science, though significant fabrication challenges remain.
 
 ## The argument
 
 ### Define the Core Substrate
-- **Anchor Timestamps**: ['00:08:11']
-- **Claim**: Luttinger-compensated materials are antiferromagnets where spin-up and spin-down atoms have equal magnetism, yielding zero net spin, but sit in non-equivalent environments (different elements or lattice sites). This allows spin sorting by energy, unlike conventional antiferromagnets, while keeping zero macroscopic field.
+- **Anchor Timestamps**: ['00:02:37']
+- **Claim**: The key to next-generation memory is a material that combines zero net magnetism (like antiferromagnets) with spin sorting (like ferromagnets). This is achieved in Luttinger-compensated materials, where spin-up and spin-down atoms are in non-equivalent environments, allowing energy separation.
 - **Role**: definition
 
-### Evidence: Two Candidates Found by AI
-- **Anchor Timestamps**: ['00:11:10', '00:13:26']
-- **Claim**: Claude Opus 5.5 agents identified two candidates: a newly designed yttrium-barium-manganese-iron oxide with a 2.35 eV band gap and spin windows of 1.0/1.4 eV, and a 1999 compound (chromium-vanadium cyanide) with a 2.1 eV band gap and windows of 2.6/1.6 eV. The 1999 sample retained magnetic order up to 376 K, exceeding room temperature.
+### Evidence: The 1999 Candidate
+- **Anchor Timestamps**: ['00:13:26']
+- **Claim**: A material first synthesized in 1999, likely a Prussian blue analog, was identified by AI as a Luttinger-compensated semiconductor. It has a band gap of ~2.1 eV, spin-sorted windows of 2.6 eV (holes) and 1.6 eV (electrons), and retains magnetic order up to 376 K. This shows the material can be made, addressing a major practical hurdle.
 - **Role**: evidence
 
-### Counter: Fabrication and Imperfection Challenges
-- **Anchor Timestamps**: ['00:12:10', '00:15:44']
-- **Claim**: The designed compound requires a perfect checkerboard atomic arrangement that breaks down at 950 K, and synthesis at 900–1300°C likely yields a chaotic crystal. The 1999 candidate exists only as a powder with water in pores, showing a residual magnetic moment of 0.125 Bohr magnetons, and its spin sorting remains unmeasured.
+### Counter: Fabrication and Imperfections
+- **Anchor Timestamps**: ['00:15:44']
+- **Claim**: The 1999 sample is a powder with water in pores, showing a residual magnetic moment of 0.125 Bohr magnetons per formula unit, not zero. The designed compound (Y-Ba-Mn-Fe-O5) requires a perfect checkerboard atomic arrangement that falls apart at ~950 K, making synthesis extremely difficult. These imperfections could undermine spin sorting.
 - **Role**: counter
 
-### Synthesis: AI as a Literature-Mining Accelerator
+### Synthesis: AI as a Literature Miner
 - **Anchor Timestamps**: ['00:19:56']
-- **Claim**: The 1999 candidate was overlooked for 25 years because humans don't read literature exhaustively. AI's relentless attention can surface such 'low-hanging fruit,' mirroring the early 'warm-up' phase in mathematics that preceded rapid breakthroughs. This suggests AI may soon accelerate physics and materials science similarly.
+- **Claim**: The discovery of the 1999 candidate's properties is a 'low-hanging fruit' outcome: AI's exhaustive literature review found what humans missed. This mirrors early AI contributions in mathematics, suggesting a 'warm-up' phase that could lead to a 'physical apocalypse'—a rapid acceleration of discoveries in physics and materials science.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker notes that the 1999 candidate was first synthesized for a different purpose and its spin-sorting properties were never highlighted. A 2008 study using hybrid functionals had already shown spin-sorted band edges, but it was ignored. The speaker cautions that predictions are for perfect dry crystals; the real sample has water and a residual magnetic moment. He also mentions that a 2025 study called room-temperature Luttinger-compensated semiconductors an open challenge, yet the 1999 sample already exceeds that threshold. The speaker remains cautiously optimistic, drawing parallels to AI's impact on mathematics, and invites independent verification via open-source code.
+The video highlights two candidates: a designed compound (Y-Ba-Mn-Fe-O5) with a predicted band gap of 2.35 eV and spin windows of 1.0 eV (holes) and 1.4 eV (electrons), and the 1999 material with a band gap of ~2.1 eV and windows of 2.6 eV and 1.6 eV. Both are predicted to have zero net magnetism and spin sorting well above thermal jitter (26 meV). However, the host cautions that these are predictions for ideal crystals; the 1999 sample is a powder with water, and the designed compound's checkerboard structure is unstable at synthesis temperatures. The host also notes that a 2025 study called room-temperature Luttinger-compensated semiconductors an open challenge, but the 1999 candidate already exceeds that. He remains cautiously optimistic, drawing parallels to AI's impact on mathematics.
 
 ## Concepts surfaced
 
-[[ai-agents]] · [[materials-science]] · [[spintronics]] · [[density-functional-theory]] · [[ai-for-science]]
+[[ai-agents]] · [[materials-science]] · [[spintronics]] · [[llm-fundamentals]] · [[ai-strategy]]
