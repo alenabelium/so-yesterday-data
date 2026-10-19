@@ -4,138 +4,154 @@ template_id: tutorial
 template_version: 1
 source_summary: ../summaries/2026-05-11-i-built-an-ai-thumbnail-generator-with-codex.md
 source_transcript: ../transcripts/2026-05-11-i-built-an-ai-thumbnail-generator-with-codex.md
-source_summary_hash: sha256:cc210d4e05fcf34197f4bb0806576b9b8cef6bd7d356a09ae24992bc8baba878
+source_summary_hash: sha256:889fb08df1e2b94f1d6d3def71f94fef9b8d5d1933cc14a4796125450b76a442
 source_transcript_hash: sha256:81d280bf95e157840835ff8530c18cd68cd133730e798770ee77fbf1baa5e4c1
-fill_id: e1edaeaf-7114-4b79-9da8-ca60dc269079
-published_at: '2026-05-18T07:18:09.817167'
+fill_id: 43c7e202-251b-4d85-be5f-680103f361ea
+published_at: '2026-10-19T21:39:34.552598'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Build a functional AI thumbnail generator app from scratch using the Codex CLI, GPT-5.5, and GPT Image 2 with a focus on iterative UI design and sub-agent delegation.
+You'll have a working AI thumbnail generator app built entirely with Codex CLI, from design system to live image generation.
 
 ## Prerequisites
 
-### GPT Plus Subscription
+### ChatGPT Plus subscription
 - **Kind**: account
-- **Note**: Basic Plus plan used in video; upgrade may be needed for high token usage during complex builds.
+- **Note**: Basic plus plan used; may hit usage limits during long builds.
 
-### OpenAI API Key
+### OpenAI API key
 - **Kind**: account
-- **Note**: Required for GPT Image 2 integration; requires loading credit onto the account as image generation is not free.
+- **Note**: Required for image generation; must load credits onto the account.
 
 ### Docker
 - **Kind**: tool
-- **Note**: Needed to run `docker compose up -d` for the Postgres database.
+- **Note**: Used to run a local Postgres database via docker compose.
 
-### Node.js / npm
+### Node.js and npm
 - **Kind**: tool
-- **Note**: Required to run the Next.js app and database migrations.
+- **Note**: Needed to scaffold Next.js app and run database migrations.
 
 ### VS Code
 - **Kind**: tool
-- **Note**: Used to open the project folder and run Codex within the editor for better visibility.
+- **Note**: Recommended for easier project navigation and running Codex.
 
 ## Steps
 
-### Initialize project and scaffold Next.js app
+### Scaffold Next.js project with create-next-app
 - **Timestamp**: [00:48](https://www.youtube.com/watch?v=prLO7NGU4f0&t=48)
-- **Action**: Open a new command prompt, navigate to the project folder, and scaffold the Next.js app with authentication, Postgres, and Drizzle ORM.
-- **Command Or Clicks**: cd into the project folder
-create aentic app@latest .
-docker compose up -d
-npm run db:migrate
-- **Choice Branch**: Use GPT-5.5 with high reasoning level. Run commands manually to save tokens.
+- **Action**: Open a terminal, cd into the project folder, and run create-next-app to scaffold a Next.js project with user authentication, Postgres database, Drizzle ORM, and other essentials.
+- **Command Or Clicks**: cd into project folder; run: create-next-app@latest .
 
-### Open project in VS Code and configure Codex
+### Start Postgres and run migrations
+- **Timestamp**: [01:30](https://www.youtube.com/watch?v=prLO7NGU4f0&t=90)
+- **Action**: Start the Postgres database using Docker Compose, then run the database migration to create user tables. Optionally, use db studio to view the database contents.
+- **Command Or Clicks**: docker compose up -d; npm run db:migrate; npm run db:studio
+
+### Open project in VS Code
 - **Timestamp**: [02:11](https://www.youtube.com/watch?v=prLO7NGU4f0&t=131)
-- **Action**: Open the project in VS Code, initialize Codex, and configure the agents.md file to enforce planning mode, sub-agent delegation, and UI design rules.
-- **Command Or Clicks**: code .
-Open agents.md
-Set planning mode instructions
-Set sub-agent delegation rules
-- **Choice Branch**: Use the front-end design skill and Next.js skill pre-installed in the agents folder.
+- **Action**: Open the project folder in VS Code to simplify navigation and run Codex within the editor.
+- **Command Or Clicks**: Open folder in VS Code
 
-### Generate initial design system
+### Create a new design system
 - **Timestamp**: [03:44](https://www.youtube.com/watch?v=prLO7NGU4f0&t=224)
-- **Action**: Prompt Codex to replace the boilerplate with an AI image studio design system, using dark mode and the front-end design skill. Verify the output via screenshots.
-- **Command Or Clicks**: Prompt: 'create a design system for this application... make dark mode the default'
-npm run dev
-- **Choice Branch**: Skip planning mode for speed; accept token usage for visual verification.
+- **Action**: In Codex, instruct the agent to redesign the homepage as an AI image studio using the front-end design skill, with dark mode as default. The agent will use Playwright to test and screenshot the result.
+- **Command Or Clicks**: Prompt: 'Hey there. So currently we've got a boilerplate Next.js application set up...'
 
-### Commit design and plan dashboard UI
+### Run dev server and review design
 - **Timestamp**: [05:41](https://www.youtube.com/watch?v=prLO7NGU4f0&t=341)
-- **Action**: Save the design system to the design.md file, commit changes to GitHub, and switch to planning mode to outline the dashboard UI without implementing backend logic.
-- **Command Or Clicks**: git commit -m 'design system'
-git push
-Switch to planning mode
-- **Choice Branch**: Focus on UI first to avoid wasting tokens on wrong logic.
+- **Action**: Run the dev server and open the app in the browser to review the new design. Test sign-up/sign-in flow.
+- **Command Or Clicks**: npm run dev
 
-### Persist plan and implement dashboard UI
+### Save design system to design.md
+- **Timestamp**: [06:30](https://www.youtube.com/watch?v=prLO7NGU4f0&t=390)
+- **Action**: Add the design file to the chat and ask Codex to update the design.md file with the new design system for future consistency.
+- **Command Or Clicks**: Attach design file; prompt: 'I really like this design system. Please can you update the design.md file...'
+
+### Commit design system and push to GitHub
+- **Timestamp**: [06:45](https://www.youtube.com/watch?v=prLO7NGU4f0&t=405)
+- **Action**: Commit the untracked files with a message 'design system' and publish to GitHub.
+- **Command Or Clicks**: git commit -m 'design system'; git push
+
+### Plan dashboard UI in planning mode
 - **Timestamp**: [07:03](https://www.youtube.com/watch?v=prLO7NGU4f0&t=423)
-- **Action**: Save the implementation plan to a plans folder, start a new conversation, and instruct Codex to implement the plan using sub-agents in parallel.
-- **Command Or Clicks**: Create plans folder
-Store plan in plans folder
-Start new conversation
-Prompt: 'please go ahead and implement this plan'
-- **Choice Branch**: Allow full access if sub-agents stall due to permission issues.
+- **Action**: Switch to planning mode and describe the dashboard pages: library of thumbnails, upload reference images, assets, and generate page. Instruct agent to ask clarifying questions and not implement AI functionality yet.
+- **Command Or Clicks**: Switch to plan mode; prompt describing dashboard features
 
-### Fix UI bugs and verify responsiveness
-- **Timestamp**: [11:43](https://www.youtube.com/watch?v=prLO7NGU4f0&t=703)
-- **Action**: Review the generated dashboard, identify non-functional nav items, and prompt Codex to fix them. Check responsiveness via mobile mode.
-- **Command Or Clicks**: Press F12
-Switch to mobile mode
-Prompt: 'fix top nav menu items'
-- **Choice Branch**: Remove testing section from agents.md if token limits are reached.
+### Save plan to plans folder
+- **Timestamp**: [09:32](https://www.youtube.com/watch?v=prLO7NGU4f0&t=572)
+- **Action**: Press escape in Codex and ask to store the plan in a new 'plans' subfolder. Then start a new conversation to clear context.
+- **Command Or Clicks**: Press escape; prompt: 'Please store this plan in the plans folder.'
 
-### Integrate GPT Image 2 API
+### Implement plan with sub-agents
+- **Timestamp**: [10:00](https://www.youtube.com/watch?v=prLO7NGU4f0&t=600)
+- **Action**: Start a new conversation, pull in the plan, and instruct Codex to implement it. Ensure not in planning mode. Codex will run multiple sub-agents in parallel.
+- **Command Or Clicks**: New conversation; attach plan; prompt: 'Please go ahead and implement this plan.'
+
+### Fix permissions for sub-agents
+- **Timestamp**: [10:44](https://www.youtube.com/watch?v=prLO7NGU4f0&t=644)
+- **Action**: If sub-agents stall, run the permissions command in Codex and allow full access, then retry.
+- **Command Or Clicks**: /permissions
+
+### Review dashboard and fix nav
+- **Timestamp**: [13:42](https://www.youtube.com/watch?v=prLO7NGU4f0&t=822)
+- **Action**: Restart dev server, sign in, and review the new dashboard. Report that top nav buttons don't work; Codex fixes them. Check responsiveness with F12.
+- **Command Or Clicks**: npm run dev; F12 for mobile view
+
+### Commit dashboard changes
 - **Timestamp**: [14:53](https://www.youtube.com/watch?v=prLO7NGU4f0&t=893)
-- **Action**: Switch to planning mode, select GPT Image 2, and provide the OpenAI API documentation URL. Add the API key to the .env file.
-- **Command Or Clicks**: platform.openai.com/api keys
-Create new key
-Edit .env file
-Add OPENAI_API_KEY variable
-- **Choice Branch**: Use GPT Image 2 for reference image editing capabilities.
+- **Action**: Commit all changes with message 'dashboard'.
+- **Command Or Clicks**: git commit -m 'dashboard'
 
-### Implement image generation functionality
+### Plan AI image generation integration
+- **Timestamp**: [15:30](https://www.youtube.com/watch?v=prLO7NGU4f0&t=930)
+- **Action**: Switch to planning mode and instruct Codex to integrate GPT Image 2 for image generation, referencing the OpenAI API article for instructions.
+- **Command Or Clicks**: Switch to plan mode; prompt with article URL
+
+### Set up OpenAI API key
+- **Timestamp**: [16:30](https://www.youtube.com/watch?v=prLO7NGU4f0&t=990)
+- **Action**: Create an API key at platform.openai.com/api-keys, then add it to the .env file under AI integration section. Remove OpenRouter variables if not used.
+- **Command Or Clicks**: Create key; edit .env: OPENAI_API_KEY=...
+
+### Save plan and implement
 - **Timestamp**: [17:16](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1036)
-- **Action**: Instruct Codex to implement the actual image generation logic using the provided plan and API key. Test uploading avatars and assets.
-- **Command Or Clicks**: Prompt: 'implement this plan'
-Upload avatar and assets
-Click 'generate concept'
-- **Choice Branch**: Load credit onto OpenAI account as image generation costs money.
+- **Action**: Press escape, store the plan in plans folder, start new conversation, pull in plan, and instruct to implement.
+- **Command Or Clicks**: Press escape; prompt: 'Please store this plan in the plans folder.'; new conversation; prompt: 'Please go ahead and implement this plan.'
 
-### Refine homepage and finalize build
+### Test thumbnail generation
+- **Timestamp**: [18:30](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1110)
+- **Action**: Upload avatar images and an asset (e.g., cursor logo), then generate a thumbnail with a prompt. Verify the output uses the reference images.
+- **Command Or Clicks**: Upload images; prompt: 'Create a thumbnail with my avatar on the right, cursor logo on the left, text full tutorial.'
+
+### Redesign homepage
 - **Timestamp**: [19:46](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1186)
-- **Action**: Fix the homepage to remove direct generation capabilities and replace it with marketing copy and a Codex-generated stock image.
-- **Command Or Clicks**: Prompt: 'redesign homepage... generate marketing copy'
-Commit changes
-- **Choice Branch**: Use Codex's built-in image generation for the homepage hero image.
+- **Action**: Commit working dashboard, then instruct Codex to redesign the homepage as a landing page with marketing copy, removing image generation capability. Codex can generate its own stock images.
+- **Command Or Clicks**: git commit -m 'working dashboard'; prompt for homepage redesign
 
 ## Gotchas
 
-### Sub-agents may stall if they request permissions that aren't visible; run the permissions command to allow full access.
+### Sub-agents may stall waiting for permissions; run /permissions and allow full access to continue.
 - **Severity**: blocking
 - **Timestamp**: [10:44](https://www.youtube.com/watch?v=prLO7NGU4f0&t=644)
 
-### GPT Image 2 integration requires loading credit onto your OpenAI account; it is not free.
-- **Severity**: serious
-- **Timestamp**: [17:16](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1036)
-
-### High token usage can hit GPT Plus limits quickly; consider removing the testing section from agents.md or upgrading your plan.
+### ChatGPT Plus plan has usage limits; you may hit the 5-hour limit mid-build and need to upgrade.
 - **Severity**: serious
 - **Timestamp**: [11:43](https://www.youtube.com/watch?v=prLO7NGU4f0&t=703)
 
-### Homepage should not allow direct image generation; users must log in to the dashboard first.
-- **Severity**: blocking
+### Generating images with OpenAI is not free; you must load credits onto your account.
+- **Severity**: serious
+- **Timestamp**: [17:16](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1036)
+
+### The homepage initially allowed image generation; it should be a landing page only, requiring login to generate.
+- **Severity**: heads_up
 - **Timestamp**: [19:46](https://www.youtube.com/watch?v=prLO7NGU4f0&t=1186)
 
 ## Where to go next
 
-Explore the Gentic Labs for deeper AI build workflows. Check out the OpenAI API documentation for advanced GPT Image 2 editing features.
+Now that you have a working AI thumbnail generator, consider adding more features like batch generation, style presets, or integrating with other AI models. Join the Gentic Labs community for weekly build challenges.
 
 ## Concepts surfaced
 
-[[codex-cli]] · [[gpt-image-2]] · [[next-js]] · [[sub-agent-delegation]] · [[ai-thumbnail-generator]] · [[iterative-planning]]
+[[codex-cli]] · [[next-js]] · [[gpt-image-2]] · [[design-system]] · [[sub-agents]] · [[playwright-testing]]
