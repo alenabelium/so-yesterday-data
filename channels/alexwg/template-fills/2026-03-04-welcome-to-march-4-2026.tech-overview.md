@@ -4,92 +4,107 @@ template_id: tech-overview
 template_version: 1
 source_summary: ../summaries/2026-03-04-welcome-to-march-4-2026.md
 source_transcript: ../transcripts/2026-03-04-welcome-to-march-4-2026.md
-source_summary_hash: sha256:4d585f17a69adefffda36a237548b631533b4e94f1b544a8c94a6387aaa2199f
+source_summary_hash: sha256:9e6ec90ab6a52048e130bbc7f053a9be3eb2711399882eafee7209d48cb799f3
 source_transcript_hash: sha256:691624faa84fb4a5428e663c9c9d63e1eb6f0912d49229979b0ce7ef17d67e05
-fill_id: 42aac270-dc5c-4d59-8a35-629a3f677504
-published_at: '2026-05-18T22:56:11.116700'
+fill_id: 2a1dacfa-924f-4b18-b8c7-737fc445d35c
+published_at: '2026-10-19T22:51:27.472602'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Anthropic hits $20B revenue run rate as Apple's M5 Pro and Bloom Energy investments signal that power, not weights, is the binding constraint for AI.
+Anthropic nears $20B annualized revenue while OpenAI's GPT 5.3 Instant and Google's Gemini 3.1 Flashlight race ahead, and DeepSeek V4 looms.
 
 ## Tools covered
 
 ### GPT 5.3 Instant
 - **Vendor**: OpenAI
-- **Category**: multimodal
-- **Timestamp**: [00:45](https://www.youtube.com/watch?v=whRULuLYwng&t=45)
-- **Why It Matters**: Trims hallucinations by 30% and reduces reflexive moralizing, signaling a shift toward utility over safety filters.
-- **Sota Comparison**: Surpasses previous GPT versions in factual accuracy and speed.
-- **Sota Band**: beats
-- **Access Constraint**: OpenAI API
+- **Category**: reasoning
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=whRULuLYwng&t=0)
+- **Why It Matters**: Cuts hallucinations by ~30% and reduces reflexive moralizing, with 5.4 teased as coming sooner than expected.
+- **Sota Comparison**: Improves on prior GPT-5.x line; no direct SOTA claim made.
+- **Sota Band**: inferred
+- **Access Constraint**: Not specified
 
 ### Gemini 3.1 Flashlight
 - **Vendor**: Google
-- **Category**: multimodal
-- **Timestamp**: [01:10](https://www.youtube.com/watch?v=whRULuLYwng&t=70)
-- **Why It Matters**: Delivers 2.5x faster time to first answer and tunable reasoning depth at 25 cents per million input tokens.
-- **Sota Comparison**: Competes directly with GPT 5.3 Instant on speed and cost.
-- **Sota Band**: parity
-- **Access Constraint**: Google Cloud
+- **Category**: reasoning
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=whRULuLYwng&t=0)
+- **Why It Matters**: Priced at 25 cents per million input tokens with 2.5x faster time to first answer and tunable reasoning depth.
+- **Sota Comparison**: Aggressive pricing and speed position it as a strong competitor in the frontier model race.
+- **Sota Band**: inferred
+- **Access Constraint**: Not specified
 
 ### DeepSeek V4
 - **Vendor**: DeepSeek
 - **Category**: multimodal
-- **Timestamp**: [01:30](https://www.youtube.com/watch?v=whRULuLYwng&t=90)
-- **Why It Matters**: Imminent trillion-parameter model with native 1 million token context, challenging Western dominance.
-- **Sota Comparison**: Expected to match or exceed frontier context windows.
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=whRULuLYwng&t=0)
+- **Why It Matters**: Expected trillion-parameter release with native multimodal and 1M token context, timed to China's Two Sessions.
+- **Sota Comparison**: Trillion-parameter scale would place it at the frontier, though unconfirmed.
 - **Sota Band**: inferred
-- **Access Constraint**: Pending Release
+- **Access Constraint**: Not specified
 
 ### Kos1 Light
-- **Vendor**: Kos1
-- **Category**: multimodal
-- **Timestamp**: [01:45](https://www.youtube.com/watch?v=whRULuLYwng&t=105)
-- **Why It Matters**: Specialized model scoring 46.6% on Healthbench Hard, outperforming Claude Opus 4.6 at a fraction of the cost.
-- **Sota Comparison**: Beats generalist models in specific medical benchmarks.
+- **Vendor**: Not specified
+- **Category**: reasoning
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=whRULuLYwng&t=0)
+- **Why It Matters**: Scores 46.6% on Healthbench Hard versus Claude Opus 4.6 at 20.4%, at a fraction of the serving cost.
+- **Sota Comparison**: Beats Claude Opus 4.6 on a specialized benchmark at lower cost.
 - **Sota Band**: beats
-- **Access Constraint**: Specialized API
+- **Access Constraint**: Not specified
 
-### Apple M5 Pro/Max
+### Cursor's AI
+- **Vendor**: Cursor
+- **Category**: coding
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=whRULuLYwng&t=0)
+- **Why It Matters**: Solves problem six of the first proof challenge autonomously over 4 days, beating the official human answer without hints.
+- **Sota Comparison**: Demonstrates autonomous mathematical research capability surpassing human baseline.
+- **Sota Band**: beats
+- **Access Constraint**: Not specified
+
+### M5 Pro
 - **Vendor**: Apple
-- **Category**: tool
-- **Timestamp**: [03:00](https://www.youtube.com/watch?v=whRULuLYwng&t=180)
-- **Why It Matters**: Fusion architecture SOC with neural accelerators in GPU cores, making local LLM inference the primary pro workload.
-- **Sota Comparison**: Four times the AI performance of M4 chips.
-- **Sota Band**: beats
-- **Access Constraint**: Apple Silicon
+- **Category**: other
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=whRULuLYwng&t=113)
+- **Why It Matters**: Bonds two 3nm dies into a fusion architecture with neural accelerators in each GPU core, 4x AI performance of M4.
+- **Sota Comparison**: Redesigns silicon around local LLM inference as the primary pro workload.
+- **Sota Band**: inferred
+- **Access Constraint**: Not specified
 
-### Intel Xeon 6 Plus
+### M5 Max
+- **Vendor**: Apple
+- **Category**: other
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=whRULuLYwng&t=113)
+- **Why It Matters**: Part of the same fusion architecture, reinforcing the local LLM thesis.
+- **Sota Comparison**: No explicit comparison.
+- **Sota Band**: inferred
+- **Access Constraint**: Not specified
+
+### Xeon 6 Plus Clearwater Forest
 - **Vendor**: Intel
-- **Category**: tool
-- **Timestamp**: [03:30](https://www.youtube.com/watch?v=whRULuLYwng&t=210)
-- **Why It Matters**: Debut of Intel's 18A process with 288 energy-efficient cores and Foveros 3D packaging.
-- **Sota Comparison**: Competes with Apple's silicon efficiency in server workloads.
-- **Sota Band**: parity
-- **Access Constraint**: Server Hardware
+- **Category**: other
+- **Timestamp**: [01:53](https://www.youtube.com/watch?v=whRULuLYwng&t=113)
+- **Why It Matters**: Debuts Intel's 18A process with 288 energy-efficient cores and Foveros direct 3D packaging.
+- **Sota Comparison**: No explicit comparison.
+- **Sota Band**: inferred
+- **Access Constraint**: Not specified
 
-### Dimensional Open Claw
+### Open Claw Agent
 - **Vendor**: Dimensional
 - **Category**: agent
-- **Timestamp**: [04:50](https://www.youtube.com/watch?v=whRULuLYwng&t=290)
-- **Why It Matters**: Open-source agent understanding physical space and temporality, running on Unitry G1 hardware.
-- **Sota Comparison**: Advances open-source robotics capabilities significantly.
+- **Timestamp**: [04:17](https://www.youtube.com/watch?v=whRULuLYwng&t=257)
+- **Why It Matters**: Open-source agent that understands physical space and temporality, integrates with any camera system, runs on Unitree G1.
+- **Sota Comparison**: Fully open-source with physical understanding, a notable step for embodied agents.
 - **Sota Band**: new
-- **Access Constraint**: Open Source
+- **Access Constraint**: Open-source
 
-### Anthropic Revenue Milestone
-- **Timestamp**: [00:15](https://www.youtube.com/watch?v=whRULuLYwng&t=15)
-- **One Liner**: Anthropic approaches $20B annualized revenue, doubling from 2025 despite Pentagon contract cancellations.
-- **Sota Band**: beats
+
 
 ## Wider context
 
-The AI industry is pivoting from pure model scaling to [[power-constraints]] and [[local-inference]]. Apple's M5 Pro and Bloom Energy investments highlight that energy efficiency is now the critical bottleneck. Meanwhile, specialized models like Kos1 Light are beginning to outperform generalists in vertical domains, signaling the end of the 'one model fits all' era.
+The week's releases show specialization eating the frontier: GPT 5.3 Instant trims hallucinations, Gemini 3.1 Flashlight undercuts on price, and DeepSeek V4 threatens at trillion-parameter scale. Meanwhile, Apple's M5 Pro and Max signal that local LLM inference is now the organizing principle for pro silicon, and the $5.5B portfolio led by Bloom Energy underscores that power, not weights, is the binding constraint. The model race is no longer just about capability—it's about cost, speed, and the energy to run it all.
 
 ## Read next
 
-[[power-constraints]] · [[local-inference]] · [[specialized-models]] · [[energy-efficiency]] · [[anthropic-growth]]
+[[local-llm-inference]] · [[frontier-model-race]] · [[ai-energy-constraint]] · [[autonomous-coding-agents]] · [[open-source-ai]]

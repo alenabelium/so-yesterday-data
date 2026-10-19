@@ -4,137 +4,233 @@ template_id: tech-overview
 template_version: 1
 source_summary: ../summaries/2026-02-27-welcome-to-february-27-2026.md
 source_transcript: ../transcripts/2026-02-27-welcome-to-february-27-2026.md
-source_summary_hash: sha256:13a31a64a76452d0a7da5e4d2520acf0c67cf043967384837b66201a789c3954
+source_summary_hash: sha256:8b9f9b9c95dacad9e5070e3fa74abe45cbcf539e82f9c96e4c5945a02f9cfa42
 source_transcript_hash: sha256:3666f1b2024df43341def4a15acf7539542c93bb269eea858db1daf94eeb0027
-fill_id: 9b537044-9894-4104-96f1-feb141535157
-published_at: '2026-05-19T08:14:50.182493'
+fill_id: 38a7743b-7d26-4e4e-af0c-6d91fcba7f84
+published_at: '2026-10-19T22:55:51.531239'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Block lays off half its workforce to pivot to AI, while foundation models achieve 3x faster decoding and durable memory via weight compilation.
+Block cuts half its workforce for AI speed and is rewarded with a 24% spike, while Anthropic's Claude gets hired by Norway's sovereign fund and refuses military work.
 
 ## Tools covered
 
-### Block AI Workforce
+### Block AI-driven workforce reduction
 - **Vendor**: Block
 - **Category**: other
 - **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
-- **Why It Matters**: Block cut 4,000 employees to target $2M+ gross profit per person, signaling sectorwide repricing of legacy SaaS.
-- **Sota Comparison**: Market cap of State Street software ETF components lost $1.6 trillion as investors reprice legacy SaaS against AI-native replacements.
-- **Sota Band**: beats
-- **Access Constraint**: Corporate Strategy
+- **Why It Matters**: Block cut over 4,000 employees (~half its workforce) to move faster with smaller teams using AI, targeting $2M+ gross profit per person. The market rewarded the purge with a 24% after-hours spike, signaling investor approval of AI-driven efficiency.
+- **Sota Comparison**: No direct comparison; represents a new corporate strategy of AI-driven workforce reduction.
+- **Sota Band**: new
+- **Access Constraint**: Corporate action
 
-### Claude
+### State Street software ETF losses
+- **Vendor**: State Street
+- **Category**: other
+- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
+- **Why It Matters**: Components of the State Street software ETF have lost a combined $1.6 trillion in market cap this year as investors reprice legacy SaaS against AI-native replacements, highlighting the financial impact of AI disruption on traditional software.
+- **Sota Comparison**: No direct comparison; reflects market repricing of legacy SaaS.
+- **Sota Band**: inferred
+- **Access Constraint**: Market index
+
+### Claude for investment screening
 - **Vendor**: Anthropic
 - **Category**: agent
-- **Timestamp**: [00:25](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=25)
-- **Why It Matters**: Norway's $2T sovereign wealth fund uses Claude to screen investments for reputational and ethical risk.
-- **Sota Comparison**: Anthropic refused to let models power mass surveillance or autonomous weapons, sparking geopolitical debate over system prompts.
+- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
+- **Why It Matters**: Norway's $2 trillion sovereign wealth fund now uses Claude to screen investments for reputational and ethical risk, outsourcing moral judgment to the machine at sovereign scale.
+- **Sota Comparison**: No direct comparison; novel application at sovereign scale.
 - **Sota Band**: new
-- **Access Constraint**: Enterprise/Sovereign
+- **Access Constraint**: Enterprise deployment
 
-### Self-Distilled Multi-Token Predictor
-- **Vendor**: Researchers
+### Self-distilled multi-token predictors
+- **Vendor**: Research community
 - **Category**: reasoning
-- **Timestamp**: [00:45](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=45)
-- **Why It Matters**: Foundation models self-distilled into multi-token predictors decoding 3x faster with under 5% accuracy loss.
-- **Sota Comparison**: Compresses the architecture of cognition, offering significant speed gains without significant quality trade-offs.
+- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
+- **Why It Matters**: Researchers showed foundation models can self-distill into multi-token predictors that decode 3x faster at under 5% accuracy loss, compressing the architecture of cognition.
+- **Sota Comparison**: Beats prior decoding speed with minimal accuracy loss.
 - **Sota Band**: beats
 - **Access Constraint**: Research
 
-### Sakana Hypernet
-- **Vendor**: Sakana
+### Sakana document-to-weights compilation
+- **Vendor**: Sakana AI
 - **Category**: reasoning
-- **Timestamp**: [00:55](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=55)
-- **Why It Matters**: Compiles documents directly into model weights via hypernet networks, giving language models durable memory.
-- **Sota Comparison**: Avoids bloating context windows by storing information in weights rather than prompt history.
+- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
+- **Why It Matters**: Sakana demonstrated compiling documents directly into model weights via hypernet networks, giving language models durable memory without bloating context windows.
+- **Sota Comparison**: New approach to memory; no prior comparable.
 - **Sota Band**: new
 - **Access Constraint**: Research
 
 ### QED Nano
-- **Vendor**: LM Provers
+- **Vendor**: LM provers
 - **Category**: reasoning
-- **Timestamp**: [01:15](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=75)
-- **Why It Matters**: Compact 4B model that writes Olympiad-level math proofs approaching frontier performance.
-- **Sota Comparison**: Demonstrates that smaller models can approach frontier performance in specialized reasoning tasks.
-- **Sota Band**: parity
-- **Access Constraint**: Open/Compact
+- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
+- **Why It Matters**: A compact 4B model that writes Olympiad-level math proofs approaching frontier performance, bringing advanced reasoning to smaller models.
+- **Sota Comparison**: Approaches frontier performance at 4B scale.
+- **Sota Band**: inferred
+- **Access Constraint**: Open weights
 
 ### Nano Banana 2
 - **Vendor**: Google
 - **Category**: image
-- **Timestamp**: [01:25](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=85)
-- **Why It Matters**: Fuses pro-level reasoning with flash speed, collapsing the quality latency trade-off.
-- **Sota Comparison**: Combines high-quality reasoning capabilities with rapid generation speeds in a single release.
+- **Timestamp**: [01:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=98)
+- **Why It Matters**: Google's new Nano Banana 2 image model fuses pro-level reasoning with flash speed, collapsing the quality-latency trade-off into a single release.
+- **Sota Comparison**: Beats prior image models on quality-latency trade-off.
 - **Sota Band**: beats
-- **Access Constraint**: Google Cloud
+- **Access Constraint**: Proprietary
 
 ### Lily Pod
-- **Vendor**: Eli Liy / Nvidia
-- **Category**: tool
-- **Timestamp**: [01:45](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=105)
-- **Why It Matters**: World's first DGX Super Pod with B300 systems, packing 1,600 Blackwell Ultra GPUs for drug discovery.
-- **Sota Comparison**: Packs over 9,000 petaflops, doubling the physical plant power for intelligence.
+- **Vendor**: Eli Liy and Nvidia
+- **Category**: other
+- **Timestamp**: [01:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=98)
+- **Why It Matters**: The world's first DGX Super Pod with B300 systems, packing 1,600 Blackwell Ultra GPUs and over 9,000 petaflops toward drug discovery.
+- **Sota Comparison**: New; first of its kind.
 - **Sota Band**: new
-- **Access Constraint**: Enterprise Hardware
+- **Access Constraint**: Enterprise
 
-### Claude Code
-- **Vendor**: Anthropic
-- **Category**: coding
-- **Timestamp**: [02:30](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=150)
-- **Why It Matters**: Introduced scheduled tasks in Claude Code to complete recurring jobs automatically from morning briefs to presentations.
-- **Sota Comparison**: Gives the AI a work calendar, automating workflows before interns are even hired.
-- **Sota Band**: new
-- **Access Constraint**: Anthropic
-
-### Amplifying
-- **Vendor**: Amplifying
-- **Category**: coding
-- **Timestamp**: [02:45](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=165)
-- **Why It Matters**: Points Claude Code at thousands of GitHub repos to extract current best practices for AI auditing.
-- **Sota Comparison**: Allows AI to audit the craft it is absorbing, leveraging vast codebases for context.
+### Coreweave Q4 revenue growth
+- **Vendor**: Coreweave
+- **Category**: other
+- **Timestamp**: [01:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=98)
+- **Why It Matters**: Coreweave's Q4 revenue grew 110% year-over-year, indicating strong demand for AI cloud infrastructure.
+- **Sota Comparison**: No direct comparison; financial metric.
 - **Sota Band**: inferred
-- **Access Constraint**: SaaS
+- **Access Constraint**: Public company
+
+### Meta-Google TPU deal
+- **Vendor**: Meta and Google
+- **Category**: other
+- **Timestamp**: [01:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=98)
+- **Why It Matters**: Meta has reportedly signed a multi-billion dollar deal to rent Google's TPUs, diversifying its silicon diet away from Nvidia.
+- **Sota Comparison**: No direct comparison; strategic move.
+- **Sota Band**: inferred
+- **Access Constraint**: Reported deal
+
+### Rapidus 2nm funding
+- **Vendor**: Rapidus
+- **Category**: other
+- **Timestamp**: [01:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=98)
+- **Why It Matters**: Japan's Rapidus secured $1.7 billion to reach 2nm mass production by 2028, boosting non-TSMC advanced manufacturing.
+- **Sota Comparison**: No direct comparison; funding milestone.
+- **Sota Band**: inferred
+- **Access Constraint**: Funding
+
+### Scheduled tasks in Claude co-work
+- **Vendor**: Anthropic
+- **Category**: agent
+- **Timestamp**: [02:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=158)
+- **Why It Matters**: Anthropic introduced scheduled tasks in Claude co-work that complete recurring jobs automatically from morning briefs to Friday presentations, giving the AI a work calendar.
+- **Sota Comparison**: New; no prior comparable in AI agents.
+- **Sota Band**: new
+- **Access Constraint**: Enterprise
+
+### Amplifying Claude Code repo audit
+- **Vendor**: Amplifying
+- **Category**: agent
+- **Timestamp**: [02:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=158)
+- **Why It Matters**: Amplifying is pointing Claude Code at thousands of GitHub repos to extract what the model considers current best practices, letting AI audit the craft it is absorbing.
+- **Sota Comparison**: New approach to code analysis.
+- **Sota Band**: new
+- **Access Constraint**: Research
 
 ### Patty
 - **Vendor**: Burger King
 - **Category**: agent
-- **Timestamp**: [03:00](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=180)
-- **Why It Matters**: Headset-mounted voice AI that assists with meal prep and scores employees on friendliness.
-- **Sota Comparison**: Deploys AI for real-time operational assistance and behavioral scoring in retail.
+- **Timestamp**: [02:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=158)
+- **Why It Matters**: Burger King is deploying Patty, a headset-mounted voice AI that assists with meal prep and scores employees on friendliness.
+- **Sota Comparison**: No direct comparison; novel deployment.
 - **Sota Band**: new
-- **Access Constraint**: Corporate Deployment
+- **Access Constraint**: Deployed
 
-### World ID Orbs
-- **Vendor**: Worldcoin
-- **Category**: tool
-- **Timestamp**: [03:10](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=190)
-- **Why It Matters**: Gap stores use World ID orbs to scan shoppers' faces to verify humanness.
-- **Sota Comparison**: Brings retail iris scanning to verify identity, marking a generational handoff in consumer hardware.
+### World ID orbs at Gap
+- **Vendor**: World (Tools for Humanity)
+- **Category**: other
+- **Timestamp**: [02:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=158)
+- **Why It Matters**: At a Gap store in San Francisco, World ID orbs now scan shoppers' faces to verify humanness, bringing retail iris scans from Minority Report 28 years ahead of schedule.
+- **Sota Comparison**: New; first retail deployment.
 - **Sota Band**: new
-- **Access Constraint**: Retail Hardware
+- **Access Constraint**: Deployed
 
-### Agibbot A2
+### Anthropic military refusal
+- **Vendor**: Anthropic
+- **Category**: other
+- **Timestamp**: [03:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=218)
+- **Why It Matters**: Anthropic publicly refused to let its models power mass surveillance or autonomous weapons for the Department of War, while the Under Secretary of War attacked Claude's constitution, previewing system prompts as a regulatory battleground.
+- **Sota Comparison**: No direct comparison; policy stance.
+- **Sota Band**: new
+- **Access Constraint**: Policy
+
+### Agibbot A2 humanoids
 - **Vendor**: Agibbot
 - **Category**: agent
-- **Timestamp**: [03:50](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=230)
-- **Why It Matters**: Humanoids named Xenzhen and Ruru greet patients and handle registration at a Chinese hospital.
-- **Sota Comparison**: Enters the bedside manner business, handling fluently navigation and registration tasks.
+- **Timestamp**: [03:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=218)
+- **Why It Matters**: Two Agibbot A2 humanoids named Xenzhen and Ruru greet patients with handshakes and fluently handle registration and navigation at Changjo First People's Hospital.
+- **Sota Comparison**: No direct comparison; novel healthcare deployment.
 - **Sota Band**: new
-- **Access Constraint**: Healthcare Robotics
+- **Access Constraint**: Deployed
 
-### Block's AI Pivot
-- **Timestamp**: [00:06](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=6)
-- **One Liner**: Host highlights Block's 4,000 layoffs as a signal that the market rewards companies moving faster with smaller AI teams.
-- **Sota Band**: beats
+### FAA flight ban over Fort Hancock
+- **Vendor**: FAA
+- **Category**: other
+- **Timestamp**: [03:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=218)
+- **Why It Matters**: The FAA barred flights over Fort Hancock, Texas after a military laser anti-drone system accidentally downed a US government drone, the second such incident in months.
+- **Sota Comparison**: No direct comparison; safety incident.
+- **Sota Band**: inferred
+- **Access Constraint**: Regulatory
+
+### Starship V3 ground tests
+- **Vendor**: SpaceX
+- **Category**: other
+- **Timestamp**: [03:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=218)
+- **Why It Matters**: Starship V3 is headed for ground tests with Elon highly confident in full reusability.
+- **Sota Comparison**: No direct comparison; development milestone.
+- **Sota Band**: inferred
+- **Access Constraint**: Development
+
+### Rocket Lab silicon solar arrays
+- **Vendor**: Rocket Lab
+- **Category**: other
+- **Timestamp**: [03:38](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=218)
+- **Why It Matters**: Rocket Lab is introducing silicon solar arrays for gigawatt-scale orbital data centers, one more step toward the Dyson swarm.
+- **Sota Comparison**: New; first for orbital data centers.
+- **Sota Band**: new
+- **Access Constraint**: Development
+
+### Chromatin accessibility aging atlas
+- **Vendor**: Rockefeller University
+- **Category**: other
+- **Timestamp**: [04:54](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=294)
+- **Why It Matters**: Rockefeller researchers published the first chromatin accessibility aging atlas across 21 mouse tissues, finding that immune cells diverge most dramatically with age.
+- **Sota Comparison**: New; first of its kind.
+- **Sota Band**: new
+- **Access Constraint**: Research
+
+### AI historical landscape simulations
+- **Vendor**: China (unspecified)
+- **Category**: image
+- **Timestamp**: [04:54](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=294)
+- **Why It Matters**: In China, AI is turning famous historical landscape paintings into immersive ancestor simulations, a digital down payment on Fyodorov's common task.
+- **Sota Comparison**: No direct comparison; novel application.
+- **Sota Band**: new
+- **Access Constraint**: Deployed
+
+### Pentagon UAP declassification resistance
+- **Vendor**: Pentagon
+- **Category**: other
+- **Timestamp**: [04:54](https://www.youtube.com/watch?v=LP4eUjgTmBI&t=294)
+- **Why It Matters**: Parts of the Pentagon are reportedly resisting full UAP declassification with officials fearing demonic implications could trigger public panic or religious upheaval.
+- **Sota Comparison**: No direct comparison; policy issue.
+- **Sota Band**: inferred
+- **Access Constraint**: Policy
+
+
 
 ## Wider context
 
-The week marks a generational handoff where legacy SaaS market caps collapse as investors reprice against AI-native replacements. Simultaneously, the physical and cognitive layers of AI are compressing: models decode faster and store memory in weights, while hardware like DGX Super Pods doubles in power. This efficiency drives corporate restructuring and new agent deployments in retail and healthcare.
+The week's pattern is AI-driven efficiency at the cost of human jobs, with Block's layoffs and the $1.6 trillion SaaS market cap loss signaling a shift from legacy software to AI-native replacements. Meanwhile, the architecture of cognition is compressing—self-distillation and document-to-weights compilation point to faster, more memory-efficient models. The geopolitical fault line over AI values is emerging, as Anthropic's military refusal and the Under Secretary's attack on Claude's constitution preview system prompts as the next regulatory battleground.
 
 ## Read next
 
-[[ai-native-replacement]] · [[model-distillation]] · [[durable-memory]] · [[ai-layoffs]] · [[edge-ai-hardware]] · [[ai-agents-in-retail]]
+[[ai-agents]] · [[ai-safety]] · [[sovereign-ai]] · [[model-compression]] · [[ai-ethics]]
