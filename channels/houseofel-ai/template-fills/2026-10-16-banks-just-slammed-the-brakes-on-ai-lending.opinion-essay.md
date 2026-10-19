@@ -6,27 +6,31 @@ source_summary: ../summaries/2026-10-16-banks-just-slammed-the-brakes-on-ai-lend
 source_transcript: ../transcripts/2026-10-16-banks-just-slammed-the-brakes-on-ai-lending.md
 source_summary_hash: sha256:1e9ddf634da6fc29076bc7a585993dfee29c6de9f240fc56c6ad9cb5c5c40c80
 source_transcript_hash: sha256:b4bba639883872f442a5b2819cca1f294e21028154224d59579e640034e5dd80
-fill_id: a4e4a567-2912-4fe4-a4e2-c3bf1e78c239
-published_at: '2026-10-19T16:05:15.064779'
+fill_id: 26f6a969-a199-4ae9-9e28-4112625a8ee4
+published_at: '2026-10-19T17:05:33.427269'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-The two big AI bets of 2024—that AI kills software value and that AI companies are safe borrowers—can't both be right, and the evidence so far suggests the value is shifting to users, not to the companies that borrowed billions.
+AI can copy software cheaply, but copying has never made software worthless; the real value lies in reliability and trust, so the first bet on software's death is shaky, and the second bet on AI debt is where the real risk lies.
 
 ## Argument
 
-The first bet—that AI renders software useless—is tested by Brendan Thomas's free Adobe clones. He claims 100% parity, but his own docs admit 25-35% coverage, and tests show PhotoCraft matches Photoshop only 5 times out of 30 on smart filters. Free copies have never killed paid software: GIMP and LibreOffice have existed for decades, yet Adobe's creative revenue grew 13% to $4.65B in the last quarter. The second bet—that AI companies are safe borrowers—is also cracking. Since June, AI-backed loans fell from $113B to $23B, and credit default swaps for Oracle and Coreweave hit record highs. Coreweave's bonds trade at $0.77 on the dollar. Lenders are charging more, not less, which signals real caution, not just early borrowing. The value AI creates isn't disappearing; it's going to users via free apps and freemium plans, or to model makers like Anthropic. The losers are the middlemen—companies that borrowed to build data centers and now lease compute. TSMC's record quarter shows demand is real, but the question is whether renting chips pays back the debt. If code costs $2,000 to copy, the value must be in trust, habit, and files—things hard to price. So the software isn't dead, but the idea that writing code is inherently valuable might be.
+The first bet—that AI renders software useless—is tested by Brendan Thomas's free Adobe clones. He claims 100% parity, but his own plan admits only 25-35% coverage of professional needs, and tests show PhotoCraft matches Photoshop's smart filters only 5 times out of 30. Free copies have existed for decades—GIMP, OpenOffice—yet Adobe's revenue hit a record $6.76 billion, up 13%, with creative pro sales up 13%. The value isn't in the code; it's in reliability, habit, and ecosystem lock-in. So the first bet looks uncertain.
+
+The second bet—that AI companies can't repay debt—is more compelling. Since June, AI-backed loans fell from $113 billion to $23 billion, and credit default swap costs hit records: Oracle's rose to $2.88, Coreweave's from $3.60 to over $10 in nine days. Coreweave's bonds trade at $0.77 on the dollar. Even Broadcom's CEO calls AI investing 'almost like a casino.' This isn't just pre-borrowing; prices are rising, indicating real caution.
+
+Where does value go? Possibly to users via lower prices, or to model developers, but the middle—companies borrowing to build data centers—bears the risk. TSMC's record quarter shows demand is real, but lenders question if chip rentals cover the debt. The answer is likely a mix: value trickles to users and model makers, but the borrowers may be left holding the bag.
 
 ## Counterpoints
 
-- The drop in AI borrowing could be innocent—companies simply front-loaded their debt earlier in the year, and the full year is still on pace for $466B.
-- Rising interest rates make all borrowing more expensive, so the higher insurance costs might just reflect macro conditions, not AI-specific risk.
-- Free software has never killed paid software before—GIMP and LibreOffice have existed for decades without displacing Adobe or Microsoft.
-- Demand for AI is real—TSMC posted its sixth consecutive record quarter with profits up 69%—so the pessimism might be overdone.
+- Morgan Stanley's innocent explanation: companies simply borrowed early, so the drop is just a pause, not a signal.
+- The year as a whole is still huge, with $466 billion in AI debt due by 2026, suggesting the market isn't collapsing.
+- Free copies have never killed paid software before (GIMP, OpenOffice), so why would AI change that?
+- Rising interest rates explain higher borrowing costs, not just AI-specific risk.
 
 ## Concepts surfaced
 
-[[open-source-ai]] · [[credit-default-swaps]] · [[ai-lending]] · [[software-value]] · [[freemium-strategy]]
+[[open-source-software]] · [[credit-default-swaps]] · [[ai-debt]] · [[software-value]] · [[ai-copying]]
