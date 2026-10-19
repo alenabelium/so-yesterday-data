@@ -6,28 +6,28 @@ source_summary: ../summaries/2026-10-16-banks-just-slammed-the-brakes-on-ai-lend
 source_transcript: ../transcripts/2026-10-16-banks-just-slammed-the-brakes-on-ai-lending.md
 source_summary_hash: sha256:1e9ddf634da6fc29076bc7a585993dfee29c6de9f240fc56c6ad9cb5c5c40c80
 source_transcript_hash: sha256:b4bba639883872f442a5b2819cca1f294e21028154224d59579e640034e5dd80
-fill_id: 49ef4e09-8fbb-4024-8fb5-d2069b785ab2
-published_at: '2026-10-19T13:05:11.229946'
+fill_id: c9c52b09-de26-49a0-a683-522a1f3af50f
+published_at: '2026-10-19T14:05:27.317060'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI makes software cheap to copy, not worthless, and the value it creates may flow to users rather than to AI companies or lenders.
+AI makes software cheap to copy, but that doesn't make it worthless; the real value is shifting to users, leaving AI companies and their lenders holding the risk.
 
 ## Argument
 
-The mechanism is cost. AI collapses the cost of copying software, as Brendan Thomas showed by releasing seven Adobe clones built with Claude Opus 5.5. But his own plan admits the clones cover only 25–35% of professional needs, and tests show PhotoCraft matches Photoshop's output only 5 times out of 30. Free copies have existed for decades—GIMP since the mid-1990s, LibreOffice since 2010—yet Adobe just posted record revenue of $6.76B, up 13%, with creative subscriptions growing 13% to $4.65B. What professionals pay for is reliability, reproducibility, and ecosystem lock-in, not the idea of Photoshop, which has been free to copy for 30 years. Meanwhile, the second bet is that AI companies won't earn enough to repay debt. Since June, AI-backed loans fell from $113B to $23B, and credit default swap costs hit records: Oracle at $2.88, Coreweave from $3.60 to over $10 in nine days. Coreweave's 2032 bonds trade at $0.77 on the dollar. Lenders are lending less and charging more—real caution, not just early borrowing. If AI truly destroyed software value, that value should flow to AI companies, but their creditors are nervous. Instead, value may be disappearing into lower prices for users, as free apps are funded by selling AI access, and Adobe's freemium plan has over a billion monthly users. The uncomfortable third possibility: value goes to model developers or users, while companies stuck in the middle—borrowing to build data centers—bear all the risk. Neither bet stands alone; both are partly right. AI can make code cheap without making anyone rich.
+The mechanism is the gap between copying and replacing. Brendan Thomas's free Adobe clones, built with Claude Opus 5.5, cover only 25-35% of professional needs by his own plan, and fail to reproduce Photoshop's smart filters in 25 of 30 test cases. Free alternatives like GIMP and LibreOffice have existed for decades without displacing paid software, because value lies in reliability, habit, and file compatibility, not just code. Adobe just posted record revenue, up 13% to $6.76 billion, proving professionals still pay for the full package.
+
+Meanwhile, lenders are voting with their wallets. AI-backed loans fell from $113 billion in June to $23 billion in September, and credit default swap costs for Oracle and Coreweave hit record highs. Coreweave's bonds trade at 77 cents on the dollar. This caution suggests the second bet—that AI won't earn enough to repay its debts—is gaining traction. The value created by AI isn't flowing to AI companies or their creditors; it's either going to model developers like Anthropic (revenue up 45% to $16.8 billion) or, more likely, to users through lower prices. The middlemen—companies borrowing to build data centers—are left with the risk. So both bets are partially right: AI can make code cheap without making anyone rich, and the value is leaking to users, not to the people who borrowed expecting it elsewhere.
 
 ## Counterpoints
 
-- AI companies borrowed early, so less borrowing later is innocent—but Morgan Stanley predicted a rise, and borrowing costs rose instead.
-- Free alternatives like GIMP and LibreOffice never killed paid software—Adobe and Microsoft Office still dominate.
-- Rising interest rates explain higher borrowing costs, but credit insurance fees are company-specific, not just macro.
-- AI revenue is still growing (Anthropic up 45% in Q3), so lenders' caution may be overblown.
-- The value could flow to users via lower prices, making both bets wrong but consumers the winners.
+- Lenders might simply have borrowed early, as Morgan Stanley suggests, and the year's total is still huge at $466 billion.
+- Demand for chips is real, with TSMC posting its sixth consecutive record quarter, so AI revenue is still strong.
+- Rising interest rates, not just AI-specific risk, are pushing up borrowing costs and insurance fees.
 
 ## Concepts surfaced
 
-[[ai-lending]] · [[credit-default-swaps]] · [[open-source-software]] · [[software-value]] · [[ai-adoption]]
+[[ai-lending]] · [[software-value]] · [[open-source-ai]] · [[credit-default-swaps]] · [[ai-valuation]]
