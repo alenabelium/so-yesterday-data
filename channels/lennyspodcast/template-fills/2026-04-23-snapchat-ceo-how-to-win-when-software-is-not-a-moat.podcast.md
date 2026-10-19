@@ -4,10 +4,10 @@ template_id: podcast
 template_version: 1
 source_summary: ../summaries/2026-04-23-snapchat-ceo-how-to-win-when-software-is-not-a-moat.md
 source_transcript: ../transcripts/2026-04-23-snapchat-ceo-how-to-win-when-software-is-not-a-moat.md
-source_summary_hash: sha256:0bc014559a46754bf85263a4f0973c4d35229fab50ec9af6c3d5ce0206a84113
+source_summary_hash: sha256:968d82b96b474f00b86ef1a33bd8371f7c230a3a849efc2391a24efaa43513d6
 source_transcript_hash: sha256:138410a5fc53c1f746a11314257610b7ae1d7faf142f9fe11951cddc2baef183
-fill_id: 1a6b8fb1-2aae-4162-bce6-68f8fe2ea1cd
-published_at: '2026-05-19T15:45:58.690541'
+fill_id: 2e98b2f5-8740-4aaa-a2a0-9a4ec561784d
+published_at: '2026-10-19T20:15:42.430565'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -15,39 +15,47 @@ provenance: agent:template-fill-v1
 ## Guest
 
 - **Name**: Cat Woo
-- **Title**: Head of Product for Cloud Code and Co-Work
+- **Title**: Head of Product, Cloud Code & Co-Work
 - **Org**: Anthropic
-- **Bio Oneliner**: Leads product strategy for Anthropic's core developer tools, bridging engineering vision and rapid execution.
+- **Bio Oneliner**: Leads product for Claude Code and Co-Work, focusing on rapid iteration and product taste.
 - **Platform**: duo
 
 ## Cold open
 
-### It's very easy to build the product for the super AGI strong model. The hard thing is figuring out for the current model, how do you elicit the maximum capability?
+### I think it is very hard to be the right amount of AGI pilled. It's very easy to build the product for the super AGI strong model. The hard thing is figuring out for the current model, how do you elicit the maximum capability?
 - **Attribution**: Cat Woo
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=PplmzlgE0kg&t=0)
 
-### I've never seen anything like the pace you folks at Anthropic are shipping at.
-- **Attribution**: Lenny
+### We want to remove every single barrier to shipping things. The timelines for a lot of our product features have gone down from 6 month to 1 month and sometimes to even one day.
+- **Attribution**: Cat Woo
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=PplmzlgE0kg&t=0)
+
+### The thing that is extremely important for building AI native products is iterating so quickly, figuring out a way for you to actually launch features every single week.
+- **Attribution**: Cat Woo
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=PplmzlgE0kg&t=0)
 
 ## Key arguments
 
-### Product Taste Over Roadmapping
-- **Timestamp**: [00:44](https://www.youtube.com/watch?v=PplmzlgE0kg&t=44)
-- **Summary**: As code generation becomes cheaper, the value shifts to 'product taste'—deciding what to build. PMs must prioritize rapid iteration and clear goals over long-term roadmapping, enabling teams to ship features weekly by removing barriers and accepting temporary inconsistency for speed.
-- **Anchor Quotes**: [0]
+### Speed over planning: PMs must shorten idea-to-launch
+- **Timestamp**: [05:26](https://www.youtube.com/watch?v=PplmzlgE0kg&t=326)
+- **Summary**: Cat argues that with AI, product timelines have compressed from 6 months to weeks or days. PMs should focus on removing barriers and shipping quickly, not on multi-quarter roadmaps. She emphasizes setting clear goals and using research previews to reduce commitment, enabling weekly launches.
+- **Anchor Quotes**: [1, 2]
 
-### The Unified Mission Advantage
+### Product taste is the new core skill
+- **Timestamp**: [18:16](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1096)
+- **Summary**: As code becomes cheaper, the value shifts to deciding what to build. Cat stresses that product taste—choosing the right UX and features—is rare and can come from any background. Engineering background helps gauge difficulty, but taste is paramount.
+
+### Mission alignment enables fast, unified decisions
 - **Timestamp**: [29:00](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1740)
-- **Summary**: Anthropic’s success stems from a unifying mission of safe AGI that supersedes individual product lines. This allows for fast, aligned decisions across the org, even if it means deprioritizing specific features or sacrificing product consistency to maintain focus on the core goal.
+- **Summary**: Anthropic's unifying mission—safe AGI for humanity—trumps individual product goals. This allows teams to make sacrifices and prioritize across the org, leading to faster, aligned execution. Cat contrasts this with companies that diversify away from their mission.
 
-### Blurring Roles and Hiring Taste
-- **Timestamp**: [16:15](https://www.youtube.com/watch?v=PplmzlgE0kg&t=975)
-- **Summary**: The lines between PM, engineer, and designer are merging. Anthropic hires engineers with strong product taste to reduce overhead, allowing them to ship end-to-end with minimal PM involvement. The key skill is understanding user needs and model limits, not just technical execution.
+### Embrace chaos and iterate on feedback
+- **Timestamp**: [22:35](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1355)
+- **Summary**: Cat advises leaning into chaos, maintaining calm optimism, and accepting that products may ship imperfectly. The key is to get quick feedback and fix in the next release, avoiding burnout by focusing on what matters most.
 
-### Automation and Leverage
+### Automate to 100%: Hand off grunt work to AI
 - **Timestamp**: [01:07:49](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4069)
-- **Summary**: AI provides leverage by automating tedious tasks. PMs should identify repetitive workflows, refine them to 100% accuracy, and use the saved time for creative work. Building apps that are actually used daily yields more value than one-off prototypes.
+- **Summary**: Cat encourages using AI to automate repetitive tasks, but stresses that automations must reach 100% reliability to be valuable. She advises focusing on creative work and building tools you actually use daily, not just prototypes.
 
 ## Quotes to remember
 
@@ -55,36 +63,36 @@ provenance: agent:template-fill-v1
 - **Speaker**: Cat Woo
 - **Timestamp**: [18:16](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1096)
 
-### We're sacrificing product consistency. Historically, when code was expensive to write, you would carefully plan out everything... now with AI moving so quickly... we do sometimes have features that overlap.
+### We're sacrificing product consistency. Historically, when code was expensive to write, you would carefully plan out everything in your product suite... And now with AI moving so quickly... we do sometimes have features that overlap with each other.
 - **Speaker**: Cat Woo
 - **Timestamp**: [25:20](https://www.youtube.com/watch?v=PplmzlgE0kg&t=1520)
 
-### Just do things. If you know what you're optimizing for and you have strong first principles, then you can normally deduce what the right course of action is and be able to clearly articulate that to all the stakeholders and then you should just like do it.
+### I think the hardest skill is being able to define what the product should look like a month from now.
 - **Speaker**: Cat Woo
-- **Timestamp**: [01:19:35](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4775)
+- **Timestamp**: [51:14](https://www.youtube.com/watch?v=PplmzlgE0kg&t=3074)
 
-### The big shift is that the 2024 generation of products were chatbased and the claude code generation of products is action-based.
+### I think the big shift is that the 2024 generation of products were chatbased and the quad code generation of products is action-based.
 - **Speaker**: Cat Woo
 - **Timestamp**: [01:14:49](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4489)
 
+### Just do things.
+- **Speaker**: Cat Woo
+- **Timestamp**: [01:19:35](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4775)
+
 ## Predictions
 
-### Roles will continue to merge, with engineers doing more PM work and PMs doing more engineering, requiring hiring of individuals with strong product taste from any background.
-- **Hedge**: This shift is happening now but will evolve as models improve; the specific balance of skills will change every few months.
-- **Timestamp**: [16:15](https://www.youtube.com/watch?v=PplmzlgE0kg&t=975)
-
-### Token spend per knowledge worker will increase significantly as models get better and users delegate more tasks, though it will remain lower than salary costs.
-- **Hedge**: This is a trend observed with every model jump; the exact percentage increase depends on model capability improvements.
-- **Timestamp**: [50:21](https://www.youtube.com/watch?v=PplmzlgE0kg&t=3021)
+### As models get smarter, users will run 50 to hundreds of Claude instances simultaneously, requiring remote infrastructure and new management interfaces.
+- **Hedge**: This is an extrapolation based on current trends.
+- **Timestamp**: [01:06:46](https://www.youtube.com/watch?v=PplmzlgE0kg&t=4006)
 
 ## Lightning round
 
 - **Books**: ['How Asia Works', 'The Technology Trap', 'Paper Menagerie']
 - **Media**: ['Drive to Survive', 'Free Solo']
-- **Products**: ['Whimo']
+- **Products**: ['Waymo']
 - **Motto**: Just do things.
-- **Advice**: Lean into AI tools to automate tedious tasks, refine automations to 100% accuracy, and use the saved time for creative work or pet projects. Build apps you actually use daily rather than one-off prototypes.
+- **Advice**: Automate repetitive tasks to 100% reliability, then focus on creative work and building tools you use daily.
 
 ## Concepts surfaced
 
-[[product-taste]] · [[rapid-iteration]] · [[ai-leverage]] · [[role-blurring]] · [[unified-mission]] · [[eval-driven-pm]] · [[action-based-ai]] · [[automation-accuracy]]
+[[product-taste]] · [[rapid-iteration]] · [[ai-native-products]] · [[mission-alignment]] · [[automation]] · [[agi-pilled]] · [[research-preview]]

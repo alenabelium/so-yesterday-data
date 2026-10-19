@@ -4,170 +4,169 @@ template_id: tech-overview
 template_version: 1
 source_summary: ../summaries/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gam.md
 source_transcript: ../transcripts/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gam.md
-source_summary_hash: sha256:f7b785bd485a2a898bb3080df6c3883a4b993f722db3957b341567c3da0ed94d
+source_summary_hash: sha256:2b448419815e59a12088230ddeab430a423a5c984e1627f60ba24b58cd89081d
 source_transcript_hash: sha256:8c90fe1aeab5d61a2f023318a4e6e4fd8402bfcd97e68d58e5684451a5f2a093
-fill_id: 2c702870-c303-40cf-a059-0851b2de5037
-published_at: '2026-05-17T23:09:33.413590'
+fill_id: b8c11aae-7ace-4012-bbe6-1c5bbe381c78
+published_at: '2026-10-19T20:36:53.565223'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-VBVR enables video reasoning, Qwen 3.5 fits on consumer GPUs, and Solaris generates synchronized multiplayer Minecraft gameplay.
+PhysicEdit outperforms Nano Banana in physics-aware image editing, while Alibaba's Qwen 3.5 small variants bring state-of-the-art intelligence to consumer GPUs.
 
 ## Tools covered
 
 ### VBVR
-- **Vendor**: Open Source
+- **Vendor**: Unknown
 - **Category**: video
-- **Timestamp**: [01:40](https://www.youtube.com/watch?v=8grIT-xK50M&t=100)
-- **Why It Matters**: A framework added to the One video generator that allows it to solve visual puzzles and reason about video content with high accuracy.
-- **Sota Comparison**: Outperforms Sora 2 and V3.1 on visual puzzle benchmarks, scoring 68.5% compared to under 50% for top models.
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=8grIT-xK50M&t=0)
+- **Why It Matters**: Framework that adds reasoning to video generators, enabling them to solve visual puzzles and follow multi-step instructions.
+- **Sota Comparison**: Scores 68.5% on visual reasoning benchmarks, far surpassing Sora 2 and V3.1 which score under 50%.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source on Hugging Face
+- **Access Constraint**: Open-source
 
-### TTTLRM
-- **Vendor**: Open Source
-- **Category**: image
-- **Timestamp**: [05:31](https://www.youtube.com/watch?v=8grIT-xK50M&t=331)
-- **Why It Matters**: Uses test-time training to create detailed 3D Gaussian splats from photos, capturing subtle scene details better than 3DGS.
-- **Sota Comparison**: Produces cleaner, more consistent 3D renders than 3DGS, which often suffers from noise and inconsistencies.
+### TTT-LRM
+- **Vendor**: Unknown
+- **Timestamp**: [03:39](https://www.youtube.com/watch?v=8grIT-xK50M&t=219)
+- **Why It Matters**: Test-time training for 3D reconstruction from photos, producing detailed and consistent 3D models.
+- **Sota Comparison**: Outperforms 3DGS in detail and consistency, reducing noise and artifacts.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source on GitHub
+- **Access Constraint**: Open-source, <4GB
 
 ### Dream ID Omni
 - **Vendor**: Bite Dance
 - **Category**: video
 - **Timestamp**: [06:56](https://www.youtube.com/watch?v=8grIT-xK50M&t=416)
-- **Why It Matters**: Generates videos using text, image, and voice inputs, allowing for flexible deepfake creation and face/voice swapping.
-- **Sota Comparison**: Described as the most flexible method for deepfakes, supporting multiple characters and inputs compared to OV or Phantom.
+- **Why It Matters**: Video generator that takes text, image, and voice inputs to create deepfakes with realistic lip-sync and voice cloning.
+- **Sota Comparison**: More flexible than OV, Phantom, Vase, LTX2 for deepfake creation.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source release planned for March
+- **Access Constraint**: Open-source coming in March
 
-### Aero1
+### A1 (Quiver)
 - **Vendor**: Quiver
 - **Category**: image
-- **Timestamp**: [10:47](https://www.youtube.com/watch?v=8grIT-xK50M&t=647)
-- **Why It Matters**: Specialized AI model for generating SVG vector graphics from text or images, scaling infinitely without pixelation.
-- **Sota Comparison**: Outperforms general-purpose LLMs like GPT-5 and Gemini in generating vector graphics and logos.
+- **Timestamp**: [08:28](https://www.youtube.com/watch?v=8grIT-xK50M&t=508)
+- **Why It Matters**: Specialized model for generating SVG vector graphics from text prompts or images, with infinite scalability.
+- **Sota Comparison**: Best on SVG Arena, though not apples-to-apples vs general LLMs.
 - **Sota Band**: beats
-- **Access Constraint**: Free tier available
+- **Access Constraint**: Free tier, 20 SVGs
 
 ### Solaris
-- **Vendor**: Open Source
+- **Vendor**: Unknown
 - **Category**: video
-- **Timestamp**: [13:50](https://www.youtube.com/watch?v=8grIT-xK50M&t=830)
-- **Why It Matters**: Generates synchronized first-person Minecraft gameplay from two simultaneous player perspectives for training multi-agent systems.
-- **Sota Comparison**: Unique capability to generate consistent dual-perspective video, addressing a gap in multiplayer agent training data.
+- **Timestamp**: [12:10](https://www.youtube.com/watch?v=8grIT-xK50M&t=730)
+- **Why It Matters**: Generates synchronized Minecraft gameplay from two player perspectives, enabling multi-agent AI training.
+- **Sota Comparison**: First to generate consistent dual-perspective videos in Minecraft.
 - **Sota Band**: new
-- **Access Constraint**: Open-source on GitHub
+- **Access Constraint**: Open-source, 29.2GB
 
 ### Video MT
-- **Vendor**: Open Source
+- **Vendor**: Unknown
 - **Category**: video
 - **Timestamp**: [17:06](https://www.youtube.com/watch?v=8grIT-xK50M&t=1026)
-- **Why It Matters**: Repurposes vision transformers for real-time video object segmentation, achieving up to 160 frames per second.
-- **Sota Comparison**: 5 to 10 times faster than existing segmentation approaches while maintaining competitive accuracy.
+- **Why It Matters**: Turns vision transformers into video segmentation models, tracking objects efficiently.
+- **Sota Comparison**: 5-10x faster than existing approaches, up to 160 FPS.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source on GitHub
-
-### Vec Glypher
-- **Vendor**: Open Source
-- **Category**: image
-- **Timestamp**: [18:53](https://www.youtube.com/watch?v=8grIT-xK50M&t=1133)
-- **Why It Matters**: Creates vector fonts and glyphs from text prompts or reference images, outperforming top closed models in font design.
-- **Sota Comparison**: Superior quality in generating vector fonts compared to GPT-5, Gemini, and Claude.
-- **Sota Band**: beats
-- **Access Constraint**: Open-source on GitHub
-
-### Lava SR
-- **Vendor**: Open Source
-- **Category**: audio
-- **Timestamp**: [24:24](https://www.youtube.com/watch?v=8grIT-xK50M&t=1464)
-- **Why It Matters**: Lightweight audio enhancer that runs in real-time on CPUs and mobile devices, improving noisy audio quality instantly.
-- **Sota Comparison**: Runs 5,000x real-time on GPU and 60x on CPU, offering extreme speed and low resource requirements.
-- **Sota Band**: new
-- **Access Constraint**: Open-source on Hugging Face
-
-### Qwen 3.5
-- **Vendor**: Alibaba
-- **Category**: coding
-- **Timestamp**: [26:48](https://www.youtube.com/watch?v=8grIT-xK50M&t=1608)
-- **Why It Matters**: New open-source model variants (2B, 35B, 27B) that match the intelligence of GPT-5.2 and Claude but fit on consumer GPUs.
-- **Sota Comparison**: Matches or exceeds GPT-5 Mini and Claude Sonnet on benchmarks while being accessible to consumer hardware.
-- **Sota Band**: parity
 - **Access Constraint**: Open-source
 
-### Ego Skill
+### Vec Glypher
+- **Vendor**: Unknown
+- **Category**: image
+- **Timestamp**: [17:06](https://www.youtube.com/watch?v=8grIT-xK50M&t=1026)
+- **Why It Matters**: Generates vector fonts and glyphs from text or images, outperforming top closed models.
+- **Sota Comparison**: Outperforms GPT-5, Gemini, Claude in font generation quality.
+- **Sota Band**: beats
+- **Access Constraint**: Open-source
+
+### Lava SR
+- **Vendor**: Unknown
+- **Category**: audio
+- **Timestamp**: [23:30](https://www.youtube.com/watch?v=8grIT-xK50M&t=1410)
+- **Why It Matters**: Lightweight audio enhancer running 5000x real-time on GPU, 60x on CPU, model size 50MB.
+- **Sota Comparison**: Not compared to other enhancers, but speed and size are unique.
+- **Sota Band**: inferred
+- **Access Constraint**: Open-source, free demo
+
+### Qwen 3.5 small variants
+- **Vendor**: Alibaba
+- **Category**: reasoning
+- **Timestamp**: [26:00](https://www.youtube.com/watch?v=8grIT-xK50M&t=1560)
+- **Why It Matters**: Smaller Qwen 3.5 models (2B, 35B, 27B) fit on consumer GPUs while matching larger closed models.
+- **Sota Comparison**: Comparable or better than GPT-5 Mini and Claude Sonnet on average.
+- **Sota Band**: parity
+- **Access Constraint**: Open-source, quantized versions as small as 10GB
+
+### Ego Scale
 - **Vendor**: Nvidia
 - **Category**: agent
-- **Timestamp**: [28:29](https://www.youtube.com/watch?v=8grIT-xK50M&t=1709)
-- **Why It Matters**: Enables robots to learn complex manipulation tasks by watching human POV videos, combining vision, language, and action.
-- **Sota Comparison**: Demonstrates superior dexterity in tool use and object manipulation compared to previous robot learning methods.
-- **Sota Band**: beats
-- **Access Constraint**: Open-source release coming soon
+- **Timestamp**: [27:30](https://www.youtube.com/watch?v=8grIT-xK50M&t=1650)
+- **Why It Matters**: Trains robots to perform tasks by watching human videos, enabling complex manipulation.
+- **Sota Comparison**: Not compared, but demonstrates broad task learning from 20,000 hours of video.
+- **Sota Band**: inferred
+- **Access Constraint**: Open-source coming soon
 
-### Doc-to-LoRA
+### Doc-to-LoRA & Text-to-LoRA
 - **Vendor**: Sakana AI
-- **Category**: agent
+- **Category**: tool
 - **Timestamp**: [30:06](https://www.youtube.com/watch?v=8grIT-xK50M&t=1806)
-- **Why It Matters**: Compresses documents or instructions into LoRA adapters for persistent memory, allowing LLMs to recall info without re-prompting.
-- **Sota Comparison**: Solves the long-context forgetting problem more efficiently than standard prompt extension methods.
+- **Why It Matters**: Compresses documents and instructions into LoRA adapters for persistent memory in LLMs.
+- **Sota Comparison**: Novel approach to long-term memory, not directly compared.
 - **Sota Band**: new
-- **Access Constraint**: Open-source on GitHub
+- **Access Constraint**: Open-source
 
 ### PhysicEdit
-- **Vendor**: Open Source
+- **Vendor**: Unknown
 - **Category**: image
 - **Timestamp**: [33:13](https://www.youtube.com/watch?v=8grIT-xK50M&t=1993)
-- **Why It Matters**: Physics-aware image editor that accurately simulates refraction, decay, and material properties in generated edits.
-- **Sota Comparison**: Outperforms GPT Image 1.5 and Nano Banana in physical accuracy benchmarks for image editing.
+- **Why It Matters**: Physics-aware image editing that accurately simulates physical phenomena like refraction and decay.
+- **Sota Comparison**: Outperforms GPT Image 1.5 and Nano Banana Pro on physics benchmarks.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source on GitHub
+- **Access Constraint**: Open-source, LoRA for Qwen-Image-Edit
 
 ### Generated Reality
-- **Vendor**: Open Source
+- **Vendor**: Unknown
 - **Category**: video
-- **Timestamp**: [37:06](https://www.youtube.com/watch?v=8grIT-xK50M&t=2226)
-- **Why It Matters**: Creates interactive VR videos based on real-time head and hand movements, enabling immersive virtual environments.
-- **Sota Comparison**: Provides real-time VR interaction, though current quality is lower than pre-rendered content.
-- **Sota Band**: new
-- **Access Constraint**: Open-source release coming soon
+- **Timestamp**: [35:30](https://www.youtube.com/watch?v=8grIT-xK50M&t=2130)
+- **Why It Matters**: Generates interactive first-person videos based on VR head and hand movements.
+- **Sota Comparison**: Early stage, 11 FPS, but shows potential for VR immersion.
+- **Sota Band**: inferred
+- **Access Constraint**: Code coming soon
 
-### Sony Video Foley
+### Sony Video-to-Audio
 - **Vendor**: Sony
 - **Category**: audio
-- **Timestamp**: [38:38](https://www.youtube.com/watch?v=8grIT-xK50M&t=2318)
-- **Why It Matters**: Generates synchronized sound effects for videos up to 5 minutes long using multimodal hierarchical networks.
-- **Sota Comparison**: Claims better synchronization with video actions than MM Audio and other video-to-audio models.
+- **Timestamp**: [36:30](https://www.youtube.com/watch?v=8grIT-xK50M&t=2190)
+- **Why It Matters**: Generates synchronized sound effects for videos up to 5 minutes, better sync than MM Audio.
+- **Sota Comparison**: Better sync than MM Audio, but can't handle speech.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source release coming soon
+- **Access Constraint**: Code coming soon
 
 ### Sarah
-- **Vendor**: Open Source
-- **Category**: video
-- **Timestamp**: [39:34](https://www.youtube.com/watch?v=8grIT-xK50M&t=2374)
-- **Why It Matters**: Real-time full-body VR avatar system that generates dynamic gestures and natural eye contact during conversations.
-- **Sota Comparison**: Generates more natural and dynamic gestures with fewer motion artifacts than the 3-year-old MDM method.
+- **Vendor**: Unknown
+- **Category**: agent
+- **Timestamp**: [39:00](https://www.youtube.com/watch?v=8grIT-xK50M&t=2340)
+- **Why It Matters**: Real-time full-body VR avatar with natural gestures and eye contact, enabling realistic conversations.
+- **Sota Comparison**: More natural and dynamic than MDM, fewer motion artifacts.
 - **Sota Band**: beats
-- **Access Constraint**: Dataset open-source; model TBD
+- **Access Constraint**: Paper and dataset only
 
-### Lore Webb
+### Nvidia Image Editor (Lore Webb)
 - **Vendor**: Nvidia
 - **Category**: image
-- **Timestamp**: [43:04](https://www.youtube.com/watch?v=8grIT-xK50M&t=2584)
-- **Why It Matters**: Unique image editor requiring three inputs (before, after, target) to clone styles and edits with high fidelity.
-- **Sota Comparison**: Offers precise style cloning via modular LoRA mixing, distinct from single-image editors like Nano Banana.
-- **Sota Band**: new
-- **Access Constraint**: Open-source on GitHub
+- **Timestamp**: [42:04](https://www.youtube.com/watch?v=8grIT-xK50M&t=2524)
+- **Why It Matters**: Image editor that clones styles from before/after examples, requiring three input images.
+- **Sota Comparison**: More flexible and generalizable than other methods.
+- **Sota Band**: inferred
+- **Access Constraint**: Open-source
 
 
 
 ## Wider context
 
-This week highlights a shift toward specialized, efficient AI tools that run on consumer hardware. Qwen 3.5 and Lava SR demonstrate that high-performance models no longer require massive infrastructure. Meanwhile, VBVR and Solaris push the boundaries of video reasoning and multi-agent simulation, signaling that open-source video generation is moving beyond simple aesthetics into complex logical and interactive domains.
+This week shows a clear trend: AI is moving from single-task to multi-agent and interactive systems. Solaris and Sarah demonstrate synchronized multi-agent generation and real-time interaction, while PhysicEdit and VBVR push reasoning and physical accuracy. The open-source community continues to close the gap with closed models, as seen with Qwen 3.5 small variants and Vec Glypher.
 
 ## Read next
 
-[[video-reasoning]] · [[multi-agent-simulation]] · [[consumer-ai]] · [[persistent-memory]] · [[vector-graphics]] · [[physics-aware-editing]]
+[[multi-agent-systems]] · [[video-reasoning]] · [[physics-aware-editing]] · [[persistent-memory]] · [[open-source-ai]]

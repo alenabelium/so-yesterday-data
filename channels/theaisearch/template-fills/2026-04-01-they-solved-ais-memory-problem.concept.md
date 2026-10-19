@@ -4,44 +4,49 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-04-01-they-solved-ais-memory-problem.md
 source_transcript: ../transcripts/2026-04-01-they-solved-ais-memory-problem.md
-source_summary_hash: sha256:22416cc2218640a27ca4519f1467a2eb351e6c6359c002454fd89688e718cbad
+source_summary_hash: sha256:c6c52faa64629a518adeca36ab507cb05643e78109f3d47ae8202129c106bc1f
 source_transcript_hash: sha256:bd223f3cbdbb5d3deced2ca4d6cfbea9d639a09473e5cd9e7022ef2894e08911
-fill_id: 2211a15f-f89f-4c5c-9c6c-dc2a256d89ee
-published_at: '2026-05-19T04:50:16.610220'
+fill_id: abd0dbcc-ce02-458c-bb60-accb4c4aa8ed
+published_at: '2026-10-19T20:27:20.160780'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-The Kimi team's 'Attention Residuals' paper fixes the signal dilution caused by residual connections in deep AI models. By applying transformer-style attention to the depth dimension, each layer selectively inspects previous layers instead of receiving a mixed cumulative signal. This allows for deeper, more efficient models that dynamically rewire themselves per input, resembling neural plasticity.
+Attention Residuals fix AI's amnesia by applying the transformer's attention mechanism to the depth dimension of neural networks. This allows each layer to selectively retrieve information from any previous layer, preventing signal dilution and enabling deeper, more efficient models. The result is a 1.25x compute saving and a 7.5-point jump on graduate-level science benchmarks.
 
 ## The argument
 
-### The Amnesia of Residual Connections
-- **Anchor Timestamps**: ['00:00:51', '00:04:54']
-- **Claim**: Standard residual connections cause signal dilution as data flows through hundreds of layers. The cumulative pile of data buries early information, creating 'AI amnesia' where the model loses the thread of its original intent.
+### Residual connections cause signal dilution
+- **Anchor Timestamps**: ['00:03:52']
+- **Claim**: Residual connections, which enabled deep models, create a cumulative signal that buries early information. As layers add outputs, the total magnitude grows, shrinking each layer's contribution and causing amnesia.
 - **Role**: definition
 
-### Applying Attention to Depth
-- **Anchor Timestamps**: ['00:08:38', '00:10:41']
-- **Claim**: The Kimi team applies the transformer's attention mechanism to the model's depth dimension. Instead of a linear conveyor belt, each layer uses Query, Key, and Value vectors to selectively retrieve relevant information from any previous layer, preventing signal entanglement.
+### Apply attention to depth
+- **Anchor Timestamps**: ['00:09:44']
+- **Claim**: The Kimi team's insight: transformers solved RNN amnesia by using attention over text. Applying the same QKV attention mechanism to the depth dimension lets each layer selectively retrieve from any previous layer, preventing signal dilution.
+- **Role**: definition
+
+### Block attention residuals for scalability
+- **Anchor Timestamps**: ['15:31']
+- **Claim**: Full attention residuals require excessive data transfer across server racks. Block attention residuals segment the model, using attention within blocks and linear communication between blocks, making it practical for data centers.
+- **Role**: counter
+
+### Empirical gains: compute and reasoning
+- **Anchor Timestamps**: ['19:36']
+- **Claim**: Attention residuals achieve the same performance with 1.25x less compute, saving millions in training costs. On GPQA Diamond, they jump 7.5 points, showing improved multi-step reasoning.
 - **Role**: evidence
 
-### Block Attention for Infrastructure
-- **Anchor Timestamps**: ['00:15:31', '00:17:00']
-- **Claim**: Full attention residuals create excessive data traffic between server racks. The 'block attention residuals' variant limits attention within local blocks and sends only summaries between racks, making the architecture compatible with distributed data center infrastructure.
-- **Role**: synthesis
-
-### Dynamic Neural Plasticity
-- **Anchor Timestamps**: ['00:23:15', '00:24:30']
-- **Claim**: The model develops long-range connections and specialization, resembling the human brain's neural plasticity. It dynamically rewires itself per input, proving that depth is an advantage rather than a limitation for reasoning.
+### Depth becomes an advantage
+- **Anchor Timestamps**: ['00:20:46']
+- **Claim**: With attention residuals, deeper models no longer collapse. Experiments with 25 model shapes show depth improves performance, enabling longer reasoning chains and dynamic rewiring, resembling neural plasticity.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The Kimi team's approach yields a 1.25x compute savings during training and a 7.5-point jump on graduate-level science benchmarks (GPQA Diamond). It outperforms DeepSeek's MHC. The model keeps signals bounded and stable, distributing learning signals evenly across layers. However, the speaker notes that full attention residuals are inefficient for massive models due to physics limitations on data traffic between server racks, necessitating the block variant. The speaker also hedges that the video simplifies the extremely technical paper.
+The paper reports 1.25x compute savings and a 7.5-point GPQA Diamond improvement. Block attention residuals make it compatible with distributed infrastructure. The host notes the paper is extremely technical and simplified. The analogy of a buffet illustrates selective retrieval. The host also mentions that previous fixes like scaled residual paths failed, but attention residuals address the core issue.
 
 ## Concepts surfaced
 
-[[transformer-architecture]] · [[residual-connections]] · [[vanishing-gradient]] · [[neural-plasticity]] · [[pipeline-parallelism]] · [[attention-mechanism]]
+[[transformer-architecture]] · [[attention-mechanism]] · [[residual-connections]] · [[vanishing-gradient-problem]] · [[neural-plasticity]]
