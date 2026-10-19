@@ -4,44 +4,43 @@ template_id: tech-overview
 template_version: 1
 source_summary: ../summaries/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg.md
 source_transcript: ../transcripts/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg.md
-source_summary_hash: sha256:0c46c36f00a21b6a2c8eab965d0a2e91b6988a6be65cefd8a58bee959b6e0249
+source_summary_hash: sha256:db3684bc476ba32fecceea1dce19892fd411ded82a7e8aba42d4acd6972d59b2
 source_transcript_hash: sha256:88c3d33417cc0b45d1bfacf750784e142f2c9d03df91db0eb15d7745a91f0af6
-fill_id: c5bd2059-4ea9-48bc-b867-7e06bcf1f6cd
-published_at: '2026-05-18T22:53:10.616845'
+fill_id: 5f109e9f-f35b-4ed6-948a-ac8a4ae1d70f
+published_at: '2026-10-19T19:56:07.855762'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Open-source 3D generation hits new accuracy with Pixel 3D, while expressive TTS and interactive world models expand real-time AI capabilities.
+Pixel 3D and Just Dub It lead this week's open-source releases, with new interactive world models and expressive TTS tools.
 
 ## Tools covered
 
 ### Just Dub It
-- **Vendor**: Unknown
+- **Vendor**: LTX
 - **Category**: video
 - **Timestamp**: [00:58](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=58)
-- **Why It Matters**: Dubs video to new languages with accurate lip-sync alignment, outperforming competitors like Hijen.
-- **Sota Comparison**: Outperforms other methods like Hijen for dubbing tasks.
+- **Why It Matters**: Dubs videos into new languages while adjusting lip sync, based on LTX 2.3, outperforming methods like Hijen.
+- **Sota Comparison**: Beats other dubbing methods like Hijen in lip-sync accuracy.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, 2.5 GB
 
 ### Pixel 3D
 - **Vendor**: Unknown
-- **Category**: image
-- **Timestamp**: [02:27](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=147)
-- **Why It Matters**: Generates high-fidelity 3D models from single images using pixel-aligned geometry for superior accuracy.
-- **Sota Comparison**: More accurate and detailed than competitors like Hunyen 3D and Trellis 2.
+- **Timestamp**: [02:07](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=127)
+- **Why It Matters**: High-fidelity image-to-3D generator with pixel-aligned geometry, superior to competitors like Hunyuan 3D and Trellis 2.
+- **Sota Comparison**: Beats Hunyuan 3D and Trellis 2 in accuracy and detail.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, 24 GB models
 
 ### Asymmetric Flow Models
 - **Vendor**: Unknown
 - **Category**: image
 - **Timestamp**: [04:09](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=249)
-- **Why It Matters**: Generates images directly in pixel space, bypassing latent space for sharper, hyperrealistic textures.
-- **Sota Comparison**: Better visual fidelity than latent-space models and Quinn Image.
+- **Why It Matters**: Image generator that works directly in pixel space, bypassing latent space and VAE, producing hyperrealistic images with sharper textures.
+- **Sota Comparison**: Outperforms latent-space models like Qwen Image in realism and quality.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
@@ -49,143 +48,133 @@ Open-source 3D generation hits new accuracy with Pixel 3D, while expressive TTS 
 - **Vendor**: Nvidia
 - **Category**: world-model
 - **Timestamp**: [06:31](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=391)
-- **Why It Matters**: Tiny 2.8B parameter open-source world model creating interactive worlds from images and text prompts.
-- **Sota Comparison**: New entry in open-source interactive world models.
+- **Why It Matters**: Tiny 2.8B parameter open-source world model that turns images into interactive worlds on a single GPU, with persistent memory.
+- **Sota Comparison**: New category of efficient world models.
 - **Sota Band**: new
-- **Access Constraint**: Coming soon
+- **Access Constraint**: Open-source, models coming soon
 
 ### Warp as History
 - **Vendor**: Unknown
 - **Category**: world-model
-- **Timestamp**: [07:44](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=464)
-- **Why It Matters**: Generates consistent interactive video from image, text, and keyboard inputs.
-- **Sota Comparison**: Competes with other interactive world generators.
+- **Timestamp**: [08:07](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=487)
+- **Why It Matters**: Interactive world generator from image and text prompts with keyboard controls, maintaining scene consistency.
+- **Sota Comparison**: Comparable to other interactive world models.
 - **Sota Band**: parity
 - **Access Constraint**: Open-source
 
 ### Fi Motion
 - **Vendor**: Unknown
 - **Category**: video
-- **Timestamp**: [08:30](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=510)
-- **Why It Matters**: Fixes anatomical errors in AI video using a physics-based reward system for realistic motion.
-- **Sota Comparison**: Fixes common anatomy issues in video generation.
-- **Sota Band**: beats
+- **Timestamp**: [08:44](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=524)
+- **Why It Matters**: Reward system that fixes anatomical errors in AI-generated videos by scoring physical plausibility via physics simulation.
+- **Sota Comparison**: Improves anatomy in video generation, not yet perfect.
+- **Sota Band**: inferred
 - **Access Constraint**: Open-source
 
 ### Interaction Models
 - **Vendor**: Thinking Machines
 - **Category**: agent
-- **Timestamp**: [10:50](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=650)
-- **Why It Matters**: Real-time models that interrupt, pause, and react to audio/video cues like human collaborators.
+- **Timestamp**: [10:06](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=606)
+- **Why It Matters**: Real-time models that process audio, video, and text simultaneously, enabling natural interruptions and collaborative dialogue.
 - **Sota Comparison**: New paradigm for real-time AI interaction.
 - **Sota Band**: new
-- **Access Constraint**: Research Preview
+- **Access Constraint**: Limited research preview coming months
 
 ### Causal Scene
 - **Vendor**: Unknown
 - **Category**: video
 - **Timestamp**: [13:51](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=831)
-- **Why It Matters**: Streams long, consistent multi-shot videos in real-time using causal generation.
-- **Sota Comparison**: More consistent than Infinity Rope, Long Live, and Memlow.
+- **Why It Matters**: Real-time multi-shot video generation with causal streaming and memory reuse for consistency across shots.
+- **Sota Comparison**: More consistent than Infinity Rope, Long Live, Memlow, and Self-Forcing.
 - **Sota Band**: beats
-- **Access Constraint**: Technical Paper
+- **Access Constraint**: Technical paper only
 
 ### Reit Live
 - **Vendor**: Unknown
 - **Category**: video
 - **Timestamp**: [15:13](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=913)
-- **Why It Matters**: Relights videos with adjustable warmth, harshness, angle, and environmental maps.
-- **Sota Comparison**: Top tool for video relighting.
-- **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Why It Matters**: Relights videos with adjustable warmth, harshness, angle, and environmental maps, including metallic surfaces.
+- **Sota Comparison**: One of the best relighting tools.
+- **Sota Band**: inferred
+- **Access Constraint**: Open-source, 24 GB VRAM
 
 ### Mini CPMv4.6
 - **Vendor**: Unknown
 - **Category**: multimodal
 - **Timestamp**: [16:48](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1008)
-- **Why It Matters**: Tiny vision-language model running locally on phones with high efficiency and reasoning performance.
-- **Sota Comparison**: Outperforms similar-sized models in reasoning and document analysis.
+- **Why It Matters**: Tiny vision-language model that runs on phones, handling images, video, and text with high efficiency.
+- **Sota Comparison**: Outperforms similar-sized models in reasoning, STEM, document analysis, and GUI understanding.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, 2.6 GB
 
 ### Korea 2
 - **Vendor**: Unknown
 - **Category**: image
-- **Timestamp**: [18:15](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1095)
-- **Why It Matters**: Image model focused on artistic style and creative control rather than raw prompt following.
-- **Sota Comparison**: Less performant than GPT Image 2 but offers unique artistic style.
+- **Timestamp**: [18:14](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1094)
+- **Why It Matters**: Image foundation model focused on style and creative control, with style cloning from reference images.
+- **Sota Comparison**: Not as performant as GPT Image 2.
 - **Sota Band**: behind
-- **Access Constraint**: Closed-source
+- **Access Constraint**: Closed source
 
-### Codeex Mobile
+### Codex Mobile
 - **Vendor**: OpenAI
 - **Category**: coding
-- **Timestamp**: [20:55](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1255)
-- **Why It Matters**: Allows remote monitoring and steering of coding agents from iOS/Android devices.
-- **Sota Comparison**: New feature for existing coding agent workflow.
+- **Timestamp**: [19:16](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1156)
+- **Why It Matters**: Remote control for coding agent from phone, allowing monitoring and approval while away from computer.
+- **Sota Comparison**: New capability for coding agents.
 - **Sota Band**: new
-- **Access Constraint**: Preview
-
-### Higsfield MCP
-- **Vendor**: Higsfield
-- **Category**: tool
-- **Timestamp**: [21:58](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1318)
-- **Why It Matters**: Enables agents like Claude to generate and ship media end-to-end via MCP.
-- **Sota Comparison**: First proper Claude-to-media pipeline.
-- **Sota Band**: new
-- **Access Constraint**: Commercial
+- **Access Constraint**: Preview on iOS/Android, macOS only
 
 ### Open-Source Music Generator
 - **Vendor**: Unknown
 - **Category**: music
-- **Timestamp**: [23:47](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1427)
-- **Why It Matters**: Generates full songs with text prompts and lyrics.
-- **Sota Comparison**: May not yet beat Step 1.5 XL.
-- **Sota Band**: behind
-- **Access Constraint**: Open-source
+- **Timestamp**: [22:53](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1373)
+- **Why It Matters**: Generates full songs from text prompts and lyrics, with clean stereo output.
+- **Sota Comparison**: Uncertain if better than Stable Audio 1.5 XL.
+- **Sota Band**: inferred
+- **Access Constraint**: Open-source, 24 GB VRAM
 
 ### Flex 2
 - **Vendor**: Zy Nova
-- **Category**: tool
+- **Category**: other
 - **Timestamp**: [25:11](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1511)
-- **Why It Matters**: Super dextrous robotic hand with 23 degrees of freedom and high precision.
-- **Sota Comparison**: New high-precision robotic hand.
+- **Why It Matters**: Super dexterous robotic hand with 23 degrees of freedom, precise force control, and lightweight design.
+- **Sota Comparison**: New high-spec robotic hand.
 - **Sota Band**: new
-- **Access Constraint**: Commercial
+- **Access Constraint**: Not specified
 
-### Uni GD01
-- **Vendor**: Uni
-- **Category**: tool
-- **Timestamp**: [27:08](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1628)
-- **Why It Matters**: Manned transformable Mecha robot capable of bipedal and quadrupedal movement.
-- **Sota Comparison**: More agile than current Japanese/Korean Mecha prototypes.
+### GD01
+- **Vendor**: Unitree
+- **Category**: other
+- **Timestamp**: [27:24](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1644)
+- **Why It Matters**: Manned transformable mecha robot that walks bipedally or quadrupedally, priced at $650,000.
+- **Sota Comparison**: More agile than other mecha robots from Japan and Korea.
 - **Sota Band**: beats
 - **Access Constraint**: Prototype
 
-### Articraft
+### Articcraft
 - **Vendor**: Unknown
-- **Category**: 3d
 - **Timestamp**: [28:08](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1688)
-- **Why It Matters**: Generates articulated 3D objects by coding them via AI agents.
-- **Sota Comparison**: Automates articulated object generation pipeline.
+- **Why It Matters**: Generates articulated 3D objects with moving parts, using AI coding agents to define geometry and joints.
+- **Sota Comparison**: New approach to articulated 3D generation.
 - **Sota Band**: new
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, agent-agnostic
 
 ### ChatGPT Finance
 - **Vendor**: OpenAI
-- **Category**: agent
+- **Category**: tool
 - **Timestamp**: [31:19](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1879)
-- **Why It Matters**: Connects financial accounts to provide context-aware personal finance assistance.
-- **Sota Comparison**: New feature for ChatGPT Pro users.
+- **Why It Matters**: Personal finance assistant inside ChatGPT, connecting accounts via Plaid and Intuit for context-based answers.
+- **Sota Comparison**: New feature, not perfect on benchmark.
 - **Sota Band**: new
-- **Access Constraint**: Preview
+- **Access Constraint**: Preview for Pro users in US
 
-### Track Crafter
+### Trackcrafter
 - **Vendor**: Unknown
 - **Category**: video
-- **Timestamp**: [33:00](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1980)
-- **Why It Matters**: Tracks pixels through 3D space using repurposed video diffusion models.
-- **Sota Comparison**: Beats Motion Tracker and Any 4D in pixel tracking.
+- **Timestamp**: [33:12](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=1992)
+- **Why It Matters**: Tracks every pixel through 3D space using repurposed video diffusion model, useful for dynamic scene understanding.
+- **Sota Comparison**: Beats Motion Tracker and Any4D in pixel tracking benchmarks.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
@@ -193,26 +182,26 @@ Open-source 3D generation hits new accuracy with Pixel 3D, while expressive TTS 
 - **Vendor**: Unknown
 - **Category**: video
 - **Timestamp**: [34:56](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2096)
-- **Why It Matters**: Changes camera movement in existing videos while preserving original motion.
-- **Sota Comparison**: New tool for camera manipulation.
+- **Why It Matters**: Changes camera movement in existing videos, including bullet time effects, while preserving original motion.
+- **Sota Comparison**: New capability for video editing.
 - **Sota Band**: new
-- **Access Constraint**: Coming soon
+- **Access Constraint**: Code and models coming soon
 
 ### DreamX World
 - **Vendor**: Unknown
 - **Category**: world-model
-- **Timestamp**: [35:45](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2145)
-- **Why It Matters**: Interactive world generator with flexible character and environment control.
-- **Sota Comparison**: Competes with Sonnet WM and Warp as History.
+- **Timestamp**: [35:48](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2148)
+- **Why It Matters**: Interactive world generator with key press control and mid-prompt additions, flexible across styles and perspectives.
+- **Sota Comparison**: Comparable to other interactive world models.
 - **Sota Band**: parity
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, 5B model
 
-### DeepMind Cursor
+### AI Mouse Pointer
 - **Vendor**: Google DeepMind
 - **Category**: tool
-- **Timestamp**: [36:15](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2175)
-- **Why It Matters**: AI-powered cursor that understands context and actions based on what is pointed at.
-- **Sota Comparison**: New interaction paradigm for computer use.
+- **Timestamp**: [36:40](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2200)
+- **Why It Matters**: Prototype that turns cursor into AI assistant, understanding context and intent, powered by Gemini.
+- **Sota Comparison**: New interaction paradigm.
 - **Sota Band**: new
 - **Access Constraint**: Prototype
 
@@ -220,26 +209,26 @@ Open-source 3D generation hits new accuracy with Pixel 3D, while expressive TTS 
 - **Vendor**: Unknown
 - **Category**: audio
 - **Timestamp**: [38:09](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2289)
-- **Why It Matters**: Expressive TTS with stage directions, emotion control, and accent changes.
-- **Sota Comparison**: Highly expressive TTS tool.
-- **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Why It Matters**: Expressive TTS with voice cloning, stage direction, emotion control, and accent changes, based on LTX 2.3.
+- **Sota Comparison**: New level of expressiveness in TTS.
+- **Sota Band**: new
+- **Access Constraint**: Open-source, 16 GB VRAM
 
 ### Drama Box
 - **Vendor**: Resemble AI
 - **Category**: audio
-- **Timestamp**: [43:33](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2613)
-- **Why It Matters**: TTS generator with phonetic vocalizations and scene direction support.
-- **Sota Comparison**: Competes with Cinema Audio.
+- **Timestamp**: [42:40](https://www.youtube.com/watch?v=NnsQj2nDkKA&t=2560)
+- **Why It Matters**: TTS with voice cloning, scene direction, and phonetic vocalizations like laughter, also based on LTX 2.3.
+- **Sota Comparison**: Similar to Cinema Audio in capabilities.
 - **Sota Band**: parity
-- **Access Constraint**: Open-source
+- **Access Constraint**: Open-source, 24 GB VRAM
 
 
 
 ## Wider context
 
-The week highlights a shift toward open-source, high-fidelity 3D generation and expressive audio models. Interactive world models and real-time agents are becoming more accessible, while hardware demos like Mecha robots push physical AI boundaries.
+This week's releases show a clear trend: open-source models are closing the gap with closed systems across multiple domains, from 3D generation to video dubbing. The emergence of interactive world models and expressive TTS tools indicates a shift toward more immersive and controllable AI experiences. The focus on efficiency and on-device deployment suggests a move toward practical, accessible AI applications.
 
 ## Read next
 
-[[interactive-world-models]] · [[text-to-speech]] · [[3d-generation]] · [[robotics]] · [[open-source-ai]] · [[real-time-agents]]
+[[open-source-ai]] · [[world-models]] · [[text-to-speech]] · [[3d-generation]] · [[video-generation]]

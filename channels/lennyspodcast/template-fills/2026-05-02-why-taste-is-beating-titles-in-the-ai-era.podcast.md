@@ -4,10 +4,10 @@ template_id: podcast
 template_version: 1
 source_summary: ../summaries/2026-05-02-why-taste-is-beating-titles-in-the-ai-era.md
 source_transcript: ../transcripts/2026-05-02-why-taste-is-beating-titles-in-the-ai-era.md
-source_summary_hash: sha256:95ac210332d20ee9869d8c3fb77da4346ced82173e37e11f180d3d048e303668
+source_summary_hash: sha256:6fe433101b442c775fb251fa55d3f52e104417342a939b871b5b359d261d9421
 source_transcript_hash: sha256:4f1364e7beea772103137d3b5d477d0dc298e246ddf56a3fd517572d720fd604
-fill_id: 37a3d89a-a42a-4cf2-8f22-e48dadf2a279
-published_at: '2026-05-19T15:46:02.762893'
+fill_id: 3fa73b64-04ed-42fb-8f4f-2c526aad7268
+published_at: '2026-10-19T20:06:51.416892'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
@@ -17,7 +17,7 @@ provenance: agent:template-fill-v1
 - **Name**: Max Shing
 - **Title**: Head of Product at Notion
 - **Org**: Notion
-- **Bio Oneliner**: Former design leader at Heroku and GitHub, two-time founder, and AI-forward product strategist.
+- **Bio Oneliner**: Product leader at Notion, previously at GitHub, Heroku, and Google; advocate for malleable software and AI-native workflows.
 - **Platform**: duo
 
 ## Cold open
@@ -26,74 +26,88 @@ provenance: agent:template-fill-v1
 - **Attribution**: Max Shing
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
 
-### Taste actually means you're able to run a virtual machine in your head where given an idea, you can predict for a certain inroup whether they're going to like it or not.
+### Taste actually means you're able to run a virtual machine in your head where given an idea, you can predict for a certain inroup whether they're going to like it or not. You just have to do reps. It's almost like training a model.
+- **Attribution**: Max Shing
+- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
+
+### All the great products have something tiny that is a superpower. one tiny core that is so exceptionally good. One of the biggest pitfalls is if you get into the loop of if I just add one more thing to the product, it will be finally great. That never works.
+- **Attribution**: Max Shing
+- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
+
+### We already have universal basic income. It's called knowledge work.
 - **Attribution**: Max Shing
 - **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
 
 ## Key arguments
 
-### Agency beats skill in the AI era
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
-- **Summary**: AI lowers the barrier to entry, making technical skills less of a differentiator. The critical new skill is agency: the belief that the world is malleable and the willingness to build things without waiting for permission or perfect conditions.
+### Agency is the new differentiator
+- **Timestamp**: [11:04](https://www.youtube.com/watch?v=mCO-D3pkviM&t=664)
+- **Summary**: Max argues that as AI removes skill barriers, the key trait for success is agency—the belief that you can change things. He contrasts this with those who cling to rigid role definitions, predicting they will struggle.
 - **Anchor Quotes**: [0]
 
-### Taste as predictive simulation
-- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
-- **Summary**: Taste is defined as the ability to simulate how a specific user group will react to an idea. It is built through repetition and feedback loops, similar to training a model, rather than innate genius.
+### Taste is trainable through reps
+- **Timestamp**: [57:19](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3439)
+- **Summary**: Max defines taste as the ability to predict user reactions, which can be developed through iterative feedback loops, much like training a model. He emphasizes that taste is not innate but built through exposure and practice.
 - **Anchor Quotes**: [1]
 
-### The myth of the SaaS apocalypse
-- **Timestamp**: [24:36](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1476)
-- **Summary**: While AI makes building software easier, most users do not want to maintain their own tools. Specialized maintenance and engineering remain valuable, meaning SaaS will evolve rather than disappear.
-
-### The power of the tiny core
+### Focus on a tiny core superpower
 - **Timestamp**: [01:01:15](https://www.youtube.com/watch?v=mCO-D3pkviM&t=3675)
-- **Summary**: Great products have one tiny, exceptionally good core feature. Adding more features rarely makes a product great; instead, it often dilutes the core value that made it successful.
+- **Summary**: Max argues that great products are built around a single, exceptionally good core feature, not by adding endless features. He warns against the 'one more thing' trap and cites examples like GitHub's pull request and Notion's blocks.
+- **Anchor Quotes**: [2]
 
-### Malleable software and ownership
-- **Timestamp**: [17:58](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1078)
-- **Summary**: Software should work closer to the user's interest than the corporation's. Users need ownership and the ability to tweak their tools, moving away from rigid, 'ivory tower' designed applications.
+### SaaS apocalypse is exaggerated
+- **Timestamp**: [24:36](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1476)
+- **Summary**: Max contends that while tools will become more general and malleable, the 'as a service' model persists because users don't want to maintain software. He predicts a shift toward general tools with specialized maintenance still valued.
+
+### Knowledge work is already UBI
+- **Timestamp**: [01:07:50](https://www.youtube.com/watch?v=mCO-D3pkviM&t=4070)
+- **Summary**: Max provocatively suggests that knowledge work already provides a form of universal basic income, given how little is needed for contentment. He argues that humans will always find ways to insert themselves into loops, even with AGI.
+- **Anchor Quotes**: [3]
 
 ## Quotes to remember
 
-### One day you wake up and you realize the world is made up by people no smarter than you. It just really awakens you to the idea that you can just change things.
+### I think the first 10% of every project are now free.
 - **Speaker**: Max Shing
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
+- **Timestamp**: [28:50](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1730)
 
-### The first 10% of every project are now free. It takes almost no effort to now build the first version of a startup.
+### The universe is change and life is what you make it.
 - **Speaker**: Max Shing
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=0)
+- **Timestamp**: [01:24:26](https://www.youtube.com/watch?v=mCO-D3pkviM&t=5066)
 
-### All the great products have something tiny that is a superpower. One tiny core that is so exceptionally good.
+### One day you wake up and you realize the world is made up by people no smarter than you.
 - **Speaker**: Max Shing
-- **Timestamp**: [00:39](https://www.youtube.com/watch?v=mCO-D3pkviM&t=39)
+- **Timestamp**: [16:00](https://www.youtube.com/watch?v=mCO-D3pkviM&t=960)
 
-### Software is like a garden. You need to tend to it. The thing you pay for in SaaS is the maintenance and a bunch of specialists thinking really hard about a problem.
+### I think the first 10% of every project are now free.
 - **Speaker**: Max Shing
-- **Timestamp**: [24:36](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1476)
+- **Timestamp**: [28:50](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1730)
 
-### If you speak German, this is one of the funniest clips. He breaks that veil of like no this is so stupid. What is this? What is this bunch of cabinets tied together?
+### I think the first 10% of every project are now free.
 - **Speaker**: Max Shing
-- **Timestamp**: [22:33](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1353)
+- **Timestamp**: [28:50](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1730)
 
 ## Predictions
 
-### In six to 12 months, many companies will start asking uncomfortable questions about RARI (Return on AI Investment) as token spend becomes unsustainable.
-- **Hedge**: Depends on whether the gap between frontier and open-weight models widens or stays competitive.
+### In 6-12 months, companies will start asking questions about ROI on AI token spend, leading to uncomfortable conversations.
+- **Hedge**: I suspect
 - **Timestamp**: [34:51](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2091)
 
-### Software engineering capabilities will accelerate into other domains like HR and marketing, rather than those domains developing their own distinct AI models.
-- **Hedge**: Assuming the cost of creating software continues to approach zero.
-- **Timestamp**: [42:43](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2563)
+### Software will become more general, returning to tools like word processors and spreadsheets, but still offered as a service.
+- **Hedge**: I suspect
+- **Timestamp**: [26:06](https://www.youtube.com/watch?v=mCO-D3pkviM&t=1566)
+
+### If the gap between frontier labs and open-weight models widens, labs will dictate the future; if not, diffusion will occur with people running their own models.
+- **Hedge**: You can imagine a world where...
+- **Timestamp**: [45:30](https://www.youtube.com/watch?v=mCO-D3pkviM&t=2730)
 
 ## Lightning round
 
-- **Books**: ['Code: The Hidden Language of Computer Hardware and Software', 'Tools for Conviviality', 'Seeing Like a State']
+- **Books**: ['Code by Charles Petzold', 'Tools for Conviviality by Ivan Illich', 'Seeing Like a State']
 - **Media**: ['Project Hail Mary', "The Handmaid's Tale"]
-- **Products**: ['Ghostty terminal emulator', 'Moshi app', 'Corné split keyboard', 'Cevivi pocket knife']
+- **Products**: ['Ghostty terminal emulator', 'Moshi', 'Corne keyboard', 'Civivi pocket knife']
 - **Motto**: The universe is change and life is what you make it.
-- **Advice**: Don't let the frenetic rush of Silicon Valley distract you from what you care about. Read history, realize the world is made by people no smarter than you, and exercise agency by building things.
+- **Advice**: Go for a walk and look at how everything around you is made by people no smarter than you. Realize you have more agency than you think, and exercise it.
 
 ## Concepts surfaced
 
-[[agency-over-skill]] · [[taste-as-simulation]] · [[malleable-software]] · [[tiny-core-product]] · [[saas-evolution]] · [[ai-roi]] · [[design-engineering-merge]] · [[user-ownership]]
+[[agency]] · [[taste]] · [[malleable-software]] · [[saas-apocalypse]] · [[ai-native]] · [[knowledge-work]] · [[product-design]] · [[agentic-workflows]]

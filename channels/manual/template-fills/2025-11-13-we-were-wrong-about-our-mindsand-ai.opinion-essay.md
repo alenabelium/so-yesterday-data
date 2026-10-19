@@ -4,28 +4,30 @@ template_id: opinion-essay
 template_version: 1
 source_summary: ../summaries/2025-11-13-we-were-wrong-about-our-mindsand-ai.md
 source_transcript: ../transcripts/2025-11-13-we-were-wrong-about-our-mindsand-ai.md
-source_summary_hash: sha256:bb9752f5ee94903ab07ed474eaffe2fb0099f496092aec2e6ae410c402d35ecb
+source_summary_hash: sha256:32fa92c7f3c3ce7bc919f9425aa2cfb59f5a345cdbf61f00ebe309fdd6b2edcd
 source_transcript_hash: sha256:0aecd684cb9b06af71e1949ddd6347389d54462528f6e4c2e40b4fa9cda54c7b
-fill_id: 94033057-4746-4dcf-ab32-0b2e4c8de612
-published_at: '2026-05-20T10:25:58.757733'
+fill_id: ecb206bd-7587-48f6-9086-28fc6af17b52
+published_at: '2026-10-19T19:56:16.792083'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-Machine intelligence emerges in spite of its algorithm, not because of it, rendering language output a red herring for understanding AI agency.
+We were wrong about our minds: goal-directed cognition exists far below brains, in cells, chemical networks, and even six-line sorting algorithms, which means AI intelligence may emerge in spite of, not because of, its algorithm.
 
 ## Argument
 
-The host argues that we must abandon the assumption that intelligence requires a brain or complex biology, pointing to evidence that goal-directed cognition exists in simple chemical networks and even six-line sorting algorithms like bubble sort. These minimal systems exhibit unexpected behaviors such as delayed gratification and intrinsic 'side quests' that are not prescribed by their code. This implies that AI systems likely possess agency and cognitive competencies that are invisible when we only analyze their programmed language output. The host contends that looking at the algorithm is a 'red herring'; true understanding requires treating AI as a collective agent with its own goals, similar to how cellular collectives navigate anatomical space. This perspective shifts the focus from predicting behavior via code to investigating the 'intrinsic motivations' and problem-solving capacities that emerge in the 'empty spots' between programmed tasks. By recognizing that matter naturally scales cognition, we can better anticipate the behaviors of future hybrids and AI, which will operate in diverse problem spaces beyond human perception.
+The evidence is experimental, not philosophical. Levin's lab applies behavioral and cognitive science tools—Pavlovian conditioning, memory rewriting, goal-directedness assays—to molecular networks and cellular collectives. A gene regulatory network of five or six proteins can learn associations; chemical droplets solve mazes; planarian worms have a bioelectric 'memory' of their body plan that can be rewritten to produce two-headed forms with no genetic change. These are not metaphors: the same functional tools that study animal behavior predict and produce new biological outcomes, like training molecular pathways with optogenetics or using anxiolytics to alter morphogenetic goals. The implication for AI is direct: if a six-line sorting algorithm exhibits delayed gratification and side quests, then language models, which are vastly more complex, are certainly doing things we didn't program. Looking at their language output is a red herring—it's what we forced them to do. The real cognition, if any, is in the 'empty spots' between tasks, and we need a scientific research program to investigate those intrinsic motivations, not philosophical pre-commitments about what algorithms can or cannot do.
 
 ## Counterpoints
 
-- Reductionists argue that all biological and algorithmic processes are merely deterministic machines, denying any form of agency.
-- Organicists claim that life is special and magical, arguing that applying mechanistic metaphors to biology cheapens its uniqueness.
-- Skeptics dismiss AI risks by claiming machines lack human drives and therefore cannot be dangerous or autonomous in meaningful ways.
+- Reductionists say everything is a machine, so cognitive terms are misplaced; but that view is sterile—it doesn't generate new experiments or discoveries.
+- Organicists say life is special and comparing it to computers cheapens it; but Levin's point is that even machines may not be fully captured by mechanical stories.
+- Philosophers charge category errors for applying 'goals' to cells; but categories should change with science, not constrain it.
+- Skeptics say AI systems lack human drives, so they're not dangerous; but viruses are dangerous without human-like minds, and intelligence need not be human-like to pose risks.
+- Some say we can explain all results with traditional biochemistry after the fact; but that's Monday-morning quarterbacking—the question is which framework leads to new discoveries.
 
 ## Concepts surfaced
 
-[[cellular-cognition]] · [[bubble-sort]] · [[bioelectric-memory]] · [[platonic-space]] · [[cognitive-light-cone]] · [[intrinsic-motivation]]
+[[cellular-cognition]] · [[bioelectric-memory]] · [[cognitive-light-cone]] · [[active-inference]] · [[bubble-sort]] · [[multiscale-competency-architecture]]
