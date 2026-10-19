@@ -6,27 +6,28 @@ source_summary: ../summaries/2026-10-16-banks-just-slammed-the-brakes-on-ai-lend
 source_transcript: ../transcripts/2026-10-16-banks-just-slammed-the-brakes-on-ai-lending.md
 source_summary_hash: sha256:1e9ddf634da6fc29076bc7a585993dfee29c6de9f240fc56c6ad9cb5c5c40c80
 source_transcript_hash: sha256:b4bba639883872f442a5b2819cca1f294e21028154224d59579e640034e5dd80
-fill_id: bc709073-4eb5-4739-974d-c31a4a5331d8
-published_at: '2026-10-19T10:05:14.959802'
+fill_id: 20f8394e-060a-428f-b697-2583d0a51c36
+published_at: '2026-10-19T11:05:19.442453'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI makes software cheap to copy, but copying has never made software worthless, and the real value may flow to users rather than to AI companies or their lenders.
+AI makes software cheap to copy, but that does not make software worthless; the value it creates is shifting to users, not to AI companies or their lenders.
 
 ## Argument
 
-The first bet—that AI renders software useless—is tested by Brendan Thomas's free Adobe clones. He built seven apps with Claude Opus 5.5, but they only cover a fraction of professional features. A Chinese tech store found PhotoCraft matches Photoshop's smart filters only 5 times out of 30, and users report slow, error-prone performance. Free copies have existed for decades—GIMP since the mid-1990s, LibreOffice with 200 million users versus Office's 1.2 billion—yet Adobe's creative segment grew 13% to $4.65 billion in the last quarter. The second bet—that AI companies can't repay their debts—is supported by lending data: AI loans fell from $113 billion in June to $23 billion in September, and credit default swap costs hit records for Oracle, Coreweave, and even Amazon, Alphabet, Meta, and Nvidia. This signals real caution, not just early borrowing. The value created by AI likely goes to users through lower prices, not to AI companies or lenders, leaving the middle—data center builders like Coreweave—with the risk.
+The mechanism is economic, and it is playing out in two contradictory market bets. One bet says AI is so powerful it will render software useless, as seen in Adobe's 30% share drop despite its best quarter ever. The other bet says AI companies may not earn enough to repay their debts, with AI-backed loans collapsing from $113 billion to $23 billion since June and credit insurance costs hitting record highs. If AI truly killed software, the companies creating it would be the safest borrowers—but lenders are acting otherwise.
+
+The evidence for the first bet is a developer's claim to have rebuilt the entire Adobe suite for free using AI. But these open-source apps, like Photo Craft and Film Craft, cover only a fraction of professional features. Tests show they match Photoshop's output only five times out of 30 on smart filters, and five of seven apps are still 'in development.' This is not new—free alternatives like GIMP and LibreOffice have existed for decades without displacing paid software. Free is a surprisingly difficult price to sell because professionals pay for reliability, file compatibility, and habit, not just the code.
+
+The second bet is more troubling. Lenders are lending less and charging more. Credit default swaps on Oracle and Coreweave debt have spiked, with Coreweave's insurance rising from $3.60 to over $10 in nine days. Even Amazon, Alphabet, Meta, and Nvidia saw record insurance costs. This is real caution, not just companies having borrowed early.
+
+So where does the value go? It may flow to model developers like Anthropic, or it may disappear into
 
 ## Counterpoints
 
-- Borrowing fell because companies already raised enough earlier in the year; Morgan Stanley's own explanation.
-- Rising interest rates, not AI-specific risk, explain higher credit insurance costs.
-- Demand for AI chips is real—TSMC posted its sixth consecutive record quarter.
-- Free copies have never outperformed paid software before, so why would AI change that?
+
 
 ## Concepts surfaced
-
-[[ai-lending]] · [[credit-default-swaps]] · [[open-source-software]] · [[ai-software-copying]] · [[data-center-financing]]
