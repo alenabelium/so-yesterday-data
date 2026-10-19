@@ -6,31 +6,26 @@ source_summary: ../summaries/2026-10-16-banks-just-slammed-the-brakes-on-ai-lend
 source_transcript: ../transcripts/2026-10-16-banks-just-slammed-the-brakes-on-ai-lending.md
 source_summary_hash: sha256:1e9ddf634da6fc29076bc7a585993dfee29c6de9f240fc56c6ad9cb5c5c40c80
 source_transcript_hash: sha256:b4bba639883872f442a5b2819cca1f294e21028154224d59579e640034e5dd80
-fill_id: 26f6a969-a199-4ae9-9e28-4112625a8ee4
-published_at: '2026-10-19T17:05:33.427269'
+fill_id: 14f128ca-f1a1-4a7b-a9f0-71f98400c59e
+published_at: '2026-10-19T17:26:01.440115'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Thesis
 
-AI can copy software cheaply, but copying has never made software worthless; the real value lies in reliability and trust, so the first bet on software's death is shaky, and the second bet on AI debt is where the real risk lies.
+AI has made copying software cheap, but it has not made software useless; the value of software lies in reliability and habit, not code, and the real risk is borne by AI companies' lenders.
 
 ## Argument
 
-The first bet—that AI renders software useless—is tested by Brendan Thomas's free Adobe clones. He claims 100% parity, but his own plan admits only 25-35% coverage of professional needs, and tests show PhotoCraft matches Photoshop's smart filters only 5 times out of 30. Free copies have existed for decades—GIMP, OpenOffice—yet Adobe's revenue hit a record $6.76 billion, up 13%, with creative pro sales up 13%. The value isn't in the code; it's in reliability, habit, and ecosystem lock-in. So the first bet looks uncertain.
-
-The second bet—that AI companies can't repay debt—is more compelling. Since June, AI-backed loans fell from $113 billion to $23 billion, and credit default swap costs hit records: Oracle's rose to $2.88, Coreweave's from $3.60 to over $10 in nine days. Coreweave's bonds trade at $0.77 on the dollar. Even Broadcom's CEO calls AI investing 'almost like a casino.' This isn't just pre-borrowing; prices are rising, indicating real caution.
-
-Where does value go? Possibly to users via lower prices, or to model developers, but the middle—companies borrowing to build data centers—bears the risk. TSMC's record quarter shows demand is real, but lenders question if chip rentals cover the debt. The answer is likely a mix: value trickles to users and model makers, but the borrowers may be left holding the bag.
+The first bet—that AI renders software useless—is tested by Brendan Thomas's free Adobe clones. He claims 100% parity, but his own plan admits only 25-35% coverage; smart filters match Photoshop 5 out of 30 times. Free copies have never killed paid software: GIMP and LibreOffice failed to displace Adobe and Microsoft Office for decades. Adobe's record quarter proves professionals still pay for reliability and habit. The second bet—that AI companies can't repay debt—is more credible. Since June, AI-backed loans fell from $113B to $23B, and credit default swaps on Oracle and Coreweave hit record highs. This isn't just early borrowing; prices are rising, signaling real caution. The value AI creates may go to users via lower prices, or to model developers, but not to the middle companies that borrowed to build data centers. If code costs $2,000 to copy, value lies elsewhere—in trust and habit—and lenders may be left holding the risk.
 
 ## Counterpoints
 
-- Morgan Stanley's innocent explanation: companies simply borrowed early, so the drop is just a pause, not a signal.
-- The year as a whole is still huge, with $466 billion in AI debt due by 2026, suggesting the market isn't collapsing.
-- Free copies have never killed paid software before (GIMP, OpenOffice), so why would AI change that?
+- AI companies simply borrowed early; Morgan Stanley notes a record year overall, with $466B in AI-related debt due by 2026.
 - Rising interest rates explain higher borrowing costs, not just AI-specific risk.
+- Demand for AI chips is real—TSMC posted a sixth consecutive record quarter with profits up 69%.
 
 ## Concepts surfaced
 
-[[open-source-software]] · [[credit-default-swaps]] · [[ai-debt]] · [[software-value]] · [[ai-copying]]
+[[open-source-ai]] · [[ai-software-copying]] · [[ai-debt-risk]] · [[credit-default-swaps]] · [[ai-value-distribution]]
