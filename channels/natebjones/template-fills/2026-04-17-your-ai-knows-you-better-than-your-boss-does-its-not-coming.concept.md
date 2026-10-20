@@ -4,44 +4,44 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-04-17-your-ai-knows-you-better-than-your-boss-does-its-not-coming.md
 source_transcript: ../transcripts/2026-04-17-your-ai-knows-you-better-than-your-boss-does-its-not-coming.md
-source_summary_hash: sha256:0428e28988665bea62dff76a22ad6be875e4e788482e110111d8e047f5b1e1b9
+source_summary_hash: sha256:956ef277709e23353c9a9c8949e471fed36e9c24379ef2b9932a9f629bb90a21
 source_transcript_hash: sha256:f5d013376c6655e62b35f18ce60b99424dead14da3dbca834c90fe53db00f80c
-fill_id: 0dd54ac8-73f9-46bf-9dde-f693d35ce035
-published_at: '2026-05-18T07:15:55.379997'
+fill_id: a4229a4a-f5e3-42e5-bf7c-ab0ac521cf30
+published_at: '2026-10-20T00:21:55.727873'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Workers are inadvertently building valuable, personalized AI context within proprietary platforms that prevent portability. To reclaim this professional asset, individuals must extract their domain encoding, workflow calibration, and behavioral relationships into portable, user-controlled databases accessible via the Model Context Protocol (MCP).
+Workers are building a new form of professional capital—AI context—inside fragmented, proprietary platforms they don't control. This context, composed of domain knowledge, workflow preferences, and behavioral patterns, is hard to move and often lost when switching tools or jobs. The solution is a BYOC strategy: extract your working identity into a portable, user-controlled database accessible via MCP.
 
 ## The argument
 
-### The Four Layers of Lost Context
-- **Anchor Timestamps**: ['00:03:26', '00:06:16', '00:08:08', '00:10:40']
-- **Claim**: Professional context is not monolithic but consists of four distinct layers: domain encoding (industry vocabulary), workflow calibration (preferred structures), behavioral relationships (unstated preferences), and artifact rationale (demonstrated capability). These layers are fragmented across proprietary platforms, creating a significant productivity gap when switching tools.
+### Define the Four Layers of AI Context
+- **Anchor Timestamps**: ['00:03:26']
+- **Claim**: Professional AI context has four distinct layers: domain encoding (industry vocabulary, products, market dynamics), workflow calibration (how you like research structured, code reviewed, memos formatted), behavioral relationship (emergent understanding of your unstated preferences), and artifact rationale (the thinking behind your work products). Each layer is built incrementally through daily
 - **Role**: definition
 
-### Platform Incentives Create Lock-In
-- **Anchor Timestamps**: ['00:13:16', '00:15:36']
-- **Claim**: Model makers have no incentive to solve portability because they design systems to be sticky using memory. This creates a market failure where candidates cannot demonstrate AI capability effectively, leading to a credential gap filled by 'vibes' rather than structured evidence of working intelligence.
-- **Role**: counter
-
-### Extract and Own Your Working Identity
-- **Anchor Timestamps**: ['00:16:32', '00:20:35']
-- **Claim**: Individuals must shift their mindset to treat AI context as a career asset. The practical solution involves using structured prompts to extract working preferences from current AI tools and writing them to a persistent, user-controlled database (e.g., PostgreSQL, Supabase) rather than relying on static documents.
+### The Context Gap Is a Market Failure
+- **Anchor Timestamps**: ['00:11:37']
+- **Claim**: This problem is universal and imminent: most workers will switch jobs, AIs, or face a new AI regime within two years. Yet there's no reliable way to evaluate or transfer AI capability. Employers resort to flying candidates in for supervised tests, and candidates have no structured way to demonstrate their AI proficiency. This is a genuine market failure, not an individual failing.
 - **Role**: evidence
 
-### Standardize via MCP for Portability
-- **Anchor Timestamps**: ['00:22:28', '00:24:07']
-- **Claim**: By exposing the personal context server via the Model Context Protocol (MCP), workers can create a universal connector that allows any compliant AI agent to read and write to their portable working identity. This bypasses platform hostility and IT department restrictions, enabling seamless transitions between tools and jobs.
+### Platform Incentives Block Portable Context
+- **Anchor Timestamps**: ['00:13:16']
+- **Claim**: Model makers have no incentive to make context portable—they want to keep you inside their ecosystem. They make it easy to get context in and hard to get it out. Memory-layer startups fail because the pain is diffuse, not acute; it's a 'candy' product, not an 'opium' product. This explains why no one has solved it on the platform side.
+- **Role**: counter
+
+### BYOC: Extract, Store, Expose via MCP
+- **Anchor Timestamps**: ['00:19:38']
+- **Claim**: The solution is a BYOC architecture: extract your working identity from the AI that knows you best using structured prompts, store it in a database you control (e.g., local Postgres, Supabase), and expose it via MCP so any compliant AI can read and write to it. This flips from push-based (pasting documents) to pull-based (AI queries what it needs), making context portable and evolvable.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker notes that while a structured markdown file is a viable 'band-aid' for immediate portability, it lacks the evolvability of a database. He acknowledges that some corporate AIs shut off external MCPs for security, but argues that a responsible, portable working style can open doors to more permissive IT policies. He also cautions that this is a 'diffuse pain point' rather than an acute one, which makes it hard for third-party startups to capture value, leaving the solution largely to individual action. The speaker emphasizes that this is not about stealing trade secrets but about moving 'encoded thinking' and 'rationale'.
+The speaker cites that over 60% of workers use personal AI at work, and that a well-calibrated AI can save 5–8 turns of conversation. He notes that a markdown file is a 'band-aid' and not sufficient for full behavioral calibration—it's like a 720p video versus 4K. He also acknowledges that some work AIs disable external MCPs for security, but argues most AIs need to be less locked down and that a markdown file can still help in those cases. The speaker is building extraction prompts and an OpenBrain plugin to implement this, but admits the tooling is not perfect today.
 
 ## Concepts surfaced
 
-[[bring-your-own-context]] · [[model-context-protocol]] · [[ai-memory-systems]] · [[professional-capital]] · [[platform-lock-in]] · [[domain-encoding]]
+[[model-context-protocol]] · [[ai-memory]] · [[ai-adoption]] · [[career-capital]] · [[ai-productivity]] · [[data-portability]]
