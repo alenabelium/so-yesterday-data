@@ -4,49 +4,49 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-05-12-your-ai-agent-is-about-to-hold-a-wallet-nobody-decided-the-r.md
 source_transcript: ../transcripts/2026-05-12-your-ai-agent-is-about-to-hold-a-wallet-nobody-decided-the-r.md
-source_summary_hash: sha256:d8c0288049f17272be3fd10233f139df492e30df7e1796dc454c3ad6624e48b5
+source_summary_hash: sha256:b9dbf4da174493ca47157a90f0971d85a5d399ba5c0048397d9fbcbed86a09f8
 source_transcript_hash: sha256:a95555ed880d6add7d9161c829b5c7f3323c167456a668aad7813fcf6b1e622f
-fill_id: e53725ae-6cd1-42cc-80aa-4903af449f05
-published_at: '2026-05-19T04:48:33.615318'
+fill_id: 689d54cd-dc71-45d6-9850-b6aa54205a52
+published_at: '2026-10-19T23:52:31.365590'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-As AI agents gain the ability to autonomously spend money, the traditional human-verified purchase flow is breaking down, triggering a structural war over liability and control. Six distinct protocol camps are competing to define the rules of this new economy, ranging from merchant-centric interoperability to enterprise governance and machine-to-machine settlement rails.
+AI agents are about to spend real money autonomously, but no one has agreed on the rules. Six protocol camps are fighting over who controls authorization, credentials, rails, and responsibility in the agentic purchase flow. The outcome will reshape the internet economy, and every builder, merchant, and consumer is already in the crossfire.
 
 ## The argument
 
-### The Unbundling of Human Verification
-- **Anchor Timestamps**: ['00:00:46', '00:02:00']
-- **Claim**: Traditional commerce relies on a shared structure where a human is present to verify price, tax, and intent. Agentic commerce breaks this by allowing software to act on behalf of humans or other software, shifting the core question from 'can the customer pay?' to 'how do we know the agent was allowed to act?'
+### The Old Purchase Bundle Is Breaking
+- **Anchor Timestamps**: ['00:00:46']
+- **Claim**: Online buying has relied on a shared structure: a human present, a page showing price and terms, a credential used, and a click. Agentic commerce breaks that structure because software acts without a human in the loop, so the evidence that justified a transaction disappears.
 - **Role**: definition
 
-### The Merchant Control vs. Agent Surface Split
-- **Anchor Timestamps**: ['00:02:59', '00:05:17']
-- **Claim**: Two major camps compete for the checkout layer: ACP (OpenAI/Stripe) focuses on seamless agent-to-merchant checkout, risking merchant viability by ceding discovery to the assistant. UCP (Shopify/Google) counters by fighting for merchant control over the full shopping path, including rules, loyalty, and discovery, to preserve the merchant's business model.
+### Merchant Control Splits ACP vs UCP
+- **Anchor Timestamps**: ['00:02:59']
+- **Claim**: OpenAI and Stripe's ACP moves checkout into the agent surface, making the merchant of record but ceding discovery and brand experience. Shopify and Google's UCP counters by trying to preserve merchant control over the full shopping path, including rules, loyalty, and inventory. The fight is about who owns the customer relationship.
 - **Role**: evidence
 
-### The Authorization and Trust Layer
-- **Anchor Timestamps**: ['00:06:40', '00:09:24']
-- **Claim**: Payment is not authorization. Camps like Google's AP2, Stripe's approved links, and card networks (Visa/Mastercard) are building 'permission slips' and tokenized credentials to prove an agent acted within its mandate. This layer is critical because a payment receipt alone cannot resolve disputes about whether the agent stayed within its guardrails.
+### Authorization Is the Deeper Fight
+- **Anchor Timestamps**: ['00:06:40']
+- **Claim**: Neither ACP nor UCP proves the agent was allowed to pay. Authorization requires evidence that begins before the merchant is known and lasts across systems. Stripe's approved payment links and Google's AP2 mandate are early attempts to create permission slips, but they don't yet cover complex, multi-step purchases.
 - **Role**: evidence
 
-### Settlement Rails for Machine-to-Machine Commerce
-- **Anchor Timestamps**: ['00:10:20', '00:12:00']
-- **Claim**: For high-frequency, low-value machine-to-machine transactions (e.g., API calls), traditional card rails are inefficient. Stable coins and protocols like Coinbase's X42 (HTTP 402) and Stripe's MPPP provide cheaper, faster settlement rails that embed payment directly into web requests, enabling a new layer of software-native commerce.
-- **Role**: evidence
-
-### Enterprise Governance as the Ultimate Lever
-- **Anchor Timestamps**: ['00:13:30', '00:15:53']
-- **Claim**: AWS positions itself not as a payment rail, but as the governance layer where enterprise agents run. By controlling the runtime, tools, and policy enforcement, AWS captures the most valuable position: the environment where payment authority, budgets, and logs are managed, effectively owning the floor of the agentic economy.
+### Stablecoins and the Machine-to-Machine Rail
+- **Anchor Timestamps**: ['00:11:03']
+- **Claim**: For software paying software, stablecoins become the natural rail. Coinbase's X42 and Stripe's machine payments protocol make payment part of the web request itself, enabling micro-transactions that are too small and frequent for card fees. This is a different problem from consumer checkout, and both rails can coexist.
 - **Role**: synthesis
+
+### The Runtime Is the New Battleground
+- **Anchor Timestamps**: ['00:13:30']
+- **Claim**: AWS's Bedrock AgentCore payments shows that the agent runtime—not the payment rail—is the most powerful position. The runtime sees the task, tools, policy, and budget, while a payment provider only sees the payment. Enterprise governance will be decided where agents run, not where money moves.
+- **Role**: counter
 
 ## Evidence and caveats
 
-The speaker cites specific examples like purchasing a sound system via ChatGPT to illustrate the shift in consumer behavior, and travel booking errors to highlight the risks of autonomous agents. He notes that while stable coins are compelling for machine-to-machine payments, cards and wallets remain better for consumer purchases due to existing protections. The speaker hedges by stating that the market is 'messy for a really good reason' because it is valuable, and warns that there is 'no one solution' for merchants or consumers, who must actively understand these layers to avoid being sidelined.
+The host cites personal experience buying a sound system and browsing bikes via ChatGPT, noting he no longer starts on Google or Amazon. He also mentions ChatGPT's 900 million users as a scale threat to merchants. On the authorization front, he describes a hotel-booking scenario where an agent books a non-refundable room that violates the user's intent, illustrating the liability gap. He hedges that cards and wallets will likely remain for consumer purchases, while stablecoins are better for machine-to-machine micro-payments. He also notes that platform commerce will not be fully open—Amazon's resistance to unauthorized agentic browsing shows that some parts will remain controlled under strict identity and data-sharing terms.
 
 ## Concepts surfaced
 
-[[agentic-commerce]] · [[ai-agent-identity]] · [[stable-coin-settlement]] · [[enterprise-ai-governance]] · [[protocol-interoperability]] · [[machine-to-machine-economy]]
+[[agentic-commerce]] · [[stablecoins]] · [[machine-payments]] · [[authorization-mandates]] · [[enterprise-governance]] · [[protocol-wars]]

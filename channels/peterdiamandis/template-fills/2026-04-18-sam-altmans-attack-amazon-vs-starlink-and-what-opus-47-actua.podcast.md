@@ -4,25 +4,25 @@ template_id: podcast
 template_version: 1
 source_summary: ../summaries/2026-04-18-sam-altmans-attack-amazon-vs-starlink-and-what-opus-47-actua.md
 source_transcript: ../transcripts/2026-04-18-sam-altmans-attack-amazon-vs-starlink-and-what-opus-47-actua.md
-source_summary_hash: sha256:1428fa197e069ca303751816f6b5b564862f8faf547fab6ca7d73602978ccc9e
+source_summary_hash: sha256:4163c52c159a8d67b2cc570177b67751fc81f7c3057547d250bfd17c54c68a93
 source_transcript_hash: sha256:94164d263bef6bfd2aeb56afbda01783594fbcbeeb00ad25637c890e20cc7ec0
-fill_id: 20711e64-0cfc-4cda-bdb9-c66c49d01ee3
-published_at: '2026-05-18T07:15:55.927393'
+fill_id: 2dd42785-5951-45f5-93a6-a16e020050e5
+published_at: '2026-10-19T23:25:57.921586'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## Guest
 
-- **Name**: Alex Weizner Gross
-- **Title**: Resident Genius on AI Benchmarks
+- **Name**: Alex Wezer Gross
+- **Title**: Resident AI Benchmark Genius
 - **Org**: Moonshots Podcast
-- **Bio Oneliner**: AI researcher and investor known for tracking frontier model capabilities and the intersection of technology and human potential.
+- **Bio Oneliner**: AI expert and daily newsletter author, known for incisive takes on frontier model releases and industry trends.
 - **Platform**: panel
 
 ## Cold open
 
-### A 20-year-old Texan threw a molotov cocktail at Sam Alman's San Francisco house. Suspect was on something called the official pause AI Discord server list.
+### A 20-year-old Texan threw a molotov cocktail at Sam Alman's San Francisco house. Suspect was on something called the official pause AI Discord server list. The state of Maine passed the first ever statewide data center ban in the United States.
 - **Attribution**: Peter Diamandis
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=LVvleNtllPk&t=0)
 
@@ -30,84 +30,100 @@ provenance: agent:template-fill-v1
 - **Attribution**: Peter Diamandis
 - **Timestamp**: [00:00](https://www.youtube.com/watch?v=LVvleNtllPk&t=0)
 
-### It is moderately interesting. It is it mythically interesting? No.
-- **Attribution**: Alex Weizner Gross
+### Anthropics Opus 4.7 dropped. It is moderately interesting. It is it mythically interesting? No. The the new guidance is use prompts. Use prompts for everything.
+- **Attribution**: Alex Wezer Gross
+- **Timestamp**: [00:00](https://www.youtube.com/watch?v=LVvleNtllPk&t=0)
+
+### Amazon and Apple team up to compete against Starlink. I would bet that Apple in short turn ends up pitting Amazon, the new global star owner, against SpaceX Starlink.
+- **Attribution**: Alex Wezer Gross
 - **Timestamp**: [00:56](https://www.youtube.com/watch?v=LVvleNtllPk&t=56)
 
-### Amazon and Apple team up to compete against Starlink.
+### Elon does not stand still. Now that's a moonshot, ladies and gentlemen.
 - **Attribution**: Peter Diamandis
 - **Timestamp**: [00:56](https://www.youtube.com/watch?v=LVvleNtllPk&t=56)
 
 ## Key arguments
 
-### Opus 4.7 Analysis: Prompting Over Hyperparameters
-- **Timestamp**: [02:52](https://www.youtube.com/watch?v=LVvleNtllPk&t=172)
-- **Summary**: The hosts analyze Anthropic's Opus 4.7 release, noting the removal of traditional hyperparameters like temperature in favor of prompt-based control. Alex Weizner Gross describes it as a solid, incrementally interesting release that signals an end to manual model tuning, while Dave Altman highlights its improved agent capabilities and computer use skills.
+### Opus 4.7: Prompts replace knobs, but it's a solid point release
+- **Timestamp**: [01:30](https://www.youtube.com/watch?v=LVvleNtllPk&t=90)
+- **Summary**: Alex Wezer Gross analyzes Opus 4.7, calling it 'moderately interesting' but not mythic. The key shift: hyperparameters like temperature are gone, replaced by natural-language prompts. He notes the model's benchmarks are solid, but expectations are anchored by the upcoming Mythos. The migration notes show a move to categorical reasoning settings, signaling an end to manual tuning.
 - **Anchor Quotes**: [2]
 
-### Stanford AI Index: Trust Gaps and Youth Employment
-- **Timestamp**: [11:59](https://www.youtube.com/watch?v=LVvleNtllPk&t=719)
-- **Summary**: Discussion of the 2026 Stanford AI Index reveals a widening trust gap between experts and the public, with only 23% of the public optimistic about AI. The report also highlights a collapse in entry-level software developer employment, prompting advice for young people to pivot to entrepreneurship rather than seeking traditional jobs.
+### AI backlash turns physical: attacks and bans signal social unrest
+- **Timestamp**: [36:44](https://www.youtube.com/watch?v=LVvleNtllPk&t=2204)
+- **Summary**: Peter Diamandis reports on the Molotov cocktail attack on Sam Altman's home and the Maine data center ban. The panel connects these to public fear and job displacement, with Alex arguing that 'pause AI' movements are self-defeating and accelerate the race. Dave notes that AI leaders are ordinary people thrust into danger, and the group calls for de-escalation and win-win solutions.
+- **Anchor Quotes**: [0, 1]
+
+### Young workers face a hiring freeze, but entrepreneurship is the window
+- **Timestamp**: [23:47](https://www.youtube.com/watch?v=LVvleNtllPk&t=1427)
+- **Summary**: The Stanford AI Index shows a 20% drop in employment for developers aged 22-25 since 2024, not from layoffs but from a hiring freeze. The panel argues this is politically invisible but forces young people into entrepreneurship. Dave urges Princeton seniors to start a company now, as their brainpower is a commodity in two years. Alex adds that geographic mobility is key, and Peter advises parents
 - **Anchor Quotes**: [1]
 
-### Physical Backlash and Data Center Bans
-- **Timestamp**: [36:44](https://www.youtube.com/watch?v=LVvleNtllPk&t=2204)
-- **Summary**: The episode addresses the violent attacks on Sam Altman and the growing political resistance to AI infrastructure, such as data center bans in Maine and Missouri. The hosts argue that fear-driven regulation is counterproductive and that the real bottleneck for AI may become social license rather than compute.
-- **Anchor Quotes**: [0]
-
-### Amazon/Apple vs. Starlink and Satellite Connectivity
+### Amazon and Apple team up to challenge Starlink with Globalstar spectrum
 - **Timestamp**: [01:08:35](https://www.youtube.com/watch?v=LVvleNtllPk&t=4115)
-- **Summary**: Analysis of Amazon's acquisition of Globalstar and its partnership with Apple to compete with SpaceX Starlink. The discussion focuses on the strategic value of spectrum rights and the technical shift toward direct-to-phone satellite connectivity, predicting a multi-trillion dollar economy in satellite launches.
-- **Anchor Quotes**: [3]
+- **Summary**: Amazon acquires Globalstar for $11.57 billion, gaining 25.225 MHz of globally authorized spectrum, and partners with Apple for satellite-to-phone service. Alex predicts Apple will pit Amazon against SpaceX to have two vendors. Dave explains the technical advantage of 2.4 GHz spectrum that works with phones, while Peter notes Elon's V3 Starlink launches will add massive capacity, driving a
+- **Anchor Quotes**: [3, 4]
 
-### Human Speciation and the Future of Agency
-- **Timestamp**: [01:52:19](https://www.youtube.com/watch?v=LVvleNtllPk&t=6739)
-- **Summary**: The hosts explore the concept of human speciation through technology, discussing longevity escape velocity, brain-computer interfaces, and digital uploads. They debate the ethical and personal implications of these forks, with Alex advocating for cautious adoption of invasive tech and Dave expressing skepticism about BCI.
+### AI enables personalized medicine and 'solve anything' moonshots
+- **Timestamp**: [01:34:51](https://www.youtube.com/watch?v=LVvleNtllPk&t=5691)
+- **Summary**: The story of GitLab founder Sid Sijbrandij using AI to cure his stage 4 cancer illustrates AI's power for n=1 solutions. Alex connects this to the 'pause AI' debate, arguing that blocking AI would halt life-saving progress. The panel urges people to take action on medical issues, and predicts the FDA will have to adapt to personalized medicine, with AI turning impossible cases into search
 
 ## Quotes to remember
 
+### The problem is it's sort of an osboring effect where I want Mythos access. Give me MythOS access. And then when you compare the Opus 4.7 benchmarks with Mythos, you feel underwhelmed.
+- **Speaker**: Alex Wezer Gross
+- **Timestamp**: [01:30](https://www.youtube.com/watch?v=LVvleNtllPk&t=90)
+
+### Prompts are the new dials and the new hyperparameters. The knobs are gone.
+- **Speaker**: Alex Wezer Gross
+- **Timestamp**: [02:52](https://www.youtube.com/watch?v=LVvleNtllPk&t=172)
+
+### 99% of the people you bump into on the street are underreacting and unaware.
+- **Speaker**: Peter Diamandis
+- **Timestamp**: [14:12](https://www.youtube.com/watch?v=LVvleNtllPk&t=852)
+
 ### If you don't want to use it, fine. Let other people use it and get the benefits of it.
-- **Speaker**: Salem
+- **Speaker**: Salim Ismail
+- **Timestamp**: [01:36:45](https://www.youtube.com/watch?v=LVvleNtllPk&t=5805)
+
+### How dare you pause AI? 150,000 people die every day on this earth and AI is the best chance that we have for preventing that going forward.
+- **Speaker**: Salim Ismail
 - **Timestamp**: [01:37:35](https://www.youtube.com/watch?v=LVvleNtllPk&t=5855)
 
-### The idea of pausing AI is so tone-deaf to the way the world actually works... it has done nothing except accelerate AI capabilities.
-- **Speaker**: Alex Weizner Gross
-- **Timestamp**: [40:05](https://www.youtube.com/watch?v=LVvleNtllPk&t=2405)
-
-### You have this window of opportunity to take advantage of that brain power and create something. And if you fritter that away... that's the worst choice you could possibly make.
-- **Speaker**: Dave Altman
+### This is the window right here, right now. You've got the combination of ASI imminent models getting closed down and less access a couple years from now.
+- **Speaker**: Dave Asprey
 - **Timestamp**: [27:02](https://www.youtube.com/watch?v=LVvleNtllPk&t=1622)
-
-### Capital is chasing AI stories faster than the operating reality really justifies. Make sure your narrative leverage doesn't outperform your business model leverage.
-- **Speaker**: Dave Altman
-- **Timestamp**: [01:42:33](https://www.youtube.com/watch?v=LVvleNtllPk&t=6153)
-
-### We are as gods, we might as well start acting like it.
-- **Speaker**: Stuart Brand
-- **Timestamp**: [01:32:01](https://www.youtube.com/watch?v=LVvleNtllPk&t=5521)
 
 ## Predictions
 
-### AI capabilities will improve by 100x by summer 2025, driven by algorithmic efficiency gains like Turbo Quant.
-- **Hedge**: I am 90% sure that ternary is the optimal numerical precision, but we are already compressed enough that the immediate future is about distribution.
-- **Timestamp**: [01:20:56](https://www.youtube.com/watch?v=LVvleNtllPk&t=4856)
-
-### Apple will pit Amazon's Globalstar against SpaceX Starlink to maintain two vendors for global space-to-cell phone service.
-- **Hedge**: This is a bet on Apple's historical supply chain strategy rather than a guaranteed outcome.
+### Apple will pit Amazon (Globalstar) against SpaceX Starlink to have at least two vendors for global space-to-cell service, becoming the new alternative to terrestrial networks in two years.
+- **Hedge**: If I had to place a bet, not investment advice.
 - **Timestamp**: [01:13:16](https://www.youtube.com/watch?v=LVvleNtllPk&t=4396)
 
-### The cost of creating new religions or ideologies will drop to near zero, leading to an explosion of micro-cults and AI-generated theology.
-- **Hedge**: Organized religions may consolidate globally while micro-sects proliferate.
-- **Timestamp**: [01:30:56](https://www.youtube.com/watch?v=LVvleNtllPk&t=5456)
+### The trend of young workers not being hired will force them into entrepreneurship, which is the best possible thing for the economy.
+- **Hedge**: I'll take the positive here.
+- **Timestamp**: [25:29](https://www.youtube.com/watch?v=LVvleNtllPk&t=1529)
+
+### We will see an explosion of AI cults and micro-religions, with consolidation at a global scale around fewer religions while micro-level proliferation of sects.
+- **Hedge**: If I had to predict, reasoning by analogy.
+- **Timestamp**: [01:27:43](https://www.youtube.com/watch?v=LVvleNtllPk&t=5263)
+
+### The FDA will have to be the first government agency to accelerate its rate of regulation by thousands of times to keep up with AI innovation, especially for personalized medicine.
+- **Hedge**: The FDA is the bellwether for all government.
+- **Timestamp**: [01:37:35](https://www.youtube.com/watch?v=LVvleNtllPk&t=5855)
+
+### The enhanced games will see scaling-law-type performance in world records, with exponential improvements year to year.
+- **Hedge**: I would expect if we are in the middle of the singularity.
+- **Timestamp**: [01:51:01](https://www.youtube.com/watch?v=LVvleNtllPk&t=6661)
 
 ## Lightning round
 
-- **Books**: ['We Are as Gods: A Survival Guide for the Age of Abundance']
-- **Media**: ["Drew Houston's MIT Commencement Address", 'Enhanced Games Announcement']
-- **Products**: ['Fountain Life', 'Blitzy', 'Just Like Me (AI Jesus App)']
-- **Motto**: Solve everything. Moonshots too cheap to meter.
-- **Advice**: Encourage young people to find their purpose and become entrepreneurs immediately. Do not wait for traditional career paths that are collapsing. Be geographically mobile and move to high-density entrepreneurial hubs like Silicon Valley or Boston.
+- **Books**: ['We Are as Gods: A Survival Guide for the Age of Abundance', 'The Singularity Is Nearer']
+- **Media**: ["Drew Houston's MIT commencement address (2017)"]
+- **Products**: ['Claude Opus 4.7', 'Turbo Quant', 'Globalstar', 'Starlink V3']
+- **Motto**: Be geographically mobile. Do not be addicted to a particular geographic regime.
+- **Advice**: If you're a young person, don't get stuck in a career path perfecting a skill that will be a commodity in a year. Instead, be a great thinker and entrepreneur, master AI, and stay nimble. Move to a high-density area like San Francisco or Boston, and surround yourself with the five people you want to become.
 
 ## Concepts surfaced
 
-[[opus-4-7]] · [[stanford-ai-index]] · [[prompt-based-control]] · [[data-center-bans]] · [[globalstar-acquisition]] · [[human-speciation]] · [[longevity-escape-velocity]] · [[brain-computer-interface]]
+[[ai-backlash]] · [[data-center-ban]] · [[opus-4-7]] · [[prompt-engineering]] · [[satellite-spectrum]] · [[personalized-medicine]] · [[ai-entrepreneurship]] · [[transhumanism]]

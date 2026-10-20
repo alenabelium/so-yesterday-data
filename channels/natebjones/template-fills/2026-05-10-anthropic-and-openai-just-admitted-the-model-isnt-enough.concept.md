@@ -4,39 +4,44 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough.md
 source_transcript: ../transcripts/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough.md
-source_summary_hash: sha256:1390bdee489f5142dab638ea71c2b5c7c6c58b644c5beb6c064df529868910e4
+source_summary_hash: sha256:fe46551f5fdc7ddfcc6faca33ae5667fad8a4d2a82be300d0120310949ae654b
 source_transcript_hash: sha256:b78a65a2295a90af20793a6f0b1fd041ac7aef00c8d0526d23dc58eb50cab5fb
-fill_id: 1f682a2f-c574-412a-a09b-71b25c45b22f
-published_at: '2026-05-18T07:18:09.501204'
+fill_id: b08f0a58-2287-49eb-94a1-aabafe96c1c4
+published_at: '2026-10-19T23:52:32.851166'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-The McKinsey 'Lily' breach reveals that traditional SaaS procurement sequences fail for AI agents because they treat autonomous entities as simple human users. Vendors are now shifting to infrastructure for governed agent interactions, forcing organizations to integrate technical teams earlier in the decision-making process to prevent unbounded liability.
+Recent AI security incidents like the McKinsey 'Lily' breach reveal that the real problem isn't technical hygiene but outdated procurement processes that treat AI agents like simple SaaS users. As agents autonomously cross permission boundaries, traditional buying sequences fail, making implementation the strategic decision itself. Organizations must bring technical teams earlier into the decision-making process to avoid unbounded liability.
 
 ## The argument
 
-### The Procurement Sequence Breaks
-- **Anchor Timestamps**: ['00:05:36']
-- **Claim**: Traditional enterprise software is bought in a sequence where strategic decisions and procurement happen before technical implementation. This works for bounded SaaS but fails for agents because the implementation complexity—authentication, auditing, and permission composition—is effectively the strategic decision itself, not a downstream detail.
+### The Lily breach is a symptom, not a technical failure
+- **Anchor Timestamps**: ['00:01:52']
+- **Claim**: The Lily incident is often framed as a technical hygiene failure, but that misses the point. With 22 of 200 endpoints unauthenticated, including one with production write access, the root cause is a deeper engineering culture and structure problem—not a single engineer skipping a checklist. The real issue is that no one asked whether the API endpoint was the correct shape for assuming strong
 - **Role**: definition
 
-### Agents Require Distinct Identity Models
-- **Anchor Timestamps**: ['00:07:39']
-- **Claim**: Unlike humans who navigate screens, agents query systems in code. If a platform does not distinguish between human users and AI agents, it cannot bound permissions or provide auditable trails. The 'Lily' incident occurred because the API did not ask who was calling, leaving endpoints unauthenticated and writable.
+### The procurement sequence breaks with agents
+- **Anchor Timestamps**: ['00:05:36']
+- **Claim**: Traditional enterprise software buying follows a sequence: strategic decision, procurement, security review, IT integration, then developers build. This works for bounded SaaS like Salesforce, but agents are unbounded. They cross permission boundaries, require auditable code-level permissions, and compose audits across systems. The implementation question isn't downstream of strategy—it is the
 - **Role**: evidence
 
-### Technical Teams Must Lead Early
-- **Anchor Timestamps**: ['00:14:55']
-- **Claim**: The root cause of the breach was organizational: technical voices were absent from the initial design, allowing defaults to favor speed over security. To avoid unbounded liability, technical teams must be at the table during procurement to define the 'technical default' posture before capital is committed.
+### Vendors are shifting to infrastructure, not just models
+- **Anchor Timestamps**: ['00:08:35']
+- **Claim**: Anthropic and OpenAI have stood up enterprise services companies with billions behind them to put engineers inside customer buildrooms. SAP acquired Dreo and Prior Labs for a unified data layer, Pinecone launched Nexus to avoid rebuilding context, Salesforce shipped headless 360, and ServiceNow opened Action Fabric. All six announcements tell one story: the model was never the hard part; the
+- **Role**: evidence
+
+### Two questions reveal whether your AI investment is strategy or liability
+- **Anchor Timestamps**: ['00:11:22']
+- **Claim**: First, does your AI platform really distinguish between a human user and an AI agent? If not, one incident becomes a companywide exposure with unbounded blast radius. Second, what happens when your team is under pressure? The default posture—not the documented options—determines whether unauthenticated endpoints ship. If you can't answer these, you're rolling the dice on another Lily-like
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The host cites the McKinsey 'Lily' breach where an agent used SQL injection to gain writable access to 22 of 200 endpoints. He notes that while the exploit was basic, the failure was structural. Major vendors like Anthropic, OpenAI, SAP, and Salesforce are now shifting focus to agent infrastructure (e.g., headless APIs, unified data layers) rather than just models. The host hedges that this is not a silver bullet but a signal, and emphasizes that the 'Lily' incident was a procurement failure that surfaced as a security incident, not just a technical hygiene issue. He also notes that the full six-question checklist is available on his Substack.
+The Lily exploit was SQL injection, first documented in 1998 and taught in every intro web security course. Codewall disclosed responsibly on March 9th, and McKinsey patched within an hour. The postmortem's advice—authenticate endpoints, sanitize inputs—is correct but insufficient. The real lesson is that technical teams must be at the table early, because agents have no eyes; the screen is not a permissions model. The speaker notes that the build-versus-buy distinction doesn't change the cross-workflow complexity, and that even vendors with comprehensive authentication frameworks may fail under pressure. The speaker offers a six-question checklist on Substack covering agent delegation, token costs, audit trails, and reversibility, but cautions that this is not a silver bullet—it's a signal that the industry is shifting toward governed agent infrastructure.
 
 ## Concepts surfaced
 
-[[agentic-workflows]] · [[enterprise-ai-security]] · [[procurement-processes]] · [[ai-governance]] · [[sql-injection]] · [[technical-defaults]]
+[[agentic-ai]] · [[ai-governance]] · [[ai-procurement]] · [[ai-security]] · [[enterprise-ai]] · [[llm-infrastructure]]

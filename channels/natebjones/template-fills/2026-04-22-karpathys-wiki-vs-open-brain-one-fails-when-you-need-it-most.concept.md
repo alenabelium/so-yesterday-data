@@ -4,44 +4,44 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most.md
 source_transcript: ../transcripts/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most.md
-source_summary_hash: sha256:8536a895c858b65e2f0922e1941ca587e34290f7ebc066c856bed50589cf911a
+source_summary_hash: sha256:a8e8689ef31be9ab931f680af54bead1e5191231e326ba692343bc5325a4beb7
 source_transcript_hash: sha256:3cb168bc85a459652a778301e2a701762040e9268c438787c2cd84a85702c467
-fill_id: f65896cd-1090-4f41-8084-ff59bc1d7577
-published_at: '2026-05-19T04:44:40.148715'
+fill_id: 837bfb88-b049-4f72-9d7f-5c6ca4c3f5ca
+published_at: '2026-10-20T00:12:14.401877'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-Andrej Karpathy's wiki compiles understanding at write-time, creating a persistent narrative artifact ideal for solo deep research but prone to error compounding at scale. OpenBrain uses query-time synthesis, storing structured facts for precise, scalable retrieval but lacking pre-built narratives. The optimal path is a hybrid graph plugin that generates wiki-style pages from a reliable SQL database.
+AI memory systems split on when the AI does the hard thinking: at information ingest (write-time, like Karpathy's wiki) or at query time (like OpenBrain's structured database). The wiki compiles understanding into browsable notes, ideal for solo deep research but prone to error compounding and scale limits. OpenBrain stores facts faithfully and synthesizes on demand, scaling to teams and multi-agent workflows but lacking pre-built narratives. A hybrid graph layer can combine both strengths.
 
 ## The argument
 
-### The Write-Time Synthesis Model
-- **Anchor Timestamps**: ['00:03:20', '00:09:05']
-- **Claim**: Karpathy's wiki acts as a write-time system where the AI actively synthesizes, links, and updates notes as new sources arrive. This compiles knowledge once, creating a persistent artifact that evolves over time, ideal for solo researchers building deep understanding.
+### Define the Core Fork: Write-Time vs. Query-Time
+- **Anchor Timestamps**: ['00:08:05']
+- **Claim**: Every AI knowledge system must answer: when does the AI do the hard thinking? Karpathy's wiki is write-time: it synthesizes at ingest, compiling understanding into notes. OpenBrain is query-time: it stores facts faithfully and synthesizes fresh at query. This fork determines all downstream trade-offs.
 - **Role**: definition
 
-### The Query-Time Retrieval Model
-- **Anchor Timestamps**: ['00:09:05', '00:10:04']
-- **Claim**: OpenBrain operates as a query-time system, storing raw structured facts faithfully without immediate synthesis. The AI performs heavy lifting only when a question is asked, allowing for precise filtering, multi-agent access, and scalability beyond the 10,000-document limit of wiki systems.
-- **Role**: definition
+### Wiki Compiles, Database Reconstructs
+- **Anchor Timestamps**: ['00:04:12']
+- **Claim**: Karpathy's wiki compiles knowledge once and keeps it current, avoiding re-derivation on every query. OpenBrain reconstructs understanding from structured data each time, which is token-heavy but preserves detail. The wiki is like a tutor's study guide; OpenBrain is a filing cabinet with a librarian.
+- **Role**: evidence
 
-### The Error Compounding Risk
-- **Anchor Timestamps**: ['00:06:12', '00:15:02']
-- **Claim**: Write-time systems risk error compounding because the AI makes editorial decisions that may drop nuance or frame connections incorrectly. These errors become baked into the narrative, and without a disciplined return to raw sources, the wiki drifts from reality, smoothing over critical contradictions.
+### Wiki Breaks at Scale and Drift
+- **Anchor Timestamps**: ['00:23:03']
+- **Claim**: The wiki approach breaks at scale: multi-agent writes conflict, and neglected wikis drift into confident misinformation because old syntheses read well but become wrong. Karpathy's own design works best at 100–10,000 documents, not corporate scale. OpenBrain's staleness looks like ignorance, not active misinformation.
 - **Role**: counter
 
-### The Hybrid Graph Solution
-- **Anchor Timestamps**: ['00:30:38', '00:33:30']
-- **Claim**: The proposed solution uses OpenBrain as the authoritative source of truth and a graph plugin to generate wiki-style pages on demand. This combines the reliability of structured data with the browsable synthesis of a wiki, preventing error compounding by regenerating narratives from fresh, verified data.
+### Hybrid: Graph Layer Over Structured Data
+- **Anchor Timestamps**: ['00:30:38']
+- **Claim**: The hybrid model keeps OpenBrain as the authoritative store and adds a graph plugin that generates wiki-style pages on demand. This compilation agent reads structured data, synthesizes topic summaries, and produces browsable pages without editing the database directly, preventing error compounding and enabling scale.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-Karpathy's wiki works best for 100-10,000 high-signal documents and solo deep research, acting like a 'study guide' written by a tutor. OpenBrain acts like a 'filing cabinet' with a librarian, ideal for precise queries (e.g., 'meetings over $50k') and multi-agent access. Caveats include OpenBrain's lack of browsable pre-built narratives and the risk of 'database staleness' looking like ignorance. The hybrid model requires a 'graph plugin' to bridge the gap, ensuring the wiki never contradicts the database. The speaker notes that most people will underinvest in maintaining the wiki's raw sources, leading to drift.
+Karpathy's wiki wins for solo deep research: reading 10 papers over weeks, contradictions flagged at ingest, cross-references built automatically. OpenBrain wins for precise queries (e.g., 'every meeting note from Q1 where pricing was discussed'), multi-agent access, and volume beyond 10,000 entries. Caveats: the wiki's editorial decisions can drop nuance; most users won't maintain raw-source discipline. OpenBrain's deep synthesis can be unpredictable without a prior map, and it lacks browsability—though plugins (Obsidian, contradiction audits) address this. The hybrid graph layer is new and requires disciplined data input to compound.
 
 ## Concepts surfaced
 
-[[context-layer-architecture]] · [[ai-memory-paradigms]] · [[structured-vs-narrative-data]] · [[multi-agent-systems]] · [[error-compounding]] · [[hybrid-ai-architecture]]
+[[karpathy-wiki]] · [[openbrain]] · [[context-layer]] · [[ai-memory]] · [[multi-agent-systems]] · [[knowledge-graph]]

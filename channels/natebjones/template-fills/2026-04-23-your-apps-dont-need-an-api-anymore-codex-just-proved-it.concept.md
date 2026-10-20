@@ -4,44 +4,49 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it.md
 source_transcript: ../transcripts/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it.md
-source_summary_hash: sha256:701fc1d1010033f81233288e2554d1a5d52e6ac5f02103753249967702bd77b6
+source_summary_hash: sha256:728bac2a5434dfcb189f04c2c860c43e7ac0198cb259028ce060d5f481abc65a
 source_transcript_hash: sha256:bc2b26f1c0314ea14e17fd124e290102b7ab281b5c2dd9bdc8b0b4fe7b4888b5
-fill_id: 1114d1ed-8967-4f98-8f60-a8ff366eaf35
-published_at: '2026-05-19T04:44:53.290077'
+fill_id: 1e8efdae-b9d6-4dca-89c5-3162e432aac9
+published_at: '2026-10-20T00:12:12.947904'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-OpenAI's Codex has shifted from a coding tool to a desktop agent that operates any Mac application by seeing the screen and clicking like a human, bypassing the need for traditional APIs. This 'computer use' approach allows agents to automate legacy and internal software that lacks modern interfaces, making the agent's 'body'—its ability to control the OS—the primary differentiator over model intelligence.
+OpenAI's Codex has evolved from a coding tool into a desktop agent that can drive any Mac app via computer use, bypassing the need for APIs. This marks a strategic split with Anthropic, which builds on structured interfaces like MCP. The real differentiator is the agent's 'body'—its ability to control the OS—not the underlying model.
 
 ## The argument
 
-### The Shift from API to Computer Use
-- **Anchor Timestamps**: ['00:00:00', '00:02:07']
-- **Claim**: OpenAI's Codex evolved into a desktop agent that operates any Mac app by seeing the screen and clicking/typing, effectively bypassing the need for traditional APIs. This shifts the category from a coding tool to a general-purpose desktop agent.
+### Codex's Pivot to Desktop Agent
+- **Anchor Timestamps**: ['00:00:00']
+- **Claim**: On April 16th, OpenAI turned Codex into a desktop agent that operates every app on your Mac via computer use—clicking, typing, running in the background. This is a category shift from a coding tool to a general-purpose desktop agent.
 - **Role**: definition
 
-### The Body vs. Brain Strategic Split
-- **Anchor Timestamps**: ['00:00:45', '00:06:32']
-- **Claim**: While Anthropic focuses on structured integrations like MCP and knowledge work, OpenAI prioritizes 'computer use'—a body that drives the graphical interface. This allows OpenAI to automate any software with a screen, including legacy enterprise tools, without requiring ecosystem cooperation.
-- **Role**: counter
-
-### Acquisition of Deep OS Expertise
-- **Anchor Timestamps**: ['00:10:20', '00:11:30']
-- **Claim**: Codex's capability stems from OpenAI's acquisition of Software Applications Inc., a team with deep Mac OS, accessibility, and screen recording expertise. This 'deep OS level wizardry' enables reliable background agents that don't hijack the cursor, a skill set hard to replicate.
+### Computer Use Outperforms Claude
+- **Anchor Timestamps**: ['00:02:07']
+- **Claim**: In side-by-side tests, Codex is faster and more reliable than Claude's computer use. Tasks finish in 2 minutes on Codex vs 5-6 on Claude, and Codex doesn't fumble on unexpected dialogs. This reliability moves it from demo to deployable.
 - **Role**: evidence
 
-### Ambient Memory and Future Trajectory
-- **Anchor Timestamps**: ['00:13:33', '00:19:19']
-- **Claim**: OpenAI's 'Chronicle' feature captures screen data to create ambient memory, training the agent to drive software smarter over time. This contrasts with Anthropic's 'Conway' bet on structured event-driven agents, with OpenAI's path being more viable for the long tail of un-API'd software.
+### Two Different Bodies: Structured vs. GUI
+- **Anchor Timestamps**: ['00:06:32']
+- **Claim**: Anthropic builds a body of structured interfaces (MCP, connectors) that requires ecosystem cooperation. OpenAI builds a body of computer use that drives any GUI, making legacy and internal software automatable without vendor support.
 - **Role**: synthesis
+
+### The Acquisition Pattern: Buying the Body
+- **Anchor Timestamps**: ['00:10:20']
+- **Claim**: Codex's computer use came from a team OpenAI acquired—Software Applications Inc., makers of Sky, with deep Apple OS expertise. This shows labs are spending on scarce human expertise, not just models, to build the body.
+- **Role**: evidence
+
+### The Bet: Ecosystem vs. Direct UI
+- **Anchor Timestamps**: ['00:14:38']
+- **Claim**: Anthropic's bet on MCP and Conway requires the software industry to build agent-native interfaces. OpenAI's bet on computer use requires nothing. On the timescale that matters, the direct UI path is more likely to win.
+- **Role**: counter
 
 ## Evidence and caveats
 
-Real-world workflows include mass-clearing Slack, building Spotify playlists via voice, catching visual regressions, and driving legacy internal dashboards. Codex is faster and more reliable than Claude for these tasks, often finishing in 2 minutes vs. 5-6. However, Claude remains tighter for scoped knowledge work and has cleaner ergonomics for explicit folder-based tasks. OpenAI's Chronicle feature sends screen captures to servers, which is not available in the EU, UK, or Switzerland due to privacy constraints. The gap in computer use is wide today, but Claude may close it as MCP adoption accelerates.
+Real workflows include mass-clearing Slack, building Spotify playlists, visual regression testing, and driving legacy dashboards. Codex's background agents run in parallel without hijacking your cursor. Chronicle, a memory feature, captures screen periodically and sends to OpenAI servers—privacy trade-off limits it to Pro users outside EU/UK/Switzerland. Anthropic's Claude remains better for scoped knowledge work and developer ergonomics. The gap may narrow as Claude improves.
 
 ## Concepts surfaced
 
-[[computer-use]] · [[desktop-agents]] · [[mcp-protocol]] · [[ambient-computing]] · [[ai-acquisitions]] · [[legacy-software-automation]]
+[[computer-use]] · [[model-context-protocol]] · [[agentic-ai]] · [[desktop-agents]] · [[ai-acquisitions]]

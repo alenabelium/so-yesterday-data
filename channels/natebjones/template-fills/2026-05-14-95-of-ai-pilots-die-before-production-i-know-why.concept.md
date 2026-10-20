@@ -4,39 +4,44 @@ template_id: concept
 template_version: 1
 source_summary: ../summaries/2026-05-14-95-of-ai-pilots-die-before-production-i-know-why.md
 source_transcript: ../transcripts/2026-05-14-95-of-ai-pilots-die-before-production-i-know-why.md
-source_summary_hash: sha256:bfd09d310127ab1d734d9c44e627db171f788f8600afe40e790c708d411e5b5e
+source_summary_hash: sha256:6aa29c99ebb91087aae6c5227605a84618f8af1750c04951e87649f4b15ac1a7
 source_transcript_hash: sha256:8b0b87d979aa6ace3538fb6d3a530d6d8d72962ef787f42ef5574bca6256f280
-fill_id: 7b67cc9b-cc76-42e4-b99a-7d9160cee11c
-published_at: '2026-05-18T07:19:16.464147'
+fill_id: fabd14bf-670a-4511-b07b-8e6e7c306e81
+published_at: '2026-10-19T23:52:28.379832'
 key_points_suppressed: false
 provenance: agent:template-fill-v1
 ---
 
 ## TL;DR
 
-The 95% failure rate of AI pilots stems from mistaking the model for the value, whereas real enterprise worth lies in the custom implementation layer. Four converging forces—hyperscalers moving down-stack, consultancies moving up-stack, systems of record exposing APIs, and private equity seeking scalable deployment—are squeezing generic wrappers out of the market. Sustainable value is found in detailed workflow design, governance, and integration, not in the commoditized model itself.
+AI pilots fail because value isn't in the model—it's in the custom implementation layer that surrounds it. Four converging pressures—hyperscalers, consultancies, systems of record, and private equity—are forcing a shift from generic AI to bespoke workflow design. Builders and buyers must focus on this layer to capture the trillion-dollar opportunity.
 
 ## The argument
 
-### The Convergence of Four Pressures
-- **Anchor Timestamps**: ['00:07:45', '00:10:06', '00:11:02', '00:13:37']
-- **Claim**: Generic AI wrappers are being squeezed by four axes: hyperscalers moving down-stack into deployment, consultancies moving up-stack into product, systems of record exposing direct APIs, and private equity using portfolio distribution to standardize agentic workflows.
+### Define the Implementation Layer
+- **Anchor Timestamps**: ['00:15:02']
+- **Claim**: The implementation layer is the specific set of components that surround the model: workflow design, data access, authority, evals, audit trails, and recovery. These components determine whether an agent delivers enterprise-grade value, not the model itself.
 - **Role**: definition
 
-### The Implementation Layer Components
-- **Anchor Timestamps**: ['00:15:02', '00:16:04', '00:17:04']
-- **Claim**: Value is captured in specific implementation components: defining workflow handoffs, managing row/field-level data permissions, setting authority limits, and establishing evals and audit trails that generic models cannot provide.
+### Four Pressures Converge
+- **Anchor Timestamps**: ['00:07:45']
+- **Claim**: Frontier labs move down-stack, consultancies move up-stack, systems of record expose APIs, and private equity becomes a distribution channel. These four pressures squeeze generic AI wrappers and force a focus on implementation detail.
 - **Role**: evidence
 
-### Sitting Closer to the Business Object
-- **Anchor Timestamps**: ['00:19:53', '00:22:20']
-- **Claim**: Builders must attach generic intelligence to specific business objects (e.g., support cases, sales funnels) rather than abstract reasoning. This requires a custom implementation fabric that integrates data and workflow, which cannot be replicated by weekend coding sprints.
+### The Squeeze on Generic AI
+- **Anchor Timestamps**: ['13:37']
+- **Claim**: Generic AI wrappers that don't own a workflow or governance structure get squeezed by the four pressures. Buyers face choice paralysis, and vendors' claims about data or model quality become less relevant than the implementation environment.
+- **Role**: counter
+
+### The Leverage Point Is Custom
+- **Anchor Timestamps**: ['00:24:10']
+- **Claim**: The real leverage is how the implementation layer assembles model, harness, and data into an actionable workflow. This is custom and biased toward internal building—no vendor can easily replicate it.
 - **Role**: synthesis
 
 ## Evidence and caveats
 
-The speaker cites specific market movements: OpenAI and Anthropic forming deployment joint ventures with private equity firms like Blackstone and Goldman Sachs, and consultancies like McKinsey building agentic practices. He notes that while labs claim the model is the bottleneck, their own hiring lists and product launches (like Claude Finance) signal that the implementation layer is the true value. A caveat is that the market is still in flux; it is not a foregone conclusion that any single lab will own these workflows, and the 'SAS tastes like chicken' model is dead because value is now in customization, not generic software.
+The video cites OpenAI's Frontier Alliances post: 'The bottleneck for enterprise AI is how agents are built and operated inside companies.' It also notes that Claude's finance agent templates won't replace Bloomberg terminals—dedicated solutions resist displacement. The speaker hedges that no single player will own all workflows, and that the implementation layer is too complex to be built in a weekend by Claude Code, despite some PE firms testing that. The value is trillions, but the path is unclear.
 
 ## Concepts surfaced
 
-[[agentic-workflows]] · [[private-equity-ai]] · [[implementation-layer]] · [[enterprise-ai-strategy]] · [[model-commoditization]] · [[forward-deployed-engineers]]
+[[agentic-workflows]] · [[enterprise-ai]] · [[private-equity]] · [[hyperscalers]] · [[implementation-layer]] · [[ai-governance]]

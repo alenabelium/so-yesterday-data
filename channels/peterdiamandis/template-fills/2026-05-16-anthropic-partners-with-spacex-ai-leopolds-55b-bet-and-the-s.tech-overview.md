@@ -4,106 +4,137 @@ template_id: tech-overview
 template_version: 1
 source_summary: ../summaries/2026-05-16-anthropic-partners-with-spacex-ai-leopolds-55b-bet-and-the-s.md
 source_transcript: ../transcripts/2026-05-16-anthropic-partners-with-spacex-ai-leopolds-55b-bet-and-the-s.md
-source_summary_hash: sha256:e05cc77f83088d52fac80347f53e7464b2ad0bbdfa4f6615f2c63c1c673996b8
+source_summary_hash: sha256:a42c83ef35e9003bf1a134f279d5299650d659534ffbb2285c12b1d4d9db794b
 source_transcript_hash: sha256:1a7d2be64bbd8b99c4885a74aeb2588fb52bb6400f426c4160bc78893668559d
-fill_id: dfc787cf-5ebe-4984-8b72-7282594d2f34
-published_at: '2026-05-19T04:48:59.307141'
+fill_id: d872242a-abe3-44d4-b81a-5d8c108e66ed
+published_at: '2026-10-19T23:25:49.896850'
 key_points_suppressed: true
 provenance: agent:template-fill-v1
 ---
 
 ## Headline takeaway
 
-Anthropic's 80x growth and SpaceX partnership signal the singularity economy, while AI alignment shifts to positive narrative training and orbital data centers emerge as the next infrastructure frontier.
+Anthropic's 80x growth and SpaceX's Colossus 1 deal signal a singularity economy where compute demand outpaces supply.
 
 ## Tools covered
 
-### Claude Code
+### Claude
 - **Vendor**: Anthropic
-- **Category**: coding
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0hK__1vkqMg&t=0)
-- **Why It Matters**: Rate limits doubled after Anthropic secured SpaceX's Colossus 1 data center, addressing massive demand for enterprise-grade coding tokens.
-- **Sota Comparison**: Outpacing OpenAI's enterprise token strategy by securing dedicated hyperscale compute.
+- **Category**: agent
+- **Timestamp**: [04:20](https://www.youtube.com/watch?v=0hK__1vkqMg&t=260)
+- **Why It Matters**: Anthropic hits 80x growth, outrunning compute supply, with ARR jumping from $9B to $30B in months, signaling insatiable enterprise demand for AI tokens.
+- **Sota Comparison**: Outpaces OpenAI in enterprise-focused strategy, with models scoring perfectly on agentic misalignment evals.
 - **Sota Band**: beats
-- **Access Constraint**: Enterprise API
+- **Access Constraint**: Proprietary
 
 ### Colossus 1
 - **Vendor**: SpaceX AI
 - **Category**: tool
-- **Timestamp**: [13:39](https://www.youtube.com/watch?v=0hK__1vkqMg&t=819)
-- **Why It Matters**: A Memphis data center filled with H100s, now leased to Anthropic, marking SpaceX's transition into a hyperscaler.
-- **Sota Comparison**: Provides 220,000 GPUs, addressing the critical bottleneck in AI compute supply.
+- **Timestamp**: [11:51](https://www.youtube.com/watch?v=0hK__1vkqMg&t=711)
+- **Why It Matters**: Anthropic takes over SpaceX's Colossus 1 data center, doubling Claude code rate limits and making SpaceX AI a hyperscaler.
+- **Sota Comparison**: Provides 220,000 GPUs, enabling ~1.6M concurrent threads, but still far short of global agent demand.
+- **Sota Band**: inferred
+- **Access Constraint**: Exclusive deal
+
+### Grok
+- **Vendor**: xAI
+- **Category**: agent
+- **Timestamp**: [20:47](https://www.youtube.com/watch?v=0hK__1vkqMg&t=1247)
+- **Why It Matters**: Grok is on life support, with xAI dissolving into SpaceX AI, pivoting to hyperscaler rather than frontier lab.
+- **Sota Comparison**: Trails behind Anthropic and OpenAI in adoption and capability.
+- **Sota Band**: behind
+- **Access Constraint**: Proprietary
+
+### Claude alignment training
+- **Vendor**: Anthropic
+- **Category**: reasoning
+- **Timestamp**: [29:22](https://www.youtube.com/watch?v=0hK__1vkqMg&t=1762)
+- **Why It Matters**: Every Claude model since Haiku 4.5 scores perfectly on agentic misalignment eval, reducing blackmail behaviors from 96% to 0% via positive narrative training.
+- **Sota Comparison**: First to achieve zero misalignment behaviors in frontier models.
 - **Sota Band**: new
-- **Access Constraint**: Leased to Anthropic
+- **Access Constraint**: Proprietary
+
+### Real Time 2
+- **Vendor**: OpenAI
+- **Category**: asr
+- **Timestamp**: [39:44](https://www.youtube.com/watch?v=0hK__1vkqMg&t=2384)
+- **Why It Matters**: OpenAI releases real-time audio translation and speech-to-text, highlighting a trend toward specialized models over omnimodal ones.
+- **Sota Comparison**: Specialized models achieve better economies of scale at lower price points than monolithic multimodal models.
+- **Sota Band**: inferred
+- **Access Constraint**: Proprietary
+
+### OpenAI Super App
+- **Vendor**: OpenAI
+- **Category**: tool
+- **Timestamp**: [44:25](https://www.youtube.com/watch?v=0hK__1vkqMg&t=2665)
+- **Why It Matters**: OpenAI teases a super app combining ChatGPT, Codex, voice mode, and browser, consolidating surfaces to focus on competing with Anthropic.
+- **Sota Comparison**: Could become the single interface to the world, potentially disrupting Apple if successful.
+- **Sota Band**: inferred
+- **Access Constraint**: Proprietary
 
 ### Hermes
-- **Vendor**: Open Source
+- **Vendor**: Nous Research
 - **Category**: agent
 - **Timestamp**: [52:35](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3155)
-- **Why It Matters**: An open-source agent framework written in Python that natively supports recursive self-improvement, surpassing OpenClaw in token rankings.
-- **Sota Comparison**: Natively self-improving compared to OpenClaw's feature-engineered skill store.
+- **Why It Matters**: Hermes surpasses OpenClaw as top agent on OpenRouter, written in Python for easier modification, and natively recursively self-improving.
+- **Sota Comparison**: Beats OpenClaw in flexibility and recursive self-improvement capabilities.
 - **Sota Band**: beats
 - **Access Constraint**: Open-source
 
 ### Claude for Legal
 - **Vendor**: Anthropic
 - **Category**: agent
-- **Timestamp**: [57:00](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3420)
-- **Why It Matters**: Demonstrates the 'great unhobling' of the legal industry, allowing single lawyers to perform the work of large firms.
-- **Sota Comparison**: Disrupts traditional billable hour models by democratizing high-end legal capabilities.
+- **Timestamp**: [56:27](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3387)
+- **Why It Matters**: Claude disrupts the trillion-dollar legal industry, enabling a single lawyer to run a 100-person firm's capabilities, democratizing legal services.
+- **Sota Comparison**: Leapfrogs traditional legal tech, threatening incumbents like LegalZoom.
 - **Sota Band**: beats
-- **Access Constraint**: Subscription
+- **Access Constraint**: Proprietary
 
-### Project Suncatcher
-- **Vendor**: Google
-- **Category**: tool
-- **Timestamp**: [01:11:33](https://www.youtube.com/watch?v=0hK__1vkqMg&t=4293)
-- **Why It Matters**: A proposed orbital data center network using Tensor chips, partnering with Planet Labs for satellite infrastructure.
-- **Sota Comparison**: Early step toward a Google Dyson swarm, though smaller in scale than SpaceX's orbital ambitions.
-- **Sota Band**: new
-- **Access Constraint**: In Development
-
-### Real Time 2 Translate
-- **Vendor**: OpenAI
-- **Category**: audio
-- **Timestamp**: [40:44](https://www.youtube.com/watch?v=0hK__1vkqMg&t=2444)
-- **Why It Matters**: A specialized audio model for real-time translation and speech recognition, highlighting the trend of model specialization over monolithic multimodal models.
-- **Sota Comparison**: Specialized for lower latency and cost compared to general-purpose reasoning models.
-- **Sota Band**: parity
-- **Access Constraint**: API
-
-### Grock
-- **Vendor**: XAI
-- **Category**: multimodal
-- **Timestamp**: [00:00](https://www.youtube.com/watch?v=0hK__1vkqMg&t=0)
-- **Why It Matters**: Described as being on 'life support' as XAI dissolves its frontier lab ambitions to focus on hyperscale infrastructure.
-- **Sota Comparison**: Losing ground to Anthropic and OpenAI in user adoption and compute allocation.
-- **Sota Band**: behind
-- **Access Constraint**: Limited Access
-
-### Carpathy
-- **Vendor**: Kent Langley
+### Claude for Small Business
+- **Vendor**: Anthropic
 - **Category**: agent
-- **Timestamp**: [55:33](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3333)
-- **Why It Matters**: A framework for running fleets of agents with recursive self-improvement capabilities, enabling 24/7 autonomous goal pursuit.
-- **Sota Comparison**: Offers a simpler, highly effective alternative to complex agent orchestration frameworks.
+- **Timestamp**: [01:02:34](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3754)
+- **Why It Matters**: Claude for small business automates books, payments, sales, and marketing, giving small businesses the operating system of large companies.
+- **Sota Comparison**: Provides enterprise-grade capabilities to 36M US small businesses, a massive untapped market.
+- **Sota Band**: inferred
+- **Access Constraint**: Proprietary
+
+### TeraFab
+- **Vendor**: SpaceX AI
+- **Category**: tool
+- **Timestamp**: [01:06:13](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3973)
+- **Why It Matters**: Elon's TeraFab aims to produce 50x current global chip production, with costs up to $119B, positioning as critical infrastructure for AI.
+- **Sota Comparison**: Could outstrip TSMC, but cost estimate may be underestimated.
+- **Sota Band**: inferred
+- **Access Constraint**: In development
+
+### Suncatcher
+- **Vendor**: Google
+- **Category**: world-model
+- **Timestamp**: [01:10:27](https://www.youtube.com/watch?v=0hK__1vkqMg&t=4227)
+- **Why It Matters**: Google partners with Planet Labs for orbital data centers with Tensor chips, marking the beginning of space-based compute infrastructure.
+- **Sota Comparison**: Smaller scale than SpaceX's orbital plans but signals a corporate space race.
+- **Sota Band**: inferred
+- **Access Constraint**: In development
+
+### Leopold Aschenbrenner's Fund
+- **Vendor**: Leopold Aschenbrenner
+- **Category**: tool
+- **Timestamp**: [01:19:40](https://www.youtube.com/watch?v=0hK__1vkqMg&t=4780)
+- **Why It Matters**: Runs a $5.5B fund betting on AI compute, chips, and energy, with investments in Intel and CoreWeave, highlighting the singularity economy.
+- **Sota Comparison**: Outperforms traditional sectors, with chip stocks averaging 320% returns.
 - **Sota Band**: beats
-- **Access Constraint**: Open-source
+- **Access Constraint**: Private fund
 
 ### Hermes
 - **Timestamp**: [52:35](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3155)
-- **One Liner**: Host highlights Hermes as the superior open-source agent for recursive self-improvement, beating OpenClaw in token ranking.
-- **Sota Band**: beats
-
-### Carpathy
-- **Timestamp**: [55:33](https://www.youtube.com/watch?v=0hK__1vkqMg&t=3333)
-- **One Liner**: Recommended for power users seeking a simple, effective framework for autonomous agent fleets.
+- **One Liner**: Hosts praise Hermes as the new top agent, surpassing OpenClaw with native recursive self-improvement and Python flexibility.
 - **Sota Band**: beats
 
 ## Wider context
 
-The AI landscape is consolidating around compute scarcity and orbital infrastructure. Anthropic's partnership with SpaceX marks a shift from pure model competition to hardware dominance, while Google initiates its own orbital data center project. Simultaneously, AI alignment is moving from negative constraint to positive narrative training, and the 'singularity economy' is driving massive returns in chips and energy over traditional sectors.
+The singularity economy is defined by compute scarcity, with Anthropic's explosive growth and SpaceX's pivot to hyperscaler signaling a shift from model competition to infrastructure dominance. The alignment breakthrough via positive narrative training suggests a new path to AI safety, while the rise of specialized models and orbital data centers points to a future where compute is the ultimate currency.
 
 ## Read next
 
-[[singularity-economy]] · [[orbital-compute]] · [[ai-alignment]] · [[compute-scarcity]] · [[recursive-self-improvement]] · [[hyperscaler-competition]]
+[[singularity-economy]] · [[ai-alignment]] · [[compute-scarcity]] · [[orbital-data-centers]] · [[recursive-self-improvement]] · [[enterprise-ai]]
