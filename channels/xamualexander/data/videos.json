@@ -664,5 +664,11 @@
     "upload_date": "20261020",
     "title": "Feeling homesick for the world of pre-AI mathematics",
     "duration": 1341
+  },
+  {
+    "id": "enZi-oL_LBI",
+    "upload_date": "20261021",
+    "title": "Anthropic AI rediscovers the forgotten origin of the ECDSA curves used in cryptography",
+    "duration": 1469
   }
 ]
