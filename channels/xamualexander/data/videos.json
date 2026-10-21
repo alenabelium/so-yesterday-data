@@ -670,5 +670,11 @@
     "upload_date": "20261021",
     "title": "Anthropic AI rediscovers the forgotten origin of the ECDSA curves used in cryptography",
     "duration": 1469
+  },
+  {
+    "id": "vbq9Ocwoh0g",
+    "upload_date": "20261021",
+    "title": "Critical PHP exploits, discovered with AI. Hundreds of thousands of sites could be affected",
+    "duration": 994
   }
 ]
