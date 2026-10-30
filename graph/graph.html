@@ -13,7 +13,7 @@
   <div class="legend" id="legend"></div>
   <div class="toolbar">
     <input id="search" type="text" placeholder="Search concepts..." />
-    <span class="stats">124 concepts &middot; 450 connections</span>
+    <span class="stats">125 concepts &middot; 451 connections</span>
   </div>
 </div>
 <div id="graph"></div>
@@ -529,6 +529,20 @@
       "url": "/knowledge/claude"
     },
     {
+      "id": "code-review",
+      "label": "Code Review",
+      "title": "Code Review\nSystematic examination of source code to find bugs, improve quality, and share knowledge.\nReferenced by 678 sources",
+      "group": "AI Agents \u0026 Tools",
+      "color": "#06b6d4",
+      "size": 45,
+      "confidence": "medium",
+      "tags": [
+        "ai-tools",
+        "productivity"
+      ],
+      "url": "/knowledge/code-review"
+    },
+    {
       "id": "codex",
       "label": "Codex",
       "title": "Codex\nOpenAI's pioneering code-generation model that established the foundation for modern AI-assisted software development.\nReferenced by 603 sources",
@@ -703,7 +717,7 @@
     {
       "id": "data-center",
       "label": "Data Center (AI)",
-      "title": "Data Center (AI)\nThe physical substrate of the AI economy \u2014 compute campuses whose power, capital and siting constraints now shape strategy and geopolitics.\nReferenced by 654 sources",
+      "title": "Data Center (AI)\nThe physical substrate of the AI economy \u2014 compute campuses whose power, capital and siting constraints now shape strategy and geopolitics.\nReferenced by 655 sources",
       "group": "Other",
       "color": "#64748b",
       "size": 45,
@@ -1349,7 +1363,7 @@
     {
       "id": "reasoning",
       "label": "Reasoning (LLM)",
-      "title": "Reasoning (LLM)\nDeliberate multi-step computation in models \u2014 the capability tier behind test-time scaling and 'thinking' models.\nReferenced by 303 sources",
+      "title": "Reasoning (LLM)\nDeliberate multi-step computation in models \u2014 the capability tier behind test-time scaling and 'thinking' models.\nReferenced by 304 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -3114,6 +3128,14 @@
     {
       "from": "claude",
       "to": "codex",
+      "color": {
+        "color": "#334155",
+        "opacity": 0.6
+      }
+    },
+    {
+      "from": "code-review",
+      "to": "ai-code-review",
       "color": {
         "color": "#334155",
         "opacity": 0.6
