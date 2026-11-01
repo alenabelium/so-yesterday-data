@@ -31,7 +31,7 @@
     {
       "id": "agent",
       "label": "Agent",
-      "title": "Agent\nAn AI system that pursues goals by planning, using tools, and acting with limited supervision \u2014 the general term the corpus uses for both single agents and agent fleets.\nReferenced by 790 sources",
+      "title": "Agent\nAn AI system that pursues goals by planning, using tools, and acting with limited supervision \u2014 the general term the corpus uses for both single agents and agent fleets.\nReferenced by 791 sources",
       "group": "AI Agents & Tools",
       "color": "#3b82f6",
       "size": 45,
@@ -341,7 +341,7 @@
     {
       "id": "anthropic",
       "label": "Anthropic",
-      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 1177 sources",
+      "title": "Anthropic\nAI research lab developing Claude, prioritizing safety, interpretability, and constitutional AI alignment.\nReferenced by 1178 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -412,7 +412,7 @@
     {
       "id": "benchmarks",
       "label": "Benchmarks",
-      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 798 sources",
+      "title": "Benchmarks\nStandardized tests and evaluation frameworks used to compare AI model capabilities and track progress.\nReferenced by 799 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -498,7 +498,7 @@
     {
       "id": "claude",
       "label": "Claude",
-      "title": "Claude\nAnthropic's frontier model family and assistant product line; in the corpus, the reference point for agentic coding and computer-use workflows.\nReferenced by 718 sources",
+      "title": "Claude\nAnthropic's frontier model family and assistant product line; in the corpus, the reference point for agentic coding and computer-use workflows.\nReferenced by 719 sources",
       "group": "AI Agents & Tools",
       "color": "#06b6d4",
       "size": 45,
@@ -854,7 +854,7 @@
     {
       "id": "hallucination",
       "label": "Hallucination",
-      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 422 sources",
+      "title": "Hallucination\nWhen AI models generate plausible-sounding but factually incorrect or fabricated information.\nReferenced by 423 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1189,7 +1189,7 @@
     {
       "id": "openai",
       "label": "OpenAI",
-      "title": "OpenAI\nThe leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.\nReferenced by 1129 sources",
+      "title": "OpenAI\nThe leading AI research lab driving frontier models like GPT-4 and defining the trajectory of generative AI.\nReferenced by 1130 sources",
       "group": "Strategy & Career",
       "color": "#f59e0b",
       "size": 45,
@@ -1344,7 +1344,7 @@
     {
       "id": "reasoning",
       "label": "Reasoning (LLM)",
-      "title": "Reasoning (LLM)\nDeliberate multi-step computation in models \u2014 the capability tier behind test-time scaling and 'thinking' models.\nReferenced by 304 sources",
+      "title": "Reasoning (LLM)\nDeliberate multi-step computation in models \u2014 the capability tier behind test-time scaling and 'thinking' models.\nReferenced by 305 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1651,7 +1651,7 @@
     {
       "id": "token",
       "label": "Token",
-      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 1183 sources",
+      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 1184 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1680,7 +1680,7 @@
     {
       "id": "training",
       "label": "AI Model Training",
-      "title": "AI Model Training\nThe process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.\nReferenced by 1060 sources",
+      "title": "AI Model Training\nThe process of optimizing model parameters using data to learn patterns, distinct from inference and fine-tuning.\nReferenced by 1061 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
