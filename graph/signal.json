@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-03T04:20:00Z",
+  "generated_at": "2026-11-04T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-06",
-      "2026-11-03"
+      "2026-08-07",
+      "2026-11-04"
     ],
     "prior": [
-      "2026-05-08",
-      "2026-08-05"
+      "2026-05-09",
+      "2026-08-06"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.3,
-      "current_per_100": 83.9,
-      "delta": 25.6,
+      "current_per_100": 84.0,
+      "delta": 25.7,
       "direction": "rising"
     },
     {
@@ -43,29 +43,29 @@
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 17.9,
-      "delta": 17.4,
+      "current_per_100": 17.8,
+      "delta": 17.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 43.0,
-      "delta": 16.0,
+      "current_per_100": 42.8,
+      "delta": 15.8,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 28.8,
-      "current_per_100": 15.2,
-      "delta": -13.6,
+      "current_per_100": 15.1,
+      "delta": -13.7,
       "direction": "fading"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 22.9,
-      "current_per_100": 14.3,
-      "delta": -8.6,
+      "current_per_100": 14.4,
+      "delta": -8.5,
       "direction": "fading"
     },
     {
@@ -78,15 +78,15 @@
     {
       "tag": "opinion",
       "prior_per_100": 27.7,
-      "current_per_100": 24.3,
-      "delta": -3.4,
+      "current_per_100": 24.5,
+      "delta": -3.2,
       "direction": "stable"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 14.5,
-      "current_per_100": 17.1,
-      "delta": 2.6,
+      "current_per_100": 17.0,
+      "delta": 2.5,
       "direction": "stable"
     },
     {
@@ -430,8 +430,8 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.3,
-      "current_per_100": 83.9,
-      "delta": 25.6,
+      "current_per_100": 84.0,
+      "delta": 25.7,
       "direction": "rising"
     },
     {
@@ -444,15 +444,15 @@
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 17.9,
-      "delta": 17.4,
+      "current_per_100": 17.8,
+      "delta": 17.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 43.0,
-      "delta": 16.0,
+      "current_per_100": 42.8,
+      "delta": 15.8,
       "direction": "rising"
     }
   ],
@@ -474,15 +474,15 @@
     {
       "tag": "coding",
       "prior_per_100": 28.8,
-      "current_per_100": 15.2,
-      "delta": -13.6,
+      "current_per_100": 15.1,
+      "delta": -13.7,
       "direction": "fading"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 22.9,
-      "current_per_100": 14.3,
-      "delta": -8.6,
+      "current_per_100": 14.4,
+      "delta": -8.5,
       "direction": "fading"
     }
   ],
