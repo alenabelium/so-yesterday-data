@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-11-04T04:20:00Z",
+  "generated_at": "2026-11-05T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-07",
-      "2026-11-04"
+      "2026-08-08",
+      "2026-11-05"
     ],
     "prior": [
-      "2026-05-09",
-      "2026-08-06"
+      "2026-05-10",
+      "2026-08-07"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.3,
-      "current_per_100": 84.0,
-      "delta": 25.7,
+      "current_per_100": 84.1,
+      "delta": 25.8,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 48.1,
-      "current_per_100": 24.0,
-      "delta": -24.1,
+      "current_per_100": 23.9,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 33.8,
-      "current_per_100": 57.7,
-      "delta": 23.9,
+      "current_per_100": 57.4,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 42.2,
-      "current_per_100": 23.6,
-      "delta": -18.6,
+      "current_per_100": 23.7,
+      "delta": -18.5,
       "direction": "fading"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 17.8,
-      "delta": 17.3,
+      "current_per_100": 17.7,
+      "delta": 17.2,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 42.8,
-      "delta": 15.8,
+      "current_per_100": 42.7,
+      "delta": 15.7,
       "direction": "rising"
     },
     {
@@ -71,22 +71,15 @@
     {
       "tag": "tutorials",
       "prior_per_100": 16.0,
-      "current_per_100": 9.1,
-      "delta": -6.9,
+      "current_per_100": 9.0,
+      "delta": -7.0,
       "direction": "stable"
     },
     {
       "tag": "opinion",
       "prior_per_100": 27.7,
-      "current_per_100": 24.5,
-      "delta": -3.2,
-      "direction": "stable"
-    },
-    {
-      "tag": "ethics-safety",
-      "prior_per_100": 14.5,
-      "current_per_100": 17.0,
-      "delta": 2.5,
+      "current_per_100": 24.6,
+      "delta": -3.1,
       "direction": "stable"
     },
     {
@@ -94,6 +87,13 @@
       "prior_per_100": 3.3,
       "current_per_100": 0.8,
       "delta": -2.5,
+      "direction": "stable"
+    },
+    {
+      "tag": "ethics-safety",
+      "prior_per_100": 14.5,
+      "current_per_100": 16.9,
+      "delta": 2.4,
       "direction": "stable"
     },
     {
@@ -115,6 +115,13 @@
       "prior_per_100": 0.0,
       "current_per_100": 0.6,
       "delta": 0.6,
+      "direction": "stable"
+    },
+    {
+      "tag": "economics",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.4,
+      "delta": 0.4,
       "direction": "stable"
     },
     {
@@ -160,7 +167,7 @@
       "direction": "stable"
     },
     {
-      "tag": "economics",
+      "tag": "future-of-work",
       "prior_per_100": 0.0,
       "current_per_100": 0.2,
       "delta": 0.2,
@@ -196,6 +203,13 @@
     },
     {
       "tag": "ai-news",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
+      "tag": "automation",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
       "delta": 0.1,
@@ -430,29 +444,29 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 58.3,
-      "current_per_100": 84.0,
-      "delta": 25.7,
+      "current_per_100": 84.1,
+      "delta": 25.8,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 33.8,
-      "current_per_100": 57.7,
-      "delta": 23.9,
+      "current_per_100": 57.4,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.5,
-      "current_per_100": 17.8,
-      "delta": 17.3,
+      "current_per_100": 17.7,
+      "delta": 17.2,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 27.0,
-      "current_per_100": 42.8,
-      "delta": 15.8,
+      "current_per_100": 42.7,
+      "delta": 15.7,
       "direction": "rising"
     }
   ],
@@ -460,15 +474,15 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 48.1,
-      "current_per_100": 24.0,
-      "delta": -24.1,
+      "current_per_100": 23.9,
+      "delta": -24.2,
       "direction": "fading"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 42.2,
-      "current_per_100": 23.6,
-      "delta": -18.6,
+      "current_per_100": 23.7,
+      "delta": -18.5,
       "direction": "fading"
     },
     {
