@@ -1,36 +1,64 @@
 {
-  "generated_at": "2026-11-09T04:20:00Z",
+  "generated_at": "2026-11-10T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-12",
-      "2026-11-09"
+      "2026-08-13",
+      "2026-11-10"
     ],
     "prior": [
-      "2026-05-14",
-      "2026-08-11"
+      "2026-05-15",
+      "2026-08-12"
     ]
   },
   "tags": [
     {
-      "tag": "ai-agents",
-      "prior_per_100": 51.2,
-      "current_per_100": 23.7,
-      "delta": -27.5,
-      "direction": "fading"
-    },
-    {
-      "tag": "productivity",
-      "prior_per_100": 56.9,
-      "current_per_100": 33.3,
-      "delta": -23.6,
-      "direction": "fading"
+      "tag": "ai-strategy",
+      "prior_per_100": 0.0,
+      "current_per_100": 84.3,
+      "delta": 84.3,
+      "direction": "rising"
     },
     {
       "tag": "industry-news",
-      "prior_per_100": 38.2,
-      "current_per_100": 57.5,
-      "delta": 19.3,
+      "prior_per_100": 0.0,
+      "current_per_100": 57.4,
+      "delta": 57.4,
+      "direction": "rising"
+    },
+    {
+      "tag": "career",
+      "prior_per_100": 0.0,
+      "current_per_100": 42.5,
+      "delta": 42.5,
+      "direction": "rising"
+    },
+    {
+      "tag": "productivity",
+      "prior_per_100": 0.0,
+      "current_per_100": 33.2,
+      "delta": 33.2,
+      "direction": "rising"
+    },
+    {
+      "tag": "opinion",
+      "prior_per_100": 0.0,
+      "current_per_100": 25.2,
+      "delta": 25.2,
+      "direction": "rising"
+    },
+    {
+      "tag": "ai-tools",
+      "prior_per_100": 0.0,
+      "current_per_100": 23.8,
+      "delta": 23.8,
+      "direction": "rising"
+    },
+    {
+      "tag": "ai-agents",
+      "prior_per_100": 0.0,
+      "current_per_100": 23.6,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
@@ -41,73 +69,52 @@
       "direction": "rising"
     },
     {
-      "tag": "ai-strategy",
-      "prior_per_100": 69.1,
-      "current_per_100": 84.3,
-      "delta": 15.2,
-      "direction": "rising"
-    },
-    {
-      "tag": "ai-tools",
-      "prior_per_100": 38.2,
-      "current_per_100": 23.8,
-      "delta": -14.4,
-      "direction": "fading"
-    },
-    {
-      "tag": "career",
-      "prior_per_100": 28.5,
-      "current_per_100": 42.4,
-      "delta": 13.9,
+      "tag": "ethics-safety",
+      "prior_per_100": 0.0,
+      "current_per_100": 16.8,
+      "delta": 16.8,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
-      "prior_per_100": 4.1,
-      "current_per_100": 14.8,
-      "delta": 10.7,
+      "prior_per_100": 0.0,
+      "current_per_100": 14.9,
+      "delta": 14.9,
       "direction": "rising"
     },
     {
-      "tag": "opinion",
-      "prior_per_100": 15.4,
-      "current_per_100": 24.9,
-      "delta": 9.5,
+      "tag": "coding",
+      "prior_per_100": 0.0,
+      "current_per_100": 14.8,
+      "delta": 14.8,
       "direction": "rising"
     },
     {
       "tag": "tutorials",
-      "prior_per_100": 14.6,
+      "prior_per_100": 0.0,
       "current_per_100": 8.8,
-      "delta": -5.8,
-      "direction": "stable"
+      "delta": 8.8,
+      "direction": "rising"
     },
     {
-      "tag": "ethics-safety",
-      "prior_per_100": 12.2,
-      "current_per_100": 16.8,
-      "delta": 4.6,
-      "direction": "stable"
-    },
-    {
-      "tag": "coding",
-      "prior_per_100": 17.9,
-      "current_per_100": 14.9,
-      "delta": -3.0,
+      "tag": "prompting",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.8,
+      "delta": 0.8,
       "direction": "stable"
     },
     {
       "tag": "crypto",
       "prior_per_100": 0.0,
-      "current_per_100": 0.7,
-      "delta": 0.7,
+      "current_per_100": 0.6,
+      "delta": 0.6,
       "direction": "stable"
     },
     {
       "tag": "product-management",
       "prior_per_100": 0.0,
-      "current_per_100": 0.7,
-      "delta": 0.7,
+      "current_per_100": 0.6,
+      "delta": 0.6,
       "direction": "stable"
     },
     {
@@ -431,75 +438,46 @@
       "current_per_100": 0.1,
       "delta": 0.1,
       "direction": "stable"
-    },
-    {
-      "tag": "prompting",
-      "prior_per_100": 0.8,
-      "current_per_100": 0.8,
-      "delta": 0.0,
-      "direction": "stable"
     }
   ],
   "top_rising": [
     {
-      "tag": "industry-news",
-      "prior_per_100": 38.2,
-      "current_per_100": 57.5,
-      "delta": 19.3,
-      "direction": "rising"
-    },
-    {
-      "tag": "ai-safety",
-      "prior_per_100": 0.0,
-      "current_per_100": 17.6,
-      "delta": 17.6,
-      "direction": "rising"
-    },
-    {
       "tag": "ai-strategy",
-      "prior_per_100": 69.1,
+      "prior_per_100": 0.0,
       "current_per_100": 84.3,
-      "delta": 15.2,
+      "delta": 84.3,
+      "direction": "rising"
+    },
+    {
+      "tag": "industry-news",
+      "prior_per_100": 0.0,
+      "current_per_100": 57.4,
+      "delta": 57.4,
       "direction": "rising"
     },
     {
       "tag": "career",
-      "prior_per_100": 28.5,
-      "current_per_100": 42.4,
-      "delta": 13.9,
+      "prior_per_100": 0.0,
+      "current_per_100": 42.5,
+      "delta": 42.5,
       "direction": "rising"
-    },
-    {
-      "tag": "llm-fundamentals",
-      "prior_per_100": 4.1,
-      "current_per_100": 14.8,
-      "delta": 10.7,
-      "direction": "rising"
-    }
-  ],
-  "top_fading": [
-    {
-      "tag": "ai-agents",
-      "prior_per_100": 51.2,
-      "current_per_100": 23.7,
-      "delta": -27.5,
-      "direction": "fading"
     },
     {
       "tag": "productivity",
-      "prior_per_100": 56.9,
-      "current_per_100": 33.3,
-      "delta": -23.6,
-      "direction": "fading"
+      "prior_per_100": 0.0,
+      "current_per_100": 33.2,
+      "delta": 33.2,
+      "direction": "rising"
     },
     {
-      "tag": "ai-tools",
-      "prior_per_100": 38.2,
-      "current_per_100": 23.8,
-      "delta": -14.4,
-      "direction": "fading"
+      "tag": "opinion",
+      "prior_per_100": 0.0,
+      "current_per_100": 25.2,
+      "delta": 25.2,
+      "direction": "rising"
     }
   ],
+  "top_fading": [],
   "concepts": {
     "published_total": 125,
     "current_window": 47,
