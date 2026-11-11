@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-10T04:20:00Z",
+  "generated_at": "2026-11-11T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-13",
-      "2026-11-10"
+      "2026-08-14",
+      "2026-11-11"
     ],
     "prior": [
-      "2026-05-15",
-      "2026-08-12"
+      "2026-05-16",
+      "2026-08-13"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.3,
-      "delta": 84.3,
+      "current_per_100": 84.4,
+      "delta": 84.4,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 57.4,
-      "delta": 57.4,
+      "current_per_100": 57.5,
+      "delta": 57.5,
       "direction": "rising"
     },
     {
@@ -36,22 +36,22 @@
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 33.2,
-      "delta": 33.2,
+      "current_per_100": 33.1,
+      "delta": 33.1,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.2,
-      "delta": 25.2,
+      "current_per_100": 25.3,
+      "delta": 25.3,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 23.8,
-      "delta": 23.8,
+      "current_per_100": 23.7,
+      "delta": 23.7,
       "direction": "rising"
     },
     {
@@ -64,15 +64,15 @@
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.6,
-      "delta": 17.6,
+      "current_per_100": 17.8,
+      "delta": 17.8,
       "direction": "rising"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.8,
-      "delta": 16.8,
+      "current_per_100": 16.9,
+      "delta": 16.9,
       "direction": "rising"
     },
     {
@@ -92,8 +92,8 @@
     {
       "tag": "tutorials",
       "prior_per_100": 0.0,
-      "current_per_100": 8.8,
-      "delta": 8.8,
+      "current_per_100": 8.7,
+      "delta": 8.7,
       "direction": "rising"
     },
     {
@@ -444,15 +444,15 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.3,
-      "delta": 84.3,
+      "current_per_100": 84.4,
+      "delta": 84.4,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 57.4,
-      "delta": 57.4,
+      "current_per_100": 57.5,
+      "delta": 57.5,
       "direction": "rising"
     },
     {
@@ -465,15 +465,15 @@
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 33.2,
-      "delta": 33.2,
+      "current_per_100": 33.1,
+      "delta": 33.1,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.2,
-      "delta": 25.2,
+      "current_per_100": 25.3,
+      "delta": 25.3,
       "direction": "rising"
     }
   ],
