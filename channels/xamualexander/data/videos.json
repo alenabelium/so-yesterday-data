@@ -772,5 +772,11 @@
     "upload_date": "20261109",
     "title": "Good Proofs Make Us Wiser: Old interview with Yuri Manin touching on computerized proofs",
     "duration": 2847
+  },
+  {
+    "id": "tMHyp1_n8wY",
+    "upload_date": "20261111",
+    "title": "DeepMind has LEAN-verified libsignal, the most complicated codebase to be verified to date",
+    "duration": 1372
   }
 ]
