@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13T04:20:00Z",
+  "generated_at": "2026-11-14T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-16",
-      "2026-11-13"
+      "2026-08-17",
+      "2026-11-14"
     ],
     "prior": [
-      "2026-05-18",
-      "2026-08-15"
+      "2026-05-19",
+      "2026-08-16"
     ]
   },
   "tags": [
@@ -22,29 +22,29 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 57.6,
-      "delta": 57.6,
+      "current_per_100": 58.3,
+      "delta": 58.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 42.2,
-      "delta": 42.2,
+      "current_per_100": 41.5,
+      "delta": 41.5,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 33.3,
-      "delta": 33.3,
+      "current_per_100": 32.8,
+      "delta": 32.8,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.2,
-      "delta": 25.2,
+      "current_per_100": 25.8,
+      "delta": 25.8,
       "direction": "rising"
     },
     {
@@ -57,8 +57,8 @@
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.8,
-      "delta": 23.8,
+      "current_per_100": 23.4,
+      "delta": 23.4,
       "direction": "rising"
     },
     {
@@ -71,43 +71,43 @@
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.8,
-      "delta": 16.8,
+      "current_per_100": 16.5,
+      "delta": 16.5,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 14.7,
-      "delta": 14.7,
+      "current_per_100": 14.4,
+      "delta": 14.4,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.7,
-      "delta": 14.7,
+      "current_per_100": 14.4,
+      "delta": 14.4,
       "direction": "rising"
     },
     {
       "tag": "tutorials",
       "prior_per_100": 0.0,
-      "current_per_100": 8.8,
-      "delta": 8.8,
+      "current_per_100": 8.6,
+      "delta": 8.6,
       "direction": "rising"
     },
     {
-      "tag": "prompting",
+      "tag": "crypto",
       "prior_per_100": 0.0,
       "current_per_100": 0.7,
       "delta": 0.7,
       "direction": "stable"
     },
     {
-      "tag": "crypto",
+      "tag": "prompting",
       "prior_per_100": 0.0,
-      "current_per_100": 0.6,
-      "delta": 0.6,
+      "current_per_100": 0.7,
+      "delta": 0.7,
       "direction": "stable"
     },
     {
@@ -209,6 +209,13 @@
       "direction": "stable"
     },
     {
+      "tag": "altcoins",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
       "tag": "automation",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
@@ -252,6 +259,13 @@
     },
     {
       "tag": "defi",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
+      "tag": "due-diligence",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
       "delta": 0.1,
@@ -391,6 +405,13 @@
       "direction": "stable"
     },
     {
+      "tag": "rug-pull",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
       "tag": "sales",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
@@ -451,29 +472,29 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 57.6,
-      "delta": 57.6,
+      "current_per_100": 58.3,
+      "delta": 58.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 42.2,
-      "delta": 42.2,
+      "current_per_100": 41.5,
+      "delta": 41.5,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 33.3,
-      "delta": 33.3,
+      "current_per_100": 32.8,
+      "delta": 32.8,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.2,
-      "delta": 25.2,
+      "current_per_100": 25.8,
+      "delta": 25.8,
       "direction": "rising"
     }
   ],
