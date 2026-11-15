@@ -1,92 +1,92 @@
 {
-  "generated_at": "2026-11-14T04:20:00Z",
+  "generated_at": "2026-11-15T04:20:01Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-17",
-      "2026-11-14"
+      "2026-08-18",
+      "2026-11-15"
     ],
     "prior": [
-      "2026-05-19",
-      "2026-08-16"
+      "2026-05-20",
+      "2026-08-17"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.4,
-      "delta": 84.4,
+      "current_per_100": 84.3,
+      "delta": 84.3,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 58.3,
-      "delta": 58.3,
+      "current_per_100": 58.5,
+      "delta": 58.5,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 41.5,
-      "delta": 41.5,
+      "current_per_100": 41.1,
+      "delta": 41.1,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.8,
-      "delta": 32.8,
+      "current_per_100": 32.7,
+      "delta": 32.7,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.8,
-      "delta": 25.8,
+      "current_per_100": 26.3,
+      "delta": 26.3,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 23.9,
-      "delta": 23.9,
+      "current_per_100": 24.1,
+      "delta": 24.1,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.4,
-      "delta": 23.4,
+      "current_per_100": 23.3,
+      "delta": 23.3,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.8,
-      "delta": 17.8,
+      "current_per_100": 17.7,
+      "delta": 17.7,
       "direction": "rising"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.5,
-      "delta": 16.5,
+      "current_per_100": 16.3,
+      "delta": 16.3,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 14.4,
-      "delta": 14.4,
+      "current_per_100": 14.3,
+      "delta": 14.3,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.4,
-      "delta": 14.4,
+      "current_per_100": 14.3,
+      "delta": 14.3,
       "direction": "rising"
     },
     {
@@ -132,6 +132,13 @@
       "direction": "stable"
     },
     {
+      "tag": "bitcoin",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.3,
+      "delta": 0.3,
+      "direction": "stable"
+    },
+    {
       "tag": "macro",
       "prior_per_100": 0.0,
       "current_per_100": 0.3,
@@ -150,13 +157,6 @@
       "prior_per_100": 0.0,
       "current_per_100": 0.3,
       "delta": 0.3,
-      "direction": "stable"
-    },
-    {
-      "tag": "bitcoin",
-      "prior_per_100": 0.0,
-      "current_per_100": 0.2,
-      "delta": 0.2,
       "direction": "stable"
     },
     {
@@ -244,6 +244,13 @@
       "direction": "stable"
     },
     {
+      "tag": "crypto-treasury",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
       "tag": "cryptocurrency",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
@@ -301,6 +308,13 @@
     },
     {
       "tag": "hodge-conjecture",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
+      "tag": "index-funds",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
       "delta": 0.1,
@@ -465,36 +479,36 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.4,
-      "delta": 84.4,
+      "current_per_100": 84.3,
+      "delta": 84.3,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 58.3,
-      "delta": 58.3,
+      "current_per_100": 58.5,
+      "delta": 58.5,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 41.5,
-      "delta": 41.5,
+      "current_per_100": 41.1,
+      "delta": 41.1,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.8,
-      "delta": 32.8,
+      "current_per_100": 32.7,
+      "delta": 32.7,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 25.8,
-      "delta": 25.8,
+      "current_per_100": 26.3,
+      "delta": 26.3,
       "direction": "rising"
     }
   ],
