@@ -1330,7 +1330,7 @@
     {
       "id": "rag",
       "label": "Retrieval Augmented Generation (RAG)",
-      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 760 sources",
+      "title": "Retrieval Augmented Generation (RAG)\nA technique that enhances LLM responses by retrieving relevant documents from external sources before generating output.\nReferenced by 761 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
@@ -1651,7 +1651,7 @@
     {
       "id": "token",
       "label": "Token",
-      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 1272 sources",
+      "title": "Token\nThe fundamental unit of text processed by LLMs, determining context limits and inference costs.\nReferenced by 1273 sources",
       "group": "LLM Fundamentals",
       "color": "#8b5cf6",
       "size": 45,
