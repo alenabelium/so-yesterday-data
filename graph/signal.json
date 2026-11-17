@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-11-16T04:20:00Z",
+  "generated_at": "2026-11-17T04:20:01Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-19",
-      "2026-11-16"
+      "2026-08-20",
+      "2026-11-17"
     ],
     "prior": [
-      "2026-05-21",
-      "2026-08-18"
+      "2026-05-22",
+      "2026-08-19"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.0,
-      "delta": 84.0,
+      "current_per_100": 83.9,
+      "delta": 83.9,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 58.6,
-      "delta": 58.6,
+      "current_per_100": 58.7,
+      "delta": 58.7,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.8,
-      "delta": 40.8,
+      "current_per_100": 40.9,
+      "delta": 40.9,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.7,
-      "delta": 32.7,
+      "current_per_100": 32.5,
+      "delta": 32.5,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.5,
-      "delta": 26.5,
+      "current_per_100": 26.4,
+      "delta": 26.4,
       "direction": "rising"
     },
     {
@@ -64,29 +64,29 @@
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.5,
-      "delta": 17.5,
+      "current_per_100": 17.4,
+      "delta": 17.4,
       "direction": "rising"
     },
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.3,
-      "delta": 16.3,
+      "current_per_100": 16.1,
+      "delta": 16.1,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 14.2,
-      "delta": 14.2,
+      "current_per_100": 14.1,
+      "delta": 14.1,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.2,
-      "delta": 14.2,
+      "current_per_100": 14.1,
+      "delta": 14.1,
       "direction": "rising"
     },
     {
@@ -99,8 +99,8 @@
     {
       "tag": "crypto",
       "prior_per_100": 0.0,
-      "current_per_100": 0.8,
-      "delta": 0.8,
+      "current_per_100": 1.0,
+      "delta": 1.0,
       "direction": "stable"
     },
     {
@@ -125,17 +125,17 @@
       "direction": "stable"
     },
     {
-      "tag": "philosophy",
+      "tag": "bitcoin",
       "prior_per_100": 0.0,
       "current_per_100": 0.4,
       "delta": 0.4,
       "direction": "stable"
     },
     {
-      "tag": "bitcoin",
+      "tag": "philosophy",
       "prior_per_100": 0.0,
-      "current_per_100": 0.3,
-      "delta": 0.3,
+      "current_per_100": 0.4,
+      "delta": 0.4,
       "direction": "stable"
     },
     {
@@ -280,6 +280,13 @@
     },
     {
       "tag": "entrepreneurship",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
+      "tag": "ethereum",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
       "delta": 0.1,
@@ -447,7 +454,21 @@
       "direction": "stable"
     },
     {
+      "tag": "scams",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
       "tag": "scientific-discovery",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
+      "tag": "security",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
       "delta": 0.1,
@@ -482,6 +503,13 @@
       "direction": "stable"
     },
     {
+      "tag": "taxes",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
+    },
+    {
       "tag": "tokenization",
       "prior_per_100": 0.0,
       "current_per_100": 0.1,
@@ -494,42 +522,49 @@
       "current_per_100": 0.1,
       "delta": 0.1,
       "direction": "stable"
+    },
+    {
+      "tag": "treasury",
+      "prior_per_100": 0.0,
+      "current_per_100": 0.1,
+      "delta": 0.1,
+      "direction": "stable"
     }
   ],
   "top_rising": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 84.0,
-      "delta": 84.0,
+      "current_per_100": 83.9,
+      "delta": 83.9,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 58.6,
-      "delta": 58.6,
+      "current_per_100": 58.7,
+      "delta": 58.7,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.8,
-      "delta": 40.8,
+      "current_per_100": 40.9,
+      "delta": 40.9,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.7,
-      "delta": 32.7,
+      "current_per_100": 32.5,
+      "delta": 32.5,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.5,
-      "delta": 26.5,
+      "current_per_100": 26.4,
+      "delta": 26.4,
       "direction": "rising"
     }
   ],
