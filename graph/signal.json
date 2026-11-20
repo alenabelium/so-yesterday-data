@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T04:20:00Z",
+  "generated_at": "2026-11-20T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-22",
-      "2026-11-19"
+      "2026-08-23",
+      "2026-11-20"
     ],
     "prior": [
-      "2026-05-24",
-      "2026-08-21"
+      "2026-05-25",
+      "2026-08-22"
     ]
   },
   "tags": [
@@ -29,15 +29,15 @@
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.7,
-      "delta": 40.7,
+      "current_per_100": 40.6,
+      "delta": 40.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.3,
-      "delta": 32.3,
+      "current_per_100": 32.4,
+      "delta": 32.4,
       "direction": "rising"
     },
     {
@@ -50,8 +50,8 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 24.1,
-      "delta": 24.1,
+      "current_per_100": 24.3,
+      "delta": 24.3,
       "direction": "rising"
     },
     {
@@ -71,29 +71,29 @@
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.1,
-      "delta": 16.1,
+      "current_per_100": 16.0,
+      "delta": 16.0,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.2,
-      "delta": 14.2,
+      "current_per_100": 14.3,
+      "delta": 14.3,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 14.0,
-      "delta": 14.0,
+      "current_per_100": 14.1,
+      "delta": 14.1,
       "direction": "rising"
     },
     {
       "tag": "tutorials",
       "prior_per_100": 0.0,
-      "current_per_100": 8.6,
-      "delta": 8.6,
+      "current_per_100": 8.5,
+      "delta": 8.5,
       "direction": "rising"
     },
     {
@@ -556,15 +556,15 @@
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.7,
-      "delta": 40.7,
+      "current_per_100": 40.6,
+      "delta": 40.6,
       "direction": "rising"
     },
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.3,
-      "delta": 32.3,
+      "current_per_100": 32.4,
+      "delta": 32.4,
       "direction": "rising"
     },
     {
