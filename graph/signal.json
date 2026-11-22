@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21T04:20:00Z",
+  "generated_at": "2026-11-22T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-24",
-      "2026-11-21"
+      "2026-08-25",
+      "2026-11-22"
     ],
     "prior": [
-      "2026-05-26",
-      "2026-08-23"
+      "2026-05-27",
+      "2026-08-24"
     ]
   },
   "tags": [
@@ -22,8 +22,8 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.0,
-      "delta": 59.0,
+      "current_per_100": 59.1,
+      "delta": 59.1,
       "direction": "rising"
     },
     {
@@ -36,29 +36,29 @@
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.2,
-      "delta": 32.2,
+      "current_per_100": 32.1,
+      "delta": 32.1,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.5,
-      "delta": 26.5,
+      "current_per_100": 26.6,
+      "delta": 26.6,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 24.4,
-      "delta": 24.4,
+      "current_per_100": 24.6,
+      "delta": 24.6,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.2,
-      "delta": 23.2,
+      "current_per_100": 23.3,
+      "delta": 23.3,
       "direction": "rising"
     },
     {
@@ -71,8 +71,8 @@
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 16.0,
-      "delta": 16.0,
+      "current_per_100": 15.9,
+      "delta": 15.9,
       "direction": "rising"
     },
     {
@@ -85,15 +85,15 @@
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 14.0,
-      "delta": 14.0,
+      "current_per_100": 13.9,
+      "delta": 13.9,
       "direction": "rising"
     },
     {
       "tag": "tutorials",
       "prior_per_100": 0.0,
-      "current_per_100": 8.5,
-      "delta": 8.5,
+      "current_per_100": 8.4,
+      "delta": 8.4,
       "direction": "rising"
     },
     {
@@ -549,8 +549,8 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.0,
-      "delta": 59.0,
+      "current_per_100": 59.1,
+      "delta": 59.1,
       "direction": "rising"
     },
     {
@@ -563,15 +563,15 @@
     {
       "tag": "productivity",
       "prior_per_100": 0.0,
-      "current_per_100": 32.2,
-      "delta": 32.2,
+      "current_per_100": 32.1,
+      "delta": 32.1,
       "direction": "rising"
     },
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.5,
-      "delta": 26.5,
+      "current_per_100": 26.6,
+      "delta": 26.6,
       "direction": "rising"
     }
   ],
