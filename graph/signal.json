@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T04:20:00Z",
+  "generated_at": "2026-11-24T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-26",
-      "2026-11-23"
+      "2026-08-27",
+      "2026-11-24"
     ],
     "prior": [
-      "2026-05-28",
-      "2026-08-25"
+      "2026-05-29",
+      "2026-08-26"
     ]
   },
   "tags": [
@@ -43,29 +43,29 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.7,
-      "delta": 26.7,
+      "current_per_100": 26.8,
+      "delta": 26.8,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 24.7,
-      "delta": 24.7,
+      "current_per_100": 24.8,
+      "delta": 24.8,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.4,
-      "delta": 23.4,
+      "current_per_100": 23.3,
+      "delta": 23.3,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.2,
-      "delta": 17.2,
+      "current_per_100": 17.3,
+      "delta": 17.3,
       "direction": "rising"
     },
     {
@@ -78,15 +78,15 @@
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.2,
-      "delta": 14.2,
+      "current_per_100": 14.3,
+      "delta": 14.3,
       "direction": "rising"
     },
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 13.9,
-      "delta": 13.9,
+      "current_per_100": 14.0,
+      "delta": 14.0,
       "direction": "rising"
     },
     {
@@ -570,8 +570,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.7,
-      "delta": 26.7,
+      "current_per_100": 26.8,
+      "delta": 26.8,
       "direction": "rising"
     }
   ],
