@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-25T04:20:00Z",
+  "generated_at": "2026-11-26T04:20:00Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-28",
-      "2026-11-25"
+      "2026-08-29",
+      "2026-11-26"
     ],
     "prior": [
-      "2026-05-30",
-      "2026-08-27"
+      "2026-05-31",
+      "2026-08-28"
     ]
   },
   "tags": [
@@ -29,8 +29,8 @@
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.3,
-      "delta": 40.3,
+      "current_per_100": 40.2,
+      "delta": 40.2,
       "direction": "rising"
     },
     {
@@ -50,8 +50,8 @@
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 24.9,
-      "delta": 24.9,
+      "current_per_100": 25.0,
+      "delta": 25.0,
       "direction": "rising"
     },
     {
@@ -71,15 +71,15 @@
     {
       "tag": "ethics-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 15.8,
-      "delta": 15.8,
+      "current_per_100": 15.7,
+      "delta": 15.7,
       "direction": "rising"
     },
     {
       "tag": "llm-fundamentals",
       "prior_per_100": 0.0,
-      "current_per_100": 14.4,
-      "delta": 14.4,
+      "current_per_100": 14.3,
+      "delta": 14.3,
       "direction": "rising"
     },
     {
@@ -92,8 +92,8 @@
     {
       "tag": "tutorials",
       "prior_per_100": 0.0,
-      "current_per_100": 8.4,
-      "delta": 8.4,
+      "current_per_100": 8.5,
+      "delta": 8.5,
       "direction": "rising"
     },
     {
@@ -556,8 +556,8 @@
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.3,
-      "delta": 40.3,
+      "current_per_100": 40.2,
+      "delta": 40.2,
       "direction": "rising"
     },
     {
