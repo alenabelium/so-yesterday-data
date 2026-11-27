@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-26T04:20:00Z",
+  "generated_at": "2026-11-27T04:20:01Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-29",
-      "2026-11-26"
+      "2026-08-30",
+      "2026-11-27"
     ],
     "prior": [
-      "2026-05-31",
-      "2026-08-28"
+      "2026-06-01",
+      "2026-08-29"
     ]
   },
   "tags": [
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 83.8,
-      "delta": 83.8,
+      "current_per_100": 83.9,
+      "delta": 83.9,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.3,
-      "delta": 59.3,
+      "current_per_100": 59.2,
+      "delta": 59.2,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.2,
-      "delta": 40.2,
+      "current_per_100": 40.3,
+      "delta": 40.3,
       "direction": "rising"
     },
     {
@@ -43,8 +43,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.7,
-      "delta": 26.7,
+      "current_per_100": 26.8,
+      "delta": 26.8,
       "direction": "rising"
     },
     {
@@ -57,15 +57,15 @@
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.4,
-      "delta": 23.4,
+      "current_per_100": 23.3,
+      "delta": 23.3,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.3,
-      "delta": 17.3,
+      "current_per_100": 17.2,
+      "delta": 17.2,
       "direction": "rising"
     },
     {
@@ -85,8 +85,8 @@
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 13.9,
-      "delta": 13.9,
+      "current_per_100": 13.8,
+      "delta": 13.8,
       "direction": "rising"
     },
     {
@@ -542,22 +542,22 @@
     {
       "tag": "ai-strategy",
       "prior_per_100": 0.0,
-      "current_per_100": 83.8,
-      "delta": 83.8,
+      "current_per_100": 83.9,
+      "delta": 83.9,
       "direction": "rising"
     },
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.3,
-      "delta": 59.3,
+      "current_per_100": 59.2,
+      "delta": 59.2,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.2,
-      "delta": 40.2,
+      "current_per_100": 40.3,
+      "delta": 40.3,
       "direction": "rising"
     },
     {
@@ -570,8 +570,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.7,
-      "delta": 26.7,
+      "current_per_100": 26.8,
+      "delta": 26.8,
       "direction": "rising"
     }
   ],
