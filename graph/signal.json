@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-27T04:20:01Z",
+  "generated_at": "2026-11-28T04:20:01Z",
   "mode": "mtime",
   "windows": {
     "current": [
-      "2026-08-30",
-      "2026-11-27"
+      "2026-08-31",
+      "2026-11-28"
     ],
     "prior": [
-      "2026-06-01",
-      "2026-08-29"
+      "2026-06-02",
+      "2026-08-30"
     ]
   },
   "tags": [
@@ -22,15 +22,15 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.2,
-      "delta": 59.2,
+      "current_per_100": 59.3,
+      "delta": 59.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.3,
-      "delta": 40.3,
+      "current_per_100": 40.0,
+      "delta": 40.0,
       "direction": "rising"
     },
     {
@@ -43,29 +43,29 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.8,
-      "delta": 26.8,
+      "current_per_100": 27.0,
+      "delta": 27.0,
       "direction": "rising"
     },
     {
       "tag": "ai-tools",
       "prior_per_100": 0.0,
-      "current_per_100": 25.0,
-      "delta": 25.0,
+      "current_per_100": 25.2,
+      "delta": 25.2,
       "direction": "rising"
     },
     {
       "tag": "ai-agents",
       "prior_per_100": 0.0,
-      "current_per_100": 23.3,
-      "delta": 23.3,
+      "current_per_100": 23.6,
+      "delta": 23.6,
       "direction": "rising"
     },
     {
       "tag": "ai-safety",
       "prior_per_100": 0.0,
-      "current_per_100": 17.2,
-      "delta": 17.2,
+      "current_per_100": 17.1,
+      "delta": 17.1,
       "direction": "rising"
     },
     {
@@ -85,8 +85,8 @@
     {
       "tag": "coding",
       "prior_per_100": 0.0,
-      "current_per_100": 13.8,
-      "delta": 13.8,
+      "current_per_100": 13.7,
+      "delta": 13.7,
       "direction": "rising"
     },
     {
@@ -549,15 +549,15 @@
     {
       "tag": "industry-news",
       "prior_per_100": 0.0,
-      "current_per_100": 59.2,
-      "delta": 59.2,
+      "current_per_100": 59.3,
+      "delta": 59.3,
       "direction": "rising"
     },
     {
       "tag": "career",
       "prior_per_100": 0.0,
-      "current_per_100": 40.3,
-      "delta": 40.3,
+      "current_per_100": 40.0,
+      "delta": 40.0,
       "direction": "rising"
     },
     {
@@ -570,8 +570,8 @@
     {
       "tag": "opinion",
       "prior_per_100": 0.0,
-      "current_per_100": 26.8,
-      "delta": 26.8,
+      "current_per_100": 27.0,
+      "delta": 27.0,
       "direction": "rising"
     }
   ],
